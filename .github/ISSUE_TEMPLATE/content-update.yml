@@ -1,0 +1,35 @@
+name: Content Update
+description: Report outdated or incorrect HIG content
+title: "[Content Update] "
+labels: ["content-update"]
+body:
+  - type: input
+    id: skill
+    attributes:
+      label: Affected skill
+      description: "Which skill contains the outdated content?"
+      placeholder: "hig-foundations"
+    validations:
+      required: true
+  - type: input
+    id: reference-file
+    attributes:
+      label: Affected reference file
+      description: "Which reference file needs updating?"
+      placeholder: "references/color.md"
+    validations:
+      required: false
+  - type: textarea
+    id: description
+    attributes:
+      label: What changed?
+      description: "Describe what Apple updated in the HIG and what needs to change in our reference content."
+    validations:
+      required: true
+  - type: input
+    id: apple-url
+    attributes:
+      label: Apple HIG URL
+      description: "Link to the updated Apple HIG page."
+    validations:
+      required: false

@@ -1,0 +1,37 @@
+name: Skill Request
+description: Suggest a new HIG skill
+title: "[Skill Request] "
+labels: ["skill-request"]
+body:
+  - type: input
+    id: skill-name
+    attributes:
+      label: Suggested skill name
+      description: "Lowercase, hyphens only (e.g., hig-new-topic)"
+      placeholder: "hig-"
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: What should this skill cover?
+      description: "Describe the HIG topics, components, or patterns this skill should address."
+    validations:
+      required: true
+  - type: textarea
+    id: trigger-phrases
+    attributes:
+      label: When should an agent use this skill?
+      description: "List example questions or phrases a user might say that should trigger this skill."
+      placeholder: |
+        - "How do I design..."
+        - "What are Apple's guidelines for..."
+    validations:
+      required: false
+  - type: textarea
+    id: references
+    attributes:
+      label: Apple HIG pages to include
+      description: "Link to specific Apple HIG pages that should be included as references."
+    validations:
+      required: false

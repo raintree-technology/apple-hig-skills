@@ -54,7 +54,7 @@ export default function UseCases() {
       className="py-20 sm:py-28"
     >
       <div className="mx-auto max-w-6xl px-6">
-        <div className="text-center mb-16">
+        <div className="text-center mb-12">
           <h2
             id="use-cases-heading"
             className="text-4xl sm:text-5xl font-semibold tracking-tight mb-4"
@@ -67,7 +67,7 @@ export default function UseCases() {
           </p>
         </div>
 
-        <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 max-w-4xl mx-auto">
+        <div className="grid grid-cols-1 sm:grid-cols-2 gap-5 max-w-4xl mx-auto">
           {useCases.map((useCase) => (
             <Card key={useCase.question} className="h-full">
               <CardHeader className="pb-3">
@@ -99,7 +99,7 @@ export default function UseCases() {
           ))}
         </div>
 
-        <div className="text-center mt-12">
+        <div className="text-center mt-10">
           <Button size="lg" asChild>
             <a href="#before-after">
               See it in action

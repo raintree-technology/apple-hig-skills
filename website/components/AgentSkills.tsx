@@ -32,11 +32,16 @@ const features = [
 ];
 
 const compatibleAgents = [
-  { name: "Claude Code", domain: "claude.ai" },
-  { name: "Cursor", domain: "cursor.com" },
-  { name: "GitHub Copilot", domain: "github.com" },
-  { name: "Windsurf", domain: "windsurf.com" },
-  { name: "Custom Agents", domain: null },
+  { name: "Claude Code", domain: "claude.ai", url: "https://claude.ai/code" },
+  { name: "Cursor", domain: "cursor.com", url: "https://cursor.com" },
+  { name: "GitHub Copilot", domain: "github.com", url: "https://github.com/features/copilot" },
+  { name: "Windsurf", domain: "windsurf.com", url: "https://windsurf.com" },
+  { name: "Cline", domain: "cline.bot", url: "https://cline.bot" },
+  { name: "Aider", domain: "aider.chat", url: "https://aider.chat" },
+  { name: "Roo Code", domain: "roocode.com", url: "https://roocode.com" },
+  { name: "Continue", domain: "continue.dev", url: "https://continue.dev" },
+  { name: "Augment Code", domain: "augmentcode.com", url: "https://augmentcode.com" },
+  { name: "Any AGENTS.md Agent", domain: null, url: "https://agentskills.io" },
 ];
 
 export default function AgentSkills() {
@@ -47,7 +52,7 @@ export default function AgentSkills() {
       className="py-20 sm:py-28"
     >
       <div className="mx-auto max-w-6xl px-6">
-        <div className="text-center mb-16">
+        <div className="text-center mb-12">
           <Badge variant="outline" className="mb-4 gap-1.5 text-xs">
             Open Standard
           </Badge>
@@ -75,10 +80,10 @@ export default function AgentSkills() {
           </Button>
         </div>
 
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mb-12">
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-5 mb-12">
           {features.map((feature) => (
             <Card key={feature.title} className="h-full">
-              <CardHeader>
+              <CardHeader className="pb-3">
                 <div className="w-10 h-10 rounded-lg bg-muted flex items-center justify-center mb-2">
                   <feature.icon
                     className="h-5 w-5 text-muted-foreground"
@@ -102,26 +107,29 @@ export default function AgentSkills() {
           <p className="text-sm text-muted-foreground mb-4">Compatible with</p>
           <div className="flex flex-wrap items-center justify-center gap-3">
             {compatibleAgents.map((agent) => (
-              <div
+              <a
                 key={agent.name}
-                className="flex items-center gap-2.5 rounded-full border border-border/60 bg-muted/40 py-2 px-4 text-sm text-muted-foreground"
+                href={agent.url}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="flex items-center gap-3 rounded-full border border-border/60 bg-muted/40 py-2.5 px-5 text-base text-muted-foreground hover:text-foreground hover:border-foreground/20 transition-colors"
               >
-                <span className="flex h-6 w-6 items-center justify-center rounded-full bg-background shrink-0">
+                <span className="flex h-7 w-7 items-center justify-center rounded-full bg-background shrink-0">
                   {agent.domain ? (
                     <img
                       src={`https://www.google.com/s2/favicons?domain=${agent.domain}&sz=64`}
                       alt=""
-                      width={14}
-                      height={14}
+                      width={16}
+                      height={16}
                       className="rounded-sm"
                       loading="lazy"
                     />
                   ) : (
-                    <Bot className="h-3.5 w-3.5" aria-hidden="true" />
+                    <Bot className="h-4 w-4" aria-hidden="true" />
                   )}
                 </span>
                 {agent.name}
-              </div>
+              </a>
             ))}
           </div>
         </div>

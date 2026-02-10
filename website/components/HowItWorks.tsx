@@ -48,7 +48,7 @@ export default function HowItWorks() {
       className="py-20 sm:py-28"
     >
       <div className="mx-auto max-w-6xl px-6">
-        <div className="text-center mb-6">
+        <div className="text-center mb-12">
           <h2
             id="how-it-works-heading"
             className="text-4xl sm:text-5xl font-semibold tracking-tight mb-4"
@@ -62,7 +62,7 @@ export default function HowItWorks() {
         </div>
 
         {/* Savings callout */}
-        <div className="mb-6 rounded-xl border bg-card/50 px-8 py-6 max-w-2xl mx-auto">
+        <div className="mb-10 rounded-xl border bg-card/50 px-8 py-6 max-w-2xl mx-auto">
           <div className="flex items-center justify-center gap-6 sm:gap-10">
             <div className="text-center">
               <p className="text-3xl sm:text-4xl font-semibold tracking-tight text-muted-foreground/40 line-through decoration-2">
@@ -110,7 +110,7 @@ export default function HowItWorks() {
           </div>
         </div>
 
-        <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 max-w-3xl mx-auto mb-16 mt-8">
+        <div className="grid grid-cols-1 sm:grid-cols-3 gap-5 max-w-3xl mx-auto mb-10">
           <div className="text-center rounded-xl border bg-card/50 px-4 py-5">
             <p className="text-2xl sm:text-3xl font-semibold tracking-tight mb-1">
               Seconds
@@ -137,16 +137,16 @@ export default function HowItWorks() {
           </div>
         </div>
 
-        <ol className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 list-none p-0">
+        <ol className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-5 list-none p-0">
           {steps.map((step, i) => (
             <li key={i}>
               <Card className="h-full">
-                <CardHeader className="pb-2">
+                <CardHeader className="pb-3">
                   <div className="flex items-center justify-between mb-1">
                     <div className="flex items-center gap-2.5">
-                      <div className="w-8 h-8 rounded-lg bg-muted flex items-center justify-center">
+                      <div className="w-10 h-10 rounded-lg bg-muted flex items-center justify-center">
                         <step.icon
-                          className="h-4 w-4 text-muted-foreground"
+                          className="h-5 w-5 text-muted-foreground"
                           aria-hidden="true"
                         />
                       </div>
@@ -170,7 +170,7 @@ export default function HowItWorks() {
           ))}
         </ol>
 
-        <div className="text-center mt-12">
+        <div className="text-center mt-10">
           <Button size="lg" asChild>
             <a href="#skills">
               See what&apos;s included

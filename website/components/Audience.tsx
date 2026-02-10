@@ -42,7 +42,7 @@ export default function Audience() {
       className="py-20 sm:py-28"
     >
       <div className="mx-auto max-w-6xl px-6">
-        <div className="text-center mb-16">
+        <div className="text-center mb-12">
           <h2
             id="audience-heading"
             className="text-4xl sm:text-5xl font-semibold tracking-tight mb-4"
@@ -55,10 +55,10 @@ export default function Audience() {
           </p>
         </div>
 
-        <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 max-w-4xl mx-auto">
+        <div className="grid grid-cols-1 sm:grid-cols-2 gap-5 max-w-4xl mx-auto">
           {audiences.map((audience) => (
             <Card key={audience.title} className="h-full">
-              <CardHeader className="pb-2">
+              <CardHeader className="pb-3">
                 <div className="w-10 h-10 rounded-lg bg-muted flex items-center justify-center mb-2">
                   <audience.icon
                     className="h-5 w-5 text-muted-foreground"

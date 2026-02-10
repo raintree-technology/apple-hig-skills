@@ -258,7 +258,7 @@ export default function BeforeAfter() {
           </div>
         </div>
 
-        <div className="text-center mt-12">
+        <div className="text-center mt-10">
           <Button size="lg" asChild>
             <a href="#install">
               Get these answers in your project

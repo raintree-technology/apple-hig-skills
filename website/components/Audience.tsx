@@ -1,4 +1,4 @@
-import { Code2, Palette, Building2, Bot } from "lucide-react";
+import { Bot, Building2, Code2, Palette } from "lucide-react";
 import {
   Card,
   CardContent,
@@ -57,10 +57,7 @@ export default function Audience() {
 
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 max-w-4xl mx-auto">
           {audiences.map((audience) => (
-            <Card
-              key={audience.title}
-              className="transition-colors hover:bg-accent/50"
-            >
+            <Card key={audience.title} className="h-full">
               <CardHeader className="pb-2">
                 <div className="w-10 h-10 rounded-lg bg-muted flex items-center justify-center mb-2">
                   <audience.icon

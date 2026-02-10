@@ -75,3 +75,7 @@ Check for `.claude/apple-design-context.md` before asking questions. Use existin
 - **hig-components-selection** -- Toggles, pickers, segmented controls complementing buttons
 - **hig-components-presentation** -- Alerts, sheets, popovers triggered by menu items or buttons
 - **hig-inputs** -- Keyboard shortcuts and pointer interactions with menus and toolbars
+
+---
+
+*Built by [Raintree Technology](https://raintree.technology) · [More developer tools](https://raintree.technology)*

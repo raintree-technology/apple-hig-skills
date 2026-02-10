@@ -70,3 +70,7 @@ Check for `.claude/apple-design-context.md` before asking questions. Use existin
 - **hig-components-navigation** -- Search and navigation within presented views
 - **hig-patterns** -- Modality, interruptions, user flow management
 - **hig-foundations** -- Color, typography, layout for presentation components
+
+---
+
+*Built by [Raintree Technology](https://raintree.technology) · [More developer tools](https://raintree.technology)*

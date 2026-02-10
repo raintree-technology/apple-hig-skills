@@ -80,3 +80,7 @@ Check for `.claude/apple-design-context.md` before asking questions. Use existin
 - **hig-components-system** -- Widgets and complications displaying progress or status
 - **hig-inputs** -- Gestures triggering progress states (pull-to-refresh)
 - **hig-technologies** -- HealthKit for activity ring data; VoiceOver for progress announcements
+
+---
+
+*Built by [Raintree Technology](https://raintree.technology) · [More developer tools](https://raintree.technology)*

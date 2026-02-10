@@ -1,4 +1,6 @@
-import { ExternalLink, GitBranch, Package, Globe } from "lucide-react";
+import { Bot, ExternalLink, GitBranch, Globe, Package } from "lucide-react";
+import { Badge } from "@/components/ui/badge";
+import { Button } from "@/components/ui/button";
 import {
   Card,
   CardContent,
@@ -6,8 +8,6 @@ import {
   CardHeader,
   CardTitle,
 } from "@/components/ui/card";
-import { Badge } from "@/components/ui/badge";
-import { Button } from "@/components/ui/button";
 import { Separator } from "@/components/ui/separator";
 
 const features = [
@@ -15,28 +15,28 @@ const features = [
     icon: Package,
     title: "Portable",
     description:
-      "Works with any AI agent that reads files — Claude Code, Cursor, Copilot, Windsurf, and custom agents.",
+      "Switch AI tools without rebuilding your setup. Works with Claude Code, Cursor, Copilot, Windsurf, and custom agents.",
   },
   {
     icon: GitBranch,
     title: "Versionable",
     description:
-      "Semantic versioning, update checking, and git-based distribution. Install via clone, submodule, or the CLI.",
+      "Get updates when Apple updates the HIG. Semantic versioning and git-based distribution keep you current.",
   },
   {
     icon: Globe,
     title: "Universal",
     description:
-      "One format instead of fragmented .cursorrules, CLAUDE.md, and copilot-instructions.md files.",
+      "One install, every tool. A single format instead of fragmented .cursorrules, CLAUDE.md, and copilot-instructions.md files.",
   },
 ];
 
 const compatibleAgents = [
-  "Claude Code",
-  "Cursor",
-  "GitHub Copilot",
-  "Windsurf",
-  "Custom Agents",
+  { name: "Claude Code", domain: "claude.ai" },
+  { name: "Cursor", domain: "cursor.com" },
+  { name: "GitHub Copilot", domain: "github.com" },
+  { name: "Windsurf", domain: "windsurf.com" },
+  { name: "Custom Agents", domain: null },
 ];
 
 export default function AgentSkills() {
@@ -55,7 +55,7 @@ export default function AgentSkills() {
             id="agent-skills-heading"
             className="text-4xl sm:text-5xl font-semibold tracking-tight mb-4"
           >
-            Built on Agent Skills.
+            Works everywhere. Updates automatically.
           </h2>
           <p className="text-xl text-muted-foreground max-w-2xl mx-auto mb-6">
             Agent Skills is a universal spec for packaging reusable knowledge
@@ -68,15 +68,16 @@ export default function AgentSkills() {
               target="_blank"
               rel="noopener noreferrer"
             >
-              Read the specification
-              <ExternalLink className="h-4 w-4" />
+              Learn about Agent Skills
+              <ExternalLink className="h-4 w-4" aria-hidden="true" />
+              <span className="sr-only"> (opens in new tab)</span>
             </a>
           </Button>
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mb-12">
           {features.map((feature) => (
-            <Card key={feature.title}>
+            <Card key={feature.title} className="h-full">
               <CardHeader>
                 <div className="w-10 h-10 rounded-lg bg-muted flex items-center justify-center mb-2">
                   <feature.icon
@@ -98,14 +99,29 @@ export default function AgentSkills() {
         <Separator className="mb-12" />
 
         <div className="text-center">
-          <p className="text-sm text-muted-foreground mb-4">
-            Compatible with
-          </p>
+          <p className="text-sm text-muted-foreground mb-4">Compatible with</p>
           <div className="flex flex-wrap items-center justify-center gap-3">
             {compatibleAgents.map((agent) => (
-              <Badge key={agent} variant="secondary" className="text-sm py-1.5 px-3">
-                {agent}
-              </Badge>
+              <div
+                key={agent.name}
+                className="flex items-center gap-2.5 rounded-full border border-border/60 bg-muted/40 py-2 px-4 text-sm text-muted-foreground"
+              >
+                <span className="flex h-6 w-6 items-center justify-center rounded-full bg-background shrink-0">
+                  {agent.domain ? (
+                    <img
+                      src={`https://www.google.com/s2/favicons?domain=${agent.domain}&sz=64`}
+                      alt=""
+                      width={14}
+                      height={14}
+                      className="rounded-sm"
+                      loading="lazy"
+                    />
+                  ) : (
+                    <Bot className="h-3.5 w-3.5" aria-hidden="true" />
+                  )}
+                </span>
+                {agent.name}
+              </div>
             ))}
           </div>
         </div>

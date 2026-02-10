@@ -1,9 +1,9 @@
 "use client";
 
-import { useEffect, useState, useCallback, useRef } from "react";
-import { Copy, Check, ArrowRight, Zap } from "lucide-react";
-import { Button } from "@/components/ui/button";
+import { ArrowRight, Check, Copy, Github, Zap } from "lucide-react";
+import { useCallback, useEffect, useRef, useState } from "react";
 import { Badge } from "@/components/ui/badge";
+import { Button } from "@/components/ui/button";
 import { cn } from "@/lib/utils";
 
 const terminalLines = [
@@ -76,10 +76,7 @@ export default function Hero() {
     >
       <div className="mx-auto max-w-6xl w-full px-6">
         <div className="text-center mb-16">
-          <Badge
-            variant="secondary"
-            className="mb-6 gap-1.5 px-3 py-1 text-xs"
-          >
+          <Badge variant="secondary" className="mb-6 gap-1.5 px-3 py-1 text-xs">
             <Zap className="h-3 w-3" />
             Built on the Agent Skills spec
           </Badge>
@@ -88,9 +85,8 @@ export default function Hero() {
             id="hero-heading"
             className="text-5xl sm:text-6xl lg:text-[80px] font-semibold tracking-tight leading-[1.05] mb-5"
           >
-            Your AI agent just learned
-            <br />
-            Apple&apos;s design language.
+            Your AI agent just learned{" "}
+            <span className="sm:block">Apple&apos;s design language.</span>
           </h1>
           <p className="text-xl sm:text-2xl text-muted-foreground font-medium tracking-tight max-w-3xl mx-auto mb-4">
             Ask any design question. Get instant, platform-specific guidance
@@ -107,21 +103,36 @@ export default function Hero() {
               className="underline underline-offset-4 hover:text-foreground transition-colors"
             >
               Agent Skills
+              <span className="sr-only"> (opens in new tab)</span>
             </a>{" "}
             specification.
           </p>
 
-          <div className="flex flex-col sm:flex-row items-center justify-center gap-3 mb-6">
+          <div className="flex flex-col sm:flex-row items-center justify-center gap-3 mb-4">
             <Button size="lg" asChild>
               <a href="#install">
-                Get started
+                Install now — it&apos;s free
                 <ArrowRight className="h-4 w-4" />
               </a>
             </Button>
-            <Button variant="outline" size="lg" asChild>
-              <a href="#use-cases">See what it does</a>
+            <Button variant="ghost" size="lg" asChild>
+              <a href="#use-cases">See examples</a>
             </Button>
           </div>
+
+          <p className="text-sm text-muted-foreground mb-2">
+            Free and open source. 14 skills. 100+ HIG reference topics.
+          </p>
+          <a
+            href="https://github.com/raintree-technology/apple-hig-skills"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-flex items-center gap-1.5 text-sm text-muted-foreground hover:text-foreground transition-colors mb-6"
+          >
+            <Github className="h-3.5 w-3.5" />
+            Star on GitHub
+            <span className="sr-only"> (opens in new tab)</span>
+          </a>
 
           <div className="inline-flex items-center gap-2">
             <code className="px-4 py-2.5 rounded-lg border bg-muted/50 text-sm font-mono text-muted-foreground">
@@ -170,23 +181,30 @@ export default function Hero() {
                   "mb-0.5",
                   line.type === "prompt" && "text-white",
                   line.type === "user" && "text-white font-medium",
-                  line.type === "system" && "text-white/40",
+                  line.type === "system" && "text-white/50",
                   line.type === "response" && "text-white/70",
                   line.type === "blank" && "h-5",
                 )}
               >
                 {line.type === "prompt" && (
-                  <span className="text-white/40">$ </span>
+                  <span className="text-white/50">$ </span>
                 )}
                 {line.content}
               </div>
             ))}
-            {visibleLines < terminalLines.length && (
+            {visibleLines < terminalLines.length ? (
               <span
                 className="inline-block w-2 h-4 bg-white/60 animate-pulse"
                 aria-hidden="true"
               />
-            )}
+            ) : visibleLines > 0 ? (
+              <div className="mt-3 pt-3 border-t border-white/10">
+                <span className="text-white/30 text-xs">
+                  ${" "}
+                  <span className="inline-block w-1.5 h-3.5 bg-white/40 align-text-bottom animate-pulse" />
+                </span>
+              </div>
+            ) : null}
           </div>
         </div>
       </div>

@@ -110,3 +110,7 @@ Check for `.claude/apple-design-context.md` before asking questions. Use existin
 - **hig-components-status** -- Progress indicators responding to input (pull-to-refresh)
 - **hig-components-system** -- System experiences with unique input constraints
 - **hig-technologies** -- VoiceOver, Siri voice input, ARKit spatial gesture context
+
+---
+
+*Built by [Raintree Technology](https://raintree.technology) · [More developer tools](https://raintree.technology)*

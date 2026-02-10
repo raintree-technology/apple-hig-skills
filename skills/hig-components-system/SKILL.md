@@ -100,3 +100,7 @@ Check for `.claude/apple-design-context.md` before asking questions. Use existin
 - **hig-components-status** -- Progress indicators in widgets or Live Activities
 - **hig-inputs** -- Interaction patterns for system experiences (Digital Crown for complications)
 - **hig-technologies** -- Siri for App Shortcuts, HealthKit for complications, NFC for App Clips
+
+---
+
+*Built by [Raintree Technology](https://raintree.technology) · [More developer tools](https://raintree.technology)*

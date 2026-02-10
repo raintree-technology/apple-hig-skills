@@ -204,13 +204,7 @@ export const categories: Category[] = [
         displayName: "Menus & Actions",
         description:
           "Menus and actions: buttons, context menus, toolbars, menu bar, pop-up buttons, and more.",
-        topics: [
-          "Menus",
-          "Context Menus",
-          "Toolbars",
-          "Buttons",
-          "Menu Bar",
-        ],
+        topics: ["Menus", "Context Menus", "Toolbars", "Buttons", "Menu Bar"],
         references: [
           "Action Button",
           "Buttons",
@@ -286,11 +280,7 @@ export const categories: Category[] = [
         description:
           "Status and progress: progress indicators, status bars, activity rings.",
         topics: ["Progress Indicators", "Status Bars", "Activity Rings"],
-        references: [
-          "Activity Rings",
-          "Progress Indicators",
-          "Status Bars",
-        ],
+        references: ["Activity Rings", "Progress Indicators", "Status Bars"],
         refCount: 3,
       },
       {
@@ -413,7 +403,6 @@ export const totalSkills = categories.reduce(
 );
 
 export const totalReferences = categories.reduce(
-  (sum, cat) =>
-    sum + cat.skills.reduce((s, skill) => s + skill.refCount, 0),
+  (sum, cat) => sum + cat.skills.reduce((s, skill) => s + skill.refCount, 0),
   0,
 );

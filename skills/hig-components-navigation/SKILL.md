@@ -62,3 +62,7 @@ Check for `.claude/apple-design-context.md` before asking questions. Use existin
 - **hig-components-presentation** -- Popovers and sheets for expanded search or filtering
 - **hig-patterns** -- Navigation patterns and information architecture
 - **hig-foundations** -- Typography and layout for navigation components
+
+---
+
+*Built by [Raintree Technology](https://raintree.technology) · [More developer tools](https://raintree.technology)*

@@ -66,6 +66,14 @@ Content sourced from [Apple's Human Interface Guidelines](https://developer.appl
 
 PRs and issues welcome. See [CONTRIBUTING.md](CONTRIBUTING.md).
 
+## Built by Raintree
+
+Apple HIG Skills is built and maintained by [Raintree Technology](https://raintree.technology), a product studio building privacy-first apps, custom software, and open source tools.
+
+Check out our other developer projects:
+- [DocPull](https://docpull.raintree.technology) — Turn any documentation site into clean Markdown
+- [Claude Starter](https://github.com/raintree-technology/claude-starter) — Production-ready configs and best practices for Claude Code
+
 ## License
 
 [MIT](LICENSE) for repository structure and skill files. Apple HIG content remains Apple's intellectual property.

@@ -1,15 +1,17 @@
 "use client";
 
-import { useState, useCallback } from "react";
-import { Copy, Check, MessageSquare } from "lucide-react";
-import { Button } from "@/components/ui/button";
-import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
+import { Check, Copy, MessageSquare } from "lucide-react";
+import { useCallback, useState } from "react";
 import {
   Accordion,
   AccordionContent,
   AccordionItem,
   AccordionTrigger,
 } from "@/components/ui/accordion";
+import { Button } from "@/components/ui/button";
+import { Card, CardContent, CardHeader } from "@/components/ui/card";
+import { Separator } from "@/components/ui/separator";
+import UpdateNotify from "./UpdateNotify";
 
 const MAIN_COMMAND =
   "git clone https://github.com/raintree-technology/apple-hig-skills.git .claude/apple-hig-skills";
@@ -55,12 +57,12 @@ export default function Install() {
         <div className="max-w-3xl mx-auto">
           <Card>
             <CardHeader className="text-center pb-4">
-              <p className="text-sm font-medium text-muted-foreground mb-2">
-                30 seconds to set up
-              </p>
-              <CardTitle className="text-4xl sm:text-5xl font-semibold tracking-tight">
-                Get started.
-              </CardTitle>
+              <h2
+                id="install-heading"
+                className="text-4xl sm:text-5xl font-semibold leading-none tracking-tight"
+              >
+                Install in 30 seconds.
+              </h2>
               <p className="text-lg text-muted-foreground mt-2">
                 Clone into your project&apos;s{" "}
                 <code className="px-1.5 py-0.5 rounded-md bg-muted text-sm">
@@ -97,6 +99,11 @@ export default function Install() {
                 </Button>
               </div>
 
+              <p className="text-sm text-muted-foreground text-center">
+                After cloning, your AI agent automatically discovers the skills.
+                No configuration needed — just ask a question.
+              </p>
+
               {/* First question prompt */}
               <div className="rounded-lg border bg-muted/30 p-4">
                 <div className="flex items-center gap-2 mb-3">
@@ -111,24 +118,18 @@ export default function Install() {
                 <div className="space-y-2">
                   {firstQuestions.map((question) => (
                     <button
+                      type="button"
                       key={question}
                       onClick={() => handleCopy(question, question)}
-                      className="w-full text-left px-3 py-2 rounded-md bg-background border text-sm text-muted-foreground hover:text-foreground hover:border-foreground/20 transition-colors cursor-pointer"
-                      aria-label={
-                        copied === question
-                          ? "Copied to clipboard"
-                          : `Copy: ${question}`
-                      }
+                      className="w-full text-left px-3 py-2 rounded-md bg-background border text-sm text-muted-foreground hover:text-foreground hover:border-foreground/20 transition-colors cursor-pointer flex items-center gap-2"
+                      aria-label={`Copy: ${question}`}
+                      aria-live="polite"
                     >
-                      {copied === question ? (
-                        <span className="text-green-600 dark:text-green-400">
-                          Copied!
-                        </span>
-                      ) : (
-                        <>
-                          <span className="text-foreground">&gt;</span>{" "}
-                          {question}
-                        </>
+                      <span className="flex-1">
+                        <span className="text-foreground">&gt;</span> {question}
+                      </span>
+                      {copied === question && (
+                        <Check className="h-3.5 w-3.5 shrink-0 text-green-500" />
                       )}
                     </button>
                   ))}
@@ -180,6 +181,10 @@ export default function Install() {
                   </AccordionContent>
                 </AccordionItem>
               </Accordion>
+
+              <Separator />
+
+              <UpdateNotify />
             </CardContent>
           </Card>
         </div>

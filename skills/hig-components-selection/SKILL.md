@@ -82,3 +82,7 @@ Check for `.claude/apple-design-context.md` before asking questions. Use existin
 - **hig-components-navigation** -- Search fields sharing text input patterns
 - **hig-inputs** -- Keyboard, pointer, gesture interactions with controls
 - **hig-foundations** -- Typography, color, layout for control styling
+
+---
+
+*Built by [Raintree Technology](https://raintree.technology) · [More developer tools](https://raintree.technology)*

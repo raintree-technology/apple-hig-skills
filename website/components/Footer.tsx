@@ -1,8 +1,8 @@
 "use client";
 
-import { Github } from "lucide-react";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faXTwitter } from "@fortawesome/free-brands-svg-icons";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { Github } from "lucide-react";
 import { Separator } from "@/components/ui/separator";
 
 export default function Footer() {
@@ -12,12 +12,12 @@ export default function Footer() {
       <div className="mx-auto max-w-6xl px-6 py-6">
         {/* Mobile */}
         <div className="flex flex-col items-center gap-4 text-xs text-muted-foreground sm:hidden">
-          <nav aria-label="Footer" className="flex items-center gap-5">
+          <nav aria-label="Footer links" className="flex items-center gap-5">
             <a
               href="https://agentskills.io"
               target="_blank"
               rel="noopener noreferrer"
-              className="hover:text-foreground transition-colors"
+              className="hover:text-foreground hover:underline underline-offset-4 transition-colors"
             >
               Agent Skills
             </a>
@@ -26,7 +26,7 @@ export default function Footer() {
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-foreground transition-colors p-1"
-              aria-label="GitHub"
+              aria-label="GitHub (opens in new tab)"
             >
               <Github className="h-4 w-4" />
             </a>
@@ -35,7 +35,7 @@ export default function Footer() {
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-foreground transition-colors p-1"
-              aria-label="X"
+              aria-label="X (opens in new tab)"
             >
               <FontAwesomeIcon icon={faXTwitter} className="h-4 w-4" />
             </a>
@@ -45,7 +45,7 @@ export default function Footer() {
               href="https://github.com/raintree-technology/apple-hig-skills/blob/main/LICENSE"
               target="_blank"
               rel="noopener noreferrer"
-              className="hover:text-foreground transition-colors"
+              className="hover:text-foreground hover:underline underline-offset-4 transition-colors"
             >
               MIT License
             </a>
@@ -54,7 +54,7 @@ export default function Footer() {
               href="https://raintree.technology"
               target="_blank"
               rel="noopener noreferrer"
-              className="hover:text-foreground transition-colors"
+              className="hover:text-foreground hover:underline underline-offset-4 transition-colors"
             >
               Raintree Technology
             </a>
@@ -68,7 +68,7 @@ export default function Footer() {
               href="https://agentskills.io"
               target="_blank"
               rel="noopener noreferrer"
-              className="hover:text-foreground transition-colors"
+              className="hover:text-foreground hover:underline underline-offset-4 transition-colors"
             >
               Agent Skills
             </a>
@@ -76,7 +76,7 @@ export default function Footer() {
               href="https://github.com/raintree-technology/apple-hig-skills"
               target="_blank"
               rel="noopener noreferrer"
-              className="hover:text-foreground transition-colors"
+              className="hover:text-foreground hover:underline underline-offset-4 transition-colors"
             >
               GitHub
             </a>
@@ -84,7 +84,7 @@ export default function Footer() {
               href="https://github.com/raintree-technology/apple-hig-skills/blob/main/LICENSE"
               target="_blank"
               rel="noopener noreferrer"
-              className="hover:text-foreground transition-colors"
+              className="hover:text-foreground hover:underline underline-offset-4 transition-colors"
             >
               MIT License
             </a>
@@ -95,7 +95,7 @@ export default function Footer() {
               href="https://raintree.technology"
               target="_blank"
               rel="noopener noreferrer"
-              className="hover:text-foreground transition-colors"
+              className="hover:text-foreground hover:underline underline-offset-4 transition-colors"
             >
               Raintree Technology
             </a>
@@ -104,7 +104,7 @@ export default function Footer() {
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-foreground transition-colors p-1"
-              aria-label="X"
+              aria-label="X (opens in new tab)"
             >
               <FontAwesomeIcon icon={faXTwitter} className="h-3.5 w-3.5" />
             </a>
@@ -113,7 +113,7 @@ export default function Footer() {
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-foreground transition-colors p-1"
-              aria-label="GitHub"
+              aria-label="GitHub (opens in new tab)"
             >
               <Github className="h-3.5 w-3.5" />
             </a>

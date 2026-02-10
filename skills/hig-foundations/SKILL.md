@@ -92,3 +92,7 @@ Consider how principles interact:
 - **hig-patterns** -- Interaction patterns where foundations like writing and accessibility are critical
 - **hig-components-layout** -- Structural components implementing layout principles
 - **hig-components-content** -- Content display using color, typography, and images
+
+---
+
+*Built by [Raintree Technology](https://raintree.technology) · [More developer tools](https://raintree.technology)*

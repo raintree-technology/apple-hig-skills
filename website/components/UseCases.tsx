@@ -1,11 +1,14 @@
 import {
-  Tablet,
-  CreditCard,
   Accessibility,
+  ArrowRight,
+  Bell,
+  CreditCard,
   Glasses,
   Paintbrush,
-  Bell,
+  Tablet,
 } from "lucide-react";
+import { Badge } from "@/components/ui/badge";
+import { Button } from "@/components/ui/button";
 import {
   Card,
   CardContent,
@@ -13,7 +16,6 @@ import {
   CardHeader,
   CardTitle,
 } from "@/components/ui/card";
-import { Badge } from "@/components/ui/badge";
 
 const useCases = [
   {
@@ -73,20 +75,17 @@ export default function UseCases() {
             id="use-cases-heading"
             className="text-4xl sm:text-5xl font-semibold tracking-tight mb-4"
           >
-            Ask a question, get the right answer.
+            What can you ask?
           </h2>
           <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
-            Real design decisions, grounded in Apple&apos;s guidelines. Your
-            agent loads only the specific guidance it needs.
+            Real scenarios. Specific, platform-aware answers from Apple&apos;s
+            guidelines.
           </p>
         </div>
 
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
           {useCases.map((useCase) => (
-            <Card
-              key={useCase.question}
-              className="transition-colors hover:bg-accent/50"
-            >
+            <Card key={useCase.question} className="h-full">
               <CardHeader className="pb-3">
                 <div className="w-10 h-10 rounded-lg bg-muted flex items-center justify-center mb-3">
                   <useCase.icon
@@ -114,6 +113,16 @@ export default function UseCases() {
               </CardContent>
             </Card>
           ))}
+        </div>
+
+        <div className="text-center mt-12">
+          <p className="text-muted-foreground mb-3">Ready to try it?</p>
+          <Button size="lg" asChild>
+            <a href="#install">
+              Install now — it&apos;s free
+              <ArrowRight className="h-4 w-4" />
+            </a>
+          </Button>
         </div>
       </div>
     </section>

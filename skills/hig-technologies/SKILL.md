@@ -125,3 +125,7 @@ Check for `.claude/apple-design-context.md` before asking questions. Use existin
 - **hig-inputs** -- Input methods interacting with technologies (voice for Siri, Pencil for AR, gestures for Maps)
 - **hig-components-system** -- Widgets, complications, Live Activities surfacing technology data
 - **hig-components-status** -- Progress indicators for technology operations (sync, payment, AR loading)
+
+---
+
+*Built by [Raintree Technology](https://raintree.technology) · [More developer tools](https://raintree.technology)*

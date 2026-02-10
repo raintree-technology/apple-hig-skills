@@ -98,3 +98,7 @@ Check for `.claude/apple-design-context.md` before asking questions. Use existin
 - **hig-platforms** -- Platform-specific pattern implementations
 - **hig-components-layout** -- Structural components (tab bars, sidebars, split views) for navigation patterns
 - **hig-components-content** -- Content display within patterns (charts, collections, search results)
+
+---
+
+*Built by [Raintree Technology](https://raintree.technology) · [More developer tools](https://raintree.technology)*

@@ -127,3 +127,7 @@ When updating an existing context document:
 - **hig-components-*** -- Component recommendations
 - **hig-inputs** -- Input method coverage
 - **hig-technologies** -- Apple technology relevance
+
+---
+
+*Built by [Raintree Technology](https://raintree.technology) · [More developer tools](https://raintree.technology)*

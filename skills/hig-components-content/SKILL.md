@@ -80,3 +80,7 @@ Check for `.claude/apple-design-context.md` before asking questions. Use existin
 - **hig-patterns** -- Data visualization, sharing, and loading patterns
 - **hig-components-layout** -- Structural containers (scroll views, lists, split views) hosting content
 - **hig-platforms** -- Platform-specific component behavior (lockups on tvOS, web views on macOS)
+
+---
+
+*Built by [Raintree Technology](https://raintree.technology) · [More developer tools](https://raintree.technology)*

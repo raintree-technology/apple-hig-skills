@@ -93,3 +93,7 @@ Check for `.claude/apple-design-context.md` before asking questions. Use existin
 - **hig-platforms** -- Platform-specific navigation conventions
 - **hig-patterns** -- Multitasking, full-screen, and launching patterns
 - **hig-components-content** -- Content displayed within layout containers
+
+---
+
+*Built by [Raintree Technology](https://raintree.technology) · [More developer tools](https://raintree.technology)*

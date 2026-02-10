@@ -69,8 +69,28 @@ export default function Skills() {
             What&apos;s included.
           </h2>
           <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
-            {totalSkills} skills covering {totalReferences} reference topics
-            from Apple&apos;s Human Interface Guidelines.
+            {totalSkills} skills. {totalReferences} reference topics. The full
+            Apple Human Interface Guidelines, structured for AI agents.
+          </p>
+          <p className="text-sm text-muted-foreground max-w-2xl mx-auto mt-4">
+            <strong className="text-foreground">New here?</strong> Start with{" "}
+            <button
+              type="button"
+              onClick={() => setFilter("Project Context")}
+              className="underline underline-offset-4 hover:text-foreground transition-colors"
+            >
+              Project Context
+            </button>{" "}
+            to set up your app details, then try{" "}
+            <button
+              type="button"
+              onClick={() => setFilter("Platforms")}
+              className="underline underline-offset-4 hover:text-foreground transition-colors"
+            >
+              Platforms
+            </button>{" "}
+            for your target platform. The rest load on demand as you ask
+            questions.
           </p>
         </div>
 
@@ -147,11 +167,11 @@ export default function Skills() {
                         }}
                         {...(hasRefs
                           ? {
-                              role: "button",
-                              tabIndex: 0,
-                              "aria-expanded": isOpen,
-                              "aria-label": `${skill.displayName} — ${skill.refCount} references. ${isOpen ? "Collapse" : "Expand"} to see reference files.`,
-                            }
+                            role: "button",
+                            tabIndex: 0,
+                            "aria-expanded": isOpen,
+                            "aria-label": `${skill.displayName} — ${skill.refCount} references. ${isOpen ? "Collapse" : "Expand"} to see reference files.`,
+                          }
                           : {})}
                       >
                         <TableCell className="pl-5 pr-2 py-3.5 w-8">
@@ -177,8 +197,14 @@ export default function Skills() {
                         <TableCell className="px-4 py-3.5 text-sm text-muted-foreground hidden md:table-cell">
                           {skill.description}
                         </TableCell>
-                        <TableCell className="px-5 py-3.5 text-right tabular-nums text-muted-foreground">
-                          {skill.refCount || "\u2014"}
+                        <TableCell className="px-5 py-3.5 text-right">
+                          {skill.refCount ? (
+                            <span className="inline-flex items-center rounded-md bg-muted px-2 py-0.5 text-xs font-medium tabular-nums text-muted-foreground">
+                              {skill.refCount} refs
+                            </span>
+                          ) : (
+                            <span className="text-muted-foreground/40">&mdash;</span>
+                          )}
                         </TableCell>
                       </TableRow>
                       {isOpen && (

@@ -21,13 +21,13 @@ const features = [
     icon: GitBranch,
     title: "Versionable",
     description:
-      "Get updates when Apple updates the HIG. Semantic versioning and git-based distribution keep you current.",
+      "Run git pull when Apple updates the HIG. New guidance, zero reconfiguration.",
   },
   {
     icon: Globe,
     title: "Universal",
     description:
-      "One install, every tool. A single format instead of fragmented .cursorrules, CLAUDE.md, and copilot-instructions.md files.",
+      "One install, every tool. No more fragmented .cursorrules, CLAUDE.md, and copilot-instructions.md files.",
   },
 ];
 
@@ -58,9 +58,9 @@ export default function AgentSkills() {
             Works everywhere. Updates automatically.
           </h2>
           <p className="text-xl text-muted-foreground max-w-2xl mx-auto mb-6">
-            Agent Skills is a universal spec for packaging reusable knowledge
-            for AI agents. Think of it as plugins for AI — but instead of code
-            libraries, they package expertise.
+            Built on Agent Skills — an open standard for giving AI agents
+            reusable expertise. Install once, use with any tool, update with
+            a single command.
           </p>
           <Button variant="outline" size="lg" asChild>
             <a

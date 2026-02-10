@@ -64,11 +64,8 @@ export default function Install() {
                 Install in 30 seconds.
               </h2>
               <p className="text-lg text-muted-foreground mt-2">
-                Clone into your project&apos;s{" "}
-                <code className="px-1.5 py-0.5 rounded-md bg-muted text-sm">
-                  .claude/
-                </code>{" "}
-                directory and start asking design questions.
+                One command. No configuration. Your agent discovers the skills
+                automatically.
               </p>
             </CardHeader>
             <CardContent className="space-y-6">
@@ -100,8 +97,8 @@ export default function Install() {
               </div>
 
               <p className="text-sm text-muted-foreground text-center">
-                After cloning, your AI agent automatically discovers the skills.
-                No configuration needed — just ask a question.
+                That&apos;s it. No config files, no restarts. Just ask a
+                question.
               </p>
 
               {/* First question prompt */}
@@ -126,7 +123,7 @@ export default function Install() {
                       aria-live="polite"
                     >
                       <span className="flex-1">
-                        <span className="text-foreground">&gt;</span> {question}
+                        {question}
                       </span>
                       {copied === question && (
                         <Check className="h-3.5 w-3.5 shrink-0 text-green-500" />
@@ -140,7 +137,7 @@ export default function Install() {
               <Accordion type="single" collapsible>
                 <AccordionItem value="alt" className="border-none">
                   <AccordionTrigger className="text-sm text-muted-foreground hover:text-foreground py-2 hover:no-underline">
-                    More install options
+                    Other ways to install (submodule, copy, CLI)
                   </AccordionTrigger>
                   <AccordionContent>
                     <div className="space-y-2 pt-1">
@@ -181,6 +178,20 @@ export default function Install() {
                   </AccordionContent>
                 </AccordionItem>
               </Accordion>
+
+              <p className="text-xs text-muted-foreground text-center">
+                Having trouble?{" "}
+                <a
+                  href="https://github.com/raintree-technology/apple-hig-skills/issues"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="underline underline-offset-4 hover:text-foreground transition-colors"
+                >
+                  Open an issue
+                  <span className="sr-only"> (opens in new tab)</span>
+                </a>{" "}
+                and we&apos;ll help.
+              </p>
 
               <Separator />
 

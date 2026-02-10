@@ -1,8 +1,7 @@
 "use client";
 
-import { ArrowRight, Check, Copy, Github, Zap } from "lucide-react";
+import { ArrowRight, Check, Copy, Github } from "lucide-react";
 import { useCallback, useEffect, useRef, useState } from "react";
-import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import { cn } from "@/lib/utils";
 
@@ -33,11 +32,12 @@ const terminalLines = [
 ] as const;
 
 const INSTALL_COMMAND =
-  "git clone https://github.com/raintree-technology/apple-hig-skills.git .claude/apple-hig-skills";
+  "npx skills add raintree-technology/apple-hig-skills";
 
 export default function Hero() {
   const [visibleLines, setVisibleLines] = useState(0);
   const [copied, setCopied] = useState(false);
+  const [stars, setStars] = useState<number | null>(null);
   const prefersReducedMotion = useRef(false);
 
   useEffect(() => {
@@ -62,6 +62,17 @@ export default function Hero() {
     return () => clearInterval(timer);
   }, []);
 
+  useEffect(() => {
+    fetch("https://api.github.com/repos/raintree-technology/apple-hig-skills")
+      .then((res) => res.json())
+      .then((data) => {
+        if (typeof data.stargazers_count === "number") {
+          setStars(data.stargazers_count);
+        }
+      })
+      .catch(() => { });
+  }, []);
+
   const handleCopy = useCallback(() => {
     navigator.clipboard.writeText(INSTALL_COMMAND);
     setCopied(true);
@@ -76,36 +87,21 @@ export default function Hero() {
     >
       <div className="mx-auto max-w-6xl w-full px-6">
         <div className="text-center mb-16">
-          <Badge variant="secondary" className="mb-6 gap-1.5 px-3 py-1 text-xs">
-            <Zap className="h-3 w-3" />
-            Built on the Agent Skills spec
-          </Badge>
-
           <h1
             id="hero-heading"
             className="text-5xl sm:text-6xl lg:text-[80px] font-semibold tracking-tight leading-[1.05] mb-5"
           >
-            Your AI agent just learned{" "}
-            <span className="sm:block">Apple&apos;s design language.</span>
+            Teach your AI agent
+            <br />
+            Apple&apos;s design language.
           </h1>
-          <p className="text-xl sm:text-2xl text-muted-foreground font-medium tracking-tight max-w-3xl mx-auto mb-4">
-            Ask any design question. Get instant, platform-specific guidance
-            grounded in Apple&apos;s Human Interface Guidelines — without
-            reading 500 pages yourself.
+          <p className="text-xl sm:text-2xl text-muted-foreground font-medium tracking-tight max-w-3xl mx-auto mb-3">
+            Give your AI agent the complete Apple Human Interface Guidelines.
+            No more hallucinated patterns. No more wrong-platform advice.
           </p>
-          <p className="text-sm text-muted-foreground max-w-xl mx-auto mb-8">
-            Works with Claude Code, Cursor, Copilot, and any agent that reads
-            files. Built on the open{" "}
-            <a
-              href="https://agentskills.io"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="underline underline-offset-4 hover:text-foreground transition-colors"
-            >
-              Agent Skills
-              <span className="sr-only"> (opens in new tab)</span>
-            </a>{" "}
-            specification.
+          <p className="text-lg sm:text-xl text-muted-foreground/70 font-medium tracking-tight max-w-2xl mx-auto mb-8">
+            Accurate, platform-specific guidance for iOS, iPadOS, macOS,
+            watchOS, and visionOS — without reading 500 pages yourself.
           </p>
 
           <div className="flex flex-col sm:flex-row items-center justify-center gap-3 mb-4">
@@ -115,28 +111,36 @@ export default function Hero() {
                 <ArrowRight className="h-4 w-4" />
               </a>
             </Button>
-            <Button variant="ghost" size="lg" asChild>
-              <a href="#use-cases">See examples</a>
+            <Button variant="outline" size="lg" asChild>
+              <a href="#before-after">See it in action</a>
             </Button>
           </div>
 
-          <p className="text-sm text-muted-foreground mb-2">
-            Free and open source. 14 skills. 100+ HIG reference topics.
-          </p>
-          <a
-            href="https://github.com/raintree-technology/apple-hig-skills"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="inline-flex items-center gap-1.5 text-sm text-muted-foreground hover:text-foreground transition-colors mb-6"
-          >
-            <Github className="h-3.5 w-3.5" />
-            Star on GitHub
-            <span className="sr-only"> (opens in new tab)</span>
-          </a>
+          <div className="flex flex-wrap items-center justify-center gap-x-6 gap-y-2 mb-6">
+            <a
+              href="https://github.com/raintree-technology/apple-hig-skills"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center gap-1.5 text-sm text-muted-foreground hover:text-foreground transition-colors"
+            >
+              <Github className="h-3.5 w-3.5" />
+              Star on GitHub
+              {stars !== null && (
+                <span className="ml-0.5 inline-flex items-center rounded-full bg-muted/50 px-2 py-0.5 text-xs tabular-nums">
+                  {stars.toLocaleString()}
+                </span>
+              )}
+              <span className="sr-only"> (opens in new tab)</span>
+            </a>
+            <span className="text-muted-foreground/30 hidden sm:inline">|</span>
+            <span className="text-sm text-muted-foreground">
+              14 skills. 100+ HIG reference topics.
+            </span>
+          </div>
 
           <div className="inline-flex items-center gap-2">
             <code className="px-4 py-2.5 rounded-lg border bg-muted/50 text-sm font-mono text-muted-foreground">
-              git clone ...apple-hig-skills.git
+              npx skills add raintree-technology/apple-hig-skills
             </code>
             <Button
               variant="ghost"

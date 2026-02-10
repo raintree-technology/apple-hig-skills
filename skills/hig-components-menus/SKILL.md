@@ -10,7 +10,7 @@ description: >-
   asks about button design, menu design, context menu, toolbar, menu bar, action
   button, pop-up button, pull-down button, disclosure control, dock menu, edit
   menu, or any menu/button component layout and behavior. Cross-references:
-  hig-components-navigation, hig-components-selection, hig-components-presentation.
+  hig-components-search, hig-components-controls, hig-components-dialogs.
 ---
 
 # Apple HIG: Menus and Buttons
@@ -71,9 +71,9 @@ Check for `.claude/apple-design-context.md` before asking questions. Use existin
 
 ## Related Skills
 
-- **hig-components-navigation** -- Search fields, page controls alongside toolbars and menus
-- **hig-components-selection** -- Toggles, pickers, segmented controls complementing buttons
-- **hig-components-presentation** -- Alerts, sheets, popovers triggered by menu items or buttons
+- **hig-components-search** -- Search fields, page controls alongside toolbars and menus
+- **hig-components-controls** -- Toggles, pickers, segmented controls complementing buttons
+- **hig-components-dialogs** -- Alerts, sheets, popovers triggered by menu items or buttons
 - **hig-inputs** -- Keyboard shortcuts and pointer interactions with menus and toolbars
 
 ---

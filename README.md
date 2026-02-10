@@ -14,9 +14,9 @@ Apple [Human Interface Guidelines](https://developer.apple.com/design/human-inte
 | [hig-components-content](skills/hig-components-content/) | Charts, collections, image views, web views, activity views, lockups. |
 | [hig-components-layout](skills/hig-components-layout/) | Sidebars, split views, tab bars, windows, lists, scroll views, ornaments. |
 | [hig-components-menus](skills/hig-components-menus/) | Buttons, context menus, toolbars, menu bar, pop-up and pull-down buttons. |
-| [hig-components-navigation](skills/hig-components-navigation/) | Search fields, page controls, path controls. |
-| [hig-components-presentation](skills/hig-components-presentation/) | Alerts, action sheets, sheets, popovers, digit entry views. |
-| [hig-components-selection](skills/hig-components-selection/) | Pickers, toggles, sliders, text fields, segmented controls, steppers. |
+| [hig-components-search](skills/hig-components-search/) | Search fields, page controls, path controls. |
+| [hig-components-dialogs](skills/hig-components-dialogs/) | Alerts, action sheets, sheets, popovers, digit entry views. |
+| [hig-components-controls](skills/hig-components-controls/) | Pickers, toggles, sliders, text fields, segmented controls, steppers. |
 | [hig-components-status](skills/hig-components-status/) | Progress indicators, status bars, activity rings. |
 | [hig-components-system](skills/hig-components-system/) | Widgets, Live Activities, notifications, App Clips, complications. |
 | [hig-inputs](skills/hig-inputs/) | Gestures, keyboards, Apple Pencil, pointers, game controllers, Digital Crown. |

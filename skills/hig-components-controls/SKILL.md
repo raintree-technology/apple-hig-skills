@@ -1,5 +1,5 @@
 ---
-name: hig-components-selection
+name: hig-components-controls
 version: 1.0.0
 description: >-
   Apple HIG guidance for selection and input controls including pickers, toggles,
@@ -10,8 +10,8 @@ description: >-
   about picker design, toggle, switch, slider, stepper, text field, text input,
   segmented control, combo box, label, token field, virtual keyboard, rating
   indicator, gauge, form design, input validation, or control state management.
-  Cross-references: hig-components-menus, hig-components-presentation,
-  hig-components-navigation.
+  Cross-references: hig-components-menus, hig-components-dialogs,
+  hig-components-search.
 ---
 
 # Apple HIG: Selection and Input Controls
@@ -78,8 +78,8 @@ Check for `.claude/apple-design-context.md` before asking questions. Use existin
 ## Related Skills
 
 - **hig-components-menus** -- Buttons and pop-up buttons complementing selection controls
-- **hig-components-presentation** -- Sheets and popovers containing forms
-- **hig-components-navigation** -- Search fields sharing text input patterns
+- **hig-components-dialogs** -- Sheets and popovers containing forms
+- **hig-components-search** -- Search fields sharing text input patterns
 - **hig-inputs** -- Keyboard, pointer, gesture interactions with controls
 - **hig-foundations** -- Typography, color, layout for control styling
 

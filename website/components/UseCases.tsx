@@ -1,7 +1,5 @@
 import {
-  Accessibility,
   ArrowRight,
-  Bell,
   CreditCard,
   Glasses,
   Paintbrush,
@@ -22,43 +20,29 @@ const useCases = [
     icon: Tablet,
     question: "Building an iPad app?",
     answer:
-      "Get guidance on sidebars vs. tab bars, split views, multitasking support, and pointer interactions — all specific to iPadOS conventions.",
+      "Skip the guesswork on sidebars vs. tab bars, split views, multitasking, and pointer interactions. Get the iPadOS-specific answer, not generic iOS advice.",
     skills: ["Platforms", "Layout", "Inputs"],
   },
   {
     icon: CreditCard,
     question: "Adding Apple Pay?",
     answer:
-      "Instant guidance on payment button placement, flow design, error states, and the specific UX patterns Apple requires for approval.",
+      "Get the exact button placement, flow design, and error handling patterns Apple requires — so you pass App Review the first time.",
     skills: ["Technologies", "Patterns"],
-  },
-  {
-    icon: Accessibility,
-    question: "Making your app accessible?",
-    answer:
-      "Know the exact Dynamic Type sizes, contrast ratios, VoiceOver requirements, and accessibility patterns Apple expects.",
-    skills: ["Foundations", "Technologies"],
   },
   {
     icon: Glasses,
     question: "Designing for visionOS?",
     answer:
-      "Understand ornaments, volumes, immersive spaces, eye tracking, and spatial interaction patterns for Apple Vision Pro.",
+      "Ornaments, volumes, immersive spaces, eye tracking, and spatial interactions — the full visionOS design language in one place.",
     skills: ["Platforms", "Inputs", "Layout"],
   },
   {
     icon: Paintbrush,
     question: "Getting dark mode right?",
     answer:
-      "System colors, material backgrounds, elevation, and vibrancy — the full set of rules for a dark mode that feels native.",
+      "System colors, materials, elevation, and vibrancy — every rule for a dark mode that feels native, not bolted on.",
     skills: ["Foundations", "Content"],
-  },
-  {
-    icon: Bell,
-    question: "Designing notifications?",
-    answer:
-      "Notification grouping, Live Activities, action buttons, and how to respect user attention without being intrusive.",
-    skills: ["System", "Patterns"],
   },
 ];
 
@@ -78,12 +62,12 @@ export default function UseCases() {
             What can you ask?
           </h2>
           <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
-            Real scenarios. Specific, platform-aware answers from Apple&apos;s
-            guidelines.
+            Ask a design question. Get a specific, platform-aware answer
+            grounded in Apple&apos;s actual guidelines.
           </p>
         </div>
 
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+        <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 max-w-4xl mx-auto">
           {useCases.map((useCase) => (
             <Card key={useCase.question} className="h-full">
               <CardHeader className="pb-3">
@@ -116,10 +100,9 @@ export default function UseCases() {
         </div>
 
         <div className="text-center mt-12">
-          <p className="text-muted-foreground mb-3">Ready to try it?</p>
           <Button size="lg" asChild>
-            <a href="#install">
-              Install now — it&apos;s free
+            <a href="#before-after">
+              See it in action
               <ArrowRight className="h-4 w-4" />
             </a>
           </Button>

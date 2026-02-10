@@ -1,10 +1,12 @@
 import AgentSkills from "@/components/AgentSkills";
+import Audience from "@/components/Audience";
+import BeforeAfter from "@/components/BeforeAfter";
+import FAQ from "@/components/FAQ";
 import Footer from "@/components/Footer";
 import Header from "@/components/Header";
 import Hero from "@/components/Hero";
 import HowItWorks from "@/components/HowItWorks";
 import Install from "@/components/Install";
-import MoreFromRaintree from "@/components/MoreFromRaintree";
 import Skills from "@/components/Skills";
 import UseCases from "@/components/UseCases";
 import { Separator } from "@/components/ui/separator";
@@ -26,7 +28,11 @@ export default function Home() {
         <SectionDivider />
         <UseCases />
         <SectionDivider />
+        <BeforeAfter />
+        <SectionDivider />
         <HowItWorks />
+        <SectionDivider />
+        <Audience />
         <SectionDivider />
         <Skills />
         <SectionDivider />
@@ -34,7 +40,7 @@ export default function Home() {
         <SectionDivider />
         <AgentSkills />
         <SectionDivider />
-        <MoreFromRaintree />
+        <FAQ />
       </main>
       <Footer />
     </div>

@@ -1,5 +1,5 @@
 ---
-name: hig-components-presentation
+name: hig-components-dialogs
 version: 1.0.0
 description: >-
   Apple HIG guidance for presentation components including alerts, action sheets,
@@ -9,7 +9,7 @@ description: >-
   alert design, action sheet, popover, sheet, modal, dialog, digit entry,
   confirmation dialog, warning dialog, modal presentation, non-modal content,
   destructive action confirmation, or overlay UI patterns. Cross-references:
-  hig-components-menus, hig-components-selection, hig-components-navigation,
+  hig-components-menus, hig-components-controls, hig-components-search,
   hig-patterns.
 ---
 
@@ -66,8 +66,8 @@ Check for `.claude/apple-design-context.md` before asking questions. Use existin
 ## Related Skills
 
 - **hig-components-menus** -- Buttons and toolbar items triggering presentations
-- **hig-components-selection** -- Input controls within sheets and popovers
-- **hig-components-navigation** -- Search and navigation within presented views
+- **hig-components-controls** -- Input controls within sheets and popovers
+- **hig-components-search** -- Search and navigation within presented views
 - **hig-patterns** -- Modality, interruptions, user flow management
 - **hig-foundations** -- Color, typography, layout for presentation components
 

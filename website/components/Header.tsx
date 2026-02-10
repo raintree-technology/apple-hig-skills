@@ -9,6 +9,7 @@ const homeNavItems = [
   { label: "How It Works", href: "#how-it-works", id: "how-it-works" },
   { label: "What's Included", href: "#skills", id: "skills" },
   { label: "Install", href: "#install", id: "install" },
+  { label: "FAQ", href: "#faq", id: "faq" },
 ];
 
 const topicNavItems = [

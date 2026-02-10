@@ -15,28 +15,28 @@ const steps = [
     title: "Discovery",
     tokens: "~50 tokens",
     description:
-      "The agent reads skill names and descriptions to find the right guidance. With 14 skills, this costs only ~700 tokens.",
+      "Your agent scans 14 skill descriptions to find the right one. Costs ~700 tokens total — barely a rounding error.",
   },
   {
     icon: FileText,
     title: "Activation",
     tokens: "~1,500 tokens",
     description:
-      "The matching SKILL.md loads with key principles, reference index, and output format — just the routing layer.",
+      "The matching skill loads its key principles and reference index. Just enough to route to the right answer.",
   },
   {
     icon: Settings,
     title: "Context",
     tokens: "~200 tokens",
     description:
-      "Checks your project context for platform, tech stack, and constraints to tailor advice to your specific app.",
+      "Your project context (platform, tech stack, constraints) tailors the guidance to your specific app.",
   },
   {
     icon: BookOpen,
     title: "Deep Reference",
     tokens: "~2,000 tokens",
     description:
-      "Only the exact HIG topic you asked about loads on demand. Not the entire guide — just what's relevant.",
+      "Only the exact HIG topic you asked about loads. Not the entire guide — just the page you need.",
   },
 ];
 
@@ -56,8 +56,8 @@ export default function HowItWorks() {
             Your agent loads only what it needs.
           </h2>
           <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
-            A typical question uses ~4,000 tokens — not the 50,000+ that dumping
-            the full HIG would cost.
+            ~4,000 tokens per question instead of 50,000+ for the full HIG.
+            Your agent gets the answer without burning your context window.
           </p>
         </div>
 
@@ -110,10 +110,32 @@ export default function HowItWorks() {
           </div>
         </div>
 
-        <p className="text-center text-muted-foreground max-w-2xl mx-auto mb-16">
-          That means faster responses, lower costs, and room in the context
-          window for your agent to focus on your actual code.
-        </p>
+        <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 max-w-3xl mx-auto mb-16 mt-8">
+          <div className="text-center rounded-xl border bg-card/50 px-4 py-5">
+            <p className="text-2xl sm:text-3xl font-semibold tracking-tight mb-1">
+              Seconds
+            </p>
+            <p className="text-xs text-muted-foreground">
+              Not hours in Apple&apos;s docs
+            </p>
+          </div>
+          <div className="text-center rounded-xl border bg-card/50 px-4 py-5">
+            <p className="text-2xl sm:text-3xl font-semibold tracking-tight mb-1">
+              Grounded
+            </p>
+            <p className="text-xs text-muted-foreground">
+              Apple&apos;s actual text, not guesses
+            </p>
+          </div>
+          <div className="text-center rounded-xl border bg-card/50 px-4 py-5">
+            <p className="text-2xl sm:text-3xl font-semibold tracking-tight mb-1">
+              Current
+            </p>
+            <p className="text-xs text-muted-foreground">
+              Updated when Apple updates
+            </p>
+          </div>
+        </div>
 
         <ol className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 list-none p-0">
           {steps.map((step, i) => (
@@ -149,12 +171,9 @@ export default function HowItWorks() {
         </ol>
 
         <div className="text-center mt-12">
-          <p className="text-muted-foreground mb-3">
-            See how efficient it is for yourself.
-          </p>
           <Button size="lg" asChild>
-            <a href="#install">
-              Install now — it&apos;s free
+            <a href="#skills">
+              See what&apos;s included
               <ArrowRight className="h-4 w-4" />
             </a>
           </Button>

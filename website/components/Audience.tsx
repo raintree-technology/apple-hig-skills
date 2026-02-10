@@ -12,25 +12,25 @@ const audiences = [
     icon: Code2,
     title: "Indie iOS developers",
     description:
-      "Ship faster with design decisions handled. Ask your AI agent instead of searching through hundreds of HIG pages.",
+      "Stop context-switching between Xcode and Apple's docs. Ask your agent a design question and keep building.",
   },
   {
     icon: Palette,
-    title: "Design teams using AI tools",
+    title: "Design teams",
     description:
-      "Give Claude, Cursor, or Copilot the same HIG knowledge your senior designers have. Consistent guidance across your team.",
+      "Give Claude, Cursor, or Copilot the same HIG knowledge your senior designers have. Every team member gets consistent, accurate answers.",
   },
   {
     icon: Building2,
     title: "Agencies and consultancies",
     description:
-      "Deliver Apple-quality design advice to clients without memorizing every guideline. Your AI becomes your HIG reference.",
+      "Deliver Apple-quality design guidance to clients without memorizing every guideline. Your AI handles the reference work.",
   },
   {
     icon: Bot,
     title: "Teams building AI features",
     description:
-      "Need your AI-generated UI to feel native? These skills ensure your agent knows what Apple expects.",
+      "AI-generated UI that feels native, not generic. Your agent knows what Apple expects before you ship.",
   },
 ];
 
@@ -50,8 +50,8 @@ export default function Audience() {
             Built for how you work.
           </h2>
           <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
-            Whether you&apos;re a solo developer or a full team, these skills
-            meet you where you are.
+            Solo developer or full team — same accurate answers, zero HIG
+            research time.
           </p>
         </div>
 

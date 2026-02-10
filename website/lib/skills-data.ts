@@ -221,19 +221,19 @@ export const categories: Category[] = [
         refCount: 11,
       },
       {
-        name: "hig-components-navigation",
-        displayName: "Navigation",
+        name: "hig-components-search",
+        displayName: "Search",
         description:
-          "Navigation and search: search fields, page controls, path controls.",
+          "Search and navigation: search fields, page controls, path controls.",
         topics: ["Search Fields", "Page Controls", "Path Controls"],
         references: ["Page Controls", "Path Controls", "Search Fields"],
         refCount: 3,
       },
       {
-        name: "hig-components-presentation",
-        displayName: "Presentation",
+        name: "hig-components-dialogs",
+        displayName: "Dialogs",
         description:
-          "Presentation components: alerts, action sheets, sheets, popovers, dialogs.",
+          "Dialogs and overlays: alerts, action sheets, sheets, popovers, digit entry views.",
         topics: ["Alerts", "Action Sheets", "Sheets", "Popovers"],
         references: [
           "Action Sheets",
@@ -245,10 +245,10 @@ export const categories: Category[] = [
         refCount: 5,
       },
       {
-        name: "hig-components-selection",
-        displayName: "Selection & Input",
+        name: "hig-components-controls",
+        displayName: "Controls",
         description:
-          "Selection and input controls: pickers, toggles, sliders, text fields, segmented controls, and more.",
+          "Input controls: pickers, toggles, sliders, text fields, segmented controls, and more.",
         topics: [
           "Pickers",
           "Toggles",

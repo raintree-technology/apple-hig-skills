@@ -60,7 +60,7 @@ export default function UpdateNotify() {
         <input
           type="email"
           required
-          placeholder="you@example.com"
+          placeholder="Enter your email"
           value={email}
           onChange={(e) => {
             setEmail(e.target.value);

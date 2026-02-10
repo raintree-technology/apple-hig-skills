@@ -1,5 +1,5 @@
 ---
-name: hig-components-navigation
+name: hig-components-search
 version: 1.0.0
 description: >-
   Apple HIG guidance for navigation-related components including search fields,
@@ -8,7 +8,7 @@ description: >-
   asks about search field, search bar, page control, path control, breadcrumb,
   navigation component, search UX, search suggestions, search scopes, paginated
   content navigation, or file path hierarchy display. Cross-references:
-  hig-components-menus, hig-components-selection, hig-components-presentation,
+  hig-components-menus, hig-components-controls, hig-components-dialogs,
   hig-patterns.
 ---
 
@@ -58,8 +58,8 @@ Check for `.claude/apple-design-context.md` before asking questions. Use existin
 ## Related Skills
 
 - **hig-components-menus** -- Toolbars and menu bars hosting search and navigation controls
-- **hig-components-selection** -- Text fields, pickers, segmented controls in search interfaces
-- **hig-components-presentation** -- Popovers and sheets for expanded search or filtering
+- **hig-components-controls** -- Text fields, pickers, segmented controls in search interfaces
+- **hig-components-dialogs** -- Popovers and sheets for expanded search or filtering
 - **hig-patterns** -- Navigation patterns and information architecture
 - **hig-foundations** -- Typography and layout for navigation components
 

@@ -11,9 +11,9 @@ Current versions of all skills. Agents can compare against local versions to che
 | hig-components-content | 1.0.0 | 2025-02-02 |
 | hig-components-layout | 1.0.0 | 2025-02-02 |
 | hig-components-menus | 1.0.0 | 2025-02-02 |
-| hig-components-navigation | 1.0.0 | 2025-02-02 |
-| hig-components-presentation | 1.0.0 | 2025-02-02 |
-| hig-components-selection | 1.0.0 | 2025-02-02 |
+| hig-components-search | 1.0.0 | 2025-02-02 |
+| hig-components-dialogs | 1.0.0 | 2025-02-02 |
+| hig-components-controls | 1.0.0 | 2025-02-02 |
 | hig-components-status | 1.0.0 | 2025-02-02 |
 | hig-components-system | 1.0.0 | 2025-02-02 |
 | hig-inputs | 1.0.0 | 2025-02-02 |

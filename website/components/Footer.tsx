@@ -2,7 +2,6 @@
 
 import { faXTwitter } from "@fortawesome/free-brands-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { Github } from "lucide-react";
 import { Separator } from "@/components/ui/separator";
 
 export default function Footer() {
@@ -25,10 +24,17 @@ export default function Footer() {
               href="https://github.com/raintree-technology/apple-hig-skills"
               target="_blank"
               rel="noopener noreferrer"
-              className="hover:text-foreground transition-colors p-1"
-              aria-label="GitHub (opens in new tab)"
+              className="hover:text-foreground hover:underline underline-offset-4 transition-colors"
             >
-              <Github className="h-4 w-4" />
+              GitHub
+            </a>
+            <a
+              href="https://github.com/raintree-technology/apple-hig-skills/blob/main/CONTRIBUTING.md"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="hover:text-foreground hover:underline underline-offset-4 transition-colors"
+            >
+              Contributing
             </a>
             <a
               href="https://x.com/raintree_tech"
@@ -88,6 +94,14 @@ export default function Footer() {
             >
               MIT License
             </a>
+            <a
+              href="https://github.com/raintree-technology/apple-hig-skills/blob/main/CONTRIBUTING.md"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="hover:text-foreground hover:underline underline-offset-4 transition-colors"
+            >
+              Contributing
+            </a>
           </nav>
 
           <div className="flex items-center gap-4">
@@ -107,15 +121,6 @@ export default function Footer() {
               aria-label="X (opens in new tab)"
             >
               <FontAwesomeIcon icon={faXTwitter} className="h-3.5 w-3.5" />
-            </a>
-            <a
-              href="https://github.com/raintree-technology"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="hover:text-foreground transition-colors p-1"
-              aria-label="GitHub (opens in new tab)"
-            >
-              <Github className="h-3.5 w-3.5" />
             </a>
           </div>
         </div>

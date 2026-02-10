@@ -19,9 +19,9 @@ Apple HIG Skills packages the full [Apple Human Interface Guidelines](https://de
 - [hig-components-content](https://github.com/raintree-technology/apple-hig-skills/tree/main/skills/hig-components-content): Charts, collections, image views, web views, activity views, lockups
 - [hig-components-layout](https://github.com/raintree-technology/apple-hig-skills/tree/main/skills/hig-components-layout): Sidebars, split views, tab bars, windows, lists, scroll views, ornaments
 - [hig-components-menus](https://github.com/raintree-technology/apple-hig-skills/tree/main/skills/hig-components-menus): Buttons, context menus, toolbars, menu bar, pop-up and pull-down buttons
-- [hig-components-navigation](https://github.com/raintree-technology/apple-hig-skills/tree/main/skills/hig-components-navigation): Search fields, page controls, path controls
-- [hig-components-presentation](https://github.com/raintree-technology/apple-hig-skills/tree/main/skills/hig-components-presentation): Alerts, action sheets, sheets, popovers, digit entry views
-- [hig-components-selection](https://github.com/raintree-technology/apple-hig-skills/tree/main/skills/hig-components-selection): Pickers, toggles, sliders, text fields, segmented controls, steppers
+- [hig-components-search](https://github.com/raintree-technology/apple-hig-skills/tree/main/skills/hig-components-search): Search fields, page controls, path controls
+- [hig-components-dialogs](https://github.com/raintree-technology/apple-hig-skills/tree/main/skills/hig-components-dialogs): Alerts, action sheets, sheets, popovers, digit entry views
+- [hig-components-controls](https://github.com/raintree-technology/apple-hig-skills/tree/main/skills/hig-components-controls): Pickers, toggles, sliders, text fields, segmented controls, steppers
 - [hig-components-status](https://github.com/raintree-technology/apple-hig-skills/tree/main/skills/hig-components-status): Progress indicators, status bars, activity rings
 - [hig-components-system](https://github.com/raintree-technology/apple-hig-skills/tree/main/skills/hig-components-system): Widgets, Live Activities, notifications, App Clips, complications
 - [hig-inputs](https://github.com/raintree-technology/apple-hig-skills/tree/main/skills/hig-inputs): Gestures, keyboards, Apple Pencil, pointers, game controllers, Digital Crown

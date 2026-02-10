@@ -1,168 +1,6 @@
 ---
 title: "Search fields | Apple Developer Documentation"
 source: https://developer.apple.com/design/human-interface-guidelines/search-fields
----
-
-# This page requires JavaScript.
-
-Please turn on JavaScript in your browser and refresh the page to view its content.
-
-Skip Navigation 
-
-  * Global Nav Open MenuGlobal Nav Close Menu
-  * [Apple Developer](/)
-
-
-
-[Search Developer Cancel ](/search/)
-
-  * [Apple Developer](/)
-  * [News](/news/)
-  * [Discover](/discover/)
-  * [Design](/design/)
-  * [Develop](/develop/)
-  * [Distribute](/distribute/)
-  * [Support](/support/)
-  * [Account](/account/)
-  * [](/search/)
-
-
-
-Cancel 
-
-Only search within “Human Interface Guidelines”
-
-### Quick Links
-
-  * [Downloads](/download/)
-  * [Documentation](/documentation/)
-  * [Sample Code](/documentation/samplecode/)
-  * [Videos](/videos/)
-  * [Forums](/forums/)
-
-5 Quick Links
-
-[ Design ](/design/)
-
-Open Menu 
-
-  * [ Overview ](https://developer.apple.com/design/)
-  * [ What’s New ](https://developer.apple.com/design/whats-new/)
-  * [ Get Started ](https://developer.apple.com/design/get-started/)
-  * [ Guidelines ](/design/human-interface-guidelines)
-  * [ Resources ](https://developer.apple.com/design/resources/)
-
-
-
-## Human Interface Guidelines
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/c9d2e563aa23997588edd7b4538f6c5b/overview.svg)
-
-1 of 6 symbols inside <root> containing 7 symbols[Getting started](/design/human-interface-guidelines/getting-started)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/c9d2e563aa23997588edd7b4538f6c5b/overview.svg)
-
-2 of 6 symbols inside <root> containing 18 symbols[Foundations](/design/human-interface-guidelines/foundations)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/c9d2e563aa23997588edd7b4538f6c5b/overview.svg)
-
-3 of 6 symbols inside <root> containing 25 symbols[Patterns](/design/human-interface-guidelines/patterns)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/c9d2e563aa23997588edd7b4538f6c5b/overview.svg)
-
-4 of 6 symbols inside <root> containing 8 symbols[Components](/design/human-interface-guidelines/components)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/f8287e40b9153ea3bfc47855f3ed090e/content.svg)
-
-1 of 8 symbols inside 1901254726 containing 4 symbols[Content](/design/human-interface-guidelines/content)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/9c9b21773f065997bd33e2258bcedc6e/layout-and-organization.svg)
-
-2 of 8 symbols inside 1901254726 containing 10 symbols[Layout and organization](/design/human-interface-guidelines/layout-and-organization)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/75ce5d52e57519f2cb4ff43bf947e464/menus-and-actions.svg)
-
-3 of 8 symbols inside 1901254726 containing 12 symbols[Menus and actions](/design/human-interface-guidelines/menus-and-actions)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/f6d4ee51abadcd1152fb16d669a41ff5/navigation-and-search.svg)
-
-4 of 8 symbols inside 1901254726 containing 5 symbols[Navigation and search](/design/human-interface-guidelines/navigation-and-search)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-1 of 5 symbols inside 1698069183 [Path controls](/design/human-interface-guidelines/path-controls)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-2 of 5 symbols inside 1698069183 [Search fields](/design/human-interface-guidelines/search-fields)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-3 of 5 symbols inside 1698069183 [Sidebars](/design/human-interface-guidelines/sidebars)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-4 of 5 symbols inside 1698069183 [Tab bars](/design/human-interface-guidelines/tab-bars)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-5 of 5 symbols inside 1698069183 [Token fields](/design/human-interface-guidelines/token-fields)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/9d6c58bc552734e20b577da42f851727/presentation.svg)
-
-5 of 8 symbols inside 1901254726 containing 8 symbols[Presentation](/design/human-interface-guidelines/presentation)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/6bfe82fa338513b36059645f70a7baae/selection-and-input.svg)
-
-6 of 8 symbols inside 1901254726 containing 11 symbols[Selection and input](/design/human-interface-guidelines/selection-and-input)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/36102a182c11ce4e60c34205b85609aa/status.svg)
-
-7 of 8 symbols inside 1901254726 containing 4 symbols[Status](/design/human-interface-guidelines/status)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/3d1cd2ad10b834153a64d32b7692177c/system.svg)
-
-8 of 8 symbols inside 1901254726 containing 9 symbols[System experiences](/design/human-interface-guidelines/system-experiences)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/c9d2e563aa23997588edd7b4538f6c5b/overview.svg)
-
-5 of 6 symbols inside <root> containing 13 symbols[Inputs](/design/human-interface-guidelines/inputs)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/c9d2e563aa23997588edd7b4538f6c5b/overview.svg)
-
-6 of 6 symbols inside <root> containing 29 symbols[Technologies](/design/human-interface-guidelines/technologies)
-
-19 items were found. Tab back to navigate through them. 
-
-Navigator is ready 
 
 # Search fields
 
@@ -170,11 +8,11 @@ A search field lets people search a collection of content for specific terms the
 
 ![A stylized representation of a search field containing placeholder text and a dictation icon. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](https://docs-assets.developer.apple.com/published/73f9e564b79cbe48e29ae2a9f7b83682/components-search-field-intro%402x.png)
 
-A search field is an editable text field that displays a Search icon, a Clear button, and placeholder text where people can enter what they are searching for. Search fields can use a [scope control](/design/human-interface-guidelines/search-fields#Scope-controls-and-tokens) as well as [tokens](/design/human-interface-guidelines/search-fields#Scope-controls-and-tokens) to help filter and refine the scope of their search. Across each platform, there are different patterns for accessing search based on the goals and design of your app.
+A search field is an editable text field that displays a Search icon, a Clear button, and placeholder text where people can enter what they are searching for. Search fields can use a [scope control](https://developer.apple.com/design/human-interface-guidelines/search-fields#Scope-controls-and-tokens) as well as [tokens](https://developer.apple.com/design/human-interface-guidelines/search-fields#Scope-controls-and-tokens) to help filter and refine the scope of their search. Across each platform, there are different patterns for accessing search based on the goals and design of your app.
 
-For developer guidance, see [Adding a search interface to your app](/documentation/SwiftUI/Adding-a-search-interface-to-your-app); for guidance related to systemwide search, see [Searching](/design/human-interface-guidelines/searching).
+For developer guidance, see [Adding a search interface to your app](https://developer.apple.com/documentation/SwiftUI/Adding-a-search-interface-to-your-app); for guidance related to systemwide search, see [Searching](https://developer.apple.com/design/human-interface-guidelines/searching).
 
-## [Best practices](/design/human-interface-guidelines/search-fields#Best-practices)
+## [Best practices](https://developer.apple.com/design/human-interface-guidelines/search-fields#Best-practices)
 
 **Display placeholder text that describes the type of information people can search for.** For example, the Apple TV app includes the placeholder text _Shows, Movies, and More_. Avoid using a term like _Search_ for placeholder text because it doesn’t provide any helpful information.
 
@@ -186,11 +24,11 @@ For developer guidance, see [Adding a search interface to your app](/documentati
 
 **Consider letting people filter search results.** For example, you can include a scope control in the search results content area to help people quickly and easily filter search results.
 
-## [Scope controls and tokens](/design/human-interface-guidelines/search-fields#Scope-controls-and-tokens)
+## [Scope controls and tokens](https://developer.apple.com/design/human-interface-guidelines/search-fields#Scope-controls-and-tokens)
 
 Scope controls and tokens are components you can use to let someone narrow the parameters of a search either before or after they make it.
 
-  * A _scope control_ acts like a [segmented control](/design/human-interface-guidelines/segmented-controls) for choosing a category for the search.
+  * A _scope control_ acts like a [segmented control](https://developer.apple.com/design/human-interface-guidelines/segmented-controls) for choosing a category for the search.
 
   * A _token_ is a visual representation of a search term that someone can select and edit, and acts as a filter for any additional terms in the search.
 
@@ -199,19 +37,19 @@ Scope controls and tokens are components you can use to let someone narrow the p
 
 ![A diagram of the Mail app on iPhone with the search field open above the keyboard and the word Design entered in the field. Callouts indicate a scope control at the top of the screen to switch between searching all mailboxes and the current mailbox, and a list of tokens in a Suggestions area beneath the control that represent different filters for the search.](https://docs-assets.developer.apple.com/published/c39602d60041fae736e46f91641d8373/search-fields-scope-control-tokens%402x.png)
 
-**Use a scope control to filter among clearly defined search categories.** A scope control can help someone move from a broader scope to a narrower one. For example, in Mail on iPhone, a scope control helps people move from searching their entire mailbox to just the specific mailbox they’re viewing. For developer guidance, see [Scoping a search operation](/documentation/SwiftUI/Scoping-a-search-operation).
+**Use a scope control to filter among clearly defined search categories.** A scope control can help someone move from a broader scope to a narrower one. For example, in Mail on iPhone, a scope control helps people move from searching their entire mailbox to just the specific mailbox they’re viewing. For developer guidance, see [Scoping a search operation](https://developer.apple.com/documentation/SwiftUI/Scoping-a-search-operation).
 
 **Default to a broader scope and let people refine it as they need.** A broader scope provides context for the full set of available results, which helps guide people in a useful direction when they choose to narrow the scope.
 
-**Use tokens to filter by common search terms or items.** When you define a token, the term it represents gains a visual treatment that encapsulates it, indicating that people can select and edit it as a single item. Tokens can clarify a search term, like filtering by a specific contact in Mail, or focus a search to a specific set of attributes, like filtering by photos in Messages. For the related macOS component, see [Token fields](/design/human-interface-guidelines/token-fields).
+**Use tokens to filter by common search terms or items.** When you define a token, the term it represents gains a visual treatment that encapsulates it, indicating that people can select and edit it as a single item. Tokens can clarify a search term, like filtering by a specific contact in Mail, or focus a search to a specific set of attributes, like filtering by photos in Messages. For the related macOS component, see [Token fields](https://developer.apple.com/design/human-interface-guidelines/token-fields).
 
 **Consider pairing tokens with search suggestions.** People may not know which tokens are available, so pairing them with search suggestions can help people learn how to use them.
 
-## [Platform considerations](/design/human-interface-guidelines/search-fields#Platform-considerations)
+## [Platform considerations](https://developer.apple.com/design/human-interface-guidelines/search-fields#Platform-considerations)
 
  _No additional considerations for visionOS_.
 
-### [iOS](/design/human-interface-guidelines/search-fields#iOS)
+### [iOS](https://developer.apple.com/design/human-interface-guidelines/search-fields#iOS)
 
 There are three main places you can position the entry point for search:
 
@@ -226,7 +64,7 @@ There are three main places you can position the entry point for search:
 
 Where search makes the most sense depends on the layout, content, and navigation of your app.
 
-#### [Search in a tab bar](/design/human-interface-guidelines/search-fields#Search-in-a-tab-bar)
+#### [Search in a tab bar](https://developer.apple.com/design/human-interface-guidelines/search-fields#Search-in-a-tab-bar)
 
 You can place search as a visually distinct tab on the trailing side of a tab bar, which keeps search visible and always available as people switch between the sections of your app.
 
@@ -246,7 +84,7 @@ Unfocused
 
 **Start with the search field unfocused to promote discovery and exploration.** When the search field starts unfocused, the search tab expands into an unselected field at the bottom of the screen. This provides space on the rest of the screen for additional discovery or navigation before someone taps the field to begin the search. This is great for an app with a large collection of content to showcase, like Music or TV.
 
-#### [Search in a toolbar](/design/human-interface-guidelines/search-fields#Search-in-a-toolbar)
+#### [Search in a toolbar](https://developer.apple.com/design/human-interface-guidelines/search-fields#Search-in-a-toolbar)
 
 As an alternative to search in a tab bar, you can also place search in a toolbar either at the bottom or top of the screen.
 
@@ -269,7 +107,7 @@ Search in a top toolbar
 
 **Place search at the top when itʼs important to defer to content at the bottom of the screen, or thereʼs no bottom toolbar.** Use search at the top in cases where covering the content might interfere with a primary function of the app. The Wallet app, for example, includes event passes in a stack at the bottom of the screen for easy access and viewing at a glance.
 
-#### [Search as an inline field](/design/human-interface-guidelines/search-fields#Search-as-an-inline-field)
+#### [Search as an inline field](https://developer.apple.com/design/human-interface-guidelines/search-fields#Search-as-an-inline-field)
 
 In some cases you might want your app to include a search field inline with content.
 
@@ -279,7 +117,7 @@ In some cases you might want your app to include a search field inline with cont
 
 **When at the top, position an inline search field above the list it searches, and pin it to the top toolbar when scrolling.** This helps keep it distinct from search that appears in other locations.
 
-### [iPadOS, macOS](/design/human-interface-guidelines/search-fields#iPadOS-macOS)
+### [iPadOS, macOS](https://developer.apple.com/design/human-interface-guidelines/search-fields#iPadOS-macOS)
 
 The placement and behavior of the search field in iPadOS and macOS is similar; on both platforms, clearing the field exits search and dismisses the keyboard if present. If your app is available on both iPad and Mac, try to keep the search experience as consistent as possible across both platforms.
 
@@ -301,39 +139,39 @@ The placement and behavior of the search field in iPadOS and macOS is similar; o
 
 **Account for window resizing with the placement of the search field.** On iPad, the search field fluidly resizes with the app window like it does on Mac. However, for compact views on iPad, itʼs important to ensure that search is available where it’s most contextually useful. For example, Notes and Mail place search above the column for the content list when they resize down to a compact view.
 
-### [tvOS](/design/human-interface-guidelines/search-fields#tvOS)
+### [tvOS](https://developer.apple.com/design/human-interface-guidelines/search-fields#tvOS)
 
-A search screen is a specialized keyboard screen that helps people enter search text, displaying search results beneath the keyboard in a fully customizable view. For developer guidance, see [`UISearchController`](/documentation/UIKit/UISearchController).
+A search screen is a specialized keyboard screen that helps people enter search text, displaying search results beneath the keyboard in a fully customizable view. For developer guidance, see [`UISearchController`](https://developer.apple.com/documentation/UIKit/UISearchController).
 
 ![An illustration of a search screen in tvOS. The screen includes a field with a keyboard input area at the top, a scope control, and a grid of top results at the bottom.](https://docs-assets.developer.apple.com/published/590a4ef7b02ccd9758f0e52e5c261574/search-fields-tvos-search%402x.png)
 
-**Provide suggestions to make searching easier.** People typically don’t want to do a lot of typing in tvOS. To improve the search experience, provide popular and context-specific search suggestions, including recent searches when available. For developer guidance, see [Using suggested searches with a search controller](/documentation/UIKit/using-suggested-searches-with-a-search-controller).
+**Provide suggestions to make searching easier.** People typically don’t want to do a lot of typing in tvOS. To improve the search experience, provide popular and context-specific search suggestions, including recent searches when available. For developer guidance, see [Using suggested searches with a search controller](https://developer.apple.com/documentation/UIKit/using-suggested-searches-with-a-search-controller).
 
-### [watchOS](/design/human-interface-guidelines/search-fields#watchOS)
+### [watchOS](https://developer.apple.com/design/human-interface-guidelines/search-fields#watchOS)
 
 When someone taps the search field, the system displays a text-input control that covers the entire screen. The app only returns to the search field after they tap the Cancel or Search button.
 
-## [Resources](/design/human-interface-guidelines/search-fields#Resources)
+## [Resources](https://developer.apple.com/design/human-interface-guidelines/search-fields#Resources)
 
-#### [Related](/design/human-interface-guidelines/search-fields#Related)
+#### [Related](https://developer.apple.com/design/human-interface-guidelines/search-fields#Related)
 
-[Searching](/design/human-interface-guidelines/searching)
+[Searching](https://developer.apple.com/design/human-interface-guidelines/searching)
 
-[Token fields](/design/human-interface-guidelines/token-fields)
+[Token fields](https://developer.apple.com/design/human-interface-guidelines/token-fields)
 
-#### [Developer documentation](/design/human-interface-guidelines/search-fields#Developer-documentation)
+#### [Developer documentation](https://developer.apple.com/design/human-interface-guidelines/search-fields#Developer-documentation)
 
-[Adding a search interface to your app](/documentation/SwiftUI/Adding-a-search-interface-to-your-app) — SwiftUI
+[Adding a search interface to your app](https://developer.apple.com/documentation/SwiftUI/Adding-a-search-interface-to-your-app) — SwiftUI
 
-[`searchable(text:placement:prompt:)`](/documentation/SwiftUI/View/searchable\(text:placement:prompt:\)) — SwiftUI
+[`searchable(text:placement:prompt:)`](https://developer.apple.com/documentation/SwiftUI/View/searchable\(text:placement:prompt:\)) — SwiftUI
 
-[`UISearchBar`](/documentation/UIKit/UISearchBar) — UIKit
+[`UISearchBar`](https://developer.apple.com/documentation/UIKit/UISearchBar) — UIKit
 
-[`UISearchTextField`](/documentation/UIKit/UISearchTextField) — UIKit
+[`UISearchTextField`](https://developer.apple.com/documentation/UIKit/UISearchTextField) — UIKit
 
-[`NSSearchField`](/documentation/AppKit/NSSearchField) — AppKit
+[`NSSearchField`](https://developer.apple.com/documentation/AppKit/NSSearchField) — AppKit
 
-#### [Videos](/design/human-interface-guidelines/search-fields#Videos)
+#### [Videos](https://developer.apple.com/design/human-interface-guidelines/search-fields#Videos)
 
 [![](https://devimages-cdn.apple.com/wwdc-services/images/3055294D-836B-4513-B7B0-0BC5666246B0/1AAA030E-2ECA-47D8-AE09-6D7B72A840F6/10044_wide_250x141_1x.jpg) Get to know the new design system ](https://developer.apple.com/videos/play/wwdc2025/356)
 
@@ -341,7 +179,7 @@ When someone taps the search field, the system displays a text-input control tha
 
 [![](https://devimages-cdn.apple.com/wwdc-services/images/119/D45C244B-2038-4692-99A0-6131ED5FD984/5084_wide_250x141_1x.jpg) Craft search experiences in SwiftUI ](https://developer.apple.com/videos/play/wwdc2021/10176)
 
-## [Change log](/design/human-interface-guidelines/search-fields#Change-log)
+## [Change log](https://developer.apple.com/design/human-interface-guidelines/search-fields#Change-log)
 
 Date| Changes  
 ---|---  
@@ -349,156 +187,3 @@ June 9, 2025| Updated guidance for search placement in iOS, consolidated iPadOS 
 September 12, 2023| Combined guidance common to all platforms.  
 June 5, 2023| Added guidance for using search fields in watchOS.  
   
-Current page is Search fields 
-
-##### Supported platforms
-
-  *   *   *   *   *   * 
-
-
-  * [ Search fields ](/design/human-interface-guidelines/search-fields#app-top)
-  * [ Best practices ](/design/human-interface-guidelines/search-fields#Best-practices)
-  * [ Scope controls and tokens ](/design/human-interface-guidelines/search-fields#Scope-controls-and-tokens)
-  * [ Platform considerations ](/design/human-interface-guidelines/search-fields#Platform-considerations)
-  * [ Resources ](/design/human-interface-guidelines/search-fields#Resources)
-  * [ Change log ](/design/human-interface-guidelines/search-fields#Change-log)
-
-
-
-[Apple](https://www.apple.com)
-
-  1. [Developer](/)
-  2. [ Documentation ](/documentation/)
-
-
-
-###  Platforms 
-
-Toggle Menu 
-
-  * [iOS](/ios/)
-  * [iPadOS](/ipados/)
-  * [macOS](/macos/)
-  * [tvOS](/tvos/)
-  * [visionOS](/visionos/)
-  * [watchOS](/watchos/)
-
-
-
-###  Tools 
-
-Toggle Menu 
-
-  * [Swift](/swift/)
-  * [SwiftUI](/swiftui/)
-  * [Swift Playground](/swift-playground/)
-  * [TestFlight](/testflight/)
-  * [Xcode](/xcode/)
-  * [Xcode Cloud](/xcode-cloud/)
-  * [SF Symbols](/sf-symbols/)
-
-
-
-###  Topics & Technologies 
-
-Toggle Menu 
-
-  * [Accessibility](/accessibility/)
-  * [Accessories](/accessories/)
-  * [App Extension](/app-extensions/)
-  * [App Store](/app-store/)
-  * [Audio & Video](/audio/)
-  * [Augmented Reality](/augmented-reality/)
-  * [Design](/design/)
-  * [Distribution](/distribute/)
-  * [Education](/education/)
-  * [Fonts](/fonts/)
-  * [Games](/games/)
-  * [Health & Fitness](/health-fitness/)
-  * [In-App Purchase](/in-app-purchase/)
-  * [Localization](/localization/)
-  * [Maps & Location](/maps/)
-  * [Machine Learning & AI](/machine-learning/)
-  * [Open Source](https://opensource.apple.com/)
-  * [Security](/security/)
-  * [Safari & Web](/safari/)
-
-
-
-###  Resources 
-
-Toggle Menu 
-
-  *   * [Documentation](/documentation/)
-  * [Tutorials](/learn/)
-  * [Downloads](/download/)
-  * [Forums](/forums/)
-  * [Videos](/videos/)
-
-
-
-###  Support 
-
-Toggle Menu 
-
-  * [Support Articles](/support/articles/)
-  * [Contact Us](/contact/)
-  * [Bug Reporting](/bug-reporting/)
-  * [System Status](/system-status/)
-
-
-
-###  Account 
-
-Toggle Menu 
-
-  * [Apple Developer](/account/)
-  * [App Store Connect](https://appstoreconnect.apple.com/)
-  * [Certificates, IDs, & Profiles](/account/ios/certificate/)
-  * [Feedback Assistant](https://feedbackassistant.apple.com/)
-
-
-
-###  Programs 
-
-Toggle Menu 
-
-  * [Apple Developer Program](/programs/)
-  * [Apple Developer Enterprise Program](/programs/enterprise/)
-  * [App Store Small Business Program](/app-store/small-business-program/)
-  * [MFi Program](https://mfi.apple.com/)
-  * [News Partner Program](/programs/news-partner/)
-  * [Video Partner Program](/programs/video-partner/)
-  * [Security Bounty Program](/security-bounty/)
-  * [Security Research Device Program](/programs/security-research-device/)
-
-
-
-###  Events 
-
-Toggle Menu 
-
-  * [Meet with Apple](/events/)
-  * [Apple Developer Centers](/events/developer-centers/)
-  * [App Store Awards](/app-store/app-store-awards/)
-  * [Apple Design Awards](/design/awards/)
-  * [Apple Developer Academies](/academies/)
-  * [WWDC](/wwdc/)
-
-
-
-To submit feedback on documentation, visit [Feedback Assistant](applefeedback://new?form_identifier=developertools.fba&answers%5B%3Aarea%5D=seedADC%3Adevpubs&answers%5B%3Adoc_type_req%5D=Technology%20Documentation&answers%5B%3Adocumentation_link_req%5D=https%3A%2F%2Fdeveloper.apple.com%2Fdesign%2Fhuman-interface-guidelines%2Fsearch-fields).
-
-Select a color scheme preference
-
-Light
-
-Dark
-
-Auto
-
-English  简体中文  日本語  한국어 
-
-Copyright © 2026 [Apple Inc.](https://www.apple.com) All rights reserved. 
-
-[ Terms of Use ](https://www.apple.com/legal/internet-services/terms/site.html)[ Privacy Policy ](https://www.apple.com/legal/privacy/)[ Agreements and Guidelines ](/support/terms/)

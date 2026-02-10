@@ -1,208 +1,6 @@
 ---
 title: "Right to left | Apple Developer Documentation"
 source: https://developer.apple.com/design/human-interface-guidelines/right-to-left
----
-
-# This page requires JavaScript.
-
-Please turn on JavaScript in your browser and refresh the page to view its content.
-
-Skip Navigation 
-
-  * Global Nav Open MenuGlobal Nav Close Menu
-  * [Apple Developer](/)
-
-
-
-[Search Developer Cancel ](/search/)
-
-  * [Apple Developer](/)
-  * [News](/news/)
-  * [Discover](/discover/)
-  * [Design](/design/)
-  * [Develop](/develop/)
-  * [Distribute](/distribute/)
-  * [Support](/support/)
-  * [Account](/account/)
-  * [](/search/)
-
-
-
-Cancel 
-
-Only search within “Human Interface Guidelines”
-
-### Quick Links
-
-  * [Downloads](/download/)
-  * [Documentation](/documentation/)
-  * [Sample Code](/documentation/samplecode/)
-  * [Videos](/videos/)
-  * [Forums](/forums/)
-
-5 Quick Links
-
-[ Design ](/design/)
-
-Open Menu 
-
-  * [ Overview ](https://developer.apple.com/design/)
-  * [ What’s New ](https://developer.apple.com/design/whats-new/)
-  * [ Get Started ](https://developer.apple.com/design/get-started/)
-  * [ Guidelines ](/design/human-interface-guidelines)
-  * [ Resources ](https://developer.apple.com/design/resources/)
-
-
-
-## Human Interface Guidelines
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/c9d2e563aa23997588edd7b4538f6c5b/overview.svg)
-
-1 of 6 symbols inside <root> containing 7 symbols[Getting started](/design/human-interface-guidelines/getting-started)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/c9d2e563aa23997588edd7b4538f6c5b/overview.svg)
-
-2 of 6 symbols inside <root> containing 18 symbols[Foundations](/design/human-interface-guidelines/foundations)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/83c941607786e0ba1f582082f4e94361/accessibility.svg)
-
-1 of 18 symbols inside -159075944 [Accessibility](/design/human-interface-guidelines/accessibility)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/fe2a86283eab29ab76732e955802ab1d/app-icons.svg)
-
-2 of 18 symbols inside -159075944 [App icons](/design/human-interface-guidelines/app-icons)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/8ccc36b6fd261c7d126737ba1a7fae5d/branding.svg)
-
-3 of 18 symbols inside -159075944 [Branding](/design/human-interface-guidelines/branding)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/d8868e121f0aff9e53911d53a00e1c1a/color.svg)
-
-4 of 18 symbols inside -159075944 [Color](/design/human-interface-guidelines/color)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/d0d8ac151e6b6513f9e33a90b8cff011/dark-mode.svg)
-
-5 of 18 symbols inside -159075944 [Dark Mode](/design/human-interface-guidelines/dark-mode)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/8404a78cf8d0b283d894aa5c80c0b3d8/icons.svg)
-
-6 of 18 symbols inside -159075944 [Icons](/design/human-interface-guidelines/icons)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/622f1bc92665b4bea75242308b7ec901/images.svg)
-
-7 of 18 symbols inside -159075944 [Images](/design/human-interface-guidelines/images)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/d5b7d90ff2c45d295ab24816bf9b7488/immersive-experiences.svg)
-
-8 of 18 symbols inside -159075944 [Immersive experiences](/design/human-interface-guidelines/immersive-experiences)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/555095c3c9550a1c9622f8b2fb944b4c/inclusion.svg)
-
-9 of 18 symbols inside -159075944 [Inclusion](/design/human-interface-guidelines/inclusion)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/f3e002314da7a56d2f24cdec3be06327/layout.svg)
-
-10 of 18 symbols inside -159075944 [Layout](/design/human-interface-guidelines/layout)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/1ef2efc25cb743289767a8505bc30929/materials.svg)
-
-11 of 18 symbols inside -159075944 [Materials](/design/human-interface-guidelines/materials)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/1a90a8ffd801429564df725c0c62fd51/motion.svg)
-
-12 of 18 symbols inside -159075944 [Motion](/design/human-interface-guidelines/motion)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/2a423497018ef4861033a900bb8241ad/privacy.svg)
-
-13 of 18 symbols inside -159075944 [Privacy](/design/human-interface-guidelines/privacy)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/585ef588a0cd49392ca51abdc81b302d/right-to-left.svg)
-
-14 of 18 symbols inside -159075944 [Right to left](/design/human-interface-guidelines/right-to-left)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/889c48d0b4f0916dabff9890e12cff79/sf-symbols.svg)
-
-15 of 18 symbols inside -159075944 [SF Symbols](/design/human-interface-guidelines/sf-symbols)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/5ab0c95285fec5f89d7c5eb7fa8b6a30/spatial-layout.svg)
-
-16 of 18 symbols inside -159075944 [Spatial layout](/design/human-interface-guidelines/spatial-layout)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/2b0ebfb3e9329c6ae3eac3d8f579a474/typography.svg)
-
-17 of 18 symbols inside -159075944 [Typography](/design/human-interface-guidelines/typography)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/b58149dcdf7b2d5066c3d2217e667cda/writing.svg)
-
-18 of 18 symbols inside -159075944 [Writing](/design/human-interface-guidelines/writing)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/c9d2e563aa23997588edd7b4538f6c5b/overview.svg)
-
-3 of 6 symbols inside <root> containing 25 symbols[Patterns](/design/human-interface-guidelines/patterns)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/c9d2e563aa23997588edd7b4538f6c5b/overview.svg)
-
-4 of 6 symbols inside <root> containing 8 symbols[Components](/design/human-interface-guidelines/components)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/c9d2e563aa23997588edd7b4538f6c5b/overview.svg)
-
-5 of 6 symbols inside <root> containing 13 symbols[Inputs](/design/human-interface-guidelines/inputs)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/c9d2e563aa23997588edd7b4538f6c5b/overview.svg)
-
-6 of 6 symbols inside <root> containing 29 symbols[Technologies](/design/human-interface-guidelines/technologies)
-
-24 items were found. Tab back to navigate through them. 
-
-Navigator is ready 
 
 # Right to left
 
@@ -216,7 +14,7 @@ System-provided UI frameworks support right-to-left (RTL) by default, allowing s
 
 If you want to fine-tune your layout or enhance specific localizations to adapt to different currencies, numerals, or mathematical symbols that can occur in various locales in countries that use RTL languages, follow these guidelines.
 
-## [Text alignment](/design/human-interface-guidelines/right-to-left#Text-alignment)
+## [Text alignment](https://developer.apple.com/design/human-interface-guidelines/right-to-left#Text-alignment)
 
 **Adjust text alignment to match the interface direction, if the system doesn’t do so automatically.** For example, if you left-align text with content in the left-to-right (LTR) context, right-align the text to match the content’s mirrored position in the RTL context.
 
@@ -244,7 +42,7 @@ If you want to fine-tune your layout or enhance specific localizations to adapt 
 
 ![An X in a circle to indicate an incorrect example.](https://docs-assets.developer.apple.com/published/209f6f0fc8ad99d9bf59e12d82d06584/crossout%402x.png)
 
-## [Numbers and characters](/design/human-interface-guidelines/right-to-left#Numbers-and-characters)
+## [Numbers and characters](https://developer.apple.com/design/human-interface-guidelines/right-to-left#Numbers-and-characters)
 
 Different RTL languages can use different number systems. For example, Hebrew text uses Western Arabic numerals, whereas Arabic text might use either Western or Eastern Arabic numerals. The use of Western and Eastern Arabic numerals varies among countries and regions and even among areas within the same country or region.
 
@@ -274,7 +72,7 @@ If your app covers mathematical concepts or other number-centric topics, it’s 
 
 ![A horizontal row of five stars. From the right, the first three and a half stars are filled. Below the stars is a row of Western Arabic numerals, each numeral vertically aligned with a star above. From the right, the numerals are one, two, three, four, and five.](https://docs-assets.developer.apple.com/published/164c27556e186de5aa0c0312639f1c8f/match-numeral-order-to-directional-controls-western-arabic-hebrew%402x.png)Arabic (Western Arabic numerals)
 
-## [Controls](/design/human-interface-guidelines/right-to-left#Controls)
+## [Controls](https://developer.apple.com/design/human-interface-guidelines/right-to-left#Controls)
 
 **Flip controls that show progress from one value to another.** Because people tend to view forward progress as moving in the same direction as the language they read, it makes sense to flip controls like sliders and progress indicators in the RTL context. When you do this, also be sure to reverse the positions of the accompanying glyphs or images that depict the beginning and ending values of the control.
 
@@ -292,7 +90,7 @@ If your app covers mathematical concepts or other number-centric topics, it’s 
 
 ![A horizontal row of three blue oval buttons. Each button is labeled with the word download. From the left, the labels are in Latin, Arabic, and Hebrew scripts, with the English label using all capital letters. Two horizontal red lines run across all three buttons, the top line is the ascender line and the bottom line is the baseline. Every letter in the English label touches both lines. The last two letters in the Arabic label touch or extend below the baseline, and the first and last letters extend above the ascender line. All letters in the Hebrew label touch the base line and the ascender line. The increased size of the Arabic and Hebrew labels make them look similar in size to the Latin label.](https://docs-assets.developer.apple.com/published/19099f313875cd49849a1ca28f1dfca4/download-even-vertical-height%402x.png)You can slightly increase the font size of Arabic and Hebrew text to visually balance uppercased Latin text.
 
-## [Images](/design/human-interface-guidelines/right-to-left#Images)
+## [Images](https://developer.apple.com/design/human-interface-guidelines/right-to-left#Images)
 
 **Avoid flipping images like photographs, illustrations, and general artwork.** Flipping an image often changes the image’s meaning; flipping a copyrighted image could be a violation. If an image’s content is strongly connected to reading direction, consider creating a new version of the image instead of flipping the original.
 
@@ -310,9 +108,9 @@ If your app covers mathematical concepts or other number-centric topics, it’s 
 
 ![An illustration showing a layout of text and images within a rounded rectangle. A short bar representing text is right-aligned in the upper-right corner. Below the bar is an area that contains four squares, including a blue square with a placeholder image on the right side. From the right, a row of five square areas at the bottom of the rectangle contain the following shapes: heart, circle, star, square, and triangle.](https://docs-assets.developer.apple.com/published/5071b9cf5e2c0a2395803018149eab87/image-positions-rtl%402x.png)Items with meaningful positions in the RTL context
 
-## [Interface icons](/design/human-interface-guidelines/right-to-left#Interface-icons)
+## [Interface icons](https://developer.apple.com/design/human-interface-guidelines/right-to-left#Interface-icons)
 
-When you use [SF Symbols](/design/human-interface-guidelines/sf-symbols) to supply interface icons for your app, you get variants for the RTL context and localized symbols for Arabic and Hebrew, among other languages. If you create custom symbols, you can specify their directionality. For developer guidance, see [Creating custom symbol images for your app](/documentation/UIKit/creating-custom-symbol-images-for-your-app).
+When you use [SF Symbols](https://developer.apple.com/design/human-interface-guidelines/sf-symbols) to supply interface icons for your app, you get variants for the RTL context and localized symbols for Arabic and Hebrew, among other languages. If you create custom symbols, you can specify their directionality. For developer guidance, see [Creating custom symbol images for your app](https://developer.apple.com/documentation/UIKit/creating-custom-symbol-images-for-your-app).
 
 ![Three horizontal lines, stacked evenly on top of each other. Each line is preceded by a bullet on left. The shape of a closed book with its spine on the left. A rounded rectangle containing a left-aligned row of three dots. A pencil is slanted at about forty-five degrees, with its point right of the rightmost dot and its eraser extending out of the top-right corner of the rectangle. A rounded rectangle with a black bar across the top that occupies about a quarter of the rectangle's height. A left-aligned row of white dots is in the left side of the bar. A rounded rectangle that contains a smaller, solid-black rounded rectangle near the left side. Outside the rectangle and to the right is a solid-black semicircle with a vertical straight edge that's close to the vertical right side of the rectangle.](https://docs-assets.developer.apple.com/published/eec2236f5595e04904c2b5494696ec1b/directional-symbols-ltr%402x.png)LTR variants of directional symbols
 
@@ -380,184 +178,29 @@ If your custom interface icon includes a component that can imply handedness, li
 
 ![A rounded rectangle that contains a black dot in the top-left corner. The outline of a magnifying glass that contains a stack of two rightt-aligned lines is on top of the rectangle and to the right of the dot, slanted at about 135 degrees.](https://docs-assets.developer.apple.com/published/f3ca739120456691b67e55d150596716/mail-and-text-magnifyingglass-rtl%402x.png)RTL variant of a symbol that depicts a tool
 
-## [Platform considerations](/design/human-interface-guidelines/right-to-left#Platform-considerations)
+## [Platform considerations](https://developer.apple.com/design/human-interface-guidelines/right-to-left#Platform-considerations)
 
  _No additional considerations for iOS, iPadOS, macOS, tvOS, visionOS, or watchOS._
 
-## [Resources](/design/human-interface-guidelines/right-to-left#Resources)
+## [Resources](https://developer.apple.com/design/human-interface-guidelines/right-to-left#Resources)
 
-#### [Related](/design/human-interface-guidelines/right-to-left#Related)
+#### [Related](https://developer.apple.com/design/human-interface-guidelines/right-to-left#Related)
 
-[Layout](/design/human-interface-guidelines/layout)
+[Layout](https://developer.apple.com/design/human-interface-guidelines/layout)
 
-[Inclusion](/design/human-interface-guidelines/inclusion)
+[Inclusion](https://developer.apple.com/design/human-interface-guidelines/inclusion)
 
-[SF Symbols](/design/human-interface-guidelines/sf-symbols)
+[SF Symbols](https://developer.apple.com/design/human-interface-guidelines/sf-symbols)
 
-#### [Developer documentation](/design/human-interface-guidelines/right-to-left#Developer-documentation)
+#### [Developer documentation](https://developer.apple.com/design/human-interface-guidelines/right-to-left#Developer-documentation)
 
 [Localization](https://developer.apple.com/localization/)
 
-[Preparing views for localization](/documentation/SwiftUI/Preparing-views-for-localization) — SwiftUI
+[Preparing views for localization](https://developer.apple.com/documentation/SwiftUI/Preparing-views-for-localization) — SwiftUI
 
-#### [Videos](/design/human-interface-guidelines/right-to-left#Videos)
+#### [Videos](https://developer.apple.com/design/human-interface-guidelines/right-to-left#Videos)
 
 [![](https://devimages-cdn.apple.com/wwdc-services/images/3055294D-836B-4513-B7B0-0BC5666246B0/4498DDBC-5903-48A6-85EB-47BCACA39DFB/9915_wide_250x141_1x.jpg) Enhance your app’s multilingual experience ](https://developer.apple.com/videos/play/wwdc2025/222)
 
 [![](https://devimages-cdn.apple.com/wwdc-services/images/124/7F5167EA-F6A3-4605-83FF-FF75E802969C/6527_wide_250x141_1x.jpg) Design for Arabic ](https://developer.apple.com/videos/play/wwdc2022/10034)
 
-Current page is Right to left 
-
-##### Supported platforms
-
-  *   *   *   *   *   * 
-
-
-  * [ Right to left ](/design/human-interface-guidelines/right-to-left#app-top)
-  * [ Text alignment ](/design/human-interface-guidelines/right-to-left#Text-alignment)
-  * [ Numbers and characters ](/design/human-interface-guidelines/right-to-left#Numbers-and-characters)
-  * [ Controls ](/design/human-interface-guidelines/right-to-left#Controls)
-  * [ Images ](/design/human-interface-guidelines/right-to-left#Images)
-  * [ Interface icons ](/design/human-interface-guidelines/right-to-left#Interface-icons)
-  * [ Platform considerations ](/design/human-interface-guidelines/right-to-left#Platform-considerations)
-  * [ Resources ](/design/human-interface-guidelines/right-to-left#Resources)
-
-
-
-[Apple](https://www.apple.com)
-
-  1. [Developer](/)
-  2. [ Documentation ](/documentation/)
-
-
-
-###  Platforms 
-
-Toggle Menu 
-
-  * [iOS](/ios/)
-  * [iPadOS](/ipados/)
-  * [macOS](/macos/)
-  * [tvOS](/tvos/)
-  * [visionOS](/visionos/)
-  * [watchOS](/watchos/)
-
-
-
-###  Tools 
-
-Toggle Menu 
-
-  * [Swift](/swift/)
-  * [SwiftUI](/swiftui/)
-  * [Swift Playground](/swift-playground/)
-  * [TestFlight](/testflight/)
-  * [Xcode](/xcode/)
-  * [Xcode Cloud](/xcode-cloud/)
-  * [SF Symbols](/sf-symbols/)
-
-
-
-###  Topics & Technologies 
-
-Toggle Menu 
-
-  * [Accessibility](/accessibility/)
-  * [Accessories](/accessories/)
-  * [App Extension](/app-extensions/)
-  * [App Store](/app-store/)
-  * [Audio & Video](/audio/)
-  * [Augmented Reality](/augmented-reality/)
-  * [Design](/design/)
-  * [Distribution](/distribute/)
-  * [Education](/education/)
-  * [Fonts](/fonts/)
-  * [Games](/games/)
-  * [Health & Fitness](/health-fitness/)
-  * [In-App Purchase](/in-app-purchase/)
-  * [Localization](/localization/)
-  * [Maps & Location](/maps/)
-  * [Machine Learning & AI](/machine-learning/)
-  * [Open Source](https://opensource.apple.com/)
-  * [Security](/security/)
-  * [Safari & Web](/safari/)
-
-
-
-###  Resources 
-
-Toggle Menu 
-
-  *   * [Documentation](/documentation/)
-  * [Tutorials](/learn/)
-  * [Downloads](/download/)
-  * [Forums](/forums/)
-  * [Videos](/videos/)
-
-
-
-###  Support 
-
-Toggle Menu 
-
-  * [Support Articles](/support/articles/)
-  * [Contact Us](/contact/)
-  * [Bug Reporting](/bug-reporting/)
-  * [System Status](/system-status/)
-
-
-
-###  Account 
-
-Toggle Menu 
-
-  * [Apple Developer](/account/)
-  * [App Store Connect](https://appstoreconnect.apple.com/)
-  * [Certificates, IDs, & Profiles](/account/ios/certificate/)
-  * [Feedback Assistant](https://feedbackassistant.apple.com/)
-
-
-
-###  Programs 
-
-Toggle Menu 
-
-  * [Apple Developer Program](/programs/)
-  * [Apple Developer Enterprise Program](/programs/enterprise/)
-  * [App Store Small Business Program](/app-store/small-business-program/)
-  * [MFi Program](https://mfi.apple.com/)
-  * [News Partner Program](/programs/news-partner/)
-  * [Video Partner Program](/programs/video-partner/)
-  * [Security Bounty Program](/security-bounty/)
-  * [Security Research Device Program](/programs/security-research-device/)
-
-
-
-###  Events 
-
-Toggle Menu 
-
-  * [Meet with Apple](/events/)
-  * [Apple Developer Centers](/events/developer-centers/)
-  * [App Store Awards](/app-store/app-store-awards/)
-  * [Apple Design Awards](/design/awards/)
-  * [Apple Developer Academies](/academies/)
-  * [WWDC](/wwdc/)
-
-
-
-To submit feedback on documentation, visit [Feedback Assistant](applefeedback://new?form_identifier=developertools.fba&answers%5B%3Aarea%5D=seedADC%3Adevpubs&answers%5B%3Adoc_type_req%5D=Technology%20Documentation&answers%5B%3Adocumentation_link_req%5D=https%3A%2F%2Fdeveloper.apple.com%2Fdesign%2Fhuman-interface-guidelines%2Fright-to-left).
-
-Select a color scheme preference
-
-Light
-
-Dark
-
-Auto
-
-English  简体中文  日本語  한국어 
-
-Copyright © 2026 [Apple Inc.](https://www.apple.com) All rights reserved. 
-
-[ Terms of Use ](https://www.apple.com/legal/internet-services/terms/site.html)[ Privacy Policy ](https://www.apple.com/legal/privacy/)[ Agreements and Guidelines ](/support/terms/)

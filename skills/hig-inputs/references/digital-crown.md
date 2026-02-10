@@ -1,178 +1,6 @@
 ---
 title: "Digital Crown | Apple Developer Documentation"
 source: https://developer.apple.com/design/human-interface-guidelines/digital-crown
----
-
-# This page requires JavaScript.
-
-Please turn on JavaScript in your browser and refresh the page to view its content.
-
-Skip Navigation 
-
-  * Global Nav Open MenuGlobal Nav Close Menu
-  * [Apple Developer](/)
-
-
-
-[Search Developer Cancel ](/search/)
-
-  * [Apple Developer](/)
-  * [News](/news/)
-  * [Discover](/discover/)
-  * [Design](/design/)
-  * [Develop](/develop/)
-  * [Distribute](/distribute/)
-  * [Support](/support/)
-  * [Account](/account/)
-  * [](/search/)
-
-
-
-Cancel 
-
-Only search within “Human Interface Guidelines”
-
-### Quick Links
-
-  * [Downloads](/download/)
-  * [Documentation](/documentation/)
-  * [Sample Code](/documentation/samplecode/)
-  * [Videos](/videos/)
-  * [Forums](/forums/)
-
-5 Quick Links
-
-[ Design ](/design/)
-
-Open Menu 
-
-  * [ Overview ](https://developer.apple.com/design/)
-  * [ What’s New ](https://developer.apple.com/design/whats-new/)
-  * [ Get Started ](https://developer.apple.com/design/get-started/)
-  * [ Guidelines ](/design/human-interface-guidelines)
-  * [ Resources ](https://developer.apple.com/design/resources/)
-
-
-
-## Human Interface Guidelines
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/c9d2e563aa23997588edd7b4538f6c5b/overview.svg)
-
-1 of 6 symbols inside <root> containing 7 symbols[Getting started](/design/human-interface-guidelines/getting-started)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/c9d2e563aa23997588edd7b4538f6c5b/overview.svg)
-
-2 of 6 symbols inside <root> containing 18 symbols[Foundations](/design/human-interface-guidelines/foundations)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/c9d2e563aa23997588edd7b4538f6c5b/overview.svg)
-
-3 of 6 symbols inside <root> containing 25 symbols[Patterns](/design/human-interface-guidelines/patterns)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/c9d2e563aa23997588edd7b4538f6c5b/overview.svg)
-
-4 of 6 symbols inside <root> containing 8 symbols[Components](/design/human-interface-guidelines/components)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/c9d2e563aa23997588edd7b4538f6c5b/overview.svg)
-
-5 of 6 symbols inside <root> containing 13 symbols[Inputs](/design/human-interface-guidelines/inputs)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/26f4da5818d57504620ceca0b1382666/action-button.svg)
-
-1 of 13 symbols inside 182752026 [Action button](/design/human-interface-guidelines/action-button)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/9fff5d6083b43afa7225143c2f1b22f2/apple-pencil-and-scribble.svg)
-
-2 of 13 symbols inside 182752026 [Apple Pencil and Scribble](/design/human-interface-guidelines/apple-pencil-and-scribble)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/8a6c982d1ad996639f7c145386c03fa5/camera-control.svg)
-
-3 of 13 symbols inside 182752026 [Camera Control](/design/human-interface-guidelines/camera-control)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/64c8d1de2b6d1a4c767e59e12874daef/digital-crown.svg)
-
-4 of 13 symbols inside 182752026 [Digital Crown](/design/human-interface-guidelines/digital-crown)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/8d4d5addb69245781c5edb3c96e060c1/eyes.svg)
-
-5 of 13 symbols inside 182752026 [Eyes](/design/human-interface-guidelines/eyes)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/999ac3c549b19a85d02800f3897e3119/focus-and-selection.svg)
-
-6 of 13 symbols inside 182752026 [Focus and selection](/design/human-interface-guidelines/focus-and-selection)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/bbdbe9584dcf366e770e2c0cd00257e4/game-controls.svg)
-
-7 of 13 symbols inside 182752026 [Game controls](/design/human-interface-guidelines/game-controls)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/4d4b4978965ca14deb6aba96c11ac2dd/gestures.svg)
-
-8 of 13 symbols inside 182752026 [Gestures](/design/human-interface-guidelines/gestures)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/6f3a0e598f1144eeea58b0065dc08c55/gyro-and-accelerometer.svg)
-
-9 of 13 symbols inside 182752026 [Gyroscope and accelerometer](/design/human-interface-guidelines/gyro-and-accelerometer)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/68344ca01f44816d3659ffc57f589420/keyboards.svg)
-
-10 of 13 symbols inside 182752026 [Keyboards](/design/human-interface-guidelines/keyboards)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/cea20ce920edfa4bc76ab2b216f008c7/nearby-interactions.svg)
-
-11 of 13 symbols inside 182752026 [Nearby interactions](/design/human-interface-guidelines/nearby-interactions)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/b6c61dfaea2cd4215e21d77156bab143/pointing-devices.svg)
-
-12 of 13 symbols inside 182752026 [Pointing devices](/design/human-interface-guidelines/pointing-devices)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/86586b5af11d19cb3b5cd4c2c045d066/remotes.svg)
-
-13 of 13 symbols inside 182752026 [Remotes](/design/human-interface-guidelines/remotes)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/c9d2e563aa23997588edd7b4538f6c5b/overview.svg)
-
-6 of 6 symbols inside <root> containing 29 symbols[Technologies](/design/human-interface-guidelines/technologies)
-
-19 items were found. Tab back to navigate through them. 
-
-Navigator is ready 
 
 # Digital Crown
 
@@ -186,13 +14,13 @@ On both Apple Vision Pro and Apple Watch, people can use the Digital Crown to in
 
 ![A close-up photograph of Apple Watch, shown at an angle, with the Digital Crown prominently featured at the center of the image.](https://docs-assets.developer.apple.com/published/b557ec51bcbcaac70485ca87eda59c40/digital-crown-apple-watch%402x.png)The Digital Crown on Apple Watch
 
-## [Apple Vision Pro](/design/human-interface-guidelines/digital-crown#Apple-Vision-Pro)
+## [Apple Vision Pro](https://developer.apple.com/design/human-interface-guidelines/digital-crown#Apple-Vision-Pro)
 
 On Apple Vision Pro, people use the Digital Crown to:
 
   * Adjust volume
 
-  * Adjust the amount of immersion in a portal, an Environment, or an app or game running in a Full Space (for guidance, see [Immersive experiences](/design/human-interface-guidelines/immersive-experiences))
+  * Adjust the amount of immersion in a portal, an Environment, or an app or game running in a Full Space (for guidance, see [Immersive experiences](https://developer.apple.com/design/human-interface-guidelines/immersive-experiences))
 
   * Recenter content so it’s in front of them
 
@@ -203,7 +31,7 @@ On Apple Vision Pro, people use the Digital Crown to:
 
 
 
-## [Apple Watch](/design/human-interface-guidelines/digital-crown#Apple-Watch)
+## [Apple Watch](https://developer.apple.com/design/human-interface-guidelines/digital-crown#Apple-Watch)
 
 As people turn the Digital Crown, it generates information you can use to enhance or facilitate interactions with your app, like scrolling or operating standard or custom controls.
 
@@ -227,25 +55,25 @@ Most Apple Watch models provide haptic feedback for the Digital Crown, which giv
 
 **Use the default haptic feedback when it makes sense in your app.** If haptic feedback doesn’t feel right in the context of your app — for example, if the default detents don’t match your app’s animation — turn off the detents. You can also adjust the haptic feedback behavior for tables, letting them use linear detents instead of row-based detents. For example, if your table has rows with significantly different heights, linear detents may give people a more consistent experience.
 
-## [Platform considerations](/design/human-interface-guidelines/digital-crown#Platform-considerations)
+## [Platform considerations](https://developer.apple.com/design/human-interface-guidelines/digital-crown#Platform-considerations)
 
  _Not supported in iOS, iPadOS, macOS, or tvOS._
 
-## [Resources](/design/human-interface-guidelines/digital-crown#Resources)
+## [Resources](https://developer.apple.com/design/human-interface-guidelines/digital-crown#Resources)
 
-#### [Related](/design/human-interface-guidelines/digital-crown#Related)
+#### [Related](https://developer.apple.com/design/human-interface-guidelines/digital-crown#Related)
 
-[Feedback](/design/human-interface-guidelines/feedback)
+[Feedback](https://developer.apple.com/design/human-interface-guidelines/feedback)
 
-[Action button](/design/human-interface-guidelines/action-button)
+[Action button](https://developer.apple.com/design/human-interface-guidelines/action-button)
 
-[Immersive experiences](/design/human-interface-guidelines/immersive-experiences)
+[Immersive experiences](https://developer.apple.com/design/human-interface-guidelines/immersive-experiences)
 
-#### [Developer documentation](/design/human-interface-guidelines/digital-crown#Developer-documentation)
+#### [Developer documentation](https://developer.apple.com/design/human-interface-guidelines/digital-crown#Developer-documentation)
 
-[`WKCrownDelegate`](/documentation/WatchKit/WKCrownDelegate) — WatchKit
+[`WKCrownDelegate`](https://developer.apple.com/documentation/WatchKit/WKCrownDelegate) — WatchKit
 
-## [Change log](/design/human-interface-guidelines/digital-crown#Change-log)
+## [Change log](https://developer.apple.com/design/human-interface-guidelines/digital-crown#Change-log)
 
 Date| Changes  
 ---|---  
@@ -253,156 +81,3 @@ December 5, 2023| Added artwork for Apple Vision Pro and Apple Watch, and clarif
 June 21, 2023| Updated to include guidance for visionOS.  
 June 5, 2023| Added guidelines emphasizing the central role of the Digital Crown for navigation.  
   
-Current page is Digital Crown 
-
-##### Supported platforms
-
-  *   *   *   *   *   * 
-
-
-  * [ Digital Crown ](/design/human-interface-guidelines/digital-crown#app-top)
-  * [ Apple Vision Pro ](/design/human-interface-guidelines/digital-crown#Apple-Vision-Pro)
-  * [ Apple Watch ](/design/human-interface-guidelines/digital-crown#Apple-Watch)
-  * [ Platform considerations ](/design/human-interface-guidelines/digital-crown#Platform-considerations)
-  * [ Resources ](/design/human-interface-guidelines/digital-crown#Resources)
-  * [ Change log ](/design/human-interface-guidelines/digital-crown#Change-log)
-
-
-
-[Apple](https://www.apple.com)
-
-  1. [Developer](/)
-  2. [ Documentation ](/documentation/)
-
-
-
-###  Platforms 
-
-Toggle Menu 
-
-  * [iOS](/ios/)
-  * [iPadOS](/ipados/)
-  * [macOS](/macos/)
-  * [tvOS](/tvos/)
-  * [visionOS](/visionos/)
-  * [watchOS](/watchos/)
-
-
-
-###  Tools 
-
-Toggle Menu 
-
-  * [Swift](/swift/)
-  * [SwiftUI](/swiftui/)
-  * [Swift Playground](/swift-playground/)
-  * [TestFlight](/testflight/)
-  * [Xcode](/xcode/)
-  * [Xcode Cloud](/xcode-cloud/)
-  * [SF Symbols](/sf-symbols/)
-
-
-
-###  Topics & Technologies 
-
-Toggle Menu 
-
-  * [Accessibility](/accessibility/)
-  * [Accessories](/accessories/)
-  * [App Extension](/app-extensions/)
-  * [App Store](/app-store/)
-  * [Audio & Video](/audio/)
-  * [Augmented Reality](/augmented-reality/)
-  * [Design](/design/)
-  * [Distribution](/distribute/)
-  * [Education](/education/)
-  * [Fonts](/fonts/)
-  * [Games](/games/)
-  * [Health & Fitness](/health-fitness/)
-  * [In-App Purchase](/in-app-purchase/)
-  * [Localization](/localization/)
-  * [Maps & Location](/maps/)
-  * [Machine Learning & AI](/machine-learning/)
-  * [Open Source](https://opensource.apple.com/)
-  * [Security](/security/)
-  * [Safari & Web](/safari/)
-
-
-
-###  Resources 
-
-Toggle Menu 
-
-  *   * [Documentation](/documentation/)
-  * [Tutorials](/learn/)
-  * [Downloads](/download/)
-  * [Forums](/forums/)
-  * [Videos](/videos/)
-
-
-
-###  Support 
-
-Toggle Menu 
-
-  * [Support Articles](/support/articles/)
-  * [Contact Us](/contact/)
-  * [Bug Reporting](/bug-reporting/)
-  * [System Status](/system-status/)
-
-
-
-###  Account 
-
-Toggle Menu 
-
-  * [Apple Developer](/account/)
-  * [App Store Connect](https://appstoreconnect.apple.com/)
-  * [Certificates, IDs, & Profiles](/account/ios/certificate/)
-  * [Feedback Assistant](https://feedbackassistant.apple.com/)
-
-
-
-###  Programs 
-
-Toggle Menu 
-
-  * [Apple Developer Program](/programs/)
-  * [Apple Developer Enterprise Program](/programs/enterprise/)
-  * [App Store Small Business Program](/app-store/small-business-program/)
-  * [MFi Program](https://mfi.apple.com/)
-  * [News Partner Program](/programs/news-partner/)
-  * [Video Partner Program](/programs/video-partner/)
-  * [Security Bounty Program](/security-bounty/)
-  * [Security Research Device Program](/programs/security-research-device/)
-
-
-
-###  Events 
-
-Toggle Menu 
-
-  * [Meet with Apple](/events/)
-  * [Apple Developer Centers](/events/developer-centers/)
-  * [App Store Awards](/app-store/app-store-awards/)
-  * [Apple Design Awards](/design/awards/)
-  * [Apple Developer Academies](/academies/)
-  * [WWDC](/wwdc/)
-
-
-
-To submit feedback on documentation, visit [Feedback Assistant](applefeedback://new?form_identifier=developertools.fba&answers%5B%3Aarea%5D=seedADC%3Adevpubs&answers%5B%3Adoc_type_req%5D=Technology%20Documentation&answers%5B%3Adocumentation_link_req%5D=https%3A%2F%2Fdeveloper.apple.com%2Fdesign%2Fhuman-interface-guidelines%2Fdigital-crown).
-
-Select a color scheme preference
-
-Light
-
-Dark
-
-Auto
-
-English  简体中文  日本語  한국어 
-
-Copyright © 2026 [Apple Inc.](https://www.apple.com) All rights reserved. 
-
-[ Terms of Use ](https://www.apple.com/legal/internet-services/terms/site.html)[ Privacy Policy ](https://www.apple.com/legal/privacy/)[ Agreements and Guidelines ](/support/terms/)

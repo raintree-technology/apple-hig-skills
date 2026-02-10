@@ -1,214 +1,6 @@
 ---
 title: "App Clips | Apple Developer Documentation"
 source: https://developer.apple.com/design/human-interface-guidelines/app-clips
----
-
-# This page requires JavaScript.
-
-Please turn on JavaScript in your browser and refresh the page to view its content.
-
-Skip Navigation 
-
-  * Global Nav Open MenuGlobal Nav Close Menu
-  * [Apple Developer](/)
-
-
-
-[Search Developer Cancel ](/search/)
-
-  * [Apple Developer](/)
-  * [News](/news/)
-  * [Discover](/discover/)
-  * [Design](/design/)
-  * [Develop](/develop/)
-  * [Distribute](/distribute/)
-  * [Support](/support/)
-  * [Account](/account/)
-  * [](/search/)
-
-
-
-Cancel 
-
-Only search within “Human Interface Guidelines”
-
-### Quick Links
-
-  * [Downloads](/download/)
-  * [Documentation](/documentation/)
-  * [Sample Code](/documentation/samplecode/)
-  * [Videos](/videos/)
-  * [Forums](/forums/)
-
-5 Quick Links
-
-[ Design ](/design/)
-
-Open Menu 
-
-  * [ Overview ](https://developer.apple.com/design/)
-  * [ What’s New ](https://developer.apple.com/design/whats-new/)
-  * [ Get Started ](https://developer.apple.com/design/get-started/)
-  * [ Guidelines ](/design/human-interface-guidelines)
-  * [ Resources ](https://developer.apple.com/design/resources/)
-
-
-
-## Human Interface Guidelines
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/c9d2e563aa23997588edd7b4538f6c5b/overview.svg)
-
-1 of 6 symbols inside <root> containing 7 symbols[Getting started](/design/human-interface-guidelines/getting-started)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/c9d2e563aa23997588edd7b4538f6c5b/overview.svg)
-
-2 of 6 symbols inside <root> containing 18 symbols[Foundations](/design/human-interface-guidelines/foundations)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/c9d2e563aa23997588edd7b4538f6c5b/overview.svg)
-
-3 of 6 symbols inside <root> containing 25 symbols[Patterns](/design/human-interface-guidelines/patterns)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/c9d2e563aa23997588edd7b4538f6c5b/overview.svg)
-
-4 of 6 symbols inside <root> containing 8 symbols[Components](/design/human-interface-guidelines/components)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/c9d2e563aa23997588edd7b4538f6c5b/overview.svg)
-
-5 of 6 symbols inside <root> containing 13 symbols[Inputs](/design/human-interface-guidelines/inputs)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/c9d2e563aa23997588edd7b4538f6c5b/overview.svg)
-
-6 of 6 symbols inside <root> containing 29 symbols[Technologies](/design/human-interface-guidelines/technologies)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/f848bdcfb46c64dd6fcec70cae4620a3/airplay.svg)
-
-1 of 29 symbols inside 525506332 [AirPlay](/design/human-interface-guidelines/airplay)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/9e23a9dca1bba674ca611a9875a09439/always-on.svg)
-
-2 of 29 symbols inside 525506332 [Always On](/design/human-interface-guidelines/always-on)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/ed35a8d690d9aa594ec108f4b000ba3e/app-clips.svg)
-
-3 of 29 symbols inside 525506332 [App Clips](/design/human-interface-guidelines/app-clips)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/fe96765a9ec7f01392fa7bc9938ae12b/apple-pay.svg)
-
-4 of 29 symbols inside 525506332 [Apple Pay](/design/human-interface-guidelines/apple-pay)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/88a8c8fdc81e5fc382997c9ec3822eab/augmented-reality.svg)
-
-5 of 29 symbols inside 525506332 [Augmented reality](/design/human-interface-guidelines/augmented-reality)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/7a3379bd1fb861217bd79abdc0c175b9/carekit.svg)
-
-6 of 29 symbols inside 525506332 [CareKit](/design/human-interface-guidelines/carekit)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/3bdef2196e420f50c41a566422cc1e4c/carplay.svg)
-
-7 of 29 symbols inside 525506332 [CarPlay](/design/human-interface-guidelines/carplay)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/1a2766daa7645cc3782710ac0977e6d5/game-center.svg)
-
-8 of 29 symbols inside 525506332 [Game Center](/design/human-interface-guidelines/game-center)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/953d6d049f0943017089f645f030f739/generative-ai.svg)
-
-9 of 29 symbols inside 525506332 [Generative AI](/design/human-interface-guidelines/generative-ai)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/1fd95cf0bcefa3ddb3bd937167c4108e/healthkit.svg)
-
-10 of 29 symbols inside 525506332 [HealthKit](/design/human-interface-guidelines/healthkit)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/73b5b486f329ea3c756fe1016fb5d9b6/homekit.svg)
-
-11 of 29 symbols inside 525506332 [HomeKit](/design/human-interface-guidelines/homekit)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/8ee482d4f70affa6bae663c8d51102d0/icloud.svg)
-
-12 of 29 symbols inside 525506332 [iCloud](/design/human-interface-guidelines/icloud)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/d06f906d625d003fce04c3f46a88e2a0/id-verifier.svg)
-
-13 of 29 symbols inside 525506332 [ID Verifier](/design/human-interface-guidelines/id-verifier)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/ef6f7770a91b075a14f08932b4ab28a2/imessage-app.svg)
-
-14 of 29 symbols inside 525506332 [iMessage apps and stickers](/design/human-interface-guidelines/imessage-apps-and-stickers)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/d6e92e5cc61c45c389938daf49834a04/in-app-purchase.svg)
-
-15 of 29 symbols inside 525506332 [In-app purchase](/design/human-interface-guidelines/in-app-purchase)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/25ea28efbe5e8676fd29370fad560f75/live-photos.svg)
-
-16 of 29 symbols inside 525506332 [Live Photos](/design/human-interface-guidelines/live-photos)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/702ebb485435bf1f6e6c4e2d43edd423/mac-catalyst.svg)
-
-17 of 29 symbols inside 525506332 [Mac Catalyst](/design/human-interface-guidelines/mac-catalyst)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/0fc7417f15cf064f38a83bd30dee77cf/machine-learning.svg)
-
-18 of 29 symbols inside 525506332 [Machine learning](/design/human-interface-guidelines/machine-learning)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/88dc6f3ae567c1430f225d6707e6602b/maps.svg)
-
-19 of 29 symbols inside 525506332 [Maps](/design/human-interface-guidelines/maps)
-
-35 items were found. Tab back to navigate through them. 
-
-Navigator is ready 
 
 # App Clips
 
@@ -252,9 +44,9 @@ Consider creating an App Clip to let people experience your app or game before c
 
 
 
-For developer guidance, see [App Clips](/documentation/AppClip).
+For developer guidance, see [App Clips](https://developer.apple.com/documentation/AppClip).
 
-## [Designing your App Clip](/design/human-interface-guidelines/app-clips#Designing-your-App-Clip)
+## [Designing your App Clip](https://developer.apple.com/design/human-interface-guidelines/app-clips#Designing-your-App-Clip)
 
 **Allow people to complete a task or a demo in your App Clip.** Don’t require people to install the full app to experience the entire demo, to complete a task, or to finish a level in a game.
 
@@ -274,23 +66,23 @@ For developer guidance, see [App Clips](/documentation/AppClip).
 
 **Make the App Clip shareable.** When someone shares a link to an App Clip in the Messages app, recipients can launch the App Clip from within the Messages app. Offer the ability to share links to specific points in your App Clip, and encourage people to share the App Clip with others.
 
-**Make it easy to pay for a service or product.** Entering payment information can be a long and error-prone task. Consider supporting [Apple Pay](/design/human-interface-guidelines/apple-pay) to offer express checkout and let people enter shipping information with no typing.
+**Make it easy to pay for a service or product.** Entering payment information can be a long and error-prone task. Consider supporting [Apple Pay](https://developer.apple.com/design/human-interface-guidelines/apple-pay) to offer express checkout and let people enter shipping information with no typing.
 
-**Avoid requiring people to create an account before they can benefit from your App Clip.** Creating an account is a complex task that takes time and effort. Consider not requiring an account, or think about asking people to create an account after they finish a task. If your App Clip requires an account to provide value, limit the amount of information people need to provide — for example, by offering [Sign in with Apple](/design/human-interface-guidelines/sign-in-with-apple).
+**Avoid requiring people to create an account before they can benefit from your App Clip.** Creating an account is a complex task that takes time and effort. Consider not requiring an account, or think about asking people to create an account after they finish a task. If your App Clip requires an account to provide value, limit the amount of information people need to provide — for example, by offering [Sign in with Apple](https://developer.apple.com/design/human-interface-guidelines/sign-in-with-apple).
 
 **Provide a familiar, focused experience in your app.** When people install the full app, it replaces the App Clip on their device. From this moment, invocations that would have launched the App Clip launch the full app instead. Ensure your app provides a focused, familiar experience to people who previously used the App Clip. Don’t require additional steps that slow people down; for example, don’t require people to log in again when they transition from the App Clip to the app.
 
-### [Preserving privacy](/design/human-interface-guidelines/app-clips#Preserving-privacy)
+### [Preserving privacy](https://developer.apple.com/design/human-interface-guidelines/app-clips#Preserving-privacy)
 
-The system imposes limits on App Clips to ensure people’s privacy. For example, App Clips can’t perform background operations. For developer guidance, see [Choosing the right functionality for your App Clip](/documentation/AppClip/choosing-the-right-functionality-for-your-app-clip).
+The system imposes limits on App Clips to ensure people’s privacy. For example, App Clips can’t perform background operations. For developer guidance, see [Choosing the right functionality for your App Clip](https://developer.apple.com/documentation/AppClip/choosing-the-right-functionality-for-your-app-clip).
 
 **Limit the amount of data you store and handle yourself.** If you need to store people’s data — for example, login information — store it securely. In addition, don’t rely on the availability of data you previously stored on the device — the system may have removed the App Clip from the device between launches and deleted all of its data. If you store login information, securely store it off the device.
 
-**Consider offering Sign in with Apple.** Sign in with Apple securely retains login information off people’s devices and preserves their privacy. For guidance, see [Sign in with Apple](/design/human-interface-guidelines/sign-in-with-apple).
+**Consider offering Sign in with Apple.** Sign in with Apple securely retains login information off people’s devices and preserves their privacy. For guidance, see [Sign in with Apple](https://developer.apple.com/design/human-interface-guidelines/sign-in-with-apple).
 
-**Offer a secure way to pay for services or goods that also respects people’s privacy.** For example, consider offering [Apple Pay](/design/human-interface-guidelines/apple-pay).
+**Offer a secure way to pay for services or goods that also respects people’s privacy.** For example, consider offering [Apple Pay](https://developer.apple.com/design/human-interface-guidelines/apple-pay).
 
-### [Showcasing your app](/design/human-interface-guidelines/app-clips#Showcasing-your-app)
+### [Showcasing your app](https://developer.apple.com/design/human-interface-guidelines/app-clips#Showcasing-your-app)
 
 People don’t manage App Clips themselves, and App Clips don’t appear on the Home screen. Instead, the system removes an App Clip after a period of inactivity.
 
@@ -307,13 +99,13 @@ In addition, you can display an overlay in your App Clip that allows people to d
 
 **Don’t compromise the user experience by asking people to install the full app.** If your App Clip offers an on-the-go experience, consider whether the App Clip card and the system-provided app banner provide enough incentive for people to download the full app. If your App Clip offers a demo experience, let people fully experience the demo before asking them to install the full app.
 
-**Pick the right time to recommend your app.** When someone completes a task or reaches a natural pause, display an [`SKOverlay`](/documentation/StoreKit/SKOverlay) that allows people to initiate a download of your full app or game from the context of the App Clip.
+**Pick the right time to recommend your app.** When someone completes a task or reaches a natural pause, display an [`SKOverlay`](https://developer.apple.com/documentation/StoreKit/SKOverlay) that allows people to initiate a download of your full app or game from the context of the App Clip.
 
 **Recommend your app in a nonintrusive, polite way.** Don’t ask people to install the full app repeatedly or interrupt them during a task. Push notifications aren’t a good way to ask people to install the app either. Clearly communicate your app’s additional features.
 
-For developer guidance, see [Recommending your app to App Clip users](/documentation/AppClip/recommending-your-app-to-app-clip-users).
+For developer guidance, see [Recommending your app to App Clip users](https://developer.apple.com/documentation/AppClip/recommending-your-app-to-app-clip-users).
 
-### [Limiting notifications](/design/human-interface-guidelines/app-clips#Limiting-notifications)
+### [Limiting notifications](https://developer.apple.com/design/human-interface-guidelines/app-clips#Limiting-notifications)
 
 App Clips provide the option to schedule and receive notifications for up to 8 hours after launch, enough time to follow up and complete most common tasks.
 
@@ -323,9 +115,9 @@ App Clips provide the option to schedule and receive notifications for up to 8 h
 
 **Use notifications to help people complete a task.** Notifications for an App Clip relate directly to the task the App Clip helps to accomplish. For example, an App Clip that helps people order food could send notifications related to a scheduled delivery.
 
-For developer guidance, see [Enabling notifications in App Clips](/documentation/AppClip/enabling-notifications-in-app-clips).
+For developer guidance, see [Enabling notifications in App Clips](https://developer.apple.com/documentation/AppClip/enabling-notifications-in-app-clips).
 
-### [Creating App Clips for businesses](/design/human-interface-guidelines/app-clips#Creating-App-Clips-for-businesses)
+### [Creating App Clips for businesses](https://developer.apple.com/design/human-interface-guidelines/app-clips#Creating-App-Clips-for-businesses)
 
 If you’re a platform provider who services businesses, you may create several App Clip experiences in [App Store Connect](https://appstoreconnect.apple.com) and use a single App Clip to power them all. To people using the App Clip, it appears with the branding of an individual business or location instead of your own branding.
 
@@ -333,9 +125,9 @@ If you’re a platform provider who services businesses, you may create several 
 
 **Consider multiple businesses.** An App Clip may power many different businesses or a business that has multiple locations. In both scenarios, people may end up using the App Clip for more than one business or location at a time. The App Clip must handle this use case and update its user interface accordingly. For example, consider a way to switch between recent businesses or locations within your App Clip, and verify a person’s location when they launch it.
 
-For developer guidance, see [Configuring App Clip experiences](/documentation/AppClip/configuring-the-launch-experience-of-your-app-clip).
+For developer guidance, see [Configuring App Clip experiences](https://developer.apple.com/documentation/AppClip/configuring-the-launch-experience-of-your-app-clip).
 
-## [Creating content for an App Clip card](/design/human-interface-guidelines/app-clips#Creating-content-for-an-App-Clip-card)
+## [Creating content for an App Clip card](https://developer.apple.com/design/human-interface-guidelines/app-clips#Creating-content-for-an-App-Clip-card)
 
 The system-provided App Clip card is people’s first interaction with your App Clip, so give careful consideration to its images and copy.
 
@@ -353,7 +145,7 @@ The system-provided App Clip card is people’s first interaction with your App 
 
 ![A horizontal row of two App Clip cards. The left App Clip card is for a game and uses Play as the verb for the action button. The right App Clip card is for an app and uses Open as the verb for the action button.](https://docs-assets.developer.apple.com/published/d23129c13777717e7b27c9a1e2b2f8b0/app-clips-card%402x.png)
 
-## [App Clip Codes](/design/human-interface-guidelines/app-clips#App-Clip-Codes)
+## [App Clip Codes](https://developer.apple.com/design/human-interface-guidelines/app-clips#App-Clip-Codes)
 
 App Clip Codes are the best way for people to discover your App Clip. Their distinct design is immediately recognizable, and they offer a fast, secure way to launch your App Clip.
 
@@ -361,9 +153,9 @@ App Clip Codes are the best way for people to discover your App Clip. Their dist
 
 ![An App Clip Code that uses a design without the App Clip logo.](https://docs-assets.developer.apple.com/published/2441534012373af30bf4e6ac94bbcc20/without-appclip-logo%402x.png)App Clip Code without the App Clip logo
 
-App Clip Codes always use the designs Apple provides and follow size, placement, and printing guidelines. Choose between the badge design that uses the App Clip logo ( App Clip) or, when space is at a premium, a design without it. Create App Clip Codes that use a default color pair, or choose custom foreground and background colors. For developer guidance, see [Creating App Clip Codes](/documentation/AppClip/creating-app-clip-codes).
+App Clip Codes always use the designs Apple provides and follow size, placement, and printing guidelines. Choose between the badge design that uses the App Clip logo ( App Clip) or, when space is at a premium, a design without it. Create App Clip Codes that use a default color pair, or choose custom foreground and background colors. For developer guidance, see [Creating App Clip Codes](https://developer.apple.com/documentation/AppClip/creating-app-clip-codes).
 
-### [Interacting with App Clip Codes](/design/human-interface-guidelines/app-clips#Interacting-with-App-Clip-Codes)
+### [Interacting with App Clip Codes](https://developer.apple.com/design/human-interface-guidelines/app-clips#Interacting-with-App-Clip-Codes)
 
 App Clip Codes come in two variants: _scan-only_ or with an embedded NFC tag (_NFC-integrated_).
 
@@ -382,7 +174,7 @@ The scan-only variant uses a camera icon in its center to let people know to use
 
 ![An illustration that shows how a person uses an App Clip Code on a table at a coffee shop. The left side of the illustration shows two people sitting at a table. A placard in the middle of the table contains an App Clip Code. The person on the left is using their camera to scan the App Clip Code. The right side of the illustration shows a zoomed-in version of the person's phone screen and the placard on the table.](https://docs-assets.developer.apple.com/published/331753285f06bb59ab3bae929756a505/interacting-coffee-shop-example%402x.png)
 
-### [Displaying App Clip Codes](/design/human-interface-guidelines/app-clips#Displaying-App-Clip-Codes)
+### [Displaying App Clip Codes](https://developer.apple.com/design/human-interface-guidelines/app-clips#Displaying-App-Clip-Codes)
 
 When you start designing your App Clip Codes, choose the variant that works best for the way people use your App Clip. If people can physically access the App Clip Code, use the NFC-integrated variant. For example:
 
@@ -460,7 +252,7 @@ If you display an App Clip Code near a QR Code or other scannable item, choose a
 
 ![An illustration that shows an App Clip Code with the badge design to the left of an App Clip Code without the App Clip logo. A red guide surrounds each App Clip Code, illustrating the clear space requirements.](https://docs-assets.developer.apple.com/published/60ce57295e138b8c399d9c229238f40d/app-clip-spacing%402x.png)
 
-### [Using clear messaging](/design/human-interface-guidelines/app-clips#Using-clear-messaging)
+### [Using clear messaging](https://developer.apple.com/design/human-interface-guidelines/app-clips#Using-clear-messaging)
 
 Add clear messaging that informs people how they can use the App Clip Code to launch your App Clip, especially if you use the design without the App Clip logo. For example, add a call to action next to an App Clip Code you display in an email or on a poster. Use the suggested call-to-action messaging or your own copy. Always use a simple, clear call to action.
 
@@ -484,11 +276,11 @@ For an NFC-integrated App Clip Code, you can use the following call to action:
 
 
 
-For more information, see [NFC](/design/human-interface-guidelines/nfc).
+For more information, see [NFC](https://developer.apple.com/design/human-interface-guidelines/nfc).
 
-**Adhere to[Guidelines for Using Apple Trademarks](https://www.apple.com/legal/intellectual-property/guidelinesfor3rdparties.html) when referring to your App Clip and App Clip Codes.** For example, Apple trademarks can’t appear in your app name or images, always use title case when using the terms App Clips or App Clip Code, and so on. For additional information, see [Legal requirements](/design/human-interface-guidelines/app-clips#Legal-requirements).
+**Adhere to[Guidelines for Using Apple Trademarks](https://www.apple.com/legal/intellectual-property/guidelinesfor3rdparties.html) when referring to your App Clip and App Clip Codes.** For example, Apple trademarks can’t appear in your app name or images, always use title case when using the terms App Clips or App Clip Code, and so on. For additional information, see [Legal requirements](https://developer.apple.com/design/human-interface-guidelines/app-clips#Legal-requirements).
 
-### [Customizing your App Clip Code](/design/human-interface-guidelines/app-clips#Customizing-your-App-Clip-Code)
+### [Customizing your App Clip Code](https://developer.apple.com/design/human-interface-guidelines/app-clips#Customizing-your-App-Clip-Code)
 
 Use [App Store Connect](https://appstoreconnect.apple.com) or the [App Clip Code Generator](https://developer.apple.com/app-clips/resources/) command-line tool to create App Clip Codes, and follow best practices to ensure a reliable scanning experience.
 
@@ -508,11 +300,11 @@ Use [App Store Connect](https://appstoreconnect.apple.com) or the [App Clip Code
 
 ![An X in a circle to indicate an invalid App Clip Code.](https://docs-assets.developer.apple.com/published/209f6f0fc8ad99d9bf59e12d82d06584/crossout%402x.png)
 
-**Choose colors with enough contrast that ensure accurate scanning.** Each App Clip Code uses three colors: a foreground color, a background color, and a third color that’s generated for you based on the foreground and background colors. Both [App Store Connect](https://appstoreconnect.apple.com) and the [App Clip Code Generator](https://developer.apple.com/app-clips/resources/) command-line tool offer a selection of default color pairs. Alternatively, you can choose custom foreground and background colors. Note that you can’t choose custom colors that will lead to a suboptimal scanning experience. If your color selection doesn’t work well, neither App Store Connect nor the command-line tool will generate an App Clip Code. To help you choose a color combination that works well, both tools contain functionality to suggest a different foreground color based on your custom background color. For more information, see [Creating App Clip Codes with the App Clip Code Generator](/documentation/AppClip/creating-app-clip-codes-with-the-app-clip-code-generator) and [Creating App Clip Codes with App Store Connect](/documentation/AppClip/creating-app-clip-codes-with-app-store-connect).
+**Choose colors with enough contrast that ensure accurate scanning.** Each App Clip Code uses three colors: a foreground color, a background color, and a third color that’s generated for you based on the foreground and background colors. Both [App Store Connect](https://appstoreconnect.apple.com) and the [App Clip Code Generator](https://developer.apple.com/app-clips/resources/) command-line tool offer a selection of default color pairs. Alternatively, you can choose custom foreground and background colors. Note that you can’t choose custom colors that will lead to a suboptimal scanning experience. If your color selection doesn’t work well, neither App Store Connect nor the command-line tool will generate an App Clip Code. To help you choose a color combination that works well, both tools contain functionality to suggest a different foreground color based on your custom background color. For more information, see [Creating App Clip Codes with the App Clip Code Generator](https://developer.apple.com/documentation/AppClip/creating-app-clip-codes-with-the-app-clip-code-generator) and [Creating App Clip Codes with App Store Connect](https://developer.apple.com/documentation/AppClip/creating-app-clip-codes-with-app-store-connect).
 
 ![An illustration of an App Clip Code that uses the badge design and has callouts for the background, foreground, and generated colors.](https://docs-assets.developer.apple.com/published/aae3a773b90a26b4870f4db43a0c3f94/app-clip-colors%402x.png)
 
-## [Printing guidelines](/design/human-interface-guidelines/app-clips#Printing-guidelines)
+## [Printing guidelines](https://developer.apple.com/design/human-interface-guidelines/app-clips#Printing-guidelines)
 
 App Clip Codes offer the best experience to launch App Clips. As a result, it’s important to manufacture and display App Clip Codes that offer a reliable scanning experience for a long time. You can print App Clip Codes yourself, or work with a professional printing service — for example, [RR Donnelley](https://touchless.acc.rrd.com/).
 
@@ -530,9 +322,9 @@ Always test printed App Clip Codes before you distribute them to be sure they’
 
 **If you create large batches of App Clip Codes, thoroughly test your printing workflow, and verify printed App Clip Codes.** For example, conduct small, inexpensive print runs using a subset of codes. Print your App Clip Codes on print templates with additional padded regions that allow you to display the encoded invocation URL and the SVG filename alongside each code for validation at the time of print.
 
-If you create many App Clip Codes with the [App Clip Code Generator](https://developer.apple.com/app-clips/resources/) tool or [App Store Connect](https://appstoreconnect.apple.com), you’ll likely work with a professional printing service. If this is the case, you need to handle a lot of SVG files. Because you have no way of knowing which App Clip Code encodes which URL by looking at an App Clip Code, you need to use a file that contains information about which SVG file maps to which invocation URL. Under any circumstance, careful file management, versioning, and change tracking are key to avoiding faulty print runs. For more information, see [Preparing multiple App Clip Codes for production](/documentation/AppClip/preparing-multiple-app-clip-codes-for-production).
+If you create many App Clip Codes with the [App Clip Code Generator](https://developer.apple.com/app-clips/resources/) tool or [App Store Connect](https://appstoreconnect.apple.com), you’ll likely work with a professional printing service. If this is the case, you need to handle a lot of SVG files. Because you have no way of knowing which App Clip Code encodes which URL by looking at an App Clip Code, you need to use a file that contains information about which SVG file maps to which invocation URL. Under any circumstance, careful file management, versioning, and change tracking are key to avoiding faulty print runs. For more information, see [Preparing multiple App Clip Codes for production](https://developer.apple.com/documentation/AppClip/preparing-multiple-app-clip-codes-for-production).
 
-### [Verifying your printer’s calibration](/design/human-interface-guidelines/app-clips#Verifying-your-printers-calibration)
+### [Verifying your printer’s calibration](https://developer.apple.com/design/human-interface-guidelines/app-clips#Verifying-your-printers-calibration)
 
 A reliable scanning experience depends on the quality of your printed App Clip Codes. To ensure printing App Clip Codes results in a reliable scanning experience and to avoid using a printer that can’t print high-quality App Clip Codes, Apple offers [printer calibration test sheets](https://developer.apple.com/app-clips/resources/printer-calibration-test-sheets.zip) you can use to verify your printer’s settings and print quality.
 
@@ -540,7 +332,7 @@ A reliable scanning experience depends on the quality of your printed App Clip C
 
 **Verify your printer’s grayscale settings by printing the printer calibration test sheet that shows two grayscale bars.** If any of the specific gray colors are light or entirely missing, the printer may need calibration or may not be suitable for printing an App Clip Code that allows for reliable scanning.
 
-## [Legal requirements](/design/human-interface-guidelines/app-clips#Legal-requirements)
+## [Legal requirements](https://developer.apple.com/design/human-interface-guidelines/app-clips#Legal-requirements)
 
 Only the Apple-provided App Clip Codes created in App Store Connect or with the App Clip Code Generator command-line tool and that follow these guidelines are approved for use.
 
@@ -560,192 +352,36 @@ Don’t translate any Apple trademark. Apple trademarks must remain in English e
 
 For more information about using Apple trademarks, see [Guidelines for Using Apple Trademarks](https://www.apple.com/legal/intellectual-property/guidelinesfor3rdparties.html).
 
-## [Platform considerations](/design/human-interface-guidelines/app-clips#Platform-considerations)
+## [Platform considerations](https://developer.apple.com/design/human-interface-guidelines/app-clips#Platform-considerations)
 
  _No additional considerations for iOS or iPadOS. Not supported in macOS, tvOS, visionOS, or watchOS._
 
-## [Resources](/design/human-interface-guidelines/app-clips#Resources)
+## [Resources](https://developer.apple.com/design/human-interface-guidelines/app-clips#Resources)
 
-#### [Related](/design/human-interface-guidelines/app-clips#Related)
+#### [Related](https://developer.apple.com/design/human-interface-guidelines/app-clips#Related)
 
-[Apple Pay](/design/human-interface-guidelines/apple-pay)
+[Apple Pay](https://developer.apple.com/design/human-interface-guidelines/apple-pay)
 
-[Sign in with Apple](/design/human-interface-guidelines/sign-in-with-apple)
+[Sign in with Apple](https://developer.apple.com/design/human-interface-guidelines/sign-in-with-apple)
 
 [Guidelines for Using Apple Trademarks and Copyrights](https://www.apple.com/legal/intellectual-property/guidelinesfor3rdparties.html)
 
-#### [Developer documentation](/design/human-interface-guidelines/app-clips#Developer-documentation)
+#### [Developer documentation](https://developer.apple.com/design/human-interface-guidelines/app-clips#Developer-documentation)
 
-[App Clips](/documentation/AppClip)
+[App Clips](https://developer.apple.com/documentation/AppClip)
 
 [App Store Connect](https://appstoreconnect.apple.com/)
 
-#### [Videos](/design/human-interface-guidelines/app-clips#Videos)
+#### [Videos](https://developer.apple.com/design/human-interface-guidelines/app-clips#Videos)
 
 [![](https://devimages-cdn.apple.com/wwdc-services/images/119/95357E8D-01E6-476E-9516-8AF54EC9794A/4878_wide_250x141_1x.jpg) What's new in App Clips ](https://developer.apple.com/videos/play/wwdc2021/10012)
 
 [![](https://devimages-cdn.apple.com/wwdc-services/images/119/7120E473-4A84-447D-8B55-0F1614324E59/4879_wide_250x141_1x.jpg) Build light and fast App Clips ](https://developer.apple.com/videos/play/wwdc2021/10013)
 
-## [Change log](/design/human-interface-guidelines/app-clips#Change-log)
+## [Change log](https://developer.apple.com/design/human-interface-guidelines/app-clips#Change-log)
 
 Date| Changes  
 ---|---  
 June 9, 2025| Updated guidance to include demo App Clips.  
 May 2, 2023| Consolidated guidance into one page.  
   
-Current page is App Clips 
-
-##### Supported platforms
-
-  *   *   *   *   *   * 
-
-
-  * [ App Clips ](/design/human-interface-guidelines/app-clips#app-top)
-  * [ Designing your App Clip ](/design/human-interface-guidelines/app-clips#Designing-your-App-Clip)
-  * [ Creating content for an App Clip card ](/design/human-interface-guidelines/app-clips#Creating-content-for-an-App-Clip-card)
-  * [ App Clip Codes ](/design/human-interface-guidelines/app-clips#App-Clip-Codes)
-  * [ Printing guidelines ](/design/human-interface-guidelines/app-clips#Printing-guidelines)
-  * [ Legal requirements ](/design/human-interface-guidelines/app-clips#Legal-requirements)
-  * [ Platform considerations ](/design/human-interface-guidelines/app-clips#Platform-considerations)
-  * [ Resources ](/design/human-interface-guidelines/app-clips#Resources)
-  * [ Change log ](/design/human-interface-guidelines/app-clips#Change-log)
-
-
-
-[Apple](https://www.apple.com)
-
-  1. [Developer](/)
-  2. [ Documentation ](/documentation/)
-
-
-
-###  Platforms 
-
-Toggle Menu 
-
-  * [iOS](/ios/)
-  * [iPadOS](/ipados/)
-  * [macOS](/macos/)
-  * [tvOS](/tvos/)
-  * [visionOS](/visionos/)
-  * [watchOS](/watchos/)
-
-
-
-###  Tools 
-
-Toggle Menu 
-
-  * [Swift](/swift/)
-  * [SwiftUI](/swiftui/)
-  * [Swift Playground](/swift-playground/)
-  * [TestFlight](/testflight/)
-  * [Xcode](/xcode/)
-  * [Xcode Cloud](/xcode-cloud/)
-  * [SF Symbols](/sf-symbols/)
-
-
-
-###  Topics & Technologies 
-
-Toggle Menu 
-
-  * [Accessibility](/accessibility/)
-  * [Accessories](/accessories/)
-  * [App Extension](/app-extensions/)
-  * [App Store](/app-store/)
-  * [Audio & Video](/audio/)
-  * [Augmented Reality](/augmented-reality/)
-  * [Design](/design/)
-  * [Distribution](/distribute/)
-  * [Education](/education/)
-  * [Fonts](/fonts/)
-  * [Games](/games/)
-  * [Health & Fitness](/health-fitness/)
-  * [In-App Purchase](/in-app-purchase/)
-  * [Localization](/localization/)
-  * [Maps & Location](/maps/)
-  * [Machine Learning & AI](/machine-learning/)
-  * [Open Source](https://opensource.apple.com/)
-  * [Security](/security/)
-  * [Safari & Web](/safari/)
-
-
-
-###  Resources 
-
-Toggle Menu 
-
-  *   * [Documentation](/documentation/)
-  * [Tutorials](/learn/)
-  * [Downloads](/download/)
-  * [Forums](/forums/)
-  * [Videos](/videos/)
-
-
-
-###  Support 
-
-Toggle Menu 
-
-  * [Support Articles](/support/articles/)
-  * [Contact Us](/contact/)
-  * [Bug Reporting](/bug-reporting/)
-  * [System Status](/system-status/)
-
-
-
-###  Account 
-
-Toggle Menu 
-
-  * [Apple Developer](/account/)
-  * [App Store Connect](https://appstoreconnect.apple.com/)
-  * [Certificates, IDs, & Profiles](/account/ios/certificate/)
-  * [Feedback Assistant](https://feedbackassistant.apple.com/)
-
-
-
-###  Programs 
-
-Toggle Menu 
-
-  * [Apple Developer Program](/programs/)
-  * [Apple Developer Enterprise Program](/programs/enterprise/)
-  * [App Store Small Business Program](/app-store/small-business-program/)
-  * [MFi Program](https://mfi.apple.com/)
-  * [News Partner Program](/programs/news-partner/)
-  * [Video Partner Program](/programs/video-partner/)
-  * [Security Bounty Program](/security-bounty/)
-  * [Security Research Device Program](/programs/security-research-device/)
-
-
-
-###  Events 
-
-Toggle Menu 
-
-  * [Meet with Apple](/events/)
-  * [Apple Developer Centers](/events/developer-centers/)
-  * [App Store Awards](/app-store/app-store-awards/)
-  * [Apple Design Awards](/design/awards/)
-  * [Apple Developer Academies](/academies/)
-  * [WWDC](/wwdc/)
-
-
-
-To submit feedback on documentation, visit [Feedback Assistant](applefeedback://new?form_identifier=developertools.fba&answers%5B%3Aarea%5D=seedADC%3Adevpubs&answers%5B%3Adoc_type_req%5D=Technology%20Documentation&answers%5B%3Adocumentation_link_req%5D=https%3A%2F%2Fdeveloper.apple.com%2Fdesign%2Fhuman-interface-guidelines%2Fapp-clips).
-
-Select a color scheme preference
-
-Light
-
-Dark
-
-Auto
-
-English  简体中文  日本語  한국어 
-
-Copyright © 2026 [Apple Inc.](https://www.apple.com) All rights reserved. 
-
-[ Terms of Use ](https://www.apple.com/legal/internet-services/terms/site.html)[ Privacy Policy ](https://www.apple.com/legal/privacy/)[ Agreements and Guidelines ](/support/terms/)

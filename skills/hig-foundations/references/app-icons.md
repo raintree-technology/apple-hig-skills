@@ -1,208 +1,6 @@
 ---
 title: "App icons | Apple Developer Documentation"
 source: https://developer.apple.com/design/human-interface-guidelines/app-icons
----
-
-# This page requires JavaScript.
-
-Please turn on JavaScript in your browser and refresh the page to view its content.
-
-Skip Navigation 
-
-  * Global Nav Open MenuGlobal Nav Close Menu
-  * [Apple Developer](/)
-
-
-
-[Search Developer Cancel ](/search/)
-
-  * [Apple Developer](/)
-  * [News](/news/)
-  * [Discover](/discover/)
-  * [Design](/design/)
-  * [Develop](/develop/)
-  * [Distribute](/distribute/)
-  * [Support](/support/)
-  * [Account](/account/)
-  * [](/search/)
-
-
-
-Cancel 
-
-Only search within “Human Interface Guidelines”
-
-### Quick Links
-
-  * [Downloads](/download/)
-  * [Documentation](/documentation/)
-  * [Sample Code](/documentation/samplecode/)
-  * [Videos](/videos/)
-  * [Forums](/forums/)
-
-5 Quick Links
-
-[ Design ](/design/)
-
-Open Menu 
-
-  * [ Overview ](https://developer.apple.com/design/)
-  * [ What’s New ](https://developer.apple.com/design/whats-new/)
-  * [ Get Started ](https://developer.apple.com/design/get-started/)
-  * [ Guidelines ](/design/human-interface-guidelines)
-  * [ Resources ](https://developer.apple.com/design/resources/)
-
-
-
-## Human Interface Guidelines
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/c9d2e563aa23997588edd7b4538f6c5b/overview.svg)
-
-1 of 6 symbols inside <root> containing 7 symbols[Getting started](/design/human-interface-guidelines/getting-started)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/c9d2e563aa23997588edd7b4538f6c5b/overview.svg)
-
-2 of 6 symbols inside <root> containing 18 symbols[Foundations](/design/human-interface-guidelines/foundations)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/83c941607786e0ba1f582082f4e94361/accessibility.svg)
-
-1 of 18 symbols inside -159075944 [Accessibility](/design/human-interface-guidelines/accessibility)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/fe2a86283eab29ab76732e955802ab1d/app-icons.svg)
-
-2 of 18 symbols inside -159075944 [App icons](/design/human-interface-guidelines/app-icons)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/8ccc36b6fd261c7d126737ba1a7fae5d/branding.svg)
-
-3 of 18 symbols inside -159075944 [Branding](/design/human-interface-guidelines/branding)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/d8868e121f0aff9e53911d53a00e1c1a/color.svg)
-
-4 of 18 symbols inside -159075944 [Color](/design/human-interface-guidelines/color)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/d0d8ac151e6b6513f9e33a90b8cff011/dark-mode.svg)
-
-5 of 18 symbols inside -159075944 [Dark Mode](/design/human-interface-guidelines/dark-mode)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/8404a78cf8d0b283d894aa5c80c0b3d8/icons.svg)
-
-6 of 18 symbols inside -159075944 [Icons](/design/human-interface-guidelines/icons)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/622f1bc92665b4bea75242308b7ec901/images.svg)
-
-7 of 18 symbols inside -159075944 [Images](/design/human-interface-guidelines/images)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/d5b7d90ff2c45d295ab24816bf9b7488/immersive-experiences.svg)
-
-8 of 18 symbols inside -159075944 [Immersive experiences](/design/human-interface-guidelines/immersive-experiences)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/555095c3c9550a1c9622f8b2fb944b4c/inclusion.svg)
-
-9 of 18 symbols inside -159075944 [Inclusion](/design/human-interface-guidelines/inclusion)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/f3e002314da7a56d2f24cdec3be06327/layout.svg)
-
-10 of 18 symbols inside -159075944 [Layout](/design/human-interface-guidelines/layout)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/1ef2efc25cb743289767a8505bc30929/materials.svg)
-
-11 of 18 symbols inside -159075944 [Materials](/design/human-interface-guidelines/materials)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/1a90a8ffd801429564df725c0c62fd51/motion.svg)
-
-12 of 18 symbols inside -159075944 [Motion](/design/human-interface-guidelines/motion)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/2a423497018ef4861033a900bb8241ad/privacy.svg)
-
-13 of 18 symbols inside -159075944 [Privacy](/design/human-interface-guidelines/privacy)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/585ef588a0cd49392ca51abdc81b302d/right-to-left.svg)
-
-14 of 18 symbols inside -159075944 [Right to left](/design/human-interface-guidelines/right-to-left)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/889c48d0b4f0916dabff9890e12cff79/sf-symbols.svg)
-
-15 of 18 symbols inside -159075944 [SF Symbols](/design/human-interface-guidelines/sf-symbols)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/5ab0c95285fec5f89d7c5eb7fa8b6a30/spatial-layout.svg)
-
-16 of 18 symbols inside -159075944 [Spatial layout](/design/human-interface-guidelines/spatial-layout)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/2b0ebfb3e9329c6ae3eac3d8f579a474/typography.svg)
-
-17 of 18 symbols inside -159075944 [Typography](/design/human-interface-guidelines/typography)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/b58149dcdf7b2d5066c3d2217e667cda/writing.svg)
-
-18 of 18 symbols inside -159075944 [Writing](/design/human-interface-guidelines/writing)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/c9d2e563aa23997588edd7b4538f6c5b/overview.svg)
-
-3 of 6 symbols inside <root> containing 25 symbols[Patterns](/design/human-interface-guidelines/patterns)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/c9d2e563aa23997588edd7b4538f6c5b/overview.svg)
-
-4 of 6 symbols inside <root> containing 8 symbols[Components](/design/human-interface-guidelines/components)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/c9d2e563aa23997588edd7b4538f6c5b/overview.svg)
-
-5 of 6 symbols inside <root> containing 13 symbols[Inputs](/design/human-interface-guidelines/inputs)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/c9d2e563aa23997588edd7b4538f6c5b/overview.svg)
-
-6 of 6 symbols inside <root> containing 29 symbols[Technologies](/design/human-interface-guidelines/technologies)
-
-24 items were found. Tab back to navigate through them. 
-
-Navigator is ready 
 
 # App icons
 
@@ -214,7 +12,7 @@ Your app icon is a crucial aspect of your app’s or game’s branding and user 
 
 ![An image that shows three variations of the Photos app's app icon as it appears on different platforms. The first variation is a rounded rectangle shape, and represents the iOS, iPadOS, and macOS icons. The second variation is an elongated, rounded rectangular shape, and represents the tvOS icon. The third variation is a circular shape, and represents the visionOS and watchOS icons. All variations have the same overall design over different background shapes.](https://docs-assets.developer.apple.com/published/298204fa29c2dc771deb8651963ce75a/app-icons-platform-appearance-overview%402x.png)
 
-## [Layer design](/design/human-interface-guidelines/app-icons#Layer-design)
+## [Layer design](https://developer.apple.com/design/human-interface-guidelines/app-icons#Layer-design)
 
 Although you can provide a flattened image for your icon, layers give you the most control over how your icon design is represented. A layered app icon comes together to produce a sense of depth and vitality. On each platform, the system applies visual effects that respond to the environment and people’s interactions.
 
@@ -248,11 +46,11 @@ Play
 
 visionOS app icon
 
-You use your favorite design tool to craft the individual foreground layers of your app icon. For iOS, iPadOS, macOS, and watchOS icons, you then import your icon layers into Icon Composer, a design tool included with Xcode and available from the [Apple Developer website](https://developer.apple.com/icon-composer). In Icon Composer, you define the background layer for your icon, adjust your foreground layer placement, apply visual effects like transparency, define default, dark, clear, and tinted appearance variants, and export your icon for use in Xcode. For additional guidance, see [Creating your app icon using Icon Composer](/documentation/Xcode/creating-your-app-icon-using-icon-composer).
+You use your favorite design tool to craft the individual foreground layers of your app icon. For iOS, iPadOS, macOS, and watchOS icons, you then import your icon layers into Icon Composer, a design tool included with Xcode and available from the [Apple Developer website](https://developer.apple.com/icon-composer). In Icon Composer, you define the background layer for your icon, adjust your foreground layer placement, apply visual effects like transparency, define default, dark, clear, and tinted appearance variants, and export your icon for use in Xcode. For additional guidance, see [Creating your app icon using Icon Composer](https://developer.apple.com/documentation/Xcode/creating-your-app-icon-using-icon-composer).
 
 ![A screenshot of the Photos app icon in Icon Composer.](https://docs-assets.developer.apple.com/published/3d4f8c4c6b744e77f32802201fb48fb7/app-icons-icon-composer-overview-photos%402x.png)Icon Composer
 
-For tvOS and visionOS app icons, you add your icon layers directly to an image stack in Xcode to form your complete icon. For developer guidance, see [Configuring your app icon using an asset catalog](/documentation/Xcode/configuring-your-app-icon).
+For tvOS and visionOS app icons, you add your icon layers directly to an image stack in Xcode to form your complete icon. For developer guidance, see [Configuring your app icon using an asset catalog](https://developer.apple.com/documentation/Xcode/configuring-your-app-icon).
 
 **Prefer clearly defined edges in foreground layers.** To ensure system-drawn highlights and shadows look best, avoid soft and feathered edges on foreground layer shapes.
 
@@ -262,7 +60,7 @@ For tvOS and visionOS app icons, you add your icon layers directly to an image s
 
 **Prefer vector graphics when bringing layers into Icon Composer.** Unlike raster images, vector graphics (such as SVG or PDF) scale gracefully and appear crisp at any size. Outline artwork and convert text to outline in your design. For mesh gradients and raster artwork, prefer PNG format because it’s a lossless image format.
 
-## [Icon shape](/design/human-interface-guidelines/app-icons#Icon-shape)
+## [Icon shape](https://developer.apple.com/design/human-interface-guidelines/app-icons#Icon-shape)
 
 An app icon’s shape varies based on a platform’s visual language. In iOS, iPadOS, and macOS, icons are square, and the system applies masking to produce rounded corners that precisely match the curvature of other rounded interface elements throughout the system and the bezel of the physical device itself. In tvOS, icons are rectangular, also with concentric edges. In visionOS and watchOS, icons are square and the system applies circular masking.
 
@@ -282,7 +80,7 @@ An app icon’s shape varies based on a platform’s visual language. In iOS, iP
 
 **Keep primary content centered to avoid truncation when the system adjusts corners or applies masking.** Pay particular attention to centering content in visionOS and watchOS icons. To help with icon placement, use the grids in the app icon production templates, which you can find in [Apple Design Resources](https://developer.apple.com/design/resources/).
 
-## [Design](/design/human-interface-guidelines/app-icons#Design)
+## [Design](https://developer.apple.com/design/human-interface-guidelines/app-icons#Design)
 
 Embrace simplicity in your icon design. Simple icons tend to be easiest for people to understand and recognize. An icon with fine visual features might look busy when rendered with system-provided shadows and highlights, and details may be hard to discern at smaller sizes. Find a concept or element that captures the essence of your app or game, make it the core idea of your icon, and express it in a simple, unique way with a minimal number of shapes. Prefer a simple background, such as a solid color or gradient, that puts the emphasis on your primary design — you don’t need to fill the entire icon canvas with content.
 
@@ -308,13 +106,13 @@ Embrace simplicity in your icon design. Simple icons tend to be easiest for peop
 
 **Don’t use replicas of Apple hardware products.** Apple products are copyrighted and can’t be reproduced in your app icons.
 
-## [Visual effects](/design/human-interface-guidelines/app-icons#Visual-effects)
+## [Visual effects](https://developer.apple.com/design/human-interface-guidelines/app-icons#Visual-effects)
 
 **Let the system handle blurring and other visual effects.** The system dynamically applies visual effects to your app icon layers, so there’s no need to include specular highlights, drop shadows between layers, beveled edges, blurs, glows, and other effects. In addition to interfering with system-provided effects, custom effects are static, whereas the system supplies dynamic ones. If you do include custom visual effects on your icon layers, use them intentionally and test carefully with Icon Composer, in Simulator, or on device to make sure they appear as expected and don’t conflict with system effects.
 
 **Create layer groupings to apply effects to multiple layers at once.** System effects typically occur on individual layers. If it makes sense for your design, however, you can group several layers together in Icon Composer or your design tool so effects occur at the group level.
 
-## [Appearances](/design/human-interface-guidelines/app-icons#Appearances)
+## [Appearances](https://developer.apple.com/design/human-interface-guidelines/app-icons#Appearances)
 
 In iOS, iPadOS, and macOS, people can choose whether their Home Screen app icons are default, dark, clear, or tinted in appearance. For example, someone may want to personalize their app icon appearance to complement their wallpaper. You can design app icon variants for every appearance variant, and the system automatically generates variants you don’t provide.
 
@@ -324,7 +122,7 @@ In iOS, iPadOS, and macOS, people can choose whether their Home Screen app icons
 
 **Design dark and tinted icons that feel at home beside system app icons and widgets.** You can preserve the color palette of your default icon, but be mindful that dark icons are more subdued, and clear and tinted icons are even more so. A great app icon is visible, legible, and recognizable, regardless of its appearance variant.
 
-**Use your light app icon as the basis for your dark icon.** Choose complementary colors that reflect the default design, and avoid excessively bright images. Color backgrounds generally offer the greatest contrast in dark icons. For guidance, see [Dark Mode](/design/human-interface-guidelines/dark-mode).
+**Use your light app icon as the basis for your dark icon.** Choose complementary colors that reflect the default design, and avoid excessively bright images. Color backgrounds generally offer the greatest contrast in dark icons. For guidance, see [Dark Mode](https://developer.apple.com/design/human-interface-guidelines/dark-mode).
 
 **Consider offering alternate app icons.** In iOS, iPadOS, tvOS, and compatible apps running in visionOS, it’s possible to let people visit your app’s settings to choose an alternate version of your app icon. For example, a sports app might offer icons for different teams, letting someone choose their favorite. If you offer this capability, make sure each icon you design remains closely related to your content and experience. Avoid creating one someone might mistake for another app.
 
@@ -332,25 +130,25 @@ Note
 
 Alternate app icons in iOS and iPadOS require their own dark, clear, and tinted variants. As with your default app icon, all alternate and variant icons are subject to app review and must adhere to the [App Review Guidelines](https://developer.apple.com/app-store/review/guidelines/#design).
 
-## [Platform considerations](/design/human-interface-guidelines/app-icons#Platform-considerations)
+## [Platform considerations](https://developer.apple.com/design/human-interface-guidelines/app-icons#Platform-considerations)
 
  _No additional considerations for iOS, iPadOS, or macOS._
 
-### [tvOS](/design/human-interface-guidelines/app-icons#tvOS)
+### [tvOS](https://developer.apple.com/design/human-interface-guidelines/app-icons#tvOS)
 
 **Include a safe zone to ensure the system doesn’t crop your content.** When someone focuses your app icon, the system may crop content around the edges as the icon scales and moves. To ensure that your icon’s content is always visible, keep a safe zone around it. Be aware that the safe zone can vary, depending on the image size, layer depth, and motion, and the system crops foreground layers more than background layers.
 
 ![A diagram of the Photos app icon in tvOS with a white dotted line inside the outer border, which indicates the safe zone.](https://docs-assets.developer.apple.com/published/f2f3bf70c87e53889768b64a2faf5cf5/tvos-app-icon-safe-zone%402x.png)
 
-### [visionOS](/design/human-interface-guidelines/app-icons#visionOS)
+### [visionOS](https://developer.apple.com/design/human-interface-guidelines/app-icons#visionOS)
 
 **Avoid adding a shape that’s intended to look like a hole or concave area to the background layer.** The system-added shadow and specular highlights can make such a shape stand out instead of recede.
 
-### [watchOS](/design/human-interface-guidelines/app-icons#watchOS)
+### [watchOS](https://developer.apple.com/design/human-interface-guidelines/app-icons#watchOS)
 
 **Avoid using black for your icon’s background.** Lighten a black background so the icon doesn’t blend into the display background.
 
-## [Specifications](/design/human-interface-guidelines/app-icons#Specifications)
+## [Specifications](https://developer.apple.com/design/human-interface-guidelines/app-icons#Specifications)
 
 The layout, size, style, and appearances of app icons vary by platform.
 
@@ -374,33 +172,33 @@ App icons support the following color spaces:
 
 
 
-## [Resources](/design/human-interface-guidelines/app-icons#Resources)
+## [Resources](https://developer.apple.com/design/human-interface-guidelines/app-icons#Resources)
 
-#### [Related](/design/human-interface-guidelines/app-icons#Related)
+#### [Related](https://developer.apple.com/design/human-interface-guidelines/app-icons#Related)
 
 [Apple Design Resources](https://developer.apple.com/design/resources/)
 
 [Icon Composer](https://developer.apple.com/icon-composer/)
 
-[Icons](/design/human-interface-guidelines/icons)
+[Icons](https://developer.apple.com/design/human-interface-guidelines/icons)
 
-[Images](/design/human-interface-guidelines/images)
+[Images](https://developer.apple.com/design/human-interface-guidelines/images)
 
-[Dark Mode](/design/human-interface-guidelines/dark-mode)
+[Dark Mode](https://developer.apple.com/design/human-interface-guidelines/dark-mode)
 
-#### [Developer documentation](/design/human-interface-guidelines/app-icons#Developer-documentation)
+#### [Developer documentation](https://developer.apple.com/design/human-interface-guidelines/app-icons#Developer-documentation)
 
-[Creating your app icon using Icon Composer](/documentation/Xcode/creating-your-app-icon-using-icon-composer)
+[Creating your app icon using Icon Composer](https://developer.apple.com/documentation/Xcode/creating-your-app-icon-using-icon-composer)
 
-[Configuring your app icon using an asset catalog](/documentation/Xcode/configuring-your-app-icon)
+[Configuring your app icon using an asset catalog](https://developer.apple.com/documentation/Xcode/configuring-your-app-icon)
 
-#### [Videos](/design/human-interface-guidelines/app-icons#Videos)
+#### [Videos](https://developer.apple.com/design/human-interface-guidelines/app-icons#Videos)
 
 [![](https://devimages-cdn.apple.com/wwdc-services/images/3055294D-836B-4513-B7B0-0BC5666246B0/2C0F206D-6728-49F7-940E-DC5BC5C51B54/9911_wide_250x141_1x.jpg) Say hello to the new look of app icons ](https://developer.apple.com/videos/play/wwdc2025/220)
 
 [![](https://devimages-cdn.apple.com/wwdc-services/images/3055294D-836B-4513-B7B0-0BC5666246B0/93AA149B-9ACF-4281-8BAF-5AFF7CFA1CF0/10087_wide_250x141_1x.jpg) Create icons with Icon Composer ](https://developer.apple.com/videos/play/wwdc2025/361)
 
-## [Change log](/design/human-interface-guidelines/app-icons#Change-log)
+## [Change log](https://developer.apple.com/design/human-interface-guidelines/app-icons#Change-log)
 
 Date| Changes  
 ---|---  
@@ -410,160 +208,3 @@ January 31, 2024| Clarified platform availability for alternate app icons.
 June 21, 2023| Updated to include guidance for visionOS.  
 September 14, 2022| Added specifications for Apple Watch Ultra.  
   
-Current page is App icons 
-
-##### Supported platforms
-
-  *   *   *   *   *   * 
-
-
-  * [ App icons ](/design/human-interface-guidelines/app-icons#app-top)
-  * [ Layer design ](/design/human-interface-guidelines/app-icons#Layer-design)
-  * [ Icon shape ](/design/human-interface-guidelines/app-icons#Icon-shape)
-  * [ Design ](/design/human-interface-guidelines/app-icons#Design)
-  * [ Visual effects ](/design/human-interface-guidelines/app-icons#Visual-effects)
-  * [ Appearances ](/design/human-interface-guidelines/app-icons#Appearances)
-  * [ Platform considerations ](/design/human-interface-guidelines/app-icons#Platform-considerations)
-  * [ Specifications ](/design/human-interface-guidelines/app-icons#Specifications)
-  * [ Resources ](/design/human-interface-guidelines/app-icons#Resources)
-  * [ Change log ](/design/human-interface-guidelines/app-icons#Change-log)
-
-
-
-[Apple](https://www.apple.com)
-
-  1. [Developer](/)
-  2. [ Documentation ](/documentation/)
-
-
-
-###  Platforms 
-
-Toggle Menu 
-
-  * [iOS](/ios/)
-  * [iPadOS](/ipados/)
-  * [macOS](/macos/)
-  * [tvOS](/tvos/)
-  * [visionOS](/visionos/)
-  * [watchOS](/watchos/)
-
-
-
-###  Tools 
-
-Toggle Menu 
-
-  * [Swift](/swift/)
-  * [SwiftUI](/swiftui/)
-  * [Swift Playground](/swift-playground/)
-  * [TestFlight](/testflight/)
-  * [Xcode](/xcode/)
-  * [Xcode Cloud](/xcode-cloud/)
-  * [SF Symbols](/sf-symbols/)
-
-
-
-###  Topics & Technologies 
-
-Toggle Menu 
-
-  * [Accessibility](/accessibility/)
-  * [Accessories](/accessories/)
-  * [App Extension](/app-extensions/)
-  * [App Store](/app-store/)
-  * [Audio & Video](/audio/)
-  * [Augmented Reality](/augmented-reality/)
-  * [Design](/design/)
-  * [Distribution](/distribute/)
-  * [Education](/education/)
-  * [Fonts](/fonts/)
-  * [Games](/games/)
-  * [Health & Fitness](/health-fitness/)
-  * [In-App Purchase](/in-app-purchase/)
-  * [Localization](/localization/)
-  * [Maps & Location](/maps/)
-  * [Machine Learning & AI](/machine-learning/)
-  * [Open Source](https://opensource.apple.com/)
-  * [Security](/security/)
-  * [Safari & Web](/safari/)
-
-
-
-###  Resources 
-
-Toggle Menu 
-
-  *   * [Documentation](/documentation/)
-  * [Tutorials](/learn/)
-  * [Downloads](/download/)
-  * [Forums](/forums/)
-  * [Videos](/videos/)
-
-
-
-###  Support 
-
-Toggle Menu 
-
-  * [Support Articles](/support/articles/)
-  * [Contact Us](/contact/)
-  * [Bug Reporting](/bug-reporting/)
-  * [System Status](/system-status/)
-
-
-
-###  Account 
-
-Toggle Menu 
-
-  * [Apple Developer](/account/)
-  * [App Store Connect](https://appstoreconnect.apple.com/)
-  * [Certificates, IDs, & Profiles](/account/ios/certificate/)
-  * [Feedback Assistant](https://feedbackassistant.apple.com/)
-
-
-
-###  Programs 
-
-Toggle Menu 
-
-  * [Apple Developer Program](/programs/)
-  * [Apple Developer Enterprise Program](/programs/enterprise/)
-  * [App Store Small Business Program](/app-store/small-business-program/)
-  * [MFi Program](https://mfi.apple.com/)
-  * [News Partner Program](/programs/news-partner/)
-  * [Video Partner Program](/programs/video-partner/)
-  * [Security Bounty Program](/security-bounty/)
-  * [Security Research Device Program](/programs/security-research-device/)
-
-
-
-###  Events 
-
-Toggle Menu 
-
-  * [Meet with Apple](/events/)
-  * [Apple Developer Centers](/events/developer-centers/)
-  * [App Store Awards](/app-store/app-store-awards/)
-  * [Apple Design Awards](/design/awards/)
-  * [Apple Developer Academies](/academies/)
-  * [WWDC](/wwdc/)
-
-
-
-To submit feedback on documentation, visit [Feedback Assistant](applefeedback://new?form_identifier=developertools.fba&answers%5B%3Aarea%5D=seedADC%3Adevpubs&answers%5B%3Adoc_type_req%5D=Technology%20Documentation&answers%5B%3Adocumentation_link_req%5D=https%3A%2F%2Fdeveloper.apple.com%2Fdesign%2Fhuman-interface-guidelines%2Fapp-icons).
-
-Select a color scheme preference
-
-Light
-
-Dark
-
-Auto
-
-English  简体中文  日本語  한국어 
-
-Copyright © 2026 [Apple Inc.](https://www.apple.com) All rights reserved. 
-
-[ Terms of Use ](https://www.apple.com/legal/internet-services/terms/site.html)[ Privacy Policy ](https://www.apple.com/legal/privacy/)[ Agreements and Guidelines ](/support/terms/)

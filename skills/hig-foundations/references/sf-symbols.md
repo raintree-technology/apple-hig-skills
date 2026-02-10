@@ -1,208 +1,6 @@
 ---
 title: "SF Symbols | Apple Developer Documentation"
 source: https://developer.apple.com/design/human-interface-guidelines/sf-symbols
----
-
-# This page requires JavaScript.
-
-Please turn on JavaScript in your browser and refresh the page to view its content.
-
-Skip Navigation 
-
-  * Global Nav Open MenuGlobal Nav Close Menu
-  * [Apple Developer](/)
-
-
-
-[Search Developer Cancel ](/search/)
-
-  * [Apple Developer](/)
-  * [News](/news/)
-  * [Discover](/discover/)
-  * [Design](/design/)
-  * [Develop](/develop/)
-  * [Distribute](/distribute/)
-  * [Support](/support/)
-  * [Account](/account/)
-  * [](/search/)
-
-
-
-Cancel 
-
-Only search within “Human Interface Guidelines”
-
-### Quick Links
-
-  * [Downloads](/download/)
-  * [Documentation](/documentation/)
-  * [Sample Code](/documentation/samplecode/)
-  * [Videos](/videos/)
-  * [Forums](/forums/)
-
-5 Quick Links
-
-[ Design ](/design/)
-
-Open Menu 
-
-  * [ Overview ](https://developer.apple.com/design/)
-  * [ What’s New ](https://developer.apple.com/design/whats-new/)
-  * [ Get Started ](https://developer.apple.com/design/get-started/)
-  * [ Guidelines ](/design/human-interface-guidelines)
-  * [ Resources ](https://developer.apple.com/design/resources/)
-
-
-
-## Human Interface Guidelines
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/c9d2e563aa23997588edd7b4538f6c5b/overview.svg)
-
-1 of 6 symbols inside <root> containing 7 symbols[Getting started](/design/human-interface-guidelines/getting-started)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/c9d2e563aa23997588edd7b4538f6c5b/overview.svg)
-
-2 of 6 symbols inside <root> containing 18 symbols[Foundations](/design/human-interface-guidelines/foundations)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/83c941607786e0ba1f582082f4e94361/accessibility.svg)
-
-1 of 18 symbols inside -159075944 [Accessibility](/design/human-interface-guidelines/accessibility)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/fe2a86283eab29ab76732e955802ab1d/app-icons.svg)
-
-2 of 18 symbols inside -159075944 [App icons](/design/human-interface-guidelines/app-icons)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/8ccc36b6fd261c7d126737ba1a7fae5d/branding.svg)
-
-3 of 18 symbols inside -159075944 [Branding](/design/human-interface-guidelines/branding)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/d8868e121f0aff9e53911d53a00e1c1a/color.svg)
-
-4 of 18 symbols inside -159075944 [Color](/design/human-interface-guidelines/color)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/d0d8ac151e6b6513f9e33a90b8cff011/dark-mode.svg)
-
-5 of 18 symbols inside -159075944 [Dark Mode](/design/human-interface-guidelines/dark-mode)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/8404a78cf8d0b283d894aa5c80c0b3d8/icons.svg)
-
-6 of 18 symbols inside -159075944 [Icons](/design/human-interface-guidelines/icons)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/622f1bc92665b4bea75242308b7ec901/images.svg)
-
-7 of 18 symbols inside -159075944 [Images](/design/human-interface-guidelines/images)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/d5b7d90ff2c45d295ab24816bf9b7488/immersive-experiences.svg)
-
-8 of 18 symbols inside -159075944 [Immersive experiences](/design/human-interface-guidelines/immersive-experiences)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/555095c3c9550a1c9622f8b2fb944b4c/inclusion.svg)
-
-9 of 18 symbols inside -159075944 [Inclusion](/design/human-interface-guidelines/inclusion)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/f3e002314da7a56d2f24cdec3be06327/layout.svg)
-
-10 of 18 symbols inside -159075944 [Layout](/design/human-interface-guidelines/layout)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/1ef2efc25cb743289767a8505bc30929/materials.svg)
-
-11 of 18 symbols inside -159075944 [Materials](/design/human-interface-guidelines/materials)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/1a90a8ffd801429564df725c0c62fd51/motion.svg)
-
-12 of 18 symbols inside -159075944 [Motion](/design/human-interface-guidelines/motion)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/2a423497018ef4861033a900bb8241ad/privacy.svg)
-
-13 of 18 symbols inside -159075944 [Privacy](/design/human-interface-guidelines/privacy)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/585ef588a0cd49392ca51abdc81b302d/right-to-left.svg)
-
-14 of 18 symbols inside -159075944 [Right to left](/design/human-interface-guidelines/right-to-left)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/889c48d0b4f0916dabff9890e12cff79/sf-symbols.svg)
-
-15 of 18 symbols inside -159075944 [SF Symbols](/design/human-interface-guidelines/sf-symbols)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/5ab0c95285fec5f89d7c5eb7fa8b6a30/spatial-layout.svg)
-
-16 of 18 symbols inside -159075944 [Spatial layout](/design/human-interface-guidelines/spatial-layout)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/2b0ebfb3e9329c6ae3eac3d8f579a474/typography.svg)
-
-17 of 18 symbols inside -159075944 [Typography](/design/human-interface-guidelines/typography)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/b58149dcdf7b2d5066c3d2217e667cda/writing.svg)
-
-18 of 18 symbols inside -159075944 [Writing](/design/human-interface-guidelines/writing)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/c9d2e563aa23997588edd7b4538f6c5b/overview.svg)
-
-3 of 6 symbols inside <root> containing 25 symbols[Patterns](/design/human-interface-guidelines/patterns)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/c9d2e563aa23997588edd7b4538f6c5b/overview.svg)
-
-4 of 6 symbols inside <root> containing 8 symbols[Components](/design/human-interface-guidelines/components)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/c9d2e563aa23997588edd7b4538f6c5b/overview.svg)
-
-5 of 6 symbols inside <root> containing 13 symbols[Inputs](/design/human-interface-guidelines/inputs)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/c9d2e563aa23997588edd7b4538f6c5b/overview.svg)
-
-6 of 6 symbols inside <root> containing 29 symbols[Technologies](/design/human-interface-guidelines/technologies)
-
-24 items were found. Tab back to navigate through them. 
-
-Navigator is ready 
 
 # SF Symbols
 
@@ -214,9 +12,9 @@ You can use a symbol to convey an object or concept wherever interface icons can
 
 Availability of individual symbols and features varies based on the version of the system you’re targeting. Symbols and symbol features introduced in a given year aren’t available in earlier operating systems.
 
-Visit [SF Symbols](https://developer.apple.com/sf-symbols/) to download the app and browse the full set of symbols. Be sure to understand the terms and conditions for using SF Symbols, including the prohibition against using symbols — or images that are confusingly similar — in app icons, logos, or any other trademarked use. For developer guidance, see [Configuring and displaying symbol images in your UI](/documentation/UIKit/configuring-and-displaying-symbol-images-in-your-ui).
+Visit [SF Symbols](https://developer.apple.com/sf-symbols/) to download the app and browse the full set of symbols. Be sure to understand the terms and conditions for using SF Symbols, including the prohibition against using symbols — or images that are confusingly similar — in app icons, logos, or any other trademarked use. For developer guidance, see [Configuring and displaying symbol images in your UI](https://developer.apple.com/documentation/UIKit/configuring-and-displaying-symbol-images-in-your-ui).
 
-## [Rendering modes](/design/human-interface-guidelines/sf-symbols#Rendering-modes)
+## [Rendering modes](https://developer.apple.com/design/human-interface-guidelines/sf-symbols#Rendering-modes)
 
 SF Symbols provides four rendering modes — monochrome, hierarchical, palette, and multicolor — that give you multiple options when applying color to symbols. For example, you might want to use multiple opacities of your app’s accent color to give symbols depth and emphasis, or specify a palette of contrasting colors to display symbols that coordinate with various color schemes.
 
@@ -232,7 +30,7 @@ Depending on the rendering mode you choose, a symbol can produce various appeara
 
 ![An image of the cloud sun rain fill symbol that uses three different opacities of the system blue color in the symbol’s three different layers: the cloud is fully opaque, the sun is about 50% opaque, and the raindrops are about 25% opaque.](https://docs-assets.developer.apple.com/published/35fe9f56dee989f094845e640951fef5/sf-three-layers-color%402x.png)
 
-To learn more about supporting rendering modes in custom symbols, see [Custom symbols](/design/human-interface-guidelines/sf-symbols#Custom-symbols).
+To learn more about supporting rendering modes in custom symbols, see [Custom symbols](https://developer.apple.com/design/human-interface-guidelines/sf-symbols#Custom-symbols).
 
 SF Symbols supports the following rendering modes.
 
@@ -256,7 +54,7 @@ Regardless of rendering mode, using system-provided colors ensures that symbols 
 
 **Confirm that a symbol’s rendering mode works well in every context.** Depending on factors like the size of a symbol and its contrast with the current background color, different rendering modes can affect how well people can discern the symbol’s details. You can use the automatic setting to get a symbol’s preferred rendering mode, but it’s still a good idea to check the results for places where a different rendering mode might improve a symbol’s legibility.
 
-## [Gradients](/design/human-interface-guidelines/sf-symbols#Gradients)
+## [Gradients](https://developer.apple.com/design/human-interface-guidelines/sf-symbols#Gradients)
 
 In SF Symbols 7 and later, gradient rendering generates a smooth linear gradient from a single source color. You can use gradients across all rendering modes for both system and custom colors and for custom symbols. Gradients render for symbols of any size, but look best at larger sizes.
 
@@ -264,7 +62,7 @@ In SF Symbols 7 and later, gradient rendering generates a smooth linear gradient
 
 ![The sun symbol with a gradient fill derived from a single yellow source color. The gradient color is bright on the left edge of the symbol, and subtly darkens as it approaches the right edge.](https://docs-assets.developer.apple.com/published/18a48b9b3b9f3842ff42f1331edeb5fb/sf-symbols-sun-gradient-fill%402x.png)Gradient fill
 
-## [Variable color](/design/human-interface-guidelines/sf-symbols#Variable-color)
+## [Variable color](https://developer.apple.com/design/human-interface-guidelines/sf-symbols#Variable-color)
 
 With variable color, you can represent a characteristic that can change over time — like capacity or strength — regardless of rendering mode. To visually communicate such a change, variable color applies color to different layers of a symbol as a value reaches different thresholds between zero and 100 percent.
 
@@ -276,7 +74,7 @@ Sometimes, it can make sense for some of a symbol’s layers to opt out of varia
 
 **Use variable color to communicate change — don’t use it to communicate depth.** To convey depth and visual hierarchy, use Hierarchical rendering mode to elevate certain layers and distinguish foreground and background elements in a symbol.
 
-## [Weights and scales](/design/human-interface-guidelines/sf-symbols#Weights-and-scales)
+## [Weights and scales](https://developer.apple.com/design/human-interface-guidelines/sf-symbols#Weights-and-scales)
 
 SF Symbols provides symbols in a wide range of weights and scales to help you create adaptable designs.
 
@@ -292,9 +90,9 @@ Each symbol is also available in three scales: small, medium (the default), and 
 
 ![The third of three images of the plus circle symbol followed by the capitalized word add. In this large symbol, the vertical line of the plus sign almost touches both lines.](https://docs-assets.developer.apple.com/published/6696a9dbf59f8ef7118ac712067de2e6/sf-symbol-scale-large%402x.png)Large
 
-Specifying a scale lets you adjust a symbol’s emphasis compared to adjacent text, without disrupting the weight matching with text that uses the same point size. For developer guidance, see [`imageScale(_:)`](/documentation/SwiftUI/View/imageScale\(_:\)) (SwiftUI), [`UIImage.SymbolScale`](/documentation/UIKit/UIImage/SymbolScale) (UIKit), and [`NSImage.SymbolConfiguration`](/documentation/AppKit/NSImage/SymbolConfiguration-swift.class) (AppKit).
+Specifying a scale lets you adjust a symbol’s emphasis compared to adjacent text, without disrupting the weight matching with text that uses the same point size. For developer guidance, see [`imageScale(_:)`](https://developer.apple.com/documentation/SwiftUI/View/imageScale\(_:\)) (SwiftUI), [`UIImage.SymbolScale`](https://developer.apple.com/documentation/UIKit/UIImage/SymbolScale) (UIKit), and [`NSImage.SymbolConfiguration`](https://developer.apple.com/documentation/AppKit/NSImage/SymbolConfiguration-swift.class) (AppKit).
 
-## [Design variants](/design/human-interface-guidelines/sf-symbols#Design-variants)
+## [Design variants](https://developer.apple.com/design/human-interface-guidelines/sf-symbols#Design-variants)
 
 SF Symbols defines several design variants — such as fill, slash, and enclosed — that can help you communicate precise states and actions while maintaining visual consistency and simplicity in your UI. For example, you could use the slash variant of a symbol to show that an item or action is unavailable, or use the fill variant to indicate selection.
 
@@ -304,7 +102,7 @@ In addition to outline and fill, SF Symbols also defines variants that include a
 
 ![A diagram showing two rows of the same five symbols. In the top row, every symbol uses the outline variant; the bottom row shows the fill variant of each symbol. From the left, the symbols are heart, heart slash, heart circle, heart square, and a heart in a rectangle.](https://docs-assets.developer.apple.com/published/c4486c6d1dc36ea164665276e912139a/sf-variants%402x.png)
 
-SF Symbols provides many variants for specific languages and writing systems, including Latin, Arabic, Hebrew, Hindi, Thai, Chinese, Japanese, Korean, Cyrillic, Devanagari, and several Indic numeral systems. Language- and script-specific variants adapt automatically when the device language changes. For guidance, see [Images](/design/human-interface-guidelines/right-to-left#Images).
+SF Symbols provides many variants for specific languages and writing systems, including Latin, Arabic, Hebrew, Hindi, Thai, Chinese, Japanese, Korean, Cyrillic, Devanagari, and several Indic numeral systems. Language- and script-specific variants adapt automatically when the device language changes. For guidance, see [Images](https://developer.apple.com/design/human-interface-guidelines/right-to-left#Images).
 
 ![A diagram with eight rows of the same twelve symbols, where each row shows a localized version of the symbol. From the left the symbols are doc rich text, doc rich text fill, character book closed, character book closed fill, character bubble, character bubble fill, character, text format superscript, text format subscript, text format size, character text box, and character cursor I beam.](https://docs-assets.developer.apple.com/published/cf9d526c8f3a39b600f0226125a2b228/sf-localized%402x.png)
 
@@ -321,11 +119,11 @@ Symbol variants support a range of design goals. For example:
 
 In many cases, the view that displays a symbol determines whether to use outline or fill, so you don’t have to specify a variant. For example, an iOS tab bar prefers the fill variant, whereas a toolbar takes the outline variant.
 
-## [Animations](/design/human-interface-guidelines/sf-symbols#Animations)
+## [Animations](https://developer.apple.com/design/human-interface-guidelines/sf-symbols#Animations)
 
 SF Symbols provides a collection of expressive, configurable animations that enhance your interface and add vitality to your app. Symbol animations help communicate ideas, provide feedback in response to people’s actions, and signal changes in status or ongoing activities.
 
-Animations work on all SF Symbols in the library, in all rendering modes, weights, and scales, and on custom symbols. For considerations when animating custom symbols, see [Custom symbols](/design/human-interface-guidelines/sf-symbols#Custom-symbols). You can control the playback of an animation, whether you want the animation to run from start to finish, or run indefinitely, repeating its effect until a condition is met. You can customize behaviors, like changing the playback speed of an animation or determining whether to reverse an animation before repeating it. For developer guidance, see [Symbols](/documentation/Symbols) and [`SymbolEffect`](/documentation/Symbols/SymbolEffect).
+Animations work on all SF Symbols in the library, in all rendering modes, weights, and scales, and on custom symbols. For considerations when animating custom symbols, see [Custom symbols](https://developer.apple.com/design/human-interface-guidelines/sf-symbols#Custom-symbols). You can control the playback of an animation, whether you want the animation to run from start to finish, or run indefinitely, repeating its effect until a condition is met. You can customize behaviors, like changing the playback speed of an animation or determining whether to reverse an animation before repeating it. For developer guidance, see [Symbols](https://developer.apple.com/documentation/Symbols) and [`SymbolEffect`](https://developer.apple.com/documentation/Symbols/SymbolEffect).
 
 **Appear** — Causes a symbol to gradually emerge into view.
 
@@ -436,11 +234,11 @@ Play
 
 **Use symbol animations to communicate information more efficiently.** Animations provide visual feedback, reinforcing that something happened in your interface. You can use animations to present complex information in a simple way and without taking up a lot of visual space.
 
-**Consider your app’s tone when adding animations.** When animating a symbol, think about what the animation can convey and how that might align with your brand identity and your app’s overall style and tone. For guidance, see [Branding](/design/human-interface-guidelines/branding).
+**Consider your app’s tone when adding animations.** When animating a symbol, think about what the animation can convey and how that might align with your brand identity and your app’s overall style and tone. For guidance, see [Branding](https://developer.apple.com/design/human-interface-guidelines/branding).
 
-## [Custom symbols](/design/human-interface-guidelines/sf-symbols#Custom-symbols)
+## [Custom symbols](https://developer.apple.com/design/human-interface-guidelines/sf-symbols#Custom-symbols)
 
-If you need a symbol that SF Symbols doesn’t provide, you can create your own. To create a custom symbol, first export the template for a symbol that’s similar to the design you want, then use a vector-editing tool to modify it. For developer guidance, see [Creating custom symbol images for your app](/documentation/UIKit/creating-custom-symbol-images-for-your-app).
+If you need a symbol that SF Symbols doesn’t provide, you can create your own. To create a custom symbol, first export the template for a symbol that’s similar to the design you want, then use a vector-editing tool to modify it. For developer guidance, see [Creating custom symbol images for your app](https://developer.apple.com/documentation/UIKit/creating-custom-symbol-images-for-your-app).
 
 Important
 
@@ -461,7 +259,7 @@ Using a process called _annotating_ , you can assign a specific color — or a s
 
 
 
-For guidance, see [Icons](/design/human-interface-guidelines/icons).
+For guidance, see [Icons](https://developer.apple.com/design/human-interface-guidelines/icons).
 
 **Assign negative side margins to your custom symbol if necessary.** SF Symbols supports negative side margins to aid optical horizontal alignment when a symbol contains a badge or other elements that increase its width. For example, negative side margins can help you horizontally align a stack of folder symbols, some of which include a badge. The name of each margin includes the relevant configuration — such as “left-margin-Regular-M” — so be sure to use this naming pattern if you add margins to your custom symbols.
 
@@ -471,37 +269,37 @@ For guidance, see [Icons](/design/human-interface-guidelines/icons).
 
 **Avoid making custom symbols that include common variants, such as enclosures or badges.** The SF Symbols app offers a component library for creating variants of your custom symbol. Using the component library allows you to create commonly used variants of your custom symbol while maintaining design consistency with the included SF Symbols.
 
-**Provide alternative text labels for custom symbols.** Alternative text labels — or accessibility descriptions — let VoiceOver describe visible UI and content, making navigation easier for people with visual disabilities. For guidance, see [VoiceOver](/design/human-interface-guidelines/voiceover).
+**Provide alternative text labels for custom symbols.** Alternative text labels — or accessibility descriptions — let VoiceOver describe visible UI and content, making navigation easier for people with visual disabilities. For guidance, see [VoiceOver](https://developer.apple.com/design/human-interface-guidelines/voiceover).
 
 **Don’t design replicas of Apple products.** Apple products are copyrighted and you can’t reproduce them in your custom symbols. Also, you can’t customize a symbol that SF Symbols identifies as representing an Apple feature or product.
 
-## [Platform considerations](/design/human-interface-guidelines/sf-symbols#Platform-considerations)
+## [Platform considerations](https://developer.apple.com/design/human-interface-guidelines/sf-symbols#Platform-considerations)
 
  _No additional considerations for iOS, iPadOS, macOS, tvOS, visionOS, or watchOS._
 
-## [Resources](/design/human-interface-guidelines/sf-symbols#Resources)
+## [Resources](https://developer.apple.com/design/human-interface-guidelines/sf-symbols#Resources)
 
-#### [Related](/design/human-interface-guidelines/sf-symbols#Related)
+#### [Related](https://developer.apple.com/design/human-interface-guidelines/sf-symbols#Related)
 
 [Download SF Symbols](https://developer.apple.com/sf-symbols/)
 
-[Typography](/design/human-interface-guidelines/typography)
+[Typography](https://developer.apple.com/design/human-interface-guidelines/typography)
 
-[Icons](/design/human-interface-guidelines/icons)
+[Icons](https://developer.apple.com/design/human-interface-guidelines/icons)
 
-#### [Developer documentation](/design/human-interface-guidelines/sf-symbols#Developer-documentation)
+#### [Developer documentation](https://developer.apple.com/design/human-interface-guidelines/sf-symbols#Developer-documentation)
 
-[Symbols](/documentation/Symbols) — Symbols framework
+[Symbols](https://developer.apple.com/documentation/Symbols) — Symbols framework
 
-[Configuring and displaying symbol images in your UI](/documentation/UIKit/configuring-and-displaying-symbol-images-in-your-ui) — UIKit
+[Configuring and displaying symbol images in your UI](https://developer.apple.com/documentation/UIKit/configuring-and-displaying-symbol-images-in-your-ui) — UIKit
 
-[Creating custom symbol images for your app](/documentation/UIKit/creating-custom-symbol-images-for-your-app) — UIKit
+[Creating custom symbol images for your app](https://developer.apple.com/documentation/UIKit/creating-custom-symbol-images-for-your-app) — UIKit
 
-#### [Videos](/design/human-interface-guidelines/sf-symbols#Videos)
+#### [Videos](https://developer.apple.com/design/human-interface-guidelines/sf-symbols#Videos)
 
 [![](https://devimages-cdn.apple.com/wwdc-services/images/3055294D-836B-4513-B7B0-0BC5666246B0/4F1E5BC7-921E-46C0-927A-D84295787A94/9994_wide_250x141_1x.jpg) What’s new in SF Symbols 7 ](https://developer.apple.com/videos/play/wwdc2025/337)
 
-## [Change log](/design/human-interface-guidelines/sf-symbols#Change-log)
+## [Change log](https://developer.apple.com/design/human-interface-guidelines/sf-symbols#Change-log)
 
 Date| Changes  
 ---|---  
@@ -510,161 +308,3 @@ June 10, 2024| Updated with guidance for new animations and features of SF Symbo
 June 5, 2023| Added a new section on animations. Included animation guidance for custom symbols.  
 September 14, 2022| Added a new section on variable color. Removed instructions on creating custom symbol paths, exporting templates, and layering paths, deferring to developer articles that cover these topics.  
   
-Current page is SF Symbols 
-
-##### Supported platforms
-
-  *   *   *   *   *   * 
-
-
-  * [ SF Symbols ](/design/human-interface-guidelines/sf-symbols#app-top)
-  * [ Rendering modes ](/design/human-interface-guidelines/sf-symbols#Rendering-modes)
-  * [ Gradients ](/design/human-interface-guidelines/sf-symbols#Gradients)
-  * [ Variable color ](/design/human-interface-guidelines/sf-symbols#Variable-color)
-  * [ Weights and scales ](/design/human-interface-guidelines/sf-symbols#Weights-and-scales)
-  * [ Design variants ](/design/human-interface-guidelines/sf-symbols#Design-variants)
-  * [ Animations ](/design/human-interface-guidelines/sf-symbols#Animations)
-  * [ Custom symbols ](/design/human-interface-guidelines/sf-symbols#Custom-symbols)
-  * [ Platform considerations ](/design/human-interface-guidelines/sf-symbols#Platform-considerations)
-  * [ Resources ](/design/human-interface-guidelines/sf-symbols#Resources)
-  * [ Change log ](/design/human-interface-guidelines/sf-symbols#Change-log)
-
-
-
-[Apple](https://www.apple.com)
-
-  1. [Developer](/)
-  2. [ Documentation ](/documentation/)
-
-
-
-###  Platforms 
-
-Toggle Menu 
-
-  * [iOS](/ios/)
-  * [iPadOS](/ipados/)
-  * [macOS](/macos/)
-  * [tvOS](/tvos/)
-  * [visionOS](/visionos/)
-  * [watchOS](/watchos/)
-
-
-
-###  Tools 
-
-Toggle Menu 
-
-  * [Swift](/swift/)
-  * [SwiftUI](/swiftui/)
-  * [Swift Playground](/swift-playground/)
-  * [TestFlight](/testflight/)
-  * [Xcode](/xcode/)
-  * [Xcode Cloud](/xcode-cloud/)
-  * [SF Symbols](/sf-symbols/)
-
-
-
-###  Topics & Technologies 
-
-Toggle Menu 
-
-  * [Accessibility](/accessibility/)
-  * [Accessories](/accessories/)
-  * [App Extension](/app-extensions/)
-  * [App Store](/app-store/)
-  * [Audio & Video](/audio/)
-  * [Augmented Reality](/augmented-reality/)
-  * [Design](/design/)
-  * [Distribution](/distribute/)
-  * [Education](/education/)
-  * [Fonts](/fonts/)
-  * [Games](/games/)
-  * [Health & Fitness](/health-fitness/)
-  * [In-App Purchase](/in-app-purchase/)
-  * [Localization](/localization/)
-  * [Maps & Location](/maps/)
-  * [Machine Learning & AI](/machine-learning/)
-  * [Open Source](https://opensource.apple.com/)
-  * [Security](/security/)
-  * [Safari & Web](/safari/)
-
-
-
-###  Resources 
-
-Toggle Menu 
-
-  *   * [Documentation](/documentation/)
-  * [Tutorials](/learn/)
-  * [Downloads](/download/)
-  * [Forums](/forums/)
-  * [Videos](/videos/)
-
-
-
-###  Support 
-
-Toggle Menu 
-
-  * [Support Articles](/support/articles/)
-  * [Contact Us](/contact/)
-  * [Bug Reporting](/bug-reporting/)
-  * [System Status](/system-status/)
-
-
-
-###  Account 
-
-Toggle Menu 
-
-  * [Apple Developer](/account/)
-  * [App Store Connect](https://appstoreconnect.apple.com/)
-  * [Certificates, IDs, & Profiles](/account/ios/certificate/)
-  * [Feedback Assistant](https://feedbackassistant.apple.com/)
-
-
-
-###  Programs 
-
-Toggle Menu 
-
-  * [Apple Developer Program](/programs/)
-  * [Apple Developer Enterprise Program](/programs/enterprise/)
-  * [App Store Small Business Program](/app-store/small-business-program/)
-  * [MFi Program](https://mfi.apple.com/)
-  * [News Partner Program](/programs/news-partner/)
-  * [Video Partner Program](/programs/video-partner/)
-  * [Security Bounty Program](/security-bounty/)
-  * [Security Research Device Program](/programs/security-research-device/)
-
-
-
-###  Events 
-
-Toggle Menu 
-
-  * [Meet with Apple](/events/)
-  * [Apple Developer Centers](/events/developer-centers/)
-  * [App Store Awards](/app-store/app-store-awards/)
-  * [Apple Design Awards](/design/awards/)
-  * [Apple Developer Academies](/academies/)
-  * [WWDC](/wwdc/)
-
-
-
-To submit feedback on documentation, visit [Feedback Assistant](applefeedback://new?form_identifier=developertools.fba&answers%5B%3Aarea%5D=seedADC%3Adevpubs&answers%5B%3Adoc_type_req%5D=Technology%20Documentation&answers%5B%3Adocumentation_link_req%5D=https%3A%2F%2Fdeveloper.apple.com%2Fdesign%2Fhuman-interface-guidelines%2Fsf-symbols).
-
-Select a color scheme preference
-
-Light
-
-Dark
-
-Auto
-
-English  简体中文  日本語  한국어 
-
-Copyright © 2026 [Apple Inc.](https://www.apple.com) All rights reserved. 
-
-[ Terms of Use ](https://www.apple.com/legal/internet-services/terms/site.html)[ Privacy Policy ](https://www.apple.com/legal/privacy/)[ Agreements and Guidelines ](/support/terms/)

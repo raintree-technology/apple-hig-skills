@@ -1,214 +1,6 @@
 ---
 title: "In-app purchase | Apple Developer Documentation"
 source: https://developer.apple.com/design/human-interface-guidelines/in-app-purchase
----
-
-# This page requires JavaScript.
-
-Please turn on JavaScript in your browser and refresh the page to view its content.
-
-Skip Navigation 
-
-  * Global Nav Open MenuGlobal Nav Close Menu
-  * [Apple Developer](/)
-
-
-
-[Search Developer Cancel ](/search/)
-
-  * [Apple Developer](/)
-  * [News](/news/)
-  * [Discover](/discover/)
-  * [Design](/design/)
-  * [Develop](/develop/)
-  * [Distribute](/distribute/)
-  * [Support](/support/)
-  * [Account](/account/)
-  * [](/search/)
-
-
-
-Cancel 
-
-Only search within “Human Interface Guidelines”
-
-### Quick Links
-
-  * [Downloads](/download/)
-  * [Documentation](/documentation/)
-  * [Sample Code](/documentation/samplecode/)
-  * [Videos](/videos/)
-  * [Forums](/forums/)
-
-5 Quick Links
-
-[ Design ](/design/)
-
-Open Menu 
-
-  * [ Overview ](https://developer.apple.com/design/)
-  * [ What’s New ](https://developer.apple.com/design/whats-new/)
-  * [ Get Started ](https://developer.apple.com/design/get-started/)
-  * [ Guidelines ](/design/human-interface-guidelines)
-  * [ Resources ](https://developer.apple.com/design/resources/)
-
-
-
-## Human Interface Guidelines
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/88a8c8fdc81e5fc382997c9ec3822eab/augmented-reality.svg)
-
-5 of 29 symbols inside 525506332 [Augmented reality](/design/human-interface-guidelines/augmented-reality)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/7a3379bd1fb861217bd79abdc0c175b9/carekit.svg)
-
-6 of 29 symbols inside 525506332 [CareKit](/design/human-interface-guidelines/carekit)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/3bdef2196e420f50c41a566422cc1e4c/carplay.svg)
-
-7 of 29 symbols inside 525506332 [CarPlay](/design/human-interface-guidelines/carplay)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/1a2766daa7645cc3782710ac0977e6d5/game-center.svg)
-
-8 of 29 symbols inside 525506332 [Game Center](/design/human-interface-guidelines/game-center)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/953d6d049f0943017089f645f030f739/generative-ai.svg)
-
-9 of 29 symbols inside 525506332 [Generative AI](/design/human-interface-guidelines/generative-ai)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/1fd95cf0bcefa3ddb3bd937167c4108e/healthkit.svg)
-
-10 of 29 symbols inside 525506332 [HealthKit](/design/human-interface-guidelines/healthkit)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/73b5b486f329ea3c756fe1016fb5d9b6/homekit.svg)
-
-11 of 29 symbols inside 525506332 [HomeKit](/design/human-interface-guidelines/homekit)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/8ee482d4f70affa6bae663c8d51102d0/icloud.svg)
-
-12 of 29 symbols inside 525506332 [iCloud](/design/human-interface-guidelines/icloud)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/d06f906d625d003fce04c3f46a88e2a0/id-verifier.svg)
-
-13 of 29 symbols inside 525506332 [ID Verifier](/design/human-interface-guidelines/id-verifier)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/ef6f7770a91b075a14f08932b4ab28a2/imessage-app.svg)
-
-14 of 29 symbols inside 525506332 [iMessage apps and stickers](/design/human-interface-guidelines/imessage-apps-and-stickers)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/d6e92e5cc61c45c389938daf49834a04/in-app-purchase.svg)
-
-15 of 29 symbols inside 525506332 [In-app purchase](/design/human-interface-guidelines/in-app-purchase)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/25ea28efbe5e8676fd29370fad560f75/live-photos.svg)
-
-16 of 29 symbols inside 525506332 [Live Photos](/design/human-interface-guidelines/live-photos)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/702ebb485435bf1f6e6c4e2d43edd423/mac-catalyst.svg)
-
-17 of 29 symbols inside 525506332 [Mac Catalyst](/design/human-interface-guidelines/mac-catalyst)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/0fc7417f15cf064f38a83bd30dee77cf/machine-learning.svg)
-
-18 of 29 symbols inside 525506332 [Machine learning](/design/human-interface-guidelines/machine-learning)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/88dc6f3ae567c1430f225d6707e6602b/maps.svg)
-
-19 of 29 symbols inside 525506332 [Maps](/design/human-interface-guidelines/maps)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/576e343bdc0f0f102a11a0f6253005a3/nfc.svg)
-
-20 of 29 symbols inside 525506332 [NFC](/design/human-interface-guidelines/nfc)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/cc7b6cfb42f8feb3e386350f0d535688/photo-editing.svg)
-
-21 of 29 symbols inside 525506332 [Photo editing](/design/human-interface-guidelines/photo-editing)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/09f442c9edd6adfc7b96ba62343974f5/researchkit.svg)
-
-22 of 29 symbols inside 525506332 [ResearchKit](/design/human-interface-guidelines/researchkit)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/2157ce221f6ce83b22b10819d0637fac/shareplay.svg)
-
-23 of 29 symbols inside 525506332 [SharePlay](/design/human-interface-guidelines/shareplay)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/abbb59bae34bcc697e70eb31e1cbf9de/shazamkit.svg)
-
-24 of 29 symbols inside 525506332 [ShazamKit](/design/human-interface-guidelines/shazamkit)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/e7797e1e1209d2513f62a929deabc4e6/sign-in-with-apple.svg)
-
-25 of 29 symbols inside 525506332 [Sign in with Apple](/design/human-interface-guidelines/sign-in-with-apple)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/4f44062987111f81a97052a652371e4a/siri.svg)
-
-26 of 29 symbols inside 525506332 [Siri](/design/human-interface-guidelines/siri)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/8165606b034808bdab7a2eccfc5ba01e/tap-to-pay-on-iphone.svg)
-
-27 of 29 symbols inside 525506332 [Tap to Pay on iPhone](/design/human-interface-guidelines/tap-to-pay-on-iphone)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/c2e174aba030d1a7de30e3fcb0e06ed7/voiceover.svg)
-
-28 of 29 symbols inside 525506332 [VoiceOver](/design/human-interface-guidelines/voiceover)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/496355b11d40fa2ff98a232f5692a3da/wallet.svg)
-
-29 of 29 symbols inside 525506332 [Wallet](/design/human-interface-guidelines/wallet)
-
-35 items were found. Tab back to navigate through them. 
-
-Navigator is ready 
 
 # In-app purchase
 
@@ -216,11 +8,11 @@ People can use in-app purchase to pay for virtual goods — like premium content
 
 ![A sketch of an add button, suggesting the purchase of additional digital assets within an app. The image is overlaid with rectangular and circular grid lines and is tinted blue to subtly reflect the blue in the original six-color Apple logo.](https://docs-assets.developer.apple.com/published/201d9efc48577c3322506c6fec1d57aa/technologies-IAP-intro%402x.png)
 
-You can also promote and offer in-app purchases directly through the App Store. For developer guidance, see [In-App Purchase](/documentation/StoreKit/in-app-purchase).
+You can also promote and offer in-app purchases directly through the App Store. For developer guidance, see [In-App Purchase](https://developer.apple.com/documentation/StoreKit/in-app-purchase).
 
 Tip
 
-In-app purchase and [Apple Pay](/design/human-interface-guidelines/apple-pay) are different technologies that support different use cases. Use in-app purchase to sell virtual goods in your app, such as premium content for your app and subscriptions for digital content. Use Apple Pay in your app to sell physical goods like groceries, clothing, and appliances; for services such as club memberships, hotel reservations, and event tickets; and for donations.
+In-app purchase and [Apple Pay](https://developer.apple.com/design/human-interface-guidelines/apple-pay) are different technologies that support different use cases. Use in-app purchase to sell virtual goods in your app, such as premium content for your app and subscriptions for digital content. Use Apple Pay in your app to sell physical goods like groceries, clothing, and appliances; for services such as club memberships, hotel reservations, and event tickets; and for donations.
 
 Using in-app purchase, there are four types of content you can offer:
 
@@ -241,11 +33,11 @@ For marketing and business guidance, see [In-app purchase](https://developer.app
 
 Note
 
-For apps with exceptionally large, frequently updated catalogs of one-time purchases or subscription content from multiple creators, or apps that provide subscriptions with optional add-on content as a single purchase within the app, the Advanced Commerce API allows you to manage your In-App Purchase catalog directly. See the Advanced Commerce API [App Store support page](https://developer.apple.com/in-app-purchase/advanced-commerce-api/) for an overview, and see [Advanced Commerce API](/documentation/AdvancedCommerceAPI) for developer guidance.
+For apps with exceptionally large, frequently updated catalogs of one-time purchases or subscription content from multiple creators, or apps that provide subscriptions with optional add-on content as a single purchase within the app, the Advanced Commerce API allows you to manage your In-App Purchase catalog directly. See the Advanced Commerce API [App Store support page](https://developer.apple.com/in-app-purchase/advanced-commerce-api/) for an overview, and see [Advanced Commerce API](https://developer.apple.com/documentation/AdvancedCommerceAPI) for developer guidance.
 
-## [Best practices](/design/human-interface-guidelines/in-app-purchase#Best-practices)
+## [Best practices](https://developer.apple.com/design/human-interface-guidelines/in-app-purchase#Best-practices)
 
-**Let people experience your app before making a purchase.** People may be more inclined to invest in paid items or features after they’ve enjoyed your app and discovered its value. If you offer auto-renewable subscriptions, consider supporting limited free access to your content; for guidance, see [Auto-renewable subscriptions](/design/human-interface-guidelines/in-app-purchase#Auto-renewable-subscriptions).
+**Let people experience your app before making a purchase.** People may be more inclined to invest in paid items or features after they’ve enjoyed your app and discovered its value. If you offer auto-renewable subscriptions, consider supporting limited free access to your content; for guidance, see [Auto-renewable subscriptions](https://developer.apple.com/design/human-interface-guidelines/in-app-purchase#Auto-renewable-subscriptions).
 
 **Design an integrated shopping experience.** You don’t want people to think they’ve entered a different app when they browse and purchase your digital products. Present products and handle transactions in ways that mirror the style of your app.
 
@@ -253,11 +45,11 @@ For apps with exceptionally large, frequently updated catalogs of one-time purch
 
 **Display the total billing price for each in-app purchase you offer, regardless of type.** People need to know the total billing amount for every purchase they consider.
 
-**Display your store only when people can make payments.** If someone canʼt make payments — for example, because of parental restrictions — consider hiding your store or displaying UI that explains why the store isnʼt available. For developer guidance, see [`canMakePayments`](/documentation/StoreKit/AppStore/canMakePayments).
+**Display your store only when people can make payments.** If someone canʼt make payments — for example, because of parental restrictions — consider hiding your store or displaying UI that explains why the store isnʼt available. For developer guidance, see [`canMakePayments`](https://developer.apple.com/documentation/StoreKit/AppStore/canMakePayments).
 
 **Use the default confirmation sheet.** When someone initiates an in-app purchase, the system displays a confirmation sheet to help prevent accidental purchases. Don’t modify or replicate this sheet.
 
-### [Supporting Family Sharing](/design/human-interface-guidelines/in-app-purchase#Supporting-Family-Sharing)
+### [Supporting Family Sharing](https://developer.apple.com/design/human-interface-guidelines/in-app-purchase#Supporting-Family-Sharing)
 
 People can use Family Sharing to share access to their purchased content — such as auto-renewable subscriptions and non-consumable in-app purchases — with up to five additional family members, across all their Apple devices. To encourage people to take advantage of the Family Sharing support you offer, consider the following guidelines.
 
@@ -267,9 +59,9 @@ People can use Family Sharing to share access to their purchased content — suc
 
 **Aim to customize your in-app messaging so that it makes sense to both purchasers and family members.** For example, when a family member views shared content for the first time, you might welcome them with wording like “Your family subscription includes…”.
 
-### [Providing help with in-app purchases](/design/human-interface-guidelines/in-app-purchase#Providing-help-with-in-app-purchases)
+### [Providing help with in-app purchases](https://developer.apple.com/design/human-interface-guidelines/in-app-purchase#Providing-help-with-in-app-purchases)
 
-Sometimes, people need help with a purchase or want to request a refund. To help make this experience convenient, you can present custom UI within your app that provides assistance, offers alternative solutions, and helps people initiate the system-provided refund flow. For developer guidance, see [`beginRefundRequest(for:in:)`](/documentation/StoreKit/Transaction/beginRefundRequest\(for:in:\)-65tph); for related guidance specific to auto-renewable subscriptions, see [Helping people manage their subscriptions](/design/human-interface-guidelines/in-app-purchase#Helping-people-manage-their-subscriptions).
+Sometimes, people need help with a purchase or want to request a refund. To help make this experience convenient, you can present custom UI within your app that provides assistance, offers alternative solutions, and helps people initiate the system-provided refund flow. For developer guidance, see [`beginRefundRequest(for:in:)`](https://developer.apple.com/documentation/StoreKit/Transaction/beginRefundRequest\(for:in:\)-65tph); for related guidance specific to auto-renewable subscriptions, see [Helping people manage their subscriptions](https://developer.apple.com/design/human-interface-guidelines/in-app-purchase#Helping-people-manage-their-subscriptions).
 
 **Provide help that customers can view before they request a refund.** In addition to including a link to the system-provided refund flow, your custom purchase-help screen can provide assistance you tailor to your app. For example, your custom screen might help people resolve problems with missing purchases, answer frequently asked questions about the in-app purchases you offer, and give people ways to submit feedback or contact you directly for support.
 
@@ -291,9 +83,9 @@ Sometimes, people need help with a purchase or want to request a refund. To help
 
 **Avoid characterizing or providing guidance on Apple’s refund policies.** For example, don’t speculate about whether customers will receive the refund they request. To help people understand the refund-request process, you can provide a link to [Request a refund for apps or content that you bought from Apple](https://support.apple.com/en-us/HT204084).
 
-## [Auto-renewable subscriptions](/design/human-interface-guidelines/in-app-purchase#Auto-renewable-subscriptions)
+## [Auto-renewable subscriptions](https://developer.apple.com/design/human-interface-guidelines/in-app-purchase#Auto-renewable-subscriptions)
 
-**Call attention to subscription benefits during onboarding.** By showing the value of your subscription when people first launch your app, you can educate them on how the app works and help them understand what they’ll gain by subscribing. Include a strong call to action and a clear summary of subscription terms (see [Making signup effortless](/design/human-interface-guidelines/in-app-purchase#Making-signup-effortless)). For related guidance, see [Onboarding](/design/human-interface-guidelines/onboarding).
+**Call attention to subscription benefits during onboarding.** By showing the value of your subscription when people first launch your app, you can educate them on how the app works and help them understand what they’ll gain by subscribing. Include a strong call to action and a clear summary of subscription terms (see [Making signup effortless](https://developer.apple.com/design/human-interface-guidelines/in-app-purchase#Making-signup-effortless)). For related guidance, see [Onboarding](https://developer.apple.com/design/human-interface-guidelines/onboarding).
 
 ![A screenshot of the Wave Journal app running on iPhone. The bottom half of the screen includes a highlighted area with the first of five pages that describe the benefits of subscribing, a Try It Free button, and a Sign In button.](https://docs-assets.developer.apple.com/published/84b9d8763a621f9983c223e0a06d8d3d/iphone-onboarding%402x.png)
 
@@ -317,7 +109,7 @@ Sometimes, people need help with a purchase or want to request a refund. To help
 
 **Encourage a new subscription only when someone isn’t already a subscriber.** Otherwise, people may believe their existing subscription has lapsed when that’s not actually the case. If you offer the same subscription options in multiple apps or through your website, provide a sign-in option so people don’t think they have to pay multiple times for the same service.
 
-### [Making signup effortless](/design/human-interface-guidelines/in-app-purchase#Making-signup-effortless)
+### [Making signup effortless](https://developer.apple.com/design/human-interface-guidelines/in-app-purchase#Making-signup-effortless)
 
 A simple and informative sign-up experience makes it easy for people to act on their interest in your content, whether they’re in your app or viewing your App Store product page.
 
@@ -348,7 +140,7 @@ For example, the Forest Explorer sign-up screen displays billing totals for mont
 
 **Include a sign-up opportunity in your app’s settings.** App and account settings are common places for people to look for a way to subscribe.
 
-### [Supporting offer codes](/design/human-interface-guidelines/in-app-purchase#Supporting-offer-codes)
+### [Supporting offer codes](https://developer.apple.com/design/human-interface-guidelines/in-app-purchase#Supporting-offer-codes)
 
 In iOS and iPadOS, subscription offer codes let you use both online and offline channels to give new, existing, and lapsed subscribers free or discounted access to your subscription content. For example, you might provide offer codes through email, give them out at a store or event, or print one on a physical product.
 
@@ -369,7 +161,7 @@ For developer guidance on implementing offer codes, see [Offer codes](https://de
 
 **Tell people how to redeem a custom code.** Because people can’t redeem a custom code by entering it in their App Store account settings, it’s important to let them know that they can redeem it through a redemption URL or within your app.
 
-**Consider supporting offer redemption within your app.** The system automatically provides screens that present the offer-redemption flow, whether people redeem the offer in your app or in the App Store. When you use StoreKit API to let people redeem offer codes within your app, the only custom UI you need to create is one that initiates the system-provided flow. For developer guidance, see [`presentOfferCodeRedeemSheet(in:)`](/documentation/StoreKit/AppStore/presentOfferCodeRedeemSheet\(in:\)) and [`offerCodeRedemption(isPresented:onCompletion:)`](/documentation/SwiftUI/View/offerCodeRedemption\(isPresented:onCompletion:\)). There are several natural places to provide this custom UI. For example, you could add a “Redeem Code” button to your paywall, onboarding screens, or your app’s settings screen.
+**Consider supporting offer redemption within your app.** The system automatically provides screens that present the offer-redemption flow, whether people redeem the offer in your app or in the App Store. When you use StoreKit API to let people redeem offer codes within your app, the only custom UI you need to create is one that initiates the system-provided flow. For developer guidance, see [`presentOfferCodeRedeemSheet(in:)`](https://developer.apple.com/documentation/StoreKit/AppStore/presentOfferCodeRedeemSheet\(in:\)) and [`offerCodeRedemption(isPresented:onCompletion:)`](https://developer.apple.com/documentation/SwiftUI/View/offerCodeRedemption\(isPresented:onCompletion:\)). There are several natural places to provide this custom UI. For example, you could add a “Redeem Code” button to your paywall, onboarding screens, or your app’s settings screen.
 
 ![A screenshot of the Forest Explorer app’s subscription sign-up page on iPhone. The Redeem Code button is highlighted out of the three subscription buttons.](https://docs-assets.developer.apple.com/published/d9787d1349b4d5b6a524d8a5debc4e44/iphone-custom-redeem%402x.png)
 
@@ -385,15 +177,15 @@ After people tap your custom redeem button, the system automatically provides a 
 
 **Help people benefit from unlocked content as soon as they complete the redemption flow.** Think about ways to align the post-redemption experience in your app with the subscriber’s new status. For example, you might provide a welcome experience for new subscribers or a brief tour of new features for an existing subscriber who’s unlocked additional functionality. In particular, be prepared to welcome people who subscribe before they open your app for the first time. For example, if you require people to create an account or sign in before they can use your app, make this process as smooth as possible for new subscribers who haven’t experienced it before.
 
-### [Helping people manage their subscriptions](/design/human-interface-guidelines/in-app-purchase#Helping-people-manage-their-subscriptions)
+### [Helping people manage their subscriptions](https://developer.apple.com/design/human-interface-guidelines/in-app-purchase#Helping-people-manage-their-subscriptions)
 
 Supporting subscription management means people can upgrade, downgrade, or cancel a subscription without leaving your app. Offering subscription management within your app also gives you a natural place to provide help for common subscriber issues and present alternative offers for people to consider.
 
 ![A screenshot of an app’s subscription settings screen on iPhone. It includes the app name, subscription level, price, and next billing date, above buttons for Manage Subscription, Restore Purchase, and Redeem Code.](https://docs-assets.developer.apple.com/published/dd8be196f4f16567a2db77fcacce2784/subscription-management%402x.png)
 
-**Provide summaries of the customer’s subscriptions.** In particular, people appreciate viewing the upcoming renewal date without having to search for it. Consider displaying this information in a settings or account screen, near the subscription-management option. For developer guidance, see [`Product.SubscriptionInfo`](/documentation/StoreKit/Product/SubscriptionInfo).
+**Provide summaries of the customer’s subscriptions.** In particular, people appreciate viewing the upcoming renewal date without having to search for it. Consider displaying this information in a settings or account screen, near the subscription-management option. For developer guidance, see [`Product.SubscriptionInfo`](https://developer.apple.com/documentation/StoreKit/Product/SubscriptionInfo).
 
-**Consider using the system-provided subscription-management UI.** Using StoreKit APIs lets you present a consistent experience that helps people manage or cancel their subscriptions without leaving your app. For developer guidance, see [`showManageSubscriptions(in:)`](/documentation/StoreKit/AppStore/showManageSubscriptions\(in:\)).
+**Consider using the system-provided subscription-management UI.** Using StoreKit APIs lets you present a consistent experience that helps people manage or cancel their subscriptions without leaving your app. For developer guidance, see [`showManageSubscriptions(in:)`](https://developer.apple.com/documentation/StoreKit/AppStore/showManageSubscriptions\(in:\)).
 
 ![A screenshot of an app’s subscription management screen on iPhone. It includes the app name, subscription level, price, and next billing date, above a list of subscription options and a Cancel Subscription button.](https://docs-assets.developer.apple.com/published/ea9b497104cc62f2db2bdb539eecca6b/system-cancel-flow-1%402x.png)
 
@@ -407,13 +199,13 @@ Supporting subscription management means people can upgrade, downgrade, or cance
 
 **Consider creating a branded, contextual experience to complement the system-provided management UI.** Within your custom UI, you might offer a popular premium tier or provide personalized suggestions for alternative plans based on what you know about the customer’s preferences or how they use your app. For example, you can create a promotional offer that provides a discounted price for a specific period of time. You might also consider subscription [offer codes](https://developer.apple.com/design/human-interface-guidelines/in-app-purchase#Supporting-offer-codes) to help you win back lapsed subscribers and encourage existing subscribers to upgrade.
 
-## [Platform considerations](/design/human-interface-guidelines/in-app-purchase#Platform-considerations)
+## [Platform considerations](https://developer.apple.com/design/human-interface-guidelines/in-app-purchase#Platform-considerations)
 
  _No additional considerations for iOS, iPadOS, macOS, tvOS, or visionOS._
 
-### [watchOS](/design/human-interface-guidelines/in-app-purchase#watchOS)
+### [watchOS](https://developer.apple.com/design/human-interface-guidelines/in-app-purchase#watchOS)
 
-The sign-up screen in your watchOS app needs to display the same set of information about your subscription options that you display in other versions of your app. For the complete list of required items, see [Making signup effortless](/design/human-interface-guidelines/in-app-purchase#Making-signup-effortless). The following guidelines can help you design a sign-up screen that feels at home on Apple Watch.
+The sign-up screen in your watchOS app needs to display the same set of information about your subscription options that you display in other versions of your app. For the complete list of required items, see [Making signup effortless](https://developer.apple.com/design/human-interface-guidelines/in-app-purchase#Making-signup-effortless). The following guidelines can help you design a sign-up screen that feels at home on Apple Watch.
 
 **Clearly describe the differences between versions of your app that run on different devices.** If your watchOS app supports different functionality or provides a subset of the content that’s available on other devices, be sure to clarify these differences in your description. Be straightforward about the advantages of accessing subscription content through your watchOS app without implying that the experience is identical to the ones in other versions of your app.
 
@@ -444,9 +236,9 @@ One payment option per button
 
 One payment option per list row, followed by a button that updates to display the chosen option
 
-## [Resources](/design/human-interface-guidelines/in-app-purchase#Resources)
+## [Resources](https://developer.apple.com/design/human-interface-guidelines/in-app-purchase#Resources)
 
-#### [Related](/design/human-interface-guidelines/in-app-purchase#Related)
+#### [Related](https://developer.apple.com/design/human-interface-guidelines/in-app-purchase#Related)
 
 [In-App Purchase](https://developer.apple.com/in-app-purchase/)
 
@@ -454,171 +246,18 @@ One payment option per list row, followed by a button that updates to display th
 
 [App Review Guidelines](https://developer.apple.com/app-store/review/guidelines/)
 
-#### [Developer documentation](/design/human-interface-guidelines/in-app-purchase#Developer-documentation)
+#### [Developer documentation](https://developer.apple.com/design/human-interface-guidelines/in-app-purchase#Developer-documentation)
 
-[In-App Purchase](/documentation/StoreKit/in-app-purchase) — StoreKit
+[In-App Purchase](https://developer.apple.com/documentation/StoreKit/in-app-purchase) — StoreKit
 
-#### [Videos](/design/human-interface-guidelines/in-app-purchase#Videos)
+#### [Videos](https://developer.apple.com/design/human-interface-guidelines/in-app-purchase#Videos)
 
 [![](https://devimages-cdn.apple.com/wwdc-services/images/C03E6E6D-A32A-41D0-9E50-C3C6059820AA/9F28A37E-92AA-46D7-8805-8A7CDE31F9E8/9154_wide_250x141_1x.jpg) What’s new in StoreKit and In-App Purchase ](https://developer.apple.com/videos/play/wwdc2024/10061)
 
-## [Change log](/design/human-interface-guidelines/in-app-purchase#Change-log)
+## [Change log](https://developer.apple.com/design/human-interface-guidelines/in-app-purchase#Change-log)
 
 Date| Changes  
 ---|---  
 September 12, 2023| Updated artwork and guidance for redeeming offer codes.  
 November 3, 2022| Added a guideline for displaying the total billing price for every in-app purchase item and consolidated guidance into one page.  
   
-Current page is In-app purchase 
-
-##### Supported platforms
-
-  *   *   *   *   *   * 
-
-
-  * [ In-app purchase ](/design/human-interface-guidelines/in-app-purchase#app-top)
-  * [ Best practices ](/design/human-interface-guidelines/in-app-purchase#Best-practices)
-  * [ Auto-renewable subscriptions ](/design/human-interface-guidelines/in-app-purchase#Auto-renewable-subscriptions)
-  * [ Platform considerations ](/design/human-interface-guidelines/in-app-purchase#Platform-considerations)
-  * [ Resources ](/design/human-interface-guidelines/in-app-purchase#Resources)
-  * [ Change log ](/design/human-interface-guidelines/in-app-purchase#Change-log)
-
-
-
-[Apple](https://www.apple.com)
-
-  1. [Developer](/)
-  2. [ Documentation ](/documentation/)
-
-
-
-###  Platforms 
-
-Toggle Menu 
-
-  * [iOS](/ios/)
-  * [iPadOS](/ipados/)
-  * [macOS](/macos/)
-  * [tvOS](/tvos/)
-  * [visionOS](/visionos/)
-  * [watchOS](/watchos/)
-
-
-
-###  Tools 
-
-Toggle Menu 
-
-  * [Swift](/swift/)
-  * [SwiftUI](/swiftui/)
-  * [Swift Playground](/swift-playground/)
-  * [TestFlight](/testflight/)
-  * [Xcode](/xcode/)
-  * [Xcode Cloud](/xcode-cloud/)
-  * [SF Symbols](/sf-symbols/)
-
-
-
-###  Topics & Technologies 
-
-Toggle Menu 
-
-  * [Accessibility](/accessibility/)
-  * [Accessories](/accessories/)
-  * [App Extension](/app-extensions/)
-  * [App Store](/app-store/)
-  * [Audio & Video](/audio/)
-  * [Augmented Reality](/augmented-reality/)
-  * [Design](/design/)
-  * [Distribution](/distribute/)
-  * [Education](/education/)
-  * [Fonts](/fonts/)
-  * [Games](/games/)
-  * [Health & Fitness](/health-fitness/)
-  * [In-App Purchase](/in-app-purchase/)
-  * [Localization](/localization/)
-  * [Maps & Location](/maps/)
-  * [Machine Learning & AI](/machine-learning/)
-  * [Open Source](https://opensource.apple.com/)
-  * [Security](/security/)
-  * [Safari & Web](/safari/)
-
-
-
-###  Resources 
-
-Toggle Menu 
-
-  *   * [Documentation](/documentation/)
-  * [Tutorials](/learn/)
-  * [Downloads](/download/)
-  * [Forums](/forums/)
-  * [Videos](/videos/)
-
-
-
-###  Support 
-
-Toggle Menu 
-
-  * [Support Articles](/support/articles/)
-  * [Contact Us](/contact/)
-  * [Bug Reporting](/bug-reporting/)
-  * [System Status](/system-status/)
-
-
-
-###  Account 
-
-Toggle Menu 
-
-  * [Apple Developer](/account/)
-  * [App Store Connect](https://appstoreconnect.apple.com/)
-  * [Certificates, IDs, & Profiles](/account/ios/certificate/)
-  * [Feedback Assistant](https://feedbackassistant.apple.com/)
-
-
-
-###  Programs 
-
-Toggle Menu 
-
-  * [Apple Developer Program](/programs/)
-  * [Apple Developer Enterprise Program](/programs/enterprise/)
-  * [App Store Small Business Program](/app-store/small-business-program/)
-  * [MFi Program](https://mfi.apple.com/)
-  * [News Partner Program](/programs/news-partner/)
-  * [Video Partner Program](/programs/video-partner/)
-  * [Security Bounty Program](/security-bounty/)
-  * [Security Research Device Program](/programs/security-research-device/)
-
-
-
-###  Events 
-
-Toggle Menu 
-
-  * [Meet with Apple](/events/)
-  * [Apple Developer Centers](/events/developer-centers/)
-  * [App Store Awards](/app-store/app-store-awards/)
-  * [Apple Design Awards](/design/awards/)
-  * [Apple Developer Academies](/academies/)
-  * [WWDC](/wwdc/)
-
-
-
-To submit feedback on documentation, visit [Feedback Assistant](applefeedback://new?form_identifier=developertools.fba&answers%5B%3Aarea%5D=seedADC%3Adevpubs&answers%5B%3Adoc_type_req%5D=Technology%20Documentation&answers%5B%3Adocumentation_link_req%5D=https%3A%2F%2Fdeveloper.apple.com%2Fdesign%2Fhuman-interface-guidelines%2Fin-app-purchase).
-
-Select a color scheme preference
-
-Light
-
-Dark
-
-Auto
-
-English  简体中文  日本語  한국어 
-
-Copyright © 2026 [Apple Inc.](https://www.apple.com) All rights reserved. 
-
-[ Terms of Use ](https://www.apple.com/legal/internet-services/terms/site.html)[ Privacy Policy ](https://www.apple.com/legal/privacy/)[ Agreements and Guidelines ](/support/terms/)

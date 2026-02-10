@@ -1,178 +1,6 @@
 ---
 title: "Gestures | Apple Developer Documentation"
 source: https://developer.apple.com/design/human-interface-guidelines/gestures
----
-
-# This page requires JavaScript.
-
-Please turn on JavaScript in your browser and refresh the page to view its content.
-
-Skip Navigation 
-
-  * Global Nav Open MenuGlobal Nav Close Menu
-  * [Apple Developer](/)
-
-
-
-[Search Developer Cancel ](/search/)
-
-  * [Apple Developer](/)
-  * [News](/news/)
-  * [Discover](/discover/)
-  * [Design](/design/)
-  * [Develop](/develop/)
-  * [Distribute](/distribute/)
-  * [Support](/support/)
-  * [Account](/account/)
-  * [](/search/)
-
-
-
-Cancel 
-
-Only search within “Human Interface Guidelines”
-
-### Quick Links
-
-  * [Downloads](/download/)
-  * [Documentation](/documentation/)
-  * [Sample Code](/documentation/samplecode/)
-  * [Videos](/videos/)
-  * [Forums](/forums/)
-
-5 Quick Links
-
-[ Design ](/design/)
-
-Open Menu 
-
-  * [ Overview ](https://developer.apple.com/design/)
-  * [ What’s New ](https://developer.apple.com/design/whats-new/)
-  * [ Get Started ](https://developer.apple.com/design/get-started/)
-  * [ Guidelines ](/design/human-interface-guidelines)
-  * [ Resources ](https://developer.apple.com/design/resources/)
-
-
-
-## Human Interface Guidelines
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/c9d2e563aa23997588edd7b4538f6c5b/overview.svg)
-
-1 of 6 symbols inside <root> containing 7 symbols[Getting started](/design/human-interface-guidelines/getting-started)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/c9d2e563aa23997588edd7b4538f6c5b/overview.svg)
-
-2 of 6 symbols inside <root> containing 18 symbols[Foundations](/design/human-interface-guidelines/foundations)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/c9d2e563aa23997588edd7b4538f6c5b/overview.svg)
-
-3 of 6 symbols inside <root> containing 25 symbols[Patterns](/design/human-interface-guidelines/patterns)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/c9d2e563aa23997588edd7b4538f6c5b/overview.svg)
-
-4 of 6 symbols inside <root> containing 8 symbols[Components](/design/human-interface-guidelines/components)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/c9d2e563aa23997588edd7b4538f6c5b/overview.svg)
-
-5 of 6 symbols inside <root> containing 13 symbols[Inputs](/design/human-interface-guidelines/inputs)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/26f4da5818d57504620ceca0b1382666/action-button.svg)
-
-1 of 13 symbols inside 182752026 [Action button](/design/human-interface-guidelines/action-button)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/9fff5d6083b43afa7225143c2f1b22f2/apple-pencil-and-scribble.svg)
-
-2 of 13 symbols inside 182752026 [Apple Pencil and Scribble](/design/human-interface-guidelines/apple-pencil-and-scribble)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/8a6c982d1ad996639f7c145386c03fa5/camera-control.svg)
-
-3 of 13 symbols inside 182752026 [Camera Control](/design/human-interface-guidelines/camera-control)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/64c8d1de2b6d1a4c767e59e12874daef/digital-crown.svg)
-
-4 of 13 symbols inside 182752026 [Digital Crown](/design/human-interface-guidelines/digital-crown)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/8d4d5addb69245781c5edb3c96e060c1/eyes.svg)
-
-5 of 13 symbols inside 182752026 [Eyes](/design/human-interface-guidelines/eyes)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/999ac3c549b19a85d02800f3897e3119/focus-and-selection.svg)
-
-6 of 13 symbols inside 182752026 [Focus and selection](/design/human-interface-guidelines/focus-and-selection)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/bbdbe9584dcf366e770e2c0cd00257e4/game-controls.svg)
-
-7 of 13 symbols inside 182752026 [Game controls](/design/human-interface-guidelines/game-controls)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/4d4b4978965ca14deb6aba96c11ac2dd/gestures.svg)
-
-8 of 13 symbols inside 182752026 [Gestures](/design/human-interface-guidelines/gestures)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/6f3a0e598f1144eeea58b0065dc08c55/gyro-and-accelerometer.svg)
-
-9 of 13 symbols inside 182752026 [Gyroscope and accelerometer](/design/human-interface-guidelines/gyro-and-accelerometer)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/68344ca01f44816d3659ffc57f589420/keyboards.svg)
-
-10 of 13 symbols inside 182752026 [Keyboards](/design/human-interface-guidelines/keyboards)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/cea20ce920edfa4bc76ab2b216f008c7/nearby-interactions.svg)
-
-11 of 13 symbols inside 182752026 [Nearby interactions](/design/human-interface-guidelines/nearby-interactions)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/b6c61dfaea2cd4215e21d77156bab143/pointing-devices.svg)
-
-12 of 13 symbols inside 182752026 [Pointing devices](/design/human-interface-guidelines/pointing-devices)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/86586b5af11d19cb3b5cd4c2c045d066/remotes.svg)
-
-13 of 13 symbols inside 182752026 [Remotes](/design/human-interface-guidelines/remotes)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/c9d2e563aa23997588edd7b4538f6c5b/overview.svg)
-
-6 of 6 symbols inside <root> containing 29 symbols[Technologies](/design/human-interface-guidelines/technologies)
-
-19 items were found. Tab back to navigate through them. 
-
-Navigator is ready 
 
 # Gestures
 
@@ -182,11 +10,11 @@ A gesture is a physical motion that a person uses to directly affect an object i
 
 Depending on the device they’re using, people can make gestures on a touchscreen, in the air, or on a range of input devices such as a trackpad, mouse, remote, or game controller that includes a touch surface.
 
-Every platform supports basic gestures like tap, swipe, and drag. Although the precise movements that make up basic gestures can vary per platform and input device, people are familiar with the underlying functionality of these gestures and expect to use them everywhere. For a list of these gestures, see [Standard gestures](/design/human-interface-guidelines/gestures#Standard-gestures).
+Every platform supports basic gestures like tap, swipe, and drag. Although the precise movements that make up basic gestures can vary per platform and input device, people are familiar with the underlying functionality of these gestures and expect to use them everywhere. For a list of these gestures, see [Standard gestures](https://developer.apple.com/design/human-interface-guidelines/gestures#Standard-gestures).
 
-## [Best practices](/design/human-interface-guidelines/gestures#Best-practices)
+## [Best practices](https://developer.apple.com/design/human-interface-guidelines/gestures#Best-practices)
 
-**Give people more than one way to interact with your app.** People commonly prefer or need to use other inputs — such as their voice, keyboard, or Switch Control — to interact with their devices. Don’t assume that people can use a specific gesture to perform a given task. For guidance, see [Accessibility](/design/human-interface-guidelines/accessibility).
+**Give people more than one way to interact with your app.** People commonly prefer or need to use other inputs — such as their voice, keyboard, or Switch Control — to interact with their devices. Don’t assume that people can use a specific gesture to perform a given task. For guidance, see [Accessibility](https://developer.apple.com/design/human-interface-guidelines/accessibility).
 
 **In general, respond to gestures in ways that are consistent with people’s expectations.** People expect most gestures to work the same regardless of their current context. For example, people expect tap to activate or select an object. Avoid using a familiar gesture like tap or swipe to perform an action that’s unique to your app; similarly, avoid creating a unique gesture to perform a standard action like activating a button or scrolling a long view.
 
@@ -194,7 +22,7 @@ Every platform supports basic gestures like tap, swipe, and drag. Although the p
 
 **Indicate when a gesture isn’t available.** If you don’t clearly communicate why a gesture doesn’t work, people might think your app has frozen or they aren’t performing the gesture correctly, leading to frustration. For example, if someone tries to drag a locked object, the UI may not indicate that the object’s position has been locked; or if they try to activate an unavailable button, the button’s unavailable state may not be clearly distinct from its available state.
 
-## [Custom gestures](/design/human-interface-guidelines/gestures#Custom-gestures)
+## [Custom gestures](https://developer.apple.com/design/human-interface-guidelines/gestures#Custom-gestures)
 
 **Add custom gestures only when necessary.** Custom gestures work best when you design them for specialized tasks that people perform frequently and that aren’t covered by existing gestures, like in a game or drawing app. If you decide to implement a custom gesture, make sure it’s:
 
@@ -215,11 +43,11 @@ Every platform supports basic gestures like tap, swipe, and drag. Although the p
 
 **Avoid conflicting with gestures that access system UI.** Several platforms offer gestures for accessing system behaviors, like edge swiping in watchOS or rolling your hand over to access system overlays in visionOS. It’s important to avoid defining custom gestures that might conflict with these interactions, as people expect these controls to work consistently. In specific circumstances within games or immersive experiences, developers can work around this area by deferring the system gesture. For more information, see the platform considerations for iOS, iPadOS, watchOS, and visionOS.
 
-## [Platform considerations](/design/human-interface-guidelines/gestures#Platform-considerations)
+## [Platform considerations](https://developer.apple.com/design/human-interface-guidelines/gestures#Platform-considerations)
 
-### [iOS, iPadOS](/design/human-interface-guidelines/gestures#iOS-iPadOS)
+### [iOS, iPadOS](https://developer.apple.com/design/human-interface-guidelines/gestures#iOS-iPadOS)
 
-In addition to the [standard gestures](/design/human-interface-guidelines/gestures#Standard-gestures) supported in all platforms, iOS and iPadOS support a few other gestures that people expect.
+In addition to the [standard gestures](https://developer.apple.com/design/human-interface-guidelines/gestures#Standard-gestures) supported in all platforms, iOS and iPadOS support a few other gestures that people expect.
 
 Gesture| Common action  
 ---|---  
@@ -228,17 +56,17 @@ Three-finger pinch| Copy selected text (pinch in); paste copied text (pinch out)
 Four-finger swipe (iPadOS only)| Switch between apps.  
 Shake| Initiate undo; initiate redo.  
   
-**Consider allowing simultaneous recognition of multiple gestures if it enhances the experience.** Although simultaneous gestures are unlikely to be useful in nongame apps, a game might include multiple onscreen controls — such as a joystick and firing buttons — that people can operate at the same time. For guidance on integrating touchscreen input with Apple Pencil input in your iPadOS app, see [Apple Pencil and Scribble](/design/human-interface-guidelines/apple-pencil-and-scribble).
+**Consider allowing simultaneous recognition of multiple gestures if it enhances the experience.** Although simultaneous gestures are unlikely to be useful in nongame apps, a game might include multiple onscreen controls — such as a joystick and firing buttons — that people can operate at the same time. For guidance on integrating touchscreen input with Apple Pencil input in your iPadOS app, see [Apple Pencil and Scribble](https://developer.apple.com/design/human-interface-guidelines/apple-pencil-and-scribble).
 
-### [macOS](/design/human-interface-guidelines/gestures#macOS)
+### [macOS](https://developer.apple.com/design/human-interface-guidelines/gestures#macOS)
 
-People primarily interact with macOS using a [keyboard](/design/human-interface-guidelines/keyboards) and mouse. In addition, they can make [standard gestures](/design/human-interface-guidelines/gestures#Standard-gestures) on a Magic Trackpad, Magic Mouse, or a [game controller](/design/human-interface-guidelines/game-controls) that includes a touch surface.
+People primarily interact with macOS using a [keyboard](https://developer.apple.com/design/human-interface-guidelines/keyboards) and mouse. In addition, they can make [standard gestures](https://developer.apple.com/design/human-interface-guidelines/gestures#Standard-gestures) on a Magic Trackpad, Magic Mouse, or a [game controller](https://developer.apple.com/design/human-interface-guidelines/game-controls) that includes a touch surface.
 
-### [tvOS](/design/human-interface-guidelines/gestures#tvOS)
+### [tvOS](https://developer.apple.com/design/human-interface-guidelines/gestures#tvOS)
 
-People expect to use [standard gestures](/design/human-interface-guidelines/gestures#Standard-gestures) to navigate tvOS apps and games with a compatible remote, Siri Remote, or [game controller](/design/human-interface-guidelines/game-controls) that includes a touch surface. For guidance, see [Remotes](/design/human-interface-guidelines/remotes).
+People expect to use [standard gestures](https://developer.apple.com/design/human-interface-guidelines/gestures#Standard-gestures) to navigate tvOS apps and games with a compatible remote, Siri Remote, or [game controller](https://developer.apple.com/design/human-interface-guidelines/game-controls) that includes a touch surface. For guidance, see [Remotes](https://developer.apple.com/design/human-interface-guidelines/remotes).
 
-### [visionOS](/design/human-interface-guidelines/gestures#visionOS)
+### [visionOS](https://developer.apple.com/design/human-interface-guidelines/gestures#visionOS)
 
 visionOS supports two categories of gestures: indirect and direct.
 
@@ -258,7 +86,7 @@ Content description: A recording showing a table with a vertical stack of three 
 
 Play 
 
-Here are the standard direct gestures people use in visionOS; see [Specifications](/design/human-interface-guidelines/gestures#Specifications) for a list of standard indirect gestures.
+Here are the standard direct gestures people use in visionOS; see [Specifications](https://developer.apple.com/design/human-interface-guidelines/gestures#Specifications) for a list of standard indirect gestures.
 
 Direct gesture| Common use  
 ---|---  
@@ -276,9 +104,9 @@ With two hands, pinch and drag in a circular motion| Rotate an object.
 
 **Avoid requiring specific body movements or positions for input.** Not all people can perform specific body movements or position themselves in certain ways at all times, whether due to disability, spatial constraints, or other environmental factors. If your experience requires movement, consider supporting alternative inputs to let people choose the interaction method that works best for them.
 
-#### [Designing custom gestures in visionOS](/design/human-interface-guidelines/gestures#Designing-custom-gestures-in-visionOS)
+#### [Designing custom gestures in visionOS](https://developer.apple.com/design/human-interface-guidelines/gestures#Designing-custom-gestures-in-visionOS)
 
-If you want to offer a specific interaction for your experience that people can’t perform using an existing system gesture, consider designing a custom gesture. To offer this type of interaction, your app needs to be running in a Full Space, and you must request people’s permission to access information about their hands. For developer guidance, see [Setting up access to ARKit data](/documentation/visionOS/setting-up-access-to-arkit-data).
+If you want to offer a specific interaction for your experience that people can’t perform using an existing system gesture, consider designing a custom gesture. To offer this type of interaction, your app needs to be running in a Full Space, and you must request people’s permission to access information about their hands. For developer guidance, see [Setting up access to ARKit data](https://developer.apple.com/documentation/visionOS/setting-up-access-to-arkit-data).
 
 ![A screenshot of a person's hands performing a custom gesture, placing the two hands together to form a heart, while playing a visionOS game.](https://docs-assets.developer.apple.com/published/363ecbc8eeb441809f62ae935e13fbdc/visionos-custom-spatial-gesture-happy-beam%402x.png)
 
@@ -288,7 +116,7 @@ If you want to offer a specific interaction for your experience that people can�
 
 **Avoid custom gestures that require using a specific hand.** It can increase someone’s cognitive load if they need to remember which hand to use to trigger a custom gesture. It may also make your experience less welcoming to people with strong hand-dominance or limb differences.
 
-#### [Working with system overlays in visionOS](/design/human-interface-guidelines/gestures#Working-with-system-overlays-in-visionOS)
+#### [Working with system overlays in visionOS](https://developer.apple.com/design/human-interface-guidelines/gestures#Working-with-system-overlays-in-visionOS)
 
 In visionOS 2 and later, people can look at the palm of one hand and use gestures to quickly access system overlays for Home and Control Center. These interactions are available systemwide, and are reserved solely for accessing system overlays.
 
@@ -306,7 +134,7 @@ When designing apps and games that use custom gestures or anchor content to a pe
 
 ![An illustration of a person's open hand with the palm facing downward. An overlay with the status bar appears above the hand.](https://docs-assets.developer.apple.com/published/f1d5a8816f65f35853ccd513355272d8/visionos-spatial-gesture-control-center%402x.png)A person turns their hand to reveal the status bar, and can tap to open Control Center.
 
-**Consider deferring the system overlay behavior when designing an immersive app or game.** In certain circumstances, you may not want the Home indicator to appear when someone looks at the palm of their hand. For example, a game that uses virtual hands or gloves may want to keep someone within the world of the story, even if they happen to look at their hands from different angles. In such cases, when your app is running in a Full Space, you can choose to require a tap to reveal the Home indicator instead. For developer guidance, see [`persistentSystemOverlays(_:)`](/documentation/SwiftUI/View/persistentSystemOverlays\(_:\)).
+**Consider deferring the system overlay behavior when designing an immersive app or game.** In certain circumstances, you may not want the Home indicator to appear when someone looks at the palm of their hand. For example, a game that uses virtual hands or gloves may want to keep someone within the world of the story, even if they happen to look at their hands from different angles. In such cases, when your app is running in a Full Space, you can choose to require a tap to reveal the Home indicator instead. For developer guidance, see [`persistentSystemOverlays(_:)`](https://developer.apple.com/documentation/SwiftUI/View/persistentSystemOverlays\(_:\)).
 
 ![An image of a person's open hand with the palm facing upward, shown from the person's perspective. A button with a circle icon representing the Home indicator appears above the palm. The image background shows the room that's the person's surroundings.](https://docs-assets.developer.apple.com/published/dc6b4a94633c063ddd432dcc8043cae3/gestures-default-home-indicator%402x.png)Default behavior in the Shared Space
 
@@ -320,21 +148,21 @@ Apps and games that you built for visionOS 1 defer the system overlay behavior b
 
 **Use caution when designing custom gestures that involve a rolling motion of the hand, wrist, and forearm.** This specific motion is reserved for revealing system overlays. Since system overlays always display on top of app content and your app isn’t aware of when they’re visible, it’s important to test any custom gestures or content that might conflict.
 
-### [watchOS](/design/human-interface-guidelines/gestures#watchOS)
+### [watchOS](https://developer.apple.com/design/human-interface-guidelines/gestures#watchOS)
 
-#### [Double tap](/design/human-interface-guidelines/gestures#Double-tap)
+#### [Double tap](https://developer.apple.com/design/human-interface-guidelines/gestures#Double-tap)
 
-In watchOS 11 and later, people can use the double-tap gesture to scroll through lists and scroll views, and to advance between vertical tab views. Additionally, you can specify a toggle or button as the primary action in your app, or in your widget or Live Activity when the system displays it in the Smart Stack. Double-tapping in a view with a primary action highlights the control and then performs the action. The system also supports double tap for custom actions that you offer in [notifications](/design/human-interface-guidelines/notifications), where it acts on the first nondestructive action in the notification.
+In watchOS 11 and later, people can use the double-tap gesture to scroll through lists and scroll views, and to advance between vertical tab views. Additionally, you can specify a toggle or button as the primary action in your app, or in your widget or Live Activity when the system displays it in the Smart Stack. Double-tapping in a view with a primary action highlights the control and then performs the action. The system also supports double tap for custom actions that you offer in [notifications](https://developer.apple.com/design/human-interface-guidelines/notifications), where it acts on the first nondestructive action in the notification.
 
 **Avoid setting a primary action in views with lists, scroll views, or vertical tabs.** This conflicts with the default navigation behaviors that people expect when they double-tap.
 
-**Choose the button that people use most commonly as the primary action in a view.** Double tap is helpful in a nonscrolling view when it performs the action that people use the most. For example, in a media controls view, you could assign the primary action to the play/pause button. For developer guidance, see [`handGestureShortcut(_:isEnabled:)`](/documentation/SwiftUI/View/handGestureShortcut\(_:isEnabled:\)) and [`primaryAction`](/documentation/SwiftUI/HandGestureShortcut/primaryAction).
+**Choose the button that people use most commonly as the primary action in a view.** Double tap is helpful in a nonscrolling view when it performs the action that people use the most. For example, in a media controls view, you could assign the primary action to the play/pause button. For developer guidance, see [`handGestureShortcut(_:isEnabled:)`](https://developer.apple.com/documentation/SwiftUI/View/handGestureShortcut\(_:isEnabled:\)) and [`primaryAction`](https://developer.apple.com/documentation/SwiftUI/HandGestureShortcut/primaryAction).
 
-## [Specifications](/design/human-interface-guidelines/gestures#Specifications)
+## [Specifications](https://developer.apple.com/design/human-interface-guidelines/gestures#Specifications)
 
-### [Standard gestures](/design/human-interface-guidelines/gestures#Standard-gestures)
+### [Standard gestures](https://developer.apple.com/design/human-interface-guidelines/gestures#Standard-gestures)
 
-The system provides APIs that support the familiar gestures people use with their devices, whether they use a touchscreen, an indirect gesture in visionOS, or an input device like a trackpad, mouse, remote, or game controller. For developer guidance, see [Gestures](/documentation/SwiftUI/Gestures).
+The system provides APIs that support the familiar gestures people use with their devices, whether they use a touchscreen, an indirect gesture in visionOS, or an input device like a trackpad, mouse, remote, or game controller. For developer guidance, see [Gestures](https://developer.apple.com/documentation/SwiftUI/Gestures).
 
 Gesture| Supported in| Common action  
 ---|---|---  
@@ -346,31 +174,31 @@ Double tap| iOS, iPadOS, macOS, tvOS, visionOS, watchOS| Zoom in; zoom out if al
 Zoom| iOS, iPadOS, macOS, tvOS, visionOS| Zoom a view; magnify content.  
 Rotate| iOS, iPadOS, macOS, tvOS, visionOS| Rotate a selected item.  
   
-For guidance on supporting additional gestures and button presses on specific input devices, see [Pointing devices](/design/human-interface-guidelines/pointing-devices), [Remotes](/design/human-interface-guidelines/remotes), and [Game controls](/design/human-interface-guidelines/game-controls).
+For guidance on supporting additional gestures and button presses on specific input devices, see [Pointing devices](https://developer.apple.com/design/human-interface-guidelines/pointing-devices), [Remotes](https://developer.apple.com/design/human-interface-guidelines/remotes), and [Game controls](https://developer.apple.com/design/human-interface-guidelines/game-controls).
 
-## [Resources](/design/human-interface-guidelines/gestures#Resources)
+## [Resources](https://developer.apple.com/design/human-interface-guidelines/gestures#Resources)
 
-#### [Related](/design/human-interface-guidelines/gestures#Related)
+#### [Related](https://developer.apple.com/design/human-interface-guidelines/gestures#Related)
 
-[Feedback](/design/human-interface-guidelines/feedback)
+[Feedback](https://developer.apple.com/design/human-interface-guidelines/feedback)
 
-[Eyes](/design/human-interface-guidelines/eyes)
+[Eyes](https://developer.apple.com/design/human-interface-guidelines/eyes)
 
-[Playing haptics](/design/human-interface-guidelines/playing-haptics)
+[Playing haptics](https://developer.apple.com/design/human-interface-guidelines/playing-haptics)
 
-#### [Developer documentation](/design/human-interface-guidelines/gestures#Developer-documentation)
+#### [Developer documentation](https://developer.apple.com/design/human-interface-guidelines/gestures#Developer-documentation)
 
-[Gestures](/documentation/SwiftUI/Gestures) — SwiftUI
+[Gestures](https://developer.apple.com/documentation/SwiftUI/Gestures) — SwiftUI
 
-[`UITouch`](/documentation/UIKit/UITouch) — UIKit
+[`UITouch`](https://developer.apple.com/documentation/UIKit/UITouch) — UIKit
 
-#### [Videos](/design/human-interface-guidelines/gestures#Videos)
+#### [Videos](https://developer.apple.com/design/human-interface-guidelines/gestures#Videos)
 
 [![](https://devimages-cdn.apple.com/wwdc-services/images/C03E6E6D-A32A-41D0-9E50-C3C6059820AA/B38CC217-7635-48EF-B8C9-F7954F390CCE/9273_wide_250x141_1x.jpg) Enhance your UI animations and transitions ](https://developer.apple.com/videos/play/wwdc2024/10145)
 
 [![](https://devimages-cdn.apple.com/wwdc-services/images/D35E0E85-CCB6-41A1-B227-7995ECD83ED5/C6CDCC79-CCD0-4D2F-A4D1-8FC70DC663DB/8127_wide_250x141_1x.jpg) Design for spatial input ](https://developer.apple.com/videos/play/wwdc2023/10073)
 
-## [Change log](/design/human-interface-guidelines/gestures#Change-log)
+## [Change log](https://developer.apple.com/design/human-interface-guidelines/gestures#Change-log)
 
 Date| Changes  
 ---|---  
@@ -378,157 +206,3 @@ September 9, 2024| Added guidance for working with system overlays in visionOS a
 September 15, 2023| Updated specifications to include double tap in watchOS.  
 June 21, 2023| Changed page title from Touchscreen gestures and updated to include guidance for visionOS.  
   
-Current page is Gestures 
-
-##### Supported platforms
-
-  *   *   *   *   *   * 
-
-
-  * [ Gestures ](/design/human-interface-guidelines/gestures#app-top)
-  * [ Best practices ](/design/human-interface-guidelines/gestures#Best-practices)
-  * [ Custom gestures ](/design/human-interface-guidelines/gestures#Custom-gestures)
-  * [ Platform considerations ](/design/human-interface-guidelines/gestures#Platform-considerations)
-  * [ Specifications ](/design/human-interface-guidelines/gestures#Specifications)
-  * [ Resources ](/design/human-interface-guidelines/gestures#Resources)
-  * [ Change log ](/design/human-interface-guidelines/gestures#Change-log)
-
-
-
-[Apple](https://www.apple.com)
-
-  1. [Developer](/)
-  2. [ Documentation ](/documentation/)
-
-
-
-###  Platforms 
-
-Toggle Menu 
-
-  * [iOS](/ios/)
-  * [iPadOS](/ipados/)
-  * [macOS](/macos/)
-  * [tvOS](/tvos/)
-  * [visionOS](/visionos/)
-  * [watchOS](/watchos/)
-
-
-
-###  Tools 
-
-Toggle Menu 
-
-  * [Swift](/swift/)
-  * [SwiftUI](/swiftui/)
-  * [Swift Playground](/swift-playground/)
-  * [TestFlight](/testflight/)
-  * [Xcode](/xcode/)
-  * [Xcode Cloud](/xcode-cloud/)
-  * [SF Symbols](/sf-symbols/)
-
-
-
-###  Topics & Technologies 
-
-Toggle Menu 
-
-  * [Accessibility](/accessibility/)
-  * [Accessories](/accessories/)
-  * [App Extension](/app-extensions/)
-  * [App Store](/app-store/)
-  * [Audio & Video](/audio/)
-  * [Augmented Reality](/augmented-reality/)
-  * [Design](/design/)
-  * [Distribution](/distribute/)
-  * [Education](/education/)
-  * [Fonts](/fonts/)
-  * [Games](/games/)
-  * [Health & Fitness](/health-fitness/)
-  * [In-App Purchase](/in-app-purchase/)
-  * [Localization](/localization/)
-  * [Maps & Location](/maps/)
-  * [Machine Learning & AI](/machine-learning/)
-  * [Open Source](https://opensource.apple.com/)
-  * [Security](/security/)
-  * [Safari & Web](/safari/)
-
-
-
-###  Resources 
-
-Toggle Menu 
-
-  *   * [Documentation](/documentation/)
-  * [Tutorials](/learn/)
-  * [Downloads](/download/)
-  * [Forums](/forums/)
-  * [Videos](/videos/)
-
-
-
-###  Support 
-
-Toggle Menu 
-
-  * [Support Articles](/support/articles/)
-  * [Contact Us](/contact/)
-  * [Bug Reporting](/bug-reporting/)
-  * [System Status](/system-status/)
-
-
-
-###  Account 
-
-Toggle Menu 
-
-  * [Apple Developer](/account/)
-  * [App Store Connect](https://appstoreconnect.apple.com/)
-  * [Certificates, IDs, & Profiles](/account/ios/certificate/)
-  * [Feedback Assistant](https://feedbackassistant.apple.com/)
-
-
-
-###  Programs 
-
-Toggle Menu 
-
-  * [Apple Developer Program](/programs/)
-  * [Apple Developer Enterprise Program](/programs/enterprise/)
-  * [App Store Small Business Program](/app-store/small-business-program/)
-  * [MFi Program](https://mfi.apple.com/)
-  * [News Partner Program](/programs/news-partner/)
-  * [Video Partner Program](/programs/video-partner/)
-  * [Security Bounty Program](/security-bounty/)
-  * [Security Research Device Program](/programs/security-research-device/)
-
-
-
-###  Events 
-
-Toggle Menu 
-
-  * [Meet with Apple](/events/)
-  * [Apple Developer Centers](/events/developer-centers/)
-  * [App Store Awards](/app-store/app-store-awards/)
-  * [Apple Design Awards](/design/awards/)
-  * [Apple Developer Academies](/academies/)
-  * [WWDC](/wwdc/)
-
-
-
-To submit feedback on documentation, visit [Feedback Assistant](applefeedback://new?form_identifier=developertools.fba&answers%5B%3Aarea%5D=seedADC%3Adevpubs&answers%5B%3Adoc_type_req%5D=Technology%20Documentation&answers%5B%3Adocumentation_link_req%5D=https%3A%2F%2Fdeveloper.apple.com%2Fdesign%2Fhuman-interface-guidelines%2Fgestures).
-
-Select a color scheme preference
-
-Light
-
-Dark
-
-Auto
-
-English  简体中文  日本語  한국어 
-
-Copyright © 2026 [Apple Inc.](https://www.apple.com) All rights reserved. 
-
-[ Terms of Use ](https://www.apple.com/legal/internet-services/terms/site.html)[ Privacy Policy ](https://www.apple.com/legal/privacy/)[ Agreements and Guidelines ](/support/terms/)

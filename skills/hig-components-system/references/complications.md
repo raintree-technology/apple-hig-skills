@@ -1,184 +1,6 @@
 ---
 title: "Complications | Apple Developer Documentation"
 source: https://developer.apple.com/design/human-interface-guidelines/complications
----
-
-# This page requires JavaScript.
-
-Please turn on JavaScript in your browser and refresh the page to view its content.
-
-Skip Navigation 
-
-  * Global Nav Open MenuGlobal Nav Close Menu
-  * [Apple Developer](/)
-
-
-
-[Search Developer Cancel ](/search/)
-
-  * [Apple Developer](/)
-  * [News](/news/)
-  * [Discover](/discover/)
-  * [Design](/design/)
-  * [Develop](/develop/)
-  * [Distribute](/distribute/)
-  * [Support](/support/)
-  * [Account](/account/)
-  * [](/search/)
-
-
-
-Cancel 
-
-Only search within “Human Interface Guidelines”
-
-### Quick Links
-
-  * [Downloads](/download/)
-  * [Documentation](/documentation/)
-  * [Sample Code](/documentation/samplecode/)
-  * [Videos](/videos/)
-  * [Forums](/forums/)
-
-5 Quick Links
-
-[ Design ](/design/)
-
-Open Menu 
-
-  * [ Overview ](https://developer.apple.com/design/)
-  * [ What’s New ](https://developer.apple.com/design/whats-new/)
-  * [ Get Started ](https://developer.apple.com/design/get-started/)
-  * [ Guidelines ](/design/human-interface-guidelines)
-  * [ Resources ](https://developer.apple.com/design/resources/)
-
-
-
-## Human Interface Guidelines
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/c9d2e563aa23997588edd7b4538f6c5b/overview.svg)
-
-1 of 6 symbols inside <root> containing 7 symbols[Getting started](/design/human-interface-guidelines/getting-started)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/c9d2e563aa23997588edd7b4538f6c5b/overview.svg)
-
-2 of 6 symbols inside <root> containing 18 symbols[Foundations](/design/human-interface-guidelines/foundations)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/c9d2e563aa23997588edd7b4538f6c5b/overview.svg)
-
-3 of 6 symbols inside <root> containing 25 symbols[Patterns](/design/human-interface-guidelines/patterns)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/c9d2e563aa23997588edd7b4538f6c5b/overview.svg)
-
-4 of 6 symbols inside <root> containing 8 symbols[Components](/design/human-interface-guidelines/components)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/f8287e40b9153ea3bfc47855f3ed090e/content.svg)
-
-1 of 8 symbols inside 1901254726 containing 4 symbols[Content](/design/human-interface-guidelines/content)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/9c9b21773f065997bd33e2258bcedc6e/layout-and-organization.svg)
-
-2 of 8 symbols inside 1901254726 containing 10 symbols[Layout and organization](/design/human-interface-guidelines/layout-and-organization)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/75ce5d52e57519f2cb4ff43bf947e464/menus-and-actions.svg)
-
-3 of 8 symbols inside 1901254726 containing 12 symbols[Menus and actions](/design/human-interface-guidelines/menus-and-actions)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/f6d4ee51abadcd1152fb16d669a41ff5/navigation-and-search.svg)
-
-4 of 8 symbols inside 1901254726 containing 5 symbols[Navigation and search](/design/human-interface-guidelines/navigation-and-search)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/9d6c58bc552734e20b577da42f851727/presentation.svg)
-
-5 of 8 symbols inside 1901254726 containing 8 symbols[Presentation](/design/human-interface-guidelines/presentation)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/6bfe82fa338513b36059645f70a7baae/selection-and-input.svg)
-
-6 of 8 symbols inside 1901254726 containing 11 symbols[Selection and input](/design/human-interface-guidelines/selection-and-input)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/36102a182c11ce4e60c34205b85609aa/status.svg)
-
-7 of 8 symbols inside 1901254726 containing 4 symbols[Status](/design/human-interface-guidelines/status)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/3d1cd2ad10b834153a64d32b7692177c/system.svg)
-
-8 of 8 symbols inside 1901254726 containing 9 symbols[System experiences](/design/human-interface-guidelines/system-experiences)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-1 of 9 symbols inside -1789240653 [App Shortcuts](/design/human-interface-guidelines/app-shortcuts)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-2 of 9 symbols inside -1789240653 [Complications](/design/human-interface-guidelines/complications)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-3 of 9 symbols inside -1789240653 [Controls](/design/human-interface-guidelines/controls)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-4 of 9 symbols inside -1789240653 [Live Activities](/design/human-interface-guidelines/live-activities)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-5 of 9 symbols inside -1789240653 [Notifications](/design/human-interface-guidelines/notifications)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-6 of 9 symbols inside -1789240653 [Status bars](/design/human-interface-guidelines/status-bars)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-7 of 9 symbols inside -1789240653 [Top Shelf](/design/human-interface-guidelines/top-shelf)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-8 of 9 symbols inside -1789240653 [Watch faces](/design/human-interface-guidelines/watch-faces)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-9 of 9 symbols inside -1789240653 [Widgets](/design/human-interface-guidelines/widgets)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/c9d2e563aa23997588edd7b4538f6c5b/overview.svg)
-
-5 of 6 symbols inside <root> containing 13 symbols[Inputs](/design/human-interface-guidelines/inputs)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/c9d2e563aa23997588edd7b4538f6c5b/overview.svg)
-
-6 of 6 symbols inside <root> containing 29 symbols[Technologies](/design/human-interface-guidelines/technologies)
-
-23 items were found. Tab back to navigate through them. 
-
-Navigator is ready 
 
 # Complications
 
@@ -194,23 +16,23 @@ Starting in watchOS 9, the system organizes complications (also known as _access
 
 Developer note
 
-Prefer using [WidgetKit](/documentation/WidgetKit) to develop complications for watchOS 9 and later. For guidance, see [Migrating ClockKit complications to WidgetKit](/documentation/WidgetKit/Converting-A-ClockKit-App). To support earlier versions of watchOS, continue to implement the ClockKit complication data source protocol (see [`CLKComplicationDataSource`](/documentation/ClockKit/CLKComplicationDataSource)).
+Prefer using [WidgetKit](https://developer.apple.com/documentation/WidgetKit) to develop complications for watchOS 9 and later. For guidance, see [Migrating ClockKit complications to WidgetKit](https://developer.apple.com/documentation/WidgetKit/Converting-A-ClockKit-App). To support earlier versions of watchOS, continue to implement the ClockKit complication data source protocol (see [`CLKComplicationDataSource`](https://developer.apple.com/documentation/ClockKit/CLKComplicationDataSource)).
 
-## [Best practices](/design/human-interface-guidelines/complications#Best-practices)
+## [Best practices](https://developer.apple.com/design/human-interface-guidelines/complications#Best-practices)
 
 **Identify essential, dynamic content that people want to view at a glance.** Although people can use a complication to quickly launch an app, the complication behavior they appreciate more is the display of relevant information that always feels up to date. A static complication that doesn’t display meaningful data may be less likely to remain in a prominent position on the watch face.
 
 **Support all complication families when possible.** Supporting more families means that your complications are available on more watch faces. If you can’t display useful information for a particular complication family, provide an image that represents your app — like your app icon — that still lets people launch your app from the watch face.
 
-**Consider creating multiple complications for each family.** Supporting multiple complications helps you take advantage of shareable watch faces and lets people configure a watch face that’s centered on an app they love. For example, an app that helps people train for triathlons could offer three circular complications — one for each segment of the race — each of which deep-links to the segment-specific area in the app. This app could also offer a shareable watch face that’s preconfigured to include its swimming, biking, and running complications and to use its custom images and colors. When people choose this watch face, they don’t have to do any configuration before they can start using it. For guidance, see [Watch faces](/design/human-interface-guidelines/watch-faces).
+**Consider creating multiple complications for each family.** Supporting multiple complications helps you take advantage of shareable watch faces and lets people configure a watch face that’s centered on an app they love. For example, an app that helps people train for triathlons could offer three circular complications — one for each segment of the race — each of which deep-links to the segment-specific area in the app. This app could also offer a shareable watch face that’s preconfigured to include its swimming, biking, and running complications and to use its custom images and colors. When people choose this watch face, they don’t have to do any configuration before they can start using it. For guidance, see [Watch faces](https://developer.apple.com/design/human-interface-guidelines/watch-faces).
 
 **Define a different deep link for each complication you support.** It works well when each complication opens your app to the most relevant area. If all the complications you support open the same area in your app, they can seem less useful.
 
-**Keep privacy in mind.** With the Always-On Retina display, information on the watch face might be visible to people other than the wearer. Make sure you help people prevent potentially sensitive information from being visible to others. For guidance, see [Always On](/design/human-interface-guidelines/always-on).
+**Keep privacy in mind.** With the Always-On Retina display, information on the watch face might be visible to people other than the wearer. Make sure you help people prevent potentially sensitive information from being visible to others. For guidance, see [Always On](https://developer.apple.com/design/human-interface-guidelines/always-on).
 
-**Carefully consider when to update data.** You provide a complication’s data in the form of a timeline where each entry has a value that specifies the time at which to display your data on the watch face. Different data sets might require different time values. For example, a meeting app might display information about an upcoming meeting an hour before the meeting starts, but a weather app might display forecast information at the time those conditions are expected to occur. You can update the timeline a limited number of times each day, and the system stores a limited number of timeline entries for each app, so you need to choose times that enhance the usefulness of your data. For developer guidance, see [Migrating ClockKit complications to WidgetKit](/documentation/WidgetKit/Converting-A-ClockKit-App#Configure-your-timeline-provider).
+**Carefully consider when to update data.** You provide a complication’s data in the form of a timeline where each entry has a value that specifies the time at which to display your data on the watch face. Different data sets might require different time values. For example, a meeting app might display information about an upcoming meeting an hour before the meeting starts, but a weather app might display forecast information at the time those conditions are expected to occur. You can update the timeline a limited number of times each day, and the system stores a limited number of timeline entries for each app, so you need to choose times that enhance the usefulness of your data. For developer guidance, see [Migrating ClockKit complications to WidgetKit](https://developer.apple.com/documentation/WidgetKit/Converting-A-ClockKit-App#Configure-your-timeline-provider).
 
-## [Visual design](/design/human-interface-guidelines/complications#Visual-design)
+## [Visual design](https://developer.apple.com/design/human-interface-guidelines/complications#Visual-design)
 
 **Choose a ring or gauge style based on the data you need to display.** Many families support a ring or gauge layout that provides consistent ways to represent numerical values that can change over time. For example:
 
@@ -223,7 +45,7 @@ Prefer using [WidgetKit](/documentation/WidgetKit) to develop complications for 
 
 
 
-**Make sure images look good in tinted mode.** In tinted mode, the system applies a solid color to a complication’s text, gauges, and images, and desaturates full-color images unless you provide tinted versions of them. For developer guidance, see [`WidgetRenderingMode`](/documentation/WidgetKit/WidgetRenderingMode). (If you’re using legacy templates, tinted mode applies only to graphic complications.) To help your complications perform well in tinted mode:
+**Make sure images look good in tinted mode.** In tinted mode, the system applies a solid color to a complication’s text, gauges, and images, and desaturates full-color images unless you provide tinted versions of them. For developer guidance, see [`WidgetRenderingMode`](https://developer.apple.com/documentation/WidgetKit/WidgetRenderingMode). (If you’re using legacy templates, tinted mode applies only to graphic complications.) To help your complications perform well in tinted mode:
 
   * Avoid using color as the only way to communicate important information. You want people to get the same information in tinted mode as they do in nontinted mode.
 
@@ -236,9 +58,9 @@ Prefer using [WidgetKit](/documentation/WidgetKit) to develop complications for 
 
 **When creating complication content, generally use line widths of two points or greater.** Thinner lines can be difficult to see at a glance, especially when the wearer is in motion. Use line weights that suit the size and complexity of the image.
 
-**Provide a set of static placeholder images for each complication you support.** The system uses placeholder images when there’s no other content to display for your complication’s data. For example, when people first install your app, the system can display a static placeholder while it checks to see if your app can generate a localized placeholder to use instead. Placeholder images can also appear in the carousel from which people select complications. Note that complication image sizes vary per layout (and per legacy template) and the size of a placeholder image may not match the size of the actual image you supply for that complication. For developer guidance, see [`placeholder(in:)`](/documentation/WidgetKit/TimelineProvider/placeholder\(in:\)).
+**Provide a set of static placeholder images for each complication you support.** The system uses placeholder images when there’s no other content to display for your complication’s data. For example, when people first install your app, the system can display a static placeholder while it checks to see if your app can generate a localized placeholder to use instead. Placeholder images can also appear in the carousel from which people select complications. Note that complication image sizes vary per layout (and per legacy template) and the size of a placeholder image may not match the size of the actual image you supply for that complication. For developer guidance, see [`placeholder(in:)`](https://developer.apple.com/documentation/WidgetKit/TimelineProvider/placeholder\(in:\)).
 
-## [Circular](/design/human-interface-guidelines/complications#Circular)
+## [Circular](https://developer.apple.com/design/human-interface-guidelines/complications#Circular)
 
 Circular layouts can include text, gauges, and full-color images in circular areas on the Infograph and Infograph Modular watch faces. The circular family also defines extra-large layouts for displaying content on the X-Large watch face.
 
@@ -336,7 +158,7 @@ A SwiftUI view that implements an extra-large circular layout uses the following
 
 
 
-## [Corner](/design/human-interface-guidelines/complications#Corner)
+## [Corner](https://developer.apple.com/design/human-interface-guidelines/complications#Corner)
 
 Corner layouts let you display full-color images, text, and gauges in the corners of the watch face, like Infograph. Some of the templates also support multicolor text.
 
@@ -379,7 +201,7 @@ A SwiftUI view that implements a corner layout uses the following default text v
 
 
 
-## [Inline](/design/human-interface-guidelines/complications#Inline)
+## [Inline](https://developer.apple.com/design/human-interface-guidelines/complications#Inline)
 
 Inline layouts include utilitarian small and large layouts.
 
@@ -411,7 +233,7 @@ Content| 38mm| 40mm/42mm| 41mm| 44mm| 45mm/49mm
 ---|---|---|---|---|---  
 Flat| 9-21x9 pt (18-42x18 px @2x)| 10-22x10 pt (20-44x20 px @2x)| 10.5-23.5x10.5 pt (21-47x21 px @2x)| N/A| 12-26x12 pt (24-52x24 px @2x)  
   
-## [Rectangular](/design/human-interface-guidelines/complications#Rectangular)
+## [Rectangular](https://developer.apple.com/design/human-interface-guidelines/complications#Rectangular)
 
 Rectangular layouts can display full-color images, text, a gauge, and an optional title in a large rectangular region. Some of the text fields can support multicolor text.
 
@@ -428,7 +250,7 @@ Starting with watchOS 10, if you have created a rectangular layout for your watc
 
 
 
-For developer guidance, see [`WidgetFamily.accessoryRectangular`](/documentation/WidgetKit/WidgetFamily/accessoryRectangular). See [Widgets](/design/human-interface-guidelines/widgets) for additional guidance on designing widgets for the Smart Stack.
+For developer guidance, see [`WidgetFamily.accessoryRectangular`](https://developer.apple.com/documentation/WidgetKit/WidgetFamily/accessoryRectangular). See [Widgets](https://developer.apple.com/design/human-interface-guidelines/widgets) for additional guidance on designing widgets for the Smart Stack.
 
 ![Three lines of left-aligned text. The first line uses blue text to display the words water reminders. The second line uses white text to display the words thirty-two ounces consumed. The third line uses gray text to display the words four day streak, woo hoo.](https://docs-assets.developer.apple.com/published/eacc51c96f809a72dc4e293e1ce12231/rectangular-standard-body%402x.png)Standard body
 
@@ -460,9 +282,9 @@ A SwiftUI view that implements a rectangular layout uses the following default t
 
 
 
-## [Legacy templates](/design/human-interface-guidelines/complications#Legacy-templates)
+## [Legacy templates](https://developer.apple.com/design/human-interface-guidelines/complications#Legacy-templates)
 
-### [Circular small](/design/human-interface-guidelines/complications#Circular-small)
+### [Circular small](https://developer.apple.com/design/human-interface-guidelines/complications#Circular-small)
 
 Circular small templates display a small image or a few characters of text. They appear in the corner of the watch face (for example, in the Color watch face).
 
@@ -491,7 +313,7 @@ Note
 
 In each stack measurement, the width value represents the maximum size.
 
-### [Modular small](/design/human-interface-guidelines/complications#Modular-small)
+### [Modular small](https://developer.apple.com/design/human-interface-guidelines/complications#Modular-small)
 
 Modular small templates display two stacked rows consisting of an icon and content, a circular graph, or a single larger item (for example, the bottom row of complications on the Modular watch face).
 
@@ -522,7 +344,7 @@ Note
 
 In each stack measurement, the width value represents the maximum size.
 
-### [Modular large](/design/human-interface-guidelines/complications#Modular-large)
+### [Modular large](https://developer.apple.com/design/human-interface-guidelines/complications#Modular-large)
 
 Modular large templates offer a large canvas for displaying up to three rows of content (for example, in the center of the Modular watch face).
 
@@ -542,7 +364,7 @@ Columns| 11-32x11 pt (22-64x22 px @2x)| 12-37x12 pt (24-74x24 px @2x)| 12.5-39x1
 Standard body| 11-32x11 pt (22-64x22 px @2x)| 12-37x12 pt (24-74x24 px @2x)| 12.5-39x12.5 pt (25-78x25 px @2x)| 14-42x14 pt (28-84x28 px @2x)| 14.5-44x14.5 pt (29-88x29 px @2x)  
 Table| 11-32x11 pt (22-64x22 px @2x)| 12-37x12 pt (24-74x24 px @2x)| 12.5-39x12.5 pt (25-78x25 px @2x)| 14-42x14 pt (28-84x28 px @2x)| 14.5-44x14.5 pt (29-88x29 px @2x)  
   
-### [Extra large](/design/human-interface-guidelines/complications#Extra-large)
+### [Extra large](https://developer.apple.com/design/human-interface-guidelines/complications#Extra-large)
 
 Extra large templates display larger text and images (for example, on the X-Large watch faces).
 
@@ -571,21 +393,21 @@ Note
 
 In each stack measurement, the width value represents the maximum size.
 
-## [Platform considerations](/design/human-interface-guidelines/complications#Platform-considerations)
+## [Platform considerations](https://developer.apple.com/design/human-interface-guidelines/complications#Platform-considerations)
 
  _Not supported in iOS, iPadOS, macOS, tvOS, or visionOS._
 
-## [Resources](/design/human-interface-guidelines/complications#Resources)
+## [Resources](https://developer.apple.com/design/human-interface-guidelines/complications#Resources)
 
-#### [Related](/design/human-interface-guidelines/complications#Related)
+#### [Related](https://developer.apple.com/design/human-interface-guidelines/complications#Related)
 
-[Watch faces](/design/human-interface-guidelines/watch-faces)
+[Watch faces](https://developer.apple.com/design/human-interface-guidelines/watch-faces)
 
-#### [Developer documentation](/design/human-interface-guidelines/complications#Developer-documentation)
+#### [Developer documentation](https://developer.apple.com/design/human-interface-guidelines/complications#Developer-documentation)
 
-[WidgetKit](/documentation/WidgetKit)
+[WidgetKit](https://developer.apple.com/documentation/WidgetKit)
 
-#### [Videos](/design/human-interface-guidelines/complications#Videos)
+#### [Videos](https://developer.apple.com/design/human-interface-guidelines/complications#Videos)
 
 [![](https://devimages-cdn.apple.com/wwdc-services/images/D35E0E85-CCB6-41A1-B227-7995ECD83ED5/56D03FE8-0566-429A-81D2-2F6566031498/8390_wide_250x141_1x.jpg) Design widgets for the Smart Stack on Apple Watch ](https://developer.apple.com/videos/play/wwdc2023/10309)
 
@@ -593,7 +415,7 @@ In each stack measurement, the width value represents the maximum size.
 
 [![](https://devimages-cdn.apple.com/wwdc-services/images/124/A37E04FC-826F-44B5-A5D8-36B41E5F73E5/6543_wide_250x141_1x.jpg) Complications and widgets: Reloaded ](https://developer.apple.com/videos/play/wwdc2022/10050)
 
-## [Change log](/design/human-interface-guidelines/complications#Change-log)
+## [Change log](https://developer.apple.com/design/human-interface-guidelines/complications#Change-log)
 
 Date| Changes  
 ---|---  
@@ -601,161 +423,3 @@ October 24, 2023| Replaced links to deprecated ClockKit documentation with links
 June 5, 2023| Updated guidance for rectangular complications to support them as widgets in the Smart Stack.  
 September 14, 2022| Added specifications for Apple Watch Ultra.  
   
-Current page is Complications 
-
-##### Supported platforms
-
-  *   *   *   *   *   * 
-
-
-  * [ Complications ](/design/human-interface-guidelines/complications#app-top)
-  * [ Best practices ](/design/human-interface-guidelines/complications#Best-practices)
-  * [ Visual design ](/design/human-interface-guidelines/complications#Visual-design)
-  * [ Circular ](/design/human-interface-guidelines/complications#Circular)
-  * [ Corner ](/design/human-interface-guidelines/complications#Corner)
-  * [ Inline ](/design/human-interface-guidelines/complications#Inline)
-  * [ Rectangular ](/design/human-interface-guidelines/complications#Rectangular)
-  * [ Legacy templates ](/design/human-interface-guidelines/complications#Legacy-templates)
-  * [ Platform considerations ](/design/human-interface-guidelines/complications#Platform-considerations)
-  * [ Resources ](/design/human-interface-guidelines/complications#Resources)
-  * [ Change log ](/design/human-interface-guidelines/complications#Change-log)
-
-
-
-[Apple](https://www.apple.com)
-
-  1. [Developer](/)
-  2. [ Documentation ](/documentation/)
-
-
-
-###  Platforms 
-
-Toggle Menu 
-
-  * [iOS](/ios/)
-  * [iPadOS](/ipados/)
-  * [macOS](/macos/)
-  * [tvOS](/tvos/)
-  * [visionOS](/visionos/)
-  * [watchOS](/watchos/)
-
-
-
-###  Tools 
-
-Toggle Menu 
-
-  * [Swift](/swift/)
-  * [SwiftUI](/swiftui/)
-  * [Swift Playground](/swift-playground/)
-  * [TestFlight](/testflight/)
-  * [Xcode](/xcode/)
-  * [Xcode Cloud](/xcode-cloud/)
-  * [SF Symbols](/sf-symbols/)
-
-
-
-###  Topics & Technologies 
-
-Toggle Menu 
-
-  * [Accessibility](/accessibility/)
-  * [Accessories](/accessories/)
-  * [App Extension](/app-extensions/)
-  * [App Store](/app-store/)
-  * [Audio & Video](/audio/)
-  * [Augmented Reality](/augmented-reality/)
-  * [Design](/design/)
-  * [Distribution](/distribute/)
-  * [Education](/education/)
-  * [Fonts](/fonts/)
-  * [Games](/games/)
-  * [Health & Fitness](/health-fitness/)
-  * [In-App Purchase](/in-app-purchase/)
-  * [Localization](/localization/)
-  * [Maps & Location](/maps/)
-  * [Machine Learning & AI](/machine-learning/)
-  * [Open Source](https://opensource.apple.com/)
-  * [Security](/security/)
-  * [Safari & Web](/safari/)
-
-
-
-###  Resources 
-
-Toggle Menu 
-
-  *   * [Documentation](/documentation/)
-  * [Tutorials](/learn/)
-  * [Downloads](/download/)
-  * [Forums](/forums/)
-  * [Videos](/videos/)
-
-
-
-###  Support 
-
-Toggle Menu 
-
-  * [Support Articles](/support/articles/)
-  * [Contact Us](/contact/)
-  * [Bug Reporting](/bug-reporting/)
-  * [System Status](/system-status/)
-
-
-
-###  Account 
-
-Toggle Menu 
-
-  * [Apple Developer](/account/)
-  * [App Store Connect](https://appstoreconnect.apple.com/)
-  * [Certificates, IDs, & Profiles](/account/ios/certificate/)
-  * [Feedback Assistant](https://feedbackassistant.apple.com/)
-
-
-
-###  Programs 
-
-Toggle Menu 
-
-  * [Apple Developer Program](/programs/)
-  * [Apple Developer Enterprise Program](/programs/enterprise/)
-  * [App Store Small Business Program](/app-store/small-business-program/)
-  * [MFi Program](https://mfi.apple.com/)
-  * [News Partner Program](/programs/news-partner/)
-  * [Video Partner Program](/programs/video-partner/)
-  * [Security Bounty Program](/security-bounty/)
-  * [Security Research Device Program](/programs/security-research-device/)
-
-
-
-###  Events 
-
-Toggle Menu 
-
-  * [Meet with Apple](/events/)
-  * [Apple Developer Centers](/events/developer-centers/)
-  * [App Store Awards](/app-store/app-store-awards/)
-  * [Apple Design Awards](/design/awards/)
-  * [Apple Developer Academies](/academies/)
-  * [WWDC](/wwdc/)
-
-
-
-To submit feedback on documentation, visit [Feedback Assistant](applefeedback://new?form_identifier=developertools.fba&answers%5B%3Aarea%5D=seedADC%3Adevpubs&answers%5B%3Adoc_type_req%5D=Technology%20Documentation&answers%5B%3Adocumentation_link_req%5D=https%3A%2F%2Fdeveloper.apple.com%2Fdesign%2Fhuman-interface-guidelines%2Fcomplications).
-
-Select a color scheme preference
-
-Light
-
-Dark
-
-Auto
-
-English  简体中文  日本語  한국어 
-
-Copyright © 2026 [Apple Inc.](https://www.apple.com) All rights reserved. 
-
-[ Terms of Use ](https://www.apple.com/legal/internet-services/terms/site.html)[ Privacy Policy ](https://www.apple.com/legal/privacy/)[ Agreements and Guidelines ](/support/terms/)

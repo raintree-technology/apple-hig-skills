@@ -1,212 +1,6 @@
 ---
 title: "Typography | Apple Developer Documentation"
 source: https://developer.apple.com/design/human-interface-guidelines/typography
----
-
-# This page requires JavaScript.
-
-Please turn on JavaScript in your browser and refresh the page to view its content.
-
-Skip Navigation 
-
-  * Global Nav Open MenuGlobal Nav Close Menu
-  * [Apple Developer](/)
-
-
-
-[Search Developer Cancel ](/search/)
-
-  * [Apple Developer](/)
-  * [News](/news/)
-  * [Discover](/discover/)
-  * [Design](/design/)
-  * [Develop](/develop/)
-  * [Distribute](/distribute/)
-  * [Support](/support/)
-  * [Account](/account/)
-  * [](/search/)
-
-
-
-Cancel 
-
-Only search within “Human Interface Guidelines”
-
-### Quick Links
-
-  * [Downloads](/download/)
-  * [Documentation](/documentation/)
-  * [Sample Code](/documentation/samplecode/)
-  * [Videos](/videos/)
-  * [Forums](/forums/)
-
-5 Quick Links
-
-[ Design ](/design/)
-
-Open Menu 
-
-  * [ Overview ](https://developer.apple.com/design/)
-  * [ What’s New ](https://developer.apple.com/design/whats-new/)
-  * [ Get Started ](https://developer.apple.com/design/get-started/)
-  * [ Guidelines ](/design/human-interface-guidelines)
-  * [ Resources ](https://developer.apple.com/design/resources/)
-
-
-
-## Human Interface Guidelines
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/c9d2e563aa23997588edd7b4538f6c5b/overview.svg)
-
-1 of 6 symbols inside <root> containing 7 symbols[Getting started](/design/human-interface-guidelines/getting-started)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/c9d2e563aa23997588edd7b4538f6c5b/overview.svg)
-
-2 of 6 symbols inside <root> containing 18 symbols[Foundations](/design/human-interface-guidelines/foundations)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/83c941607786e0ba1f582082f4e94361/accessibility.svg)
-
-1 of 18 symbols inside -159075944 [Accessibility](/design/human-interface-guidelines/accessibility)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/fe2a86283eab29ab76732e955802ab1d/app-icons.svg)
-
-2 of 18 symbols inside -159075944 [App icons](/design/human-interface-guidelines/app-icons)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/8ccc36b6fd261c7d126737ba1a7fae5d/branding.svg)
-
-3 of 18 symbols inside -159075944 [Branding](/design/human-interface-guidelines/branding)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/d8868e121f0aff9e53911d53a00e1c1a/color.svg)
-
-4 of 18 symbols inside -159075944 [Color](/design/human-interface-guidelines/color)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/d0d8ac151e6b6513f9e33a90b8cff011/dark-mode.svg)
-
-5 of 18 symbols inside -159075944 [Dark Mode](/design/human-interface-guidelines/dark-mode)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/8404a78cf8d0b283d894aa5c80c0b3d8/icons.svg)
-
-6 of 18 symbols inside -159075944 [Icons](/design/human-interface-guidelines/icons)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/622f1bc92665b4bea75242308b7ec901/images.svg)
-
-7 of 18 symbols inside -159075944 [Images](/design/human-interface-guidelines/images)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/d5b7d90ff2c45d295ab24816bf9b7488/immersive-experiences.svg)
-
-8 of 18 symbols inside -159075944 [Immersive experiences](/design/human-interface-guidelines/immersive-experiences)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/555095c3c9550a1c9622f8b2fb944b4c/inclusion.svg)
-
-9 of 18 symbols inside -159075944 [Inclusion](/design/human-interface-guidelines/inclusion)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/f3e002314da7a56d2f24cdec3be06327/layout.svg)
-
-10 of 18 symbols inside -159075944 [Layout](/design/human-interface-guidelines/layout)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/1ef2efc25cb743289767a8505bc30929/materials.svg)
-
-11 of 18 symbols inside -159075944 [Materials](/design/human-interface-guidelines/materials)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/1a90a8ffd801429564df725c0c62fd51/motion.svg)
-
-12 of 18 symbols inside -159075944 [Motion](/design/human-interface-guidelines/motion)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/2a423497018ef4861033a900bb8241ad/privacy.svg)
-
-13 of 18 symbols inside -159075944 [Privacy](/design/human-interface-guidelines/privacy)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/585ef588a0cd49392ca51abdc81b302d/right-to-left.svg)
-
-14 of 18 symbols inside -159075944 [Right to left](/design/human-interface-guidelines/right-to-left)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/889c48d0b4f0916dabff9890e12cff79/sf-symbols.svg)
-
-15 of 18 symbols inside -159075944 [SF Symbols](/design/human-interface-guidelines/sf-symbols)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/5ab0c95285fec5f89d7c5eb7fa8b6a30/spatial-layout.svg)
-
-16 of 18 symbols inside -159075944 [Spatial layout](/design/human-interface-guidelines/spatial-layout)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/2b0ebfb3e9329c6ae3eac3d8f579a474/typography.svg)
-
-17 of 18 symbols inside -159075944 [Typography](/design/human-interface-guidelines/typography)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/b58149dcdf7b2d5066c3d2217e667cda/writing.svg)
-
-18 of 18 symbols inside -159075944 [Writing](/design/human-interface-guidelines/writing)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/c9d2e563aa23997588edd7b4538f6c5b/overview.svg)
-
-3 of 6 symbols inside <root> containing 25 symbols[Patterns](/design/human-interface-guidelines/patterns)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/c9d2e563aa23997588edd7b4538f6c5b/overview.svg)
-
-4 of 6 symbols inside <root> containing 8 symbols[Components](/design/human-interface-guidelines/components)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/c9d2e563aa23997588edd7b4538f6c5b/overview.svg)
-
-5 of 6 symbols inside <root> containing 13 symbols[Inputs](/design/human-interface-guidelines/inputs)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/c9d2e563aa23997588edd7b4538f6c5b/overview.svg)
-
-6 of 6 symbols inside <root> containing 29 symbols[Technologies](/design/human-interface-guidelines/technologies)
-
-24 items were found. Tab back to navigate through them. 
-
-Navigator is ready 
-
-December 16, 2025
-
-Added emphasized weights to the Dynamic Type style specifications for each platform. 
 
 # Typography
 
@@ -214,7 +8,7 @@ Your typographic choices can help you display legible text, convey an informatio
 
 ![A sketch of a small letter A to the left of a large letter A, suggesting the use of typography to convey hierarchical information. The image is overlaid with rectangular and circular grid lines and is tinted yellow to subtly reflect the yellow in the original six-color Apple logo.](https://docs-assets.developer.apple.com/published/d90940d120149af7220e4fedfd1c10bd/foundations-typography-intro%402x.png)
 
-## [Ensuring legibility](/design/human-interface-guidelines/typography#Ensuring-legibility)
+## [Ensuring legibility](https://developer.apple.com/design/human-interface-guidelines/typography#Ensuring-legibility)
 
 **Use font sizes that most people can read easily.** People need to be able to read your content at various viewing distances and under a variety of conditions. Follow the recommended default and minimum text sizes for each platform — for both custom and system fonts — to ensure your text is legible on all devices. Keep in mind that font weight can also impact how easy text is to read. If you use a custom font with a thin weight, aim for larger than the recommended sizes to increase legibility.
 
@@ -238,7 +32,7 @@ Increasing text size and adding visible background shapes can help make text eas
 
 **In general, avoid light font weights.** For example, if you’re using system-provided fonts, prefer Regular, Medium, Semibold, or Bold font weights, and avoid Ultralight, Thin, and Light font weights, which can be difficult to see, especially when text is small.
 
-## [Conveying hierarchy](/design/human-interface-guidelines/typography#Conveying-hierarchy)
+## [Conveying hierarchy](https://developer.apple.com/design/human-interface-guidelines/typography#Conveying-hierarchy)
 
 **Adjust font weight, size, and color as needed to emphasize important information and help people visualize hierarchy.** Be sure to maintain the relative hierarchy and visual distinction of text elements when people adjust text sizes.
 
@@ -246,7 +40,7 @@ Increasing text size and adding visible background shapes can help make text eas
 
 **Prioritize important content when responding to text-size changes.** Not all content is equally important. When someone chooses a larger text size, they typically want to make the content they care about easier to read; they don’t always want to increase the size of every word on the screen. For example, when people increase text size to read the content in a tabbed window, they don’t expect the tab titles to increase in size. Similarly, in a game, people are often more interested in a character’s dialog than in transient hit-damage values.
 
-## [Using system fonts](/design/human-interface-guidelines/typography#Using-system-fonts)
+## [Using system fonts](https://developer.apple.com/design/human-interface-guidelines/typography#Using-system-fonts)
 
 Apple provides two typeface families that support an extensive range of weights, sizes, styles, and languages.
 
@@ -274,29 +68,29 @@ To help you define visual hierarchies and create clear and legible designs in ma
 
 Note
 
-[SF Symbols](/design/human-interface-guidelines/sf-symbols) provides a comprehensive library of symbols that integrate seamlessly with the San Francisco system font, automatically aligning with text in all weights and sizes. Consider using symbols when you need to convey a concept or depict an object, especially within text.
+[SF Symbols](https://developer.apple.com/design/human-interface-guidelines/sf-symbols) provides a comprehensive library of symbols that integrate seamlessly with the San Francisco system font, automatically aligning with text in all weights and sizes. Consider using symbols when you need to convey a concept or depict an object, especially within text.
 
 The system defines a set of typographic attributes — called text styles — that work with both typeface families. A _text style_ specifies a combination of font weight, point size, and leading values for each text size. For example, the _body_ text style uses values that support a comfortable reading experience over multiple lines of text, while the _headline_ style assigns a font size and weight that help distinguish a heading from surrounding content. Taken together, the text styles form a typographic hierarchy you can use to express the different levels of importance in your content. Text styles also allow text to scale proportionately when people change the system’s text size or make accessibility adjustments, like turning on Larger Text in Accessibility settings.
 
-**Consider using the built-in text styles.** The system-defined text styles give you a convenient and consistent way to convey your information hierarchy through font size and weight. Using text styles with the system fonts also ensures support for Dynamic Type and larger accessibility type sizes (where available), which let people choose the text size that works for them. For guidance, see [Supporting Dynamic Type](/design/human-interface-guidelines/typography#Supporting-Dynamic-Type).
+**Consider using the built-in text styles.** The system-defined text styles give you a convenient and consistent way to convey your information hierarchy through font size and weight. Using text styles with the system fonts also ensures support for Dynamic Type and larger accessibility type sizes (where available), which let people choose the text size that works for them. For guidance, see [Supporting Dynamic Type](https://developer.apple.com/design/human-interface-guidelines/typography#Supporting-Dynamic-Type).
 
-**Modify the built-in text styles if necessary.** System APIs define font adjustments — called _symbolic traits_ — that let you modify some aspects of a text style. For example, the bold trait adds weight to text, letting you create another level of hierarchy. You can also use symbolic traits to adjust leading if you need to improve readability or conserve space. For example, when you display text in wide columns or long passages, more space between lines (_loose leading_) can make it easier for people to keep their place while moving from one line to the next. Conversely, if you need to display multiple lines of text in an area where height is constrained — for example, in a list row — decreasing the space between lines (_tight leading_) can help the text fit well. If you need to display three or more lines of text, avoid tight leading even in areas where height is limited. For developer guidance, see [`leading(_:)`](/documentation/SwiftUI/Font/leading\(_:\)).
+**Modify the built-in text styles if necessary.** System APIs define font adjustments — called _symbolic traits_ — that let you modify some aspects of a text style. For example, the bold trait adds weight to text, letting you create another level of hierarchy. You can also use symbolic traits to adjust leading if you need to improve readability or conserve space. For example, when you display text in wide columns or long passages, more space between lines (_loose leading_) can make it easier for people to keep their place while moving from one line to the next. Conversely, if you need to display multiple lines of text in an area where height is constrained — for example, in a list row — decreasing the space between lines (_tight leading_) can help the text fit well. If you need to display three or more lines of text, avoid tight leading even in areas where height is limited. For developer guidance, see [`leading(_:)`](https://developer.apple.com/documentation/SwiftUI/Font/leading\(_:\)).
 
 Developer note
 
-You can use the constants defined in [`Font.Design`](/documentation/SwiftUI/Font/Design) to access all system fonts — don’t embed system fonts in your app or game. For example, use [`Font.Design.default`](/documentation/SwiftUI/Font/Design/default) to get the system font on all platforms; use [`Font.Design.serif`](/documentation/SwiftUI/Font/Design/serif) to get the New York font.
+You can use the constants defined in [`Font.Design`](https://developer.apple.com/documentation/SwiftUI/Font/Design) to access all system fonts — don’t embed system fonts in your app or game. For example, use [`Font.Design.default`](https://developer.apple.com/documentation/SwiftUI/Font/Design/default) to get the system font on all platforms; use [`Font.Design.serif`](https://developer.apple.com/documentation/SwiftUI/Font/Design/serif) to get the New York font.
 
-**If necessary, adjust tracking in interface mockups.** In a running app, the system font dynamically adjusts tracking at every point size. To produce an accurate interface mockup of an interface that uses the variable system fonts, you don’t have to choose a discrete optical size at certain point sizes, but you might need to adjust the tracking. For guidance, see [Tracking values](/design/human-interface-guidelines/typography#Tracking-values).
+**If necessary, adjust tracking in interface mockups.** In a running app, the system font dynamically adjusts tracking at every point size. To produce an accurate interface mockup of an interface that uses the variable system fonts, you don’t have to choose a discrete optical size at certain point sizes, but you might need to adjust the tracking. For guidance, see [Tracking values](https://developer.apple.com/design/human-interface-guidelines/typography#Tracking-values).
 
-## [Using custom fonts](/design/human-interface-guidelines/typography#Using-custom-fonts)
+## [Using custom fonts](https://developer.apple.com/design/human-interface-guidelines/typography#Using-custom-fonts)
 
-**Make sure custom fonts are legible.** People need to be able to read your custom font easily at various viewing distances and under a variety of conditions. While using a custom font, be guided by the recommended minimum font sizes for various styles and weights in [Specifications](/design/human-interface-guidelines/typography#Specifications).
+**Make sure custom fonts are legible.** People need to be able to read your custom font easily at various viewing distances and under a variety of conditions. While using a custom font, be guided by the recommended minimum font sizes for various styles and weights in [Specifications](https://developer.apple.com/design/human-interface-guidelines/typography#Specifications).
 
-**Implement accessibility features for custom fonts.** System fonts automatically support Dynamic Type (where available) and respond when people turn on accessibility features, such as Bold Text. If you use a custom font, make sure it implements the same behaviors. For developer guidance, see [Applying custom fonts to text](/documentation/SwiftUI/Applying-Custom-Fonts-to-Text). In a Unity-based game, you can use [Apple’s Unity plug-ins](https://github.com/apple/unityplugins) to support Dynamic Type. If the plug-in isn’t appropriate for your game, be sure to let players adjust text size in other ways.
+**Implement accessibility features for custom fonts.** System fonts automatically support Dynamic Type (where available) and respond when people turn on accessibility features, such as Bold Text. If you use a custom font, make sure it implements the same behaviors. For developer guidance, see [Applying custom fonts to text](https://developer.apple.com/documentation/SwiftUI/Applying-Custom-Fonts-to-Text). In a Unity-based game, you can use [Apple’s Unity plug-ins](https://github.com/apple/unityplugins) to support Dynamic Type. If the plug-in isn’t appropriate for your game, be sure to let players adjust text size in other ways.
 
-## [Supporting Dynamic Type](/design/human-interface-guidelines/typography#Supporting-Dynamic-Type)
+## [Supporting Dynamic Type](https://developer.apple.com/design/human-interface-guidelines/typography#Supporting-Dynamic-Type)
 
-Dynamic Type is a system-level feature in iOS, iPadOS, tvOS, visionOS, and watchOS that lets people adjust the size of visible text on their device to ensure readability and comfort. For related guidance, see [Accessibility](/design/human-interface-guidelines/accessibility).
+Dynamic Type is a system-level feature in iOS, iPadOS, tvOS, visionOS, and watchOS that lets people adjust the size of visible text on their device to ensure readability and comfort. For related guidance, see [Accessibility](https://developer.apple.com/design/human-interface-guidelines/accessibility).
 
 ![A screenshot of a Mail message on iPhone, using the default font size. From the left, the message header displays the sender's contact photo or initials, followed by a two-line layout with the sender name and date on top and the recipient name and attachment glyph on the bottom. The message body contains four lines of text and the address of Muir Woods National Monument.](https://docs-assets.developer.apple.com/published/65fab16931136a1aa542fb71e9ec181b/typography-default-type%402x.png)
 
@@ -306,27 +100,27 @@ Mail content at the default text size
 
 Mail content at the largest accessibility text size
 
-For a list of available Dynamic Type sizes, see [Specifications](/design/human-interface-guidelines/typography#Specifications). You can also download Dynamic Type size tables in the [Apple Design Resources](https://developer.apple.com/design/resources/) for each platform.
+For a list of available Dynamic Type sizes, see [Specifications](https://developer.apple.com/design/human-interface-guidelines/typography#Specifications). You can also download Dynamic Type size tables in the [Apple Design Resources](https://developer.apple.com/design/resources/) for each platform.
 
-For developer guidance, see [Text input and output](/documentation/SwiftUI/Text-input-and-output). To support Dynamic Type in Unity-based games, use [Apple’s Unity plug-ins](https://github.com/apple/unityplugins).
+For developer guidance, see [Text input and output](https://developer.apple.com/documentation/SwiftUI/Text-input-and-output). To support Dynamic Type in Unity-based games, use [Apple’s Unity plug-ins](https://github.com/apple/unityplugins).
 
 **Make sure your app’s layout adapts to all font sizes.** Verify that your design scales, and that text and glyphs are legible at all font sizes. On iPhone or iPad, turn on Larger Accessibility Text Sizes in Settings > Accessibility > Display & Text Size > Larger Text, and confirm that your app remains comfortably readable.
 
-**Increase the size of meaningful interface icons as font size increases.** If you use interface icons to communicate important information, make sure they’re easy to view at larger font sizes too. When you use [SF Symbols](/design/human-interface-guidelines/sf-symbols), you get icons that scale automatically with Dynamic Type size changes.
+**Increase the size of meaningful interface icons as font size increases.** If you use interface icons to communicate important information, make sure they’re easy to view at larger font sizes too. When you use [SF Symbols](https://developer.apple.com/design/human-interface-guidelines/sf-symbols), you get icons that scale automatically with Dynamic Type size changes.
 
-**Keep text truncation to a minimum as font size increases.** In general, aim to display as much useful text at the largest accessibility font size as you do at the largest standard font size. Avoid truncating text in scrollable regions unless people can open a separate view to read the rest of the content. You can prevent text truncation in a label by configuring it to use as many lines as needed to display a useful amount of text. For developer guidance, see [`numberOfLines`](/documentation/UIKit/UILabel/numberOfLines).
+**Keep text truncation to a minimum as font size increases.** In general, aim to display as much useful text at the largest accessibility font size as you do at the largest standard font size. Avoid truncating text in scrollable regions unless people can open a separate view to read the rest of the content. You can prevent text truncation in a label by configuring it to use as many lines as needed to display a useful amount of text. For developer guidance, see [`numberOfLines`](https://developer.apple.com/documentation/UIKit/UILabel/numberOfLines).
 
-**Consider adjusting your layout at large font sizes.** When font size increases in a horizontally constrained context, inline items (like glyphs and timestamps) and container boundaries can crowd text and cause truncation or overlapping. To improve readability, consider using a stacked layout where text appears above secondary items. Multicolumn text can also be less readable at large sizes due to horizontal space constraints. Reduce the number of columns when the font size increases to avoid truncation and enhance readability. For developer guidance, see [`isAccessibilityCategory`](/documentation/UIKit/UIContentSizeCategory/isAccessibilityCategory).
+**Consider adjusting your layout at large font sizes.** When font size increases in a horizontally constrained context, inline items (like glyphs and timestamps) and container boundaries can crowd text and cause truncation or overlapping. To improve readability, consider using a stacked layout where text appears above secondary items. Multicolumn text can also be less readable at large sizes due to horizontal space constraints. Reduce the number of columns when the font size increases to avoid truncation and enhance readability. For developer guidance, see [`isAccessibilityCategory`](https://developer.apple.com/documentation/UIKit/UIContentSizeCategory/isAccessibilityCategory).
 
 **Maintain a consistent information hierarchy regardless of the current font size.** For example, keep primary elements toward the top of a view even when the font size is very large, so that people don’t lose track of these elements.
 
-## [Platform considerations](/design/human-interface-guidelines/typography#Platform-considerations)
+## [Platform considerations](https://developer.apple.com/design/human-interface-guidelines/typography#Platform-considerations)
 
-### [iOS, iPadOS](/design/human-interface-guidelines/typography#iOS-iPadOS)
+### [iOS, iPadOS](https://developer.apple.com/design/human-interface-guidelines/typography#iOS-iPadOS)
 
 SF Pro is the system font in iOS and iPadOS. iOS and iPadOS apps can also use NY.
 
-### [macOS](/design/human-interface-guidelines/typography#macOS)
+### [macOS](https://developer.apple.com/design/human-interface-guidelines/typography#macOS)
 
 SF Pro is the system font in macOS. NY is available for Mac apps built with Mac Catalyst. macOS doesn’t support Dynamic Type.
 
@@ -334,28 +128,28 @@ SF Pro is the system font in macOS. NY is available for Mac apps built with Mac 
 
 Dynamic font variant| API  
 ---|---  
-Control content| [`controlContentFont(ofSize:)`](/documentation/AppKit/NSFont/controlContentFont\(ofSize:\))  
-Label| [`labelFont(ofSize:)`](/documentation/AppKit/NSFont/labelFont\(ofSize:\))  
-Menu| [`menuFont(ofSize:)`](/documentation/AppKit/NSFont/menuFont\(ofSize:\))  
-Menu bar| [`menuBarFont(ofSize:)`](/documentation/AppKit/NSFont/menuBarFont\(ofSize:\))  
-Message| [`messageFont(ofSize:)`](/documentation/AppKit/NSFont/messageFont\(ofSize:\))  
-Palette| [`paletteFont(ofSize:)`](/documentation/AppKit/NSFont/paletteFont\(ofSize:\))  
-Title| [`titleBarFont(ofSize:)`](/documentation/AppKit/NSFont/titleBarFont\(ofSize:\))  
-Tool tips| [`toolTipsFont(ofSize:)`](/documentation/AppKit/NSFont/toolTipsFont\(ofSize:\))  
-Document text (user)| [`userFont(ofSize:)`](/documentation/AppKit/NSFont/userFont\(ofSize:\))  
-Monospaced document text (user fixed pitch)| [`userFixedPitchFont(ofSize:)`](/documentation/AppKit/NSFont/userFixedPitchFont\(ofSize:\))  
-Bold system font| [`boldSystemFont(ofSize:)`](/documentation/AppKit/NSFont/boldSystemFont\(ofSize:\))  
-System font| [`systemFont(ofSize:)`](/documentation/AppKit/NSFont/systemFont\(ofSize:\))  
+Control content| [`controlContentFont(ofSize:)`](https://developer.apple.com/documentation/AppKit/NSFont/controlContentFont\(ofSize:\))  
+Label| [`labelFont(ofSize:)`](https://developer.apple.com/documentation/AppKit/NSFont/labelFont\(ofSize:\))  
+Menu| [`menuFont(ofSize:)`](https://developer.apple.com/documentation/AppKit/NSFont/menuFont\(ofSize:\))  
+Menu bar| [`menuBarFont(ofSize:)`](https://developer.apple.com/documentation/AppKit/NSFont/menuBarFont\(ofSize:\))  
+Message| [`messageFont(ofSize:)`](https://developer.apple.com/documentation/AppKit/NSFont/messageFont\(ofSize:\))  
+Palette| [`paletteFont(ofSize:)`](https://developer.apple.com/documentation/AppKit/NSFont/paletteFont\(ofSize:\))  
+Title| [`titleBarFont(ofSize:)`](https://developer.apple.com/documentation/AppKit/NSFont/titleBarFont\(ofSize:\))  
+Tool tips| [`toolTipsFont(ofSize:)`](https://developer.apple.com/documentation/AppKit/NSFont/toolTipsFont\(ofSize:\))  
+Document text (user)| [`userFont(ofSize:)`](https://developer.apple.com/documentation/AppKit/NSFont/userFont\(ofSize:\))  
+Monospaced document text (user fixed pitch)| [`userFixedPitchFont(ofSize:)`](https://developer.apple.com/documentation/AppKit/NSFont/userFixedPitchFont\(ofSize:\))  
+Bold system font| [`boldSystemFont(ofSize:)`](https://developer.apple.com/documentation/AppKit/NSFont/boldSystemFont\(ofSize:\))  
+System font| [`systemFont(ofSize:)`](https://developer.apple.com/documentation/AppKit/NSFont/systemFont\(ofSize:\))  
   
-### [tvOS](/design/human-interface-guidelines/typography#tvOS)
+### [tvOS](https://developer.apple.com/design/human-interface-guidelines/typography#tvOS)
 
 SF Pro is the system font in tvOS, and apps can also use NY.
 
-### [visionOS](/design/human-interface-guidelines/typography#visionOS)
+### [visionOS](https://developer.apple.com/design/human-interface-guidelines/typography#visionOS)
 
 SF Pro is the system font in visionOS. If you use NY, you need to specify the type styles you want.
 
-visionOS uses bolder versions of the Dynamic Type body and title styles and it introduces Extra Large Title 1 and Extra Large Title 2 for wide, editorial-style layouts. For guidance using vibrancy to indicate hierarchy in text and symbols, see [Materials > visionOS](/design/human-interface-guidelines/materials#visionOS).
+visionOS uses bolder versions of the Dynamic Type body and title styles and it introduces Extra Large Title 1 and Extra Large Title 2 for wide, editorial-style layouts. For guidance using vibrancy to indicate hierarchy in text and symbols, see [Materials > visionOS](https://developer.apple.com/design/human-interface-guidelines/materials#visionOS).
 
 **In general, prefer 2D text.** The more visual depth text characters have, the more difficult they can be to read. Although a small amount of 3D text can provide a fun visual element that draws people’s attention, if you’re going to display content that people need to read and understand, prefer using text that has little or no visual depth.
 
@@ -375,15 +169,15 @@ visionOS uses bolder versions of the Dynamic Type body and title styles and it i
 
 **Keep text facing people as much as possible.** If you display text that’s associated with a point in space, such as a label for a 3D object, you generally want to use _billboarding_ — that is, you want the text to face the wearer regardless of how they or the object move. If you don’t rotate text to remain facing the wearer, the text can become impossible to read because people may view it from the side or a highly oblique angle. For example, imagine a virtual lamp that appears to be on a physical desk with a label anchored directly above it. For the text to remain readable, the label needs to rotate around the y-axis as people move around the desk; in other words, the baseline of the text needs to remain perpendicular to the person’s line of sight.
 
-### [watchOS](/design/human-interface-guidelines/typography#watchOS)
+### [watchOS](https://developer.apple.com/design/human-interface-guidelines/typography#watchOS)
 
 SF Compact is the system font in watchOS, and apps can also use NY. In complications, watchOS uses SF Compact Rounded.
 
-## [Specifications](/design/human-interface-guidelines/typography#Specifications)
+## [Specifications](https://developer.apple.com/design/human-interface-guidelines/typography#Specifications)
 
-You can display emphasized variants of system text styles using symbolic traits. In SwiftUI, use the [`bold()`](/documentation/SwiftUI/Text/bold\(\)) modifier; in UIKit, use [`traitBold`](/documentation/UIKit/UIFontDescriptor/SymbolicTraits-swift.struct/traitBold) in the [`UIFontDescriptor`](/documentation/UIKit/UIFontDescriptor) API. The emphasized weights can be medium, semibold, bold, or heavy. The following specifications include the emphasized weight for each text style.
+You can display emphasized variants of system text styles using symbolic traits. In SwiftUI, use the [`bold()`](https://developer.apple.com/documentation/SwiftUI/Text/bold\(\)) modifier; in UIKit, use [`traitBold`](https://developer.apple.com/documentation/UIKit/UIFontDescriptor/SymbolicTraits-swift.struct/traitBold) in the [`UIFontDescriptor`](https://developer.apple.com/documentation/UIKit/UIFontDescriptor) API. The emphasized weights can be medium, semibold, bold, or heavy. The following specifications include the emphasized weight for each text style.
 
-### [iOS, iPadOS Dynamic Type sizes](/design/human-interface-guidelines/typography#iOS-iPadOS-Dynamic-Type-sizes)
+### [iOS, iPadOS Dynamic Type sizes](https://developer.apple.com/design/human-interface-guidelines/typography#iOS-iPadOS-Dynamic-Type-sizes)
 
   * xSmall 
   * Small 
@@ -395,7 +189,7 @@ You can display emphasized variants of system text styles using symbolic traits.
 
 
 
-#### [xSmall](/design/human-interface-guidelines/typography#xSmall)
+#### [xSmall](https://developer.apple.com/design/human-interface-guidelines/typography#xSmall)
 
 Style| Weight| Size (points)| Leading (points)| Emphasized weight  
 ---|---|---|---|---  
@@ -413,7 +207,7 @@ Caption 2| Regular| 11| 13| Semibold
   
 Point size based on image resolution of 144 ppi for @2x and 216 ppi for @3x designs.
 
-#### [Small](/design/human-interface-guidelines/typography#Small)
+#### [Small](https://developer.apple.com/design/human-interface-guidelines/typography#Small)
 
 Style| Weight| Size (points)| Leading (points)| Emphasized weight  
 ---|---|---|---|---  
@@ -431,7 +225,7 @@ Caption 2| Regular| 11| 13| Semibold
   
 Point size based on image resolution of 144 ppi for @2x and 216 ppi for @3x designs.
 
-#### [Medium](/design/human-interface-guidelines/typography#Medium)
+#### [Medium](https://developer.apple.com/design/human-interface-guidelines/typography#Medium)
 
 Style| Weight| Size (points)| Leading (points)| Emphasized weight  
 ---|---|---|---|---  
@@ -449,7 +243,7 @@ Caption 2| Regular| 11| 13| Semibold
   
 Point size based on image resolution of 144 ppi for @2x and 216 ppi for @3x designs.
 
-#### [Large (default)](/design/human-interface-guidelines/typography#Large-default)
+#### [Large (default)](https://developer.apple.com/design/human-interface-guidelines/typography#Large-default)
 
 Style| Weight| Size (points)| Leading (points)| Emphasized weight  
 ---|---|---|---|---  
@@ -467,7 +261,7 @@ Caption 2| Regular| 11| 13| Semibold
   
 Point size based on image resolution of 144 ppi for @2x and 216 ppi for @3x designs.
 
-#### [xLarge](/design/human-interface-guidelines/typography#xLarge)
+#### [xLarge](https://developer.apple.com/design/human-interface-guidelines/typography#xLarge)
 
 Style| Weight| Size (points)| Leading (points)| Emphasized weight  
 ---|---|---|---|---  
@@ -485,7 +279,7 @@ Caption 2| Regular| 13| 18| Semibold
   
 Point size based on image resolution of 144 ppi for @2x and 216 ppi for @3x designs.
 
-#### [xxLarge](/design/human-interface-guidelines/typography#xxLarge)
+#### [xxLarge](https://developer.apple.com/design/human-interface-guidelines/typography#xxLarge)
 
 Style| Weight| Size (points)| Leading (points)| Emphasized weight  
 ---|---|---|---|---  
@@ -503,7 +297,7 @@ Caption 2| Regular| 15| 20| Semibold
   
 Point size based on image resolution of 144 ppi for @2x and 216 ppi for @3x designs.
 
-#### [xxxLarge](/design/human-interface-guidelines/typography#xxxLarge)
+#### [xxxLarge](https://developer.apple.com/design/human-interface-guidelines/typography#xxxLarge)
 
 Style| Weight| Size (points)| Leading (points)| Emphasized weight  
 ---|---|---|---|---  
@@ -521,7 +315,7 @@ Caption 2| Regular| 17| 22| Semibold
   
 Point size based on image resolution of 144 ppi for @2x and 216 ppi for @3x designs.
 
-### [iOS, iPadOS larger accessibility type sizes](/design/human-interface-guidelines/typography#iOS-iPadOS-larger-accessibility-type-sizes)
+### [iOS, iPadOS larger accessibility type sizes](https://developer.apple.com/design/human-interface-guidelines/typography#iOS-iPadOS-larger-accessibility-type-sizes)
 
   * AX1 
   * AX2 
@@ -531,7 +325,7 @@ Point size based on image resolution of 144 ppi for @2x and 216 ppi for @3x desi
 
 
 
-#### [AX1](/design/human-interface-guidelines/typography#AX1)
+#### [AX1](https://developer.apple.com/design/human-interface-guidelines/typography#AX1)
 
 Style| Weight| Size (points)| Leading (points)| Emphasized weight  
 ---|---|---|---|---  
@@ -549,7 +343,7 @@ Caption 2| Regular| 20| 25| Semibold
   
 Point size based on image resolution of 144 ppi for @2x and 216 ppi for @3x designs.
 
-#### [AX2](/design/human-interface-guidelines/typography#AX2)
+#### [AX2](https://developer.apple.com/design/human-interface-guidelines/typography#AX2)
 
 Style| Weight| Size (points)| Leading (points)| Emphasized weight  
 ---|---|---|---|---  
@@ -567,7 +361,7 @@ Caption 2| Regular| 24| 30| Semibold
   
 Point size based on image resolution of 144 ppi for @2x and 216 ppi for @3x designs.
 
-#### [AX3](/design/human-interface-guidelines/typography#AX3)
+#### [AX3](https://developer.apple.com/design/human-interface-guidelines/typography#AX3)
 
 Style| Weight| Size (points)| Leading (points)| Emphasized weight  
 ---|---|---|---|---  
@@ -585,7 +379,7 @@ Caption 2| Regular| 29| 35| Semibold
   
 Point size based on image resolution of 144 ppi for @2x and 216 ppi for @3x designs.
 
-#### [AX4](/design/human-interface-guidelines/typography#AX4)
+#### [AX4](https://developer.apple.com/design/human-interface-guidelines/typography#AX4)
 
 Style| Weight| Size (points)| Leading (points)| Emphasized weight  
 ---|---|---|---|---  
@@ -603,7 +397,7 @@ Caption 2| Regular| 34| 41| Semibold
   
 Point size based on image resolution of 144 ppi for @2x and 216 ppi for @3x designs.
 
-#### [AX5](/design/human-interface-guidelines/typography#AX5)
+#### [AX5](https://developer.apple.com/design/human-interface-guidelines/typography#AX5)
 
 Style| Weight| Size (points)| Leading (points)| Emphasized weight  
 ---|---|---|---|---  
@@ -621,7 +415,7 @@ Caption 2| Regular| 40| 48| Semibold
   
 Point size based on image resolution of 144 ppi for @2x and 216 ppi for @3x designs.
 
-### [macOS built-in text styles](/design/human-interface-guidelines/typography#macOS-built-in-text-styles)
+### [macOS built-in text styles](https://developer.apple.com/design/human-interface-guidelines/typography#macOS-built-in-text-styles)
 
 Text style| Weight| Size (points)| Line height (points)| Emphasized weight  
 ---|---|---|---|---  
@@ -639,7 +433,7 @@ Caption 2| Medium| 10| 13| Semibold
   
 Point size based on image resolution of 144 ppi for @2x designs.
 
-### [tvOS built-in text styles](/design/human-interface-guidelines/typography#tvOS-built-in-text-styles)
+### [tvOS built-in text styles](https://developer.apple.com/design/human-interface-guidelines/typography#tvOS-built-in-text-styles)
 
 Text style| Weight| Size (points)| Leading (points)| Emphasized weight  
 ---|---|---|---|---  
@@ -655,7 +449,7 @@ Caption 2| Medium| 23| 30| Bold
   
 Point size based on image resolution of 72 ppi for @1x and 144 ppi for @2x designs.
 
-### [watchOS Dynamic Type sizes](/design/human-interface-guidelines/typography#watchOS-Dynamic-Type-sizes)
+### [watchOS Dynamic Type sizes](https://developer.apple.com/design/human-interface-guidelines/typography#watchOS-Dynamic-Type-sizes)
 
   * xSmall 
   * Small 
@@ -666,7 +460,7 @@ Point size based on image resolution of 72 ppi for @1x and 144 ppi for @2x desig
 
 
 
-#### [xSmall](/design/human-interface-guidelines/typography#xSmall)
+#### [xSmall](https://developer.apple.com/design/human-interface-guidelines/typography#xSmall)
 
 Style| Weight| Size (points)| Leading (points)| Emphasized weight  
 ---|---|---|---|---  
@@ -681,7 +475,7 @@ Caption 2| Regular| 12| 14.5| Semibold
 Footnote 1| Regular| 11| 13.5| Semibold  
 Footnote 2| Regular| 10| 12.5| Semibold  
   
-#### [Small (default 38mm)](/design/human-interface-guidelines/typography#Small-default-38mm)
+#### [Small (default 38mm)](https://developer.apple.com/design/human-interface-guidelines/typography#Small-default-38mm)
 
 Style| Weight| Size (points)| Leading (points)| Emphasized weight  
 ---|---|---|---|---  
@@ -696,7 +490,7 @@ Caption 2| Regular| 13| 15.5| Semibold
 Footnote 1| Regular| 12| 14.5| Semibold  
 Footnote 2| Regular| 11| 13.5| Semibold  
   
-#### [Large (default 40mm/41mm/42mm)](/design/human-interface-guidelines/typography#Large-default-40mm41mm42mm)
+#### [Large (default 40mm/41mm/42mm)](https://developer.apple.com/design/human-interface-guidelines/typography#Large-default-40mm41mm42mm)
 
 Style| Weight| Size (points)| Leading (points)| Emphasized weight  
 ---|---|---|---|---  
@@ -711,7 +505,7 @@ Caption 2| Regular| 14| 16.5| Semibold
 Footnote 1| Regular| 13| 15.5| Semibold  
 Footnote 2| Regular| 12| 14.5| Semibold  
   
-#### [xLarge (default 44mm/45mm/49mm)](/design/human-interface-guidelines/typography#xLarge-default-44mm45mm49mm)
+#### [xLarge (default 44mm/45mm/49mm)](https://developer.apple.com/design/human-interface-guidelines/typography#xLarge-default-44mm45mm49mm)
 
 Style| Weight| Size (points)| Leading (points)| Emphasized weight  
 ---|---|---|---|---  
@@ -726,7 +520,7 @@ Caption 2| Regular| 15| 17.5| Semibold
 Footnote 1| Regular| 14| 16.5| Semibold  
 Footnote 2| Regular| 13| 15.5| Semibold  
   
-#### [xxLarge](/design/human-interface-guidelines/typography#xxLarge)
+#### [xxLarge](https://developer.apple.com/design/human-interface-guidelines/typography#xxLarge)
 
 Style| Weight| Size (points)| Leading (points)| Emphasized weight  
 ---|---|---|---|---  
@@ -741,7 +535,7 @@ Caption 2| Regular| 15| 18.5| Semibold
 Footnote 1| Regular| 15| 17.5| Semibold  
 Footnote 2| Regular| 14| 16.5| Semibold  
   
-#### [xxxLarge](/design/human-interface-guidelines/typography#xxxLarge)
+#### [xxxLarge](https://developer.apple.com/design/human-interface-guidelines/typography#xxxLarge)
 
 Style| Weight| Size (points)| Leading (points)| Emphasized weight  
 ---|---|---|---|---  
@@ -756,7 +550,7 @@ Caption 2| Regular| 17| 19.5| Semibold
 Footnote 1| Regular| 16| 18.5| Semibold  
 Footnote 2| Regular| 15| 17.5| Semibold  
   
-### [watchOS larger accessibility type sizes](/design/human-interface-guidelines/typography#watchOS-larger-accessibility-type-sizes)
+### [watchOS larger accessibility type sizes](https://developer.apple.com/design/human-interface-guidelines/typography#watchOS-larger-accessibility-type-sizes)
 
   * AX1 
   * AX2 
@@ -764,7 +558,7 @@ Footnote 2| Regular| 15| 17.5| Semibold
 
 
 
-#### [AX1](/design/human-interface-guidelines/typography#AX1)
+#### [AX1](https://developer.apple.com/design/human-interface-guidelines/typography#AX1)
 
 Style| Weight| Size (points)| Leading (points)| Emphasized weight  
 ---|---|---|---|---  
@@ -779,7 +573,7 @@ Caption 2| Regular| 17| 19.5| Semibold
 Footnote 1| Regular| 16| 18.5| Semibold  
 Footnote 2| Regular| 15| 17.5| Semibold  
   
-#### [AX2](/design/human-interface-guidelines/typography#AX2)
+#### [AX2](https://developer.apple.com/design/human-interface-guidelines/typography#AX2)
 
 Style| Weight| Size (points)| Leading (points)| Emphasized weight  
 ---|---|---|---|---  
@@ -794,7 +588,7 @@ Caption 2| Regular| 18| 20.5| Semibold
 Footnote 1| Regular| 17| 19.5| Semibold  
 Footnote 2| Regular| 16| 17.5| Semibold  
   
-#### [AX3](/design/human-interface-guidelines/typography#AX3)
+#### [AX3](https://developer.apple.com/design/human-interface-guidelines/typography#AX3)
 
 Style| Weight| Size (points)| Leading (points)| Emphasized weight  
 ---|---|---|---|---  
@@ -809,9 +603,9 @@ Caption 2| Regular| 19| 21.5| Semibold
 Footnote 1| Regular| 18| 20.5| Semibold  
 Footnote 2| Regular| 17| 19.5| Semibold  
   
-### [Tracking values](/design/human-interface-guidelines/typography#Tracking-values)
+### [Tracking values](https://developer.apple.com/design/human-interface-guidelines/typography#Tracking-values)
 
-#### [iOS, iPadOS, visionOS tracking values](/design/human-interface-guidelines/typography#iOS-iPadOS-visionOS-tracking-values)
+#### [iOS, iPadOS, visionOS tracking values](https://developer.apple.com/design/human-interface-guidelines/typography#iOS-iPadOS-visionOS-tracking-values)
 
   * SF Pro 
   * SF Pro Rounded 
@@ -819,7 +613,7 @@ Footnote 2| Regular| 17| 19.5| Semibold
 
 
 
-#### [SF Pro](/design/human-interface-guidelines/typography#SF-Pro)
+#### [SF Pro](https://developer.apple.com/design/human-interface-guidelines/typography#SF-Pro)
 
 Size (points)| Tracking (1/1000 em)| Tracking (points)  
 ---|---|---  
@@ -890,7 +684,7 @@ Size (points)| Tracking (1/1000 em)| Tracking (points)
   
 Not all apps express tracking values as 1/1000 em. Point size based on image resolution of 144 ppi for @2x and 216 ppi for @3x designs.
 
-#### [SF Pro Rounded](/design/human-interface-guidelines/typography#SF-Pro-Rounded)
+#### [SF Pro Rounded](https://developer.apple.com/design/human-interface-guidelines/typography#SF-Pro-Rounded)
 
 Size (points)| Tracking (1/1000 em)| Tracking (points)  
 ---|---|---  
@@ -961,7 +755,7 @@ Size (points)| Tracking (1/1000 em)| Tracking (points)
   
 Not all apps express tracking values as 1/1000 em. Point size based on image resolution of 144 ppi for @2x and 216 ppi for @3x designs.
 
-#### [New York](/design/human-interface-guidelines/typography#New-York)
+#### [New York](https://developer.apple.com/design/human-interface-guidelines/typography#New-York)
 
 Size (points)| Tracking (1/1000 em)| Tracking (points)  
 ---|---|---  
@@ -1025,7 +819,7 @@ Size (points)| Tracking (1/1000 em)| Tracking (points)
   
 Not all apps express tracking values as 1/1000 em. Point size based on image resolution of 144 ppi for @2x and 216 ppi for @3x designs.
 
-#### [macOS tracking values](/design/human-interface-guidelines/typography#macOS-tracking-values)
+#### [macOS tracking values](https://developer.apple.com/design/human-interface-guidelines/typography#macOS-tracking-values)
 
 Size (points)| Tracking (1/1000 em)| Tracking (points)  
 ---|---|---  
@@ -1096,7 +890,7 @@ Size (points)| Tracking (1/1000 em)| Tracking (points)
   
 Not all apps express tracking values as 1/1000 em. Point size based on image resolution of 144 ppi for @2x and 216 ppi for @3x designs.
 
-#### [tvOS tracking values](/design/human-interface-guidelines/typography#tvOS-tracking-values)
+#### [tvOS tracking values](https://developer.apple.com/design/human-interface-guidelines/typography#tvOS-tracking-values)
 
 Size (points)| Tracking (1/1000 em)| Tracking (points)  
 ---|---|---  
@@ -1167,14 +961,14 @@ Size (points)| Tracking (1/1000 em)| Tracking (points)
   
 Not all apps express tracking values as 1/1000 em. Point size based on image resolution of 144 ppi for @2x and 216 ppi for @3x designs.
 
-#### [watchOS tracking values](/design/human-interface-guidelines/typography#watchOS-tracking-values)
+#### [watchOS tracking values](https://developer.apple.com/design/human-interface-guidelines/typography#watchOS-tracking-values)
 
   * SF Compact 
   * SF Compact Rounded 
 
 
 
-#### [SF Compact](/design/human-interface-guidelines/typography#SF-Compact)
+#### [SF Compact](https://developer.apple.com/design/human-interface-guidelines/typography#SF-Compact)
 
 Size (points)| Tracking (1/1000 em)| Tracking (points)  
 ---|---|---  
@@ -1245,7 +1039,7 @@ Size (points)| Tracking (1/1000 em)| Tracking (points)
   
 Not all apps express tracking values as 1/1000 em. Point size based on image resolution of 144 ppi for @2x designs.
 
-#### [SF Compact Rounded](/design/human-interface-guidelines/typography#SF-Compact-Rounded)
+#### [SF Compact Rounded](https://developer.apple.com/design/human-interface-guidelines/typography#SF-Compact-Rounded)
 
 Size (points)| Tracking (1/1000 em)| Tracking (points)  
 ---|---|---  
@@ -1316,23 +1110,23 @@ Size (points)| Tracking (1/1000 em)| Tracking (points)
   
 Not all apps express tracking values as 1/1000 em. Point size based on image resolution of 144 ppi for @2x designs.
 
-## [Resources](/design/human-interface-guidelines/typography#Resources)
+## [Resources](https://developer.apple.com/design/human-interface-guidelines/typography#Resources)
 
-#### [Related](/design/human-interface-guidelines/typography#Related)
+#### [Related](https://developer.apple.com/design/human-interface-guidelines/typography#Related)
 
 [Fonts for Apple platforms](https://developer.apple.com/fonts/)
 
-[SF Symbols](/design/human-interface-guidelines/sf-symbols)
+[SF Symbols](https://developer.apple.com/design/human-interface-guidelines/sf-symbols)
 
-#### [Developer documentation](/design/human-interface-guidelines/typography#Developer-documentation)
+#### [Developer documentation](https://developer.apple.com/design/human-interface-guidelines/typography#Developer-documentation)
 
-[Text input and output](/documentation/SwiftUI/Text-input-and-output) — SwiftUI
+[Text input and output](https://developer.apple.com/documentation/SwiftUI/Text-input-and-output) — SwiftUI
 
-[Text display and fonts](/documentation/UIKit/text-display-and-fonts) — UIKit
+[Text display and fonts](https://developer.apple.com/documentation/UIKit/text-display-and-fonts) — UIKit
 
-[Fonts](/documentation/AppKit/fonts) — AppKit
+[Fonts](https://developer.apple.com/documentation/AppKit/fonts) — AppKit
 
-#### [Videos](/design/human-interface-guidelines/typography#Videos)
+#### [Videos](https://developer.apple.com/design/human-interface-guidelines/typography#Videos)
 
 [![](https://devimages-cdn.apple.com/wwdc-services/images/C03E6E6D-A32A-41D0-9E50-C3C6059820AA/E4CD1309-352A-444E-96A5-FB5D6BA69725/9167_wide_250x141_1x.jpg) Get started with Dynamic Type ](https://developer.apple.com/videos/play/wwdc2024/10074)
 
@@ -1340,7 +1134,7 @@ Not all apps express tracking values as 1/1000 em. Point size based on image res
 
 [![](https://devimages-cdn.apple.com/wwdc-services/images/49/EA12E035-968D-4B74-AC8D-26CFD8F365A7/3823_wide_250x141_1x.jpg) The details of UI typography ](https://developer.apple.com/videos/play/wwdc2020/10175)
 
-## [Change log](/design/human-interface-guidelines/typography#Change-log)
+## [Change log](https://developer.apple.com/design/human-interface-guidelines/typography#Change-log)
 
 Date| Changes  
 ---|---  
@@ -1350,160 +1144,3 @@ June 10, 2024| Added guidance for using Apple’s Unity plug-ins to support Dyna
 September 12, 2023| Added artwork illustrating system font weights, and clarified tvOS specification table descriptions.  
 June 21, 2023| Updated to include guidance for visionOS.  
   
-Current page is Typography 
-
-##### Supported platforms
-
-  *   *   *   *   *   * 
-
-
-  * [ Typography ](/design/human-interface-guidelines/typography#app-top)
-  * [ Ensuring legibility ](/design/human-interface-guidelines/typography#Ensuring-legibility)
-  * [ Conveying hierarchy ](/design/human-interface-guidelines/typography#Conveying-hierarchy)
-  * [ Using system fonts ](/design/human-interface-guidelines/typography#Using-system-fonts)
-  * [ Using custom fonts ](/design/human-interface-guidelines/typography#Using-custom-fonts)
-  * [ Supporting Dynamic Type ](/design/human-interface-guidelines/typography#Supporting-Dynamic-Type)
-  * [ Platform considerations ](/design/human-interface-guidelines/typography#Platform-considerations)
-  * [ Specifications ](/design/human-interface-guidelines/typography#Specifications)
-  * [ Resources ](/design/human-interface-guidelines/typography#Resources)
-  * [ Change log ](/design/human-interface-guidelines/typography#Change-log)
-
-
-
-[Apple](https://www.apple.com)
-
-  1. [Developer](/)
-  2. [ Documentation ](/documentation/)
-
-
-
-###  Platforms 
-
-Toggle Menu 
-
-  * [iOS](/ios/)
-  * [iPadOS](/ipados/)
-  * [macOS](/macos/)
-  * [tvOS](/tvos/)
-  * [visionOS](/visionos/)
-  * [watchOS](/watchos/)
-
-
-
-###  Tools 
-
-Toggle Menu 
-
-  * [Swift](/swift/)
-  * [SwiftUI](/swiftui/)
-  * [Swift Playground](/swift-playground/)
-  * [TestFlight](/testflight/)
-  * [Xcode](/xcode/)
-  * [Xcode Cloud](/xcode-cloud/)
-  * [SF Symbols](/sf-symbols/)
-
-
-
-###  Topics & Technologies 
-
-Toggle Menu 
-
-  * [Accessibility](/accessibility/)
-  * [Accessories](/accessories/)
-  * [App Extension](/app-extensions/)
-  * [App Store](/app-store/)
-  * [Audio & Video](/audio/)
-  * [Augmented Reality](/augmented-reality/)
-  * [Design](/design/)
-  * [Distribution](/distribute/)
-  * [Education](/education/)
-  * [Fonts](/fonts/)
-  * [Games](/games/)
-  * [Health & Fitness](/health-fitness/)
-  * [In-App Purchase](/in-app-purchase/)
-  * [Localization](/localization/)
-  * [Maps & Location](/maps/)
-  * [Machine Learning & AI](/machine-learning/)
-  * [Open Source](https://opensource.apple.com/)
-  * [Security](/security/)
-  * [Safari & Web](/safari/)
-
-
-
-###  Resources 
-
-Toggle Menu 
-
-  *   * [Documentation](/documentation/)
-  * [Tutorials](/learn/)
-  * [Downloads](/download/)
-  * [Forums](/forums/)
-  * [Videos](/videos/)
-
-
-
-###  Support 
-
-Toggle Menu 
-
-  * [Support Articles](/support/articles/)
-  * [Contact Us](/contact/)
-  * [Bug Reporting](/bug-reporting/)
-  * [System Status](/system-status/)
-
-
-
-###  Account 
-
-Toggle Menu 
-
-  * [Apple Developer](/account/)
-  * [App Store Connect](https://appstoreconnect.apple.com/)
-  * [Certificates, IDs, & Profiles](/account/ios/certificate/)
-  * [Feedback Assistant](https://feedbackassistant.apple.com/)
-
-
-
-###  Programs 
-
-Toggle Menu 
-
-  * [Apple Developer Program](/programs/)
-  * [Apple Developer Enterprise Program](/programs/enterprise/)
-  * [App Store Small Business Program](/app-store/small-business-program/)
-  * [MFi Program](https://mfi.apple.com/)
-  * [News Partner Program](/programs/news-partner/)
-  * [Video Partner Program](/programs/video-partner/)
-  * [Security Bounty Program](/security-bounty/)
-  * [Security Research Device Program](/programs/security-research-device/)
-
-
-
-###  Events 
-
-Toggle Menu 
-
-  * [Meet with Apple](/events/)
-  * [Apple Developer Centers](/events/developer-centers/)
-  * [App Store Awards](/app-store/app-store-awards/)
-  * [Apple Design Awards](/design/awards/)
-  * [Apple Developer Academies](/academies/)
-  * [WWDC](/wwdc/)
-
-
-
-To submit feedback on documentation, visit [Feedback Assistant](applefeedback://new?form_identifier=developertools.fba&answers%5B%3Aarea%5D=seedADC%3Adevpubs&answers%5B%3Adoc_type_req%5D=Technology%20Documentation&answers%5B%3Adocumentation_link_req%5D=https%3A%2F%2Fdeveloper.apple.com%2Fdesign%2Fhuman-interface-guidelines%2Ftypography).
-
-Select a color scheme preference
-
-Light
-
-Dark
-
-Auto
-
-English  简体中文  日本語  한국어 
-
-Copyright © 2026 [Apple Inc.](https://www.apple.com) All rights reserved. 
-
-[ Terms of Use ](https://www.apple.com/legal/internet-services/terms/site.html)[ Privacy Policy ](https://www.apple.com/legal/privacy/)[ Agreements and Guidelines ](/support/terms/)

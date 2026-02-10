@@ -1,194 +1,6 @@
 ---
 title: "Toolbars | Apple Developer Documentation"
 source: https://developer.apple.com/design/human-interface-guidelines/toolbars
----
-
-# This page requires JavaScript.
-
-Please turn on JavaScript in your browser and refresh the page to view its content.
-
-Skip Navigation 
-
-  * Global Nav Open MenuGlobal Nav Close Menu
-  * [Apple Developer](/)
-
-
-
-[Search Developer Cancel ](/search/)
-
-  * [Apple Developer](/)
-  * [News](/news/)
-  * [Discover](/discover/)
-  * [Design](/design/)
-  * [Develop](/develop/)
-  * [Distribute](/distribute/)
-  * [Support](/support/)
-  * [Account](/account/)
-  * [](/search/)
-
-
-
-Cancel 
-
-Only search within “Human Interface Guidelines”
-
-### Quick Links
-
-  * [Downloads](/download/)
-  * [Documentation](/documentation/)
-  * [Sample Code](/documentation/samplecode/)
-  * [Videos](/videos/)
-  * [Forums](/forums/)
-
-5 Quick Links
-
-[ Design ](/design/)
-
-Open Menu 
-
-  * [ Overview ](https://developer.apple.com/design/)
-  * [ What’s New ](https://developer.apple.com/design/whats-new/)
-  * [ Get Started ](https://developer.apple.com/design/get-started/)
-  * [ Guidelines ](/design/human-interface-guidelines)
-  * [ Resources ](https://developer.apple.com/design/resources/)
-
-
-
-## Human Interface Guidelines
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/c9d2e563aa23997588edd7b4538f6c5b/overview.svg)
-
-1 of 6 symbols inside <root> containing 7 symbols[Getting started](/design/human-interface-guidelines/getting-started)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/c9d2e563aa23997588edd7b4538f6c5b/overview.svg)
-
-3 of 6 symbols inside <root> containing 25 symbols[Patterns](/design/human-interface-guidelines/patterns)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/c9d2e563aa23997588edd7b4538f6c5b/overview.svg)
-
-4 of 6 symbols inside <root> containing 8 symbols[Components](/design/human-interface-guidelines/components)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/f8287e40b9153ea3bfc47855f3ed090e/content.svg)
-
-1 of 8 symbols inside 1901254726 containing 4 symbols[Content](/design/human-interface-guidelines/content)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/9c9b21773f065997bd33e2258bcedc6e/layout-and-organization.svg)
-
-2 of 8 symbols inside 1901254726 containing 10 symbols[Layout and organization](/design/human-interface-guidelines/layout-and-organization)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/75ce5d52e57519f2cb4ff43bf947e464/menus-and-actions.svg)
-
-3 of 8 symbols inside 1901254726 containing 12 symbols[Menus and actions](/design/human-interface-guidelines/menus-and-actions)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-1 of 12 symbols inside 409439797 [Activity views](/design/human-interface-guidelines/activity-views)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-2 of 12 symbols inside 409439797 [Buttons](/design/human-interface-guidelines/buttons)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-3 of 12 symbols inside 409439797 [Context menus](/design/human-interface-guidelines/context-menus)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-4 of 12 symbols inside 409439797 [Dock menus](/design/human-interface-guidelines/dock-menus)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-5 of 12 symbols inside 409439797 [Edit menus](/design/human-interface-guidelines/edit-menus)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-6 of 12 symbols inside 409439797 [Home Screen quick actions](/design/human-interface-guidelines/home-screen-quick-actions)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-7 of 12 symbols inside 409439797 [Menus](/design/human-interface-guidelines/menus)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-8 of 12 symbols inside 409439797 [Ornaments](/design/human-interface-guidelines/ornaments)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-9 of 12 symbols inside 409439797 [Pop-up buttons](/design/human-interface-guidelines/pop-up-buttons)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-10 of 12 symbols inside 409439797 [Pull-down buttons](/design/human-interface-guidelines/pull-down-buttons)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-11 of 12 symbols inside 409439797 [The menu bar](/design/human-interface-guidelines/the-menu-bar)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-12 of 12 symbols inside 409439797 [Toolbars](/design/human-interface-guidelines/toolbars)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/f6d4ee51abadcd1152fb16d669a41ff5/navigation-and-search.svg)
-
-4 of 8 symbols inside 1901254726 containing 5 symbols[Navigation and search](/design/human-interface-guidelines/navigation-and-search)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/9d6c58bc552734e20b577da42f851727/presentation.svg)
-
-5 of 8 symbols inside 1901254726 containing 8 symbols[Presentation](/design/human-interface-guidelines/presentation)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/6bfe82fa338513b36059645f70a7baae/selection-and-input.svg)
-
-6 of 8 symbols inside 1901254726 containing 11 symbols[Selection and input](/design/human-interface-guidelines/selection-and-input)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/36102a182c11ce4e60c34205b85609aa/status.svg)
-
-7 of 8 symbols inside 1901254726 containing 4 symbols[Status](/design/human-interface-guidelines/status)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/3d1cd2ad10b834153a64d32b7692177c/system.svg)
-
-8 of 8 symbols inside 1901254726 containing 9 symbols[System experiences](/design/human-interface-guidelines/system-experiences)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/c9d2e563aa23997588edd7b4538f6c5b/overview.svg)
-
-5 of 6 symbols inside <root> containing 13 symbols[Inputs](/design/human-interface-guidelines/inputs)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/c9d2e563aa23997588edd7b4538f6c5b/overview.svg)
-
-6 of 6 symbols inside <root> containing 29 symbols[Technologies](/design/human-interface-guidelines/technologies)
-
-26 items were found. Tab back to navigate through them. 
-
-Navigator is ready 
-
-December 16, 2025
-
-Updated guidance for Liquid Glass. 
 
 # Toolbars
 
@@ -202,16 +14,16 @@ Toolbars act on content in the view, facilitate navigation, and help orient peop
 
   * The title of the current view
 
-  * Navigation controls, like back and forward, and [search fields](/design/human-interface-guidelines/search-fields)
+  * Navigation controls, like back and forward, and [search fields](https://developer.apple.com/design/human-interface-guidelines/search-fields)
 
-  * Actions, or bar items, like [buttons](/design/human-interface-guidelines/buttons) and [menus](/design/human-interface-guidelines/menus)
-
-
+  * Actions, or bar items, like [buttons](https://developer.apple.com/design/human-interface-guidelines/buttons) and [menus](https://developer.apple.com/design/human-interface-guidelines/menus)
 
 
-In contrast to a toolbar, a [tab bar](/design/human-interface-guidelines/tab-bars) is specifically for navigating between areas of an app.
 
-## [Best practices](/design/human-interface-guidelines/toolbars#Best-practices)
+
+In contrast to a toolbar, a [tab bar](https://developer.apple.com/design/human-interface-guidelines/tab-bars) is specifically for navigating between areas of an app.
+
+## [Best practices](https://developer.apple.com/design/human-interface-guidelines/toolbars#Best-practices)
 
 **Choose items deliberately to avoid overcrowding.** People need to be able to distinguish and activate each item, so you don’t want to put too many items in the toolbar. To accommodate variable view widths, define which items move to the overflow menu as the toolbar becomes narrower.
 
@@ -232,15 +44,15 @@ The system automatically adds an overflow menu in macOS or iPadOS when items no 
 
 **In iPadOS and macOS apps, consider letting people customize the toolbar to include their most common items.** Toolbar customization is especially useful in apps that provide a lot of items — or that include advanced functionality that not everyone needs — and in apps that people tend to use for long periods of time. For example, it works well to make a range of editing actions available for toolbar customization, because people often use different types of editing commands based on their work style and their current project.
 
-**Reduce the use of toolbar backgrounds and tinted controls.** Any custom backgrounds and appearances you use might overlay or interfere with background effects that the system provides. Instead, use the content layer to inform the color and appearance of the toolbar, and use a [`ScrollEdgeEffectStyle`](/documentation/SwiftUI/ScrollEdgeEffectStyle) when necessary to distinguish the toolbar area from the content area. This approach helps your app express its unique personality without distracting from content.
+**Reduce the use of toolbar backgrounds and tinted controls.** Any custom backgrounds and appearances you use might overlay or interfere with background effects that the system provides. Instead, use the content layer to inform the color and appearance of the toolbar, and use a [`ScrollEdgeEffectStyle`](https://developer.apple.com/documentation/SwiftUI/ScrollEdgeEffectStyle) when necessary to distinguish the toolbar area from the content area. This approach helps your app express its unique personality without distracting from content.
 
-**Avoid applying a similar color to toolbar item labels and content layer backgrounds.** If your app already has bright, colorful content in the content layer, prefer using the default monochromatic appearance of toolbars. For more guidance, see [Liquid Glass color](/design/human-interface-guidelines/color#Liquid-Glass-color).
+**Avoid applying a similar color to toolbar item labels and content layer backgrounds.** If your app already has bright, colorful content in the content layer, prefer using the default monochromatic appearance of toolbars. For more guidance, see [Liquid Glass color](https://developer.apple.com/design/human-interface-guidelines/color#Liquid-Glass-color).
 
 **Prefer using standard components in a toolbar.** By default, standard buttons, text fields, headers, and footers have corner radii that are concentric with bar corners. If you need to create a custom component, ensure that its corner radius is also concentric with the bar’s corners.
 
-**Consider temporarily hiding toolbars for a distraction-free experience.** Sometimes people appreciate a minimal interface to reduce distractions or reveal more content. If you support this, do so contextually when it makes the most sense, and offer ways to reliably restore hidden interface elements. For guidance, see [Going full screen](/design/human-interface-guidelines/going-full-screen). For guidance specific to visionOS, see [Immersive experiences](/design/human-interface-guidelines/immersive-experiences).
+**Consider temporarily hiding toolbars for a distraction-free experience.** Sometimes people appreciate a minimal interface to reduce distractions or reveal more content. If you support this, do so contextually when it makes the most sense, and offer ways to reliably restore hidden interface elements. For guidance, see [Going full screen](https://developer.apple.com/design/human-interface-guidelines/going-full-screen). For guidance specific to visionOS, see [Immersive experiences](https://developer.apple.com/design/human-interface-guidelines/immersive-experiences).
 
-## [Titles](/design/human-interface-guidelines/toolbars#Titles)
+## [Titles](https://developer.apple.com/design/human-interface-guidelines/toolbars#Titles)
 
 **Provide a useful title for each window.** A title helps people confirm their location as they navigate your app, and differentiates between the content of multiple open windows. If titling a toolbar seems redundant, you can leave the title area empty. For example, Notes doesn’t title the current note when a single window is open, because the first line of content typically supplies sufficient context. However, when opening notes in separate windows, the system titles them with the first line of content so people can tell them apart.
 
@@ -248,11 +60,11 @@ The system automatically adds an overflow menu in macOS or iPadOS when items no 
 
 **Write a concise title.** Aim for a word or short phrase that distills the purpose of the window or view, and keep the title under 15 characters long so you leave enough room for other controls.
 
-## [Navigation](/design/human-interface-guidelines/toolbars#Navigation)
+## [Navigation](https://developer.apple.com/design/human-interface-guidelines/toolbars#Navigation)
 
-A toolbar with navigation controls appears at the top of a window, helping people move through a hierarchy of content. A toolbar also often contains a [search field](/design/human-interface-guidelines/search-fields) for quick navigation between areas or pieces of content. In iOS, a navigation-specific toolbar is sometimes called a navigation bar.
+A toolbar with navigation controls appears at the top of a window, helping people move through a hierarchy of content. A toolbar also often contains a [search field](https://developer.apple.com/design/human-interface-guidelines/search-fields) for quick navigation between areas or pieces of content. In iOS, a navigation-specific toolbar is sometimes called a navigation bar.
 
-**Use the standard Back and Close buttons.** People know that the standard Back button lets them retrace their steps through a hierarchy of information, and the standard Close button closes a modal view. Prefer the standard symbols for each, and don’t use a text label that says _Back_ or _Close_. If you create a custom version of either, make sure it still looks the same, behaves as people expect, and matches the rest of your interface, and ensure you consistently implement it throughout your app or game. For guidance, see [Icons](/design/human-interface-guidelines/icons).
+**Use the standard Back and Close buttons.** People know that the standard Back button lets them retrace their steps through a hierarchy of information, and the standard Close button closes a modal view. Prefer the standard symbols for each, and don’t use a text label that says _Back_ or _Close_. If you create a custom version of either, make sure it still looks the same, behaves as people expect, and matches the rest of your interface, and ensure you consistently implement it throughout your app or game. For guidance, see [Icons](https://developer.apple.com/design/human-interface-guidelines/icons).
 
 ![An illustration of a capsule-shape Back button that includes the Back symbol on the leading side, grouped with Back in text on the trailing side.](https://docs-assets.developer.apple.com/published/de859b5c4d42c9df2e92c680d48a37b2/toolbars-navigation-action-back-incorrect%402x.png)
 
@@ -262,11 +74,11 @@ A toolbar with navigation controls appears at the top of a window, helping peopl
 
 ![A checkmark in a circle to indicate correct usage.](https://docs-assets.developer.apple.com/published/88662da92338267bb64cd2275c84e484/checkmark%402x.png)
 
-## [Actions](/design/human-interface-guidelines/toolbars#Actions)
+## [Actions](https://developer.apple.com/design/human-interface-guidelines/toolbars#Actions)
 
 **Provide actions that support the main tasks people perform.** In general, prioritize the commands that people are most likely to want. These commands are often the ones people use most frequently, but in some apps it might make sense to prioritize commands that map to the highest level or most important objects people work with.
 
-**Make sure the meaning of each control is clear.** Don’t make people guess or experiment to figure out what a toolbar item does. Prefer simple, recognizable symbols for items instead of text, except for actions like _edit_ that aren’t well-represented by symbols. For guidance on symbols that represent common actions, see [Standard icons](/design/human-interface-guidelines/icons#Standard-icons).
+**Make sure the meaning of each control is clear.** Don’t make people guess or experiment to figure out what a toolbar item does. Prefer simple, recognizable symbols for items instead of text, except for actions like _edit_ that aren’t well-represented by symbols. For guidance on symbols that represent common actions, see [Standard icons](https://developer.apple.com/design/human-interface-guidelines/icons#Standard-icons).
 
 ![An illustration of an item group with text button labels for Filter, Delete, and New.](https://docs-assets.developer.apple.com/published/e39b41732b2b7cf5a40c682f6ec28448/toolbars-prefer-symbols-incorrect%402x.png)
 
@@ -276,7 +88,7 @@ A toolbar with navigation controls appears at the top of a window, helping peopl
 
 ![A checkmark in a circle to indicate correct usage.](https://docs-assets.developer.apple.com/published/88662da92338267bb64cd2275c84e484/checkmark%402x.png)
 
-**Prefer system-provided symbols without borders.** System-provided symbols are familiar, automatically receive appropriate coloring and vibrancy, and respond consistently to user interactions. Borders (like outlined circle symbols) aren’t necessary because the section provides a visible container, and the system defines hover and selection state appearances automatically. For guidance, see [SF Symbols](/design/human-interface-guidelines/sf-symbols).
+**Prefer system-provided symbols without borders.** System-provided symbols are familiar, automatically receive appropriate coloring and vibrancy, and respond consistently to user interactions. Borders (like outlined circle symbols) aren’t necessary because the section provides a visible container, and the system defines hover and selection state appearances automatically. For guidance, see [SF Symbols](https://developer.apple.com/design/human-interface-guidelines/sf-symbols).
 
 ![An illustration of an item group with buttons for Filter and More. The buttons are labeled with symbols with circular borders.](https://docs-assets.developer.apple.com/published/90f36d797636e931c39663c146c1cb11/toolbars-icons-circle-outline-incorrect%402x.png)
 
@@ -290,7 +102,7 @@ A toolbar with navigation controls appears at the top of a window, helping peopl
 
 ![An illustration of two toolbar items, with a Filter button on the leading side and a Done button on the trailing side. The buttons are ungrouped, and the Done button has the prominent style applied to indicate that it's the primary action.](https://docs-assets.developer.apple.com/published/36c552c629c8a980c83501134e53d749/toolbars-prominent-action-tinted%402x.png)
 
-## [Item groupings](/design/human-interface-guidelines/toolbars#Item-groupings)
+## [Item groupings](https://developer.apple.com/design/human-interface-guidelines/toolbars#Item-groupings)
 
 You can position toolbar items in three locations: the leading edge, center area, and trailing edge of the toolbar. These areas provide familiar homes for navigation controls, window or document titles, common actions, and search.
 
@@ -323,7 +135,7 @@ To position items in the groupings you want, pin them to the leading edge, cente
 
 **Minimize the number of groups.** Too many groups of controls can make a toolbar feel cluttered and confusing, even with the added space on iPad and Mac. In general, aim for a maximum of three.
 
-**Keep actions with text labels separate.** Placing an action with a text label next to an action with a symbol can create the illusion of a single action with a combined text and symbol, leading to confusion and misinterpretation. If your toolbar includes multiple text-labeled buttons, the text of those buttons may appear to run together, making the buttons indistinguishable. Add separation by inserting fixed space between the buttons. For developer guidance, see [`UIBarButtonItem.SystemItem.fixedSpace`](/documentation/UIKit/UIBarButtonItem/SystemItem/fixedSpace).
+**Keep actions with text labels separate.** Placing an action with a text label next to an action with a symbol can create the illusion of a single action with a combined text and symbol, leading to confusion and misinterpretation. If your toolbar includes multiple text-labeled buttons, the text of those buttons may appear to run together, making the buttons indistinguishable. Add separation by inserting fixed space between the buttons. For developer guidance, see [`UIBarButtonItem.SystemItem.fixedSpace`](https://developer.apple.com/documentation/UIKit/UIBarButtonItem/SystemItem/fixedSpace).
 
 ![An illustration of a top toolbar on iPhone, with an Edit control with a text label and a Share control with a symbol grouped together on the trailing edge.](https://docs-assets.developer.apple.com/published/de7f7298c70900b9c2f65d5cae7c6d60/toolbars-layout-text-action-grouping-incorrect%402x.png)
 
@@ -333,21 +145,21 @@ To position items in the groupings you want, pin them to the leading edge, cente
 
 ![A checkmark in a circle to indicate correct usage.](https://docs-assets.developer.apple.com/published/88662da92338267bb64cd2275c84e484/checkmark%402x.png)
 
-## [Platform considerations](/design/human-interface-guidelines/toolbars#Platform-considerations)
+## [Platform considerations](https://developer.apple.com/design/human-interface-guidelines/toolbars#Platform-considerations)
 
  _No additional considerations for tvOS._
 
-### [iOS](/design/human-interface-guidelines/toolbars#iOS)
+### [iOS](https://developer.apple.com/design/human-interface-guidelines/toolbars#iOS)
 
 **Prioritize only the most important items for inclusion in the main toolbar area.** Because space is so limited, carefully consider which actions are essential to your app and include those first. Create a More menu to include additional items.
 
-**Use a large title to help people stay oriented as they navigate and scroll.** By default, a large title transitions to a standard title as people begin scrolling the content, and transitions back to large when people scroll to the top, reminding them of their current location. For developer guidance, see [`prefersLargeTitles`](/documentation/UIKit/UINavigationBar/prefersLargeTitles).
+**Use a large title to help people stay oriented as they navigate and scroll.** By default, a large title transitions to a standard title as people begin scrolling the content, and transitions back to large when people scroll to the top, reminding them of their current location. For developer guidance, see [`prefersLargeTitles`](https://developer.apple.com/documentation/UIKit/UINavigationBar/prefersLargeTitles).
 
-### [iPadOS](/design/human-interface-guidelines/toolbars#iPadOS)
+### [iPadOS](https://developer.apple.com/design/human-interface-guidelines/toolbars#iPadOS)
 
-**Consider combining a toolbar with a tab bar.** In iPadOS, a toolbar and a [tab bar](/design/human-interface-guidelines/tab-bars) can coexist in the same horizontal space at the top of the view. This is particularly useful for layouts where you want to navigate between a few main app areas while keeping the full width of the window available for content. For guidance, see [Layout](/design/human-interface-guidelines/layout) and [Windows](/design/human-interface-guidelines/windows).
+**Consider combining a toolbar with a tab bar.** In iPadOS, a toolbar and a [tab bar](https://developer.apple.com/design/human-interface-guidelines/tab-bars) can coexist in the same horizontal space at the top of the view. This is particularly useful for layouts where you want to navigate between a few main app areas while keeping the full width of the window available for content. For guidance, see [Layout](https://developer.apple.com/design/human-interface-guidelines/layout) and [Windows](https://developer.apple.com/design/human-interface-guidelines/windows).
 
-### [macOS](/design/human-interface-guidelines/toolbars#macOS)
+### [macOS](https://developer.apple.com/design/human-interface-guidelines/toolbars#macOS)
 
 In a macOS app, the toolbar resides in the frame at the top of a window, either below or integrated with the title bar. Note that window titles can display inline with controls, and toolbar items don’t include a bezel.
 
@@ -355,7 +167,7 @@ In a macOS app, the toolbar resides in the frame at the top of a window, either 
 
 **Make every toolbar item available as a command in the menu bar.** Because people can customize the toolbar or hide it, it can’t be the only place that presents a command. In contrast, it doesn’t make sense to provide a toolbar item for every menu item, because not all menu commands are important enough or used often enough to warrant space in the toolbar.
 
-### [visionOS](/design/human-interface-guidelines/toolbars#visionOS)
+### [visionOS](https://developer.apple.com/design/human-interface-guidelines/toolbars#visionOS)
 
 In visionOS, the system-provided toolbar appears along the bottom edge of a window, above the window-management controls, and in a parallel plane that’s slightly in front of the window along the z-axis.
 
@@ -369,15 +181,15 @@ In visionOS, you can supply either a symbol or a text label for each toolbar ite
 
 ![A screenshot of a toolbar in visionOS.](https://docs-assets.developer.apple.com/published/449acaaf0268d1fff08e9bf41b7c82d9/visionos-toolbar-standard-layout%402x.png)
 
-**Avoid creating a vertical toolbar.** In visionOS, [tab bars](/design/human-interface-guidelines/tab-bars) are vertical, so presenting a vertical toolbar could confuse people.
+**Avoid creating a vertical toolbar.** In visionOS, [tab bars](https://developer.apple.com/design/human-interface-guidelines/tab-bars) are vertical, so presenting a vertical toolbar could confuse people.
 
 **Try to prevent windows from resizing below the width of the toolbar.** visionOS doesn’t include a menu bar where each app lists all its actions, so it’s important for the toolbar to provide reliable access to essential controls regardless of a window’s size.
 
 **If your app can enter a modal state, consider offering contextually relevant toolbar controls.** For example, a photo-editing app might enter a modal state to help people perform a multistep editing task. In this scenario, the controls in the modal editing view are different from the controls in the main window. Be sure to reinstate the window’s standard toolbar controls when the app exits the modal state.
 
-**Avoid using a pull-down menu in a toolbar.** A pull-down menu lets you offer additional actions related to a toolbar item, but can be difficult for people to discover and may clutter your interface. Because a toolbar is located at the bottom edge of a window in visionOS, a pull-down menu might obscure the standard window controls that appear below the bottom edge. For guidance, see [Pull-down buttons](/design/human-interface-guidelines/pull-down-buttons).
+**Avoid using a pull-down menu in a toolbar.** A pull-down menu lets you offer additional actions related to a toolbar item, but can be difficult for people to discover and may clutter your interface. Because a toolbar is located at the bottom edge of a window in visionOS, a pull-down menu might obscure the standard window controls that appear below the bottom edge. For guidance, see [Pull-down buttons](https://developer.apple.com/design/human-interface-guidelines/pull-down-buttons).
 
-### [watchOS](/design/human-interface-guidelines/toolbars#watchOS)
+### [watchOS](https://developer.apple.com/design/human-interface-guidelines/toolbars#watchOS)
 
 A toolbar button lets you offer important app functionality in a view that displays related content. You can place toolbar buttons in the top corners or along the bottom. If you place these buttons above scrolling content, the buttons always remain visible, as the content scrolls under them.
 
@@ -389,7 +201,7 @@ Top toolbar buttons
 
 Bottom toolbar buttons
 
-For developer guidance, see [`topBarLeading`](/documentation/SwiftUI/ToolbarItemPlacement/topBarLeading), [`topBarTrailing`](/documentation/SwiftUI/ToolbarItemPlacement/topBarTrailing), or [`bottomBar`](/documentation/SwiftUI/ToolbarItemPlacement/bottomBar).
+For developer guidance, see [`topBarLeading`](https://developer.apple.com/documentation/SwiftUI/ToolbarItemPlacement/topBarLeading), [`topBarTrailing`](https://developer.apple.com/documentation/SwiftUI/ToolbarItemPlacement/topBarTrailing), or [`bottomBar`](https://developer.apple.com/documentation/SwiftUI/ToolbarItemPlacement/bottomBar).
 
 You can also place a button in the scrolling view. By default, a scrolling toolbar button remains hidden until people reveal it by scrolling up. People frequently scroll to the top of a scrolling view, so discovering a toolbar button is automatic.
 
@@ -401,39 +213,39 @@ Toolbar button hidden
 
 Toolbar button shown
 
-For developer guidance, see [`primaryAction`](/documentation/SwiftUI/ToolbarItemPlacement/primaryAction).
+For developer guidance, see [`primaryAction`](https://developer.apple.com/documentation/SwiftUI/ToolbarItemPlacement/primaryAction).
 
 **Use a scrolling toolbar button for an important action that isn’t a primary app function.** A toolbar button gives you the flexibility to offer important functionality in a view whose primary purpose is related to that functionality, but may not be the same. For example, Mail provides the essential New Message action in a toolbar button at the top of the Inbox view. The primary purpose of the Inbox is to display a scrollable list of email messages, so it makes sense to offer the closely related compose action in a toolbar button at the top of the view.
 
-## [Resources](/design/human-interface-guidelines/toolbars#Resources)
+## [Resources](https://developer.apple.com/design/human-interface-guidelines/toolbars#Resources)
 
-#### [Related](/design/human-interface-guidelines/toolbars#Related)
+#### [Related](https://developer.apple.com/design/human-interface-guidelines/toolbars#Related)
 
-[Sidebars](/design/human-interface-guidelines/sidebars)
+[Sidebars](https://developer.apple.com/design/human-interface-guidelines/sidebars)
 
-[Tab bars](/design/human-interface-guidelines/tab-bars)
+[Tab bars](https://developer.apple.com/design/human-interface-guidelines/tab-bars)
 
-[Layout](/design/human-interface-guidelines/layout)
+[Layout](https://developer.apple.com/design/human-interface-guidelines/layout)
 
-[Buttons](/design/human-interface-guidelines/buttons)
+[Buttons](https://developer.apple.com/design/human-interface-guidelines/buttons)
 
-[Search fields](/design/human-interface-guidelines/search-fields)
+[Search fields](https://developer.apple.com/design/human-interface-guidelines/search-fields)
 
 [Apple Design Resources](https://developer.apple.com/design/resources/)
 
-#### [Developer documentation](/design/human-interface-guidelines/toolbars#Developer-documentation)
+#### [Developer documentation](https://developer.apple.com/design/human-interface-guidelines/toolbars#Developer-documentation)
 
-[Toolbars](/documentation/SwiftUI/Toolbars) — SwiftUI
+[Toolbars](https://developer.apple.com/documentation/SwiftUI/Toolbars) — SwiftUI
 
-[`UIToolbar`](/documentation/UIKit/UIToolbar) — UIKit
+[`UIToolbar`](https://developer.apple.com/documentation/UIKit/UIToolbar) — UIKit
 
-[`NSToolbar`](/documentation/AppKit/NSToolbar) — AppKit
+[`NSToolbar`](https://developer.apple.com/documentation/AppKit/NSToolbar) — AppKit
 
-#### [Videos](/design/human-interface-guidelines/toolbars#Videos)
+#### [Videos](https://developer.apple.com/design/human-interface-guidelines/toolbars#Videos)
 
 [![](https://devimages-cdn.apple.com/wwdc-services/images/3055294D-836B-4513-B7B0-0BC5666246B0/1AAA030E-2ECA-47D8-AE09-6D7B72A840F6/10044_wide_250x141_1x.jpg) Get to know the new design system ](https://developer.apple.com/videos/play/wwdc2025/356)
 
-## [Change log](/design/human-interface-guidelines/toolbars#Change-log)
+## [Change log](https://developer.apple.com/design/human-interface-guidelines/toolbars#Change-log)
 
 Date| Changes  
 ---|---  
@@ -442,159 +254,3 @@ June 9, 2025| Added guidance for grouping bar items, updated guidance for using 
 June 21, 2023| Updated to include guidance for visionOS.  
 June 5, 2023| Updated guidance for using toolbars in watchOS.  
   
-Current page is Toolbars 
-
-##### Supported platforms
-
-  *   *   *   *   *   * 
-
-
-  * [ Toolbars ](/design/human-interface-guidelines/toolbars#app-top)
-  * [ Best practices ](/design/human-interface-guidelines/toolbars#Best-practices)
-  * [ Titles ](/design/human-interface-guidelines/toolbars#Titles)
-  * [ Navigation ](/design/human-interface-guidelines/toolbars#Navigation)
-  * [ Actions ](/design/human-interface-guidelines/toolbars#Actions)
-  * [ Item groupings ](/design/human-interface-guidelines/toolbars#Item-groupings)
-  * [ Platform considerations ](/design/human-interface-guidelines/toolbars#Platform-considerations)
-  * [ Resources ](/design/human-interface-guidelines/toolbars#Resources)
-  * [ Change log ](/design/human-interface-guidelines/toolbars#Change-log)
-
-
-
-[Apple](https://www.apple.com)
-
-  1. [Developer](/)
-  2. [ Documentation ](/documentation/)
-
-
-
-###  Platforms 
-
-Toggle Menu 
-
-  * [iOS](/ios/)
-  * [iPadOS](/ipados/)
-  * [macOS](/macos/)
-  * [tvOS](/tvos/)
-  * [visionOS](/visionos/)
-  * [watchOS](/watchos/)
-
-
-
-###  Tools 
-
-Toggle Menu 
-
-  * [Swift](/swift/)
-  * [SwiftUI](/swiftui/)
-  * [Swift Playground](/swift-playground/)
-  * [TestFlight](/testflight/)
-  * [Xcode](/xcode/)
-  * [Xcode Cloud](/xcode-cloud/)
-  * [SF Symbols](/sf-symbols/)
-
-
-
-###  Topics & Technologies 
-
-Toggle Menu 
-
-  * [Accessibility](/accessibility/)
-  * [Accessories](/accessories/)
-  * [App Extension](/app-extensions/)
-  * [App Store](/app-store/)
-  * [Audio & Video](/audio/)
-  * [Augmented Reality](/augmented-reality/)
-  * [Design](/design/)
-  * [Distribution](/distribute/)
-  * [Education](/education/)
-  * [Fonts](/fonts/)
-  * [Games](/games/)
-  * [Health & Fitness](/health-fitness/)
-  * [In-App Purchase](/in-app-purchase/)
-  * [Localization](/localization/)
-  * [Maps & Location](/maps/)
-  * [Machine Learning & AI](/machine-learning/)
-  * [Open Source](https://opensource.apple.com/)
-  * [Security](/security/)
-  * [Safari & Web](/safari/)
-
-
-
-###  Resources 
-
-Toggle Menu 
-
-  *   * [Documentation](/documentation/)
-  * [Tutorials](/learn/)
-  * [Downloads](/download/)
-  * [Forums](/forums/)
-  * [Videos](/videos/)
-
-
-
-###  Support 
-
-Toggle Menu 
-
-  * [Support Articles](/support/articles/)
-  * [Contact Us](/contact/)
-  * [Bug Reporting](/bug-reporting/)
-  * [System Status](/system-status/)
-
-
-
-###  Account 
-
-Toggle Menu 
-
-  * [Apple Developer](/account/)
-  * [App Store Connect](https://appstoreconnect.apple.com/)
-  * [Certificates, IDs, & Profiles](/account/ios/certificate/)
-  * [Feedback Assistant](https://feedbackassistant.apple.com/)
-
-
-
-###  Programs 
-
-Toggle Menu 
-
-  * [Apple Developer Program](/programs/)
-  * [Apple Developer Enterprise Program](/programs/enterprise/)
-  * [App Store Small Business Program](/app-store/small-business-program/)
-  * [MFi Program](https://mfi.apple.com/)
-  * [News Partner Program](/programs/news-partner/)
-  * [Video Partner Program](/programs/video-partner/)
-  * [Security Bounty Program](/security-bounty/)
-  * [Security Research Device Program](/programs/security-research-device/)
-
-
-
-###  Events 
-
-Toggle Menu 
-
-  * [Meet with Apple](/events/)
-  * [Apple Developer Centers](/events/developer-centers/)
-  * [App Store Awards](/app-store/app-store-awards/)
-  * [Apple Design Awards](/design/awards/)
-  * [Apple Developer Academies](/academies/)
-  * [WWDC](/wwdc/)
-
-
-
-To submit feedback on documentation, visit [Feedback Assistant](applefeedback://new?form_identifier=developertools.fba&answers%5B%3Aarea%5D=seedADC%3Adevpubs&answers%5B%3Adoc_type_req%5D=Technology%20Documentation&answers%5B%3Adocumentation_link_req%5D=https%3A%2F%2Fdeveloper.apple.com%2Fdesign%2Fhuman-interface-guidelines%2Ftoolbars).
-
-Select a color scheme preference
-
-Light
-
-Dark
-
-Auto
-
-English  简体中文  日本語  한국어 
-
-Copyright © 2026 [Apple Inc.](https://www.apple.com) All rights reserved. 
-
-[ Terms of Use ](https://www.apple.com/legal/internet-services/terms/site.html)[ Privacy Policy ](https://www.apple.com/legal/privacy/)[ Agreements and Guidelines ](/support/terms/)

@@ -1,190 +1,6 @@
 ---
 title: "The menu bar | Apple Developer Documentation"
 source: https://developer.apple.com/design/human-interface-guidelines/the-menu-bar
----
-
-# This page requires JavaScript.
-
-Please turn on JavaScript in your browser and refresh the page to view its content.
-
-Skip Navigation 
-
-  * Global Nav Open MenuGlobal Nav Close Menu
-  * [Apple Developer](/)
-
-
-
-[Search Developer Cancel ](/search/)
-
-  * [Apple Developer](/)
-  * [News](/news/)
-  * [Discover](/discover/)
-  * [Design](/design/)
-  * [Develop](/develop/)
-  * [Distribute](/distribute/)
-  * [Support](/support/)
-  * [Account](/account/)
-  * [](/search/)
-
-
-
-Cancel 
-
-Only search within “Human Interface Guidelines”
-
-### Quick Links
-
-  * [Downloads](/download/)
-  * [Documentation](/documentation/)
-  * [Sample Code](/documentation/samplecode/)
-  * [Videos](/videos/)
-  * [Forums](/forums/)
-
-5 Quick Links
-
-[ Design ](/design/)
-
-Open Menu 
-
-  * [ Overview ](https://developer.apple.com/design/)
-  * [ What’s New ](https://developer.apple.com/design/whats-new/)
-  * [ Get Started ](https://developer.apple.com/design/get-started/)
-  * [ Guidelines ](/design/human-interface-guidelines)
-  * [ Resources ](https://developer.apple.com/design/resources/)
-
-
-
-## Human Interface Guidelines
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/c9d2e563aa23997588edd7b4538f6c5b/overview.svg)
-
-1 of 6 symbols inside <root> containing 7 symbols[Getting started](/design/human-interface-guidelines/getting-started)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/c9d2e563aa23997588edd7b4538f6c5b/overview.svg)
-
-3 of 6 symbols inside <root> containing 25 symbols[Patterns](/design/human-interface-guidelines/patterns)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/c9d2e563aa23997588edd7b4538f6c5b/overview.svg)
-
-4 of 6 symbols inside <root> containing 8 symbols[Components](/design/human-interface-guidelines/components)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/f8287e40b9153ea3bfc47855f3ed090e/content.svg)
-
-1 of 8 symbols inside 1901254726 containing 4 symbols[Content](/design/human-interface-guidelines/content)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/9c9b21773f065997bd33e2258bcedc6e/layout-and-organization.svg)
-
-2 of 8 symbols inside 1901254726 containing 10 symbols[Layout and organization](/design/human-interface-guidelines/layout-and-organization)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/75ce5d52e57519f2cb4ff43bf947e464/menus-and-actions.svg)
-
-3 of 8 symbols inside 1901254726 containing 12 symbols[Menus and actions](/design/human-interface-guidelines/menus-and-actions)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-1 of 12 symbols inside 409439797 [Activity views](/design/human-interface-guidelines/activity-views)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-2 of 12 symbols inside 409439797 [Buttons](/design/human-interface-guidelines/buttons)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-3 of 12 symbols inside 409439797 [Context menus](/design/human-interface-guidelines/context-menus)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-4 of 12 symbols inside 409439797 [Dock menus](/design/human-interface-guidelines/dock-menus)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-5 of 12 symbols inside 409439797 [Edit menus](/design/human-interface-guidelines/edit-menus)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-6 of 12 symbols inside 409439797 [Home Screen quick actions](/design/human-interface-guidelines/home-screen-quick-actions)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-7 of 12 symbols inside 409439797 [Menus](/design/human-interface-guidelines/menus)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-8 of 12 symbols inside 409439797 [Ornaments](/design/human-interface-guidelines/ornaments)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-9 of 12 symbols inside 409439797 [Pop-up buttons](/design/human-interface-guidelines/pop-up-buttons)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-10 of 12 symbols inside 409439797 [Pull-down buttons](/design/human-interface-guidelines/pull-down-buttons)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-11 of 12 symbols inside 409439797 [The menu bar](/design/human-interface-guidelines/the-menu-bar)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-12 of 12 symbols inside 409439797 [Toolbars](/design/human-interface-guidelines/toolbars)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/f6d4ee51abadcd1152fb16d669a41ff5/navigation-and-search.svg)
-
-4 of 8 symbols inside 1901254726 containing 5 symbols[Navigation and search](/design/human-interface-guidelines/navigation-and-search)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/9d6c58bc552734e20b577da42f851727/presentation.svg)
-
-5 of 8 symbols inside 1901254726 containing 8 symbols[Presentation](/design/human-interface-guidelines/presentation)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/6bfe82fa338513b36059645f70a7baae/selection-and-input.svg)
-
-6 of 8 symbols inside 1901254726 containing 11 symbols[Selection and input](/design/human-interface-guidelines/selection-and-input)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/36102a182c11ce4e60c34205b85609aa/status.svg)
-
-7 of 8 symbols inside 1901254726 containing 4 symbols[Status](/design/human-interface-guidelines/status)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/3d1cd2ad10b834153a64d32b7692177c/system.svg)
-
-8 of 8 symbols inside 1901254726 containing 9 symbols[System experiences](/design/human-interface-guidelines/system-experiences)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/c9d2e563aa23997588edd7b4538f6c5b/overview.svg)
-
-5 of 6 symbols inside <root> containing 13 symbols[Inputs](/design/human-interface-guidelines/inputs)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/c9d2e563aa23997588edd7b4538f6c5b/overview.svg)
-
-6 of 6 symbols inside <root> containing 29 symbols[Technologies](/design/human-interface-guidelines/technologies)
-
-26 items were found. Tab back to navigate through them. 
-
-Navigator is ready 
 
 # The menu bar
 
@@ -196,13 +12,13 @@ Mac users are very familiar with the macOS menu bar, and they rely on it to help
 
 Menu bar menus on iPad are similar to those on Mac, appearing in the same order and with familiar sets of menu items. When you adopt the menu structure that people expect from their experience on Mac, it helps them immediately understand and take advantage of the menu bar on iPad as well.
 
-Keyboard shortcuts in iPadOS use the same patterns as in macOS. For guidance, see [Standard keyboard shortcuts](/design/human-interface-guidelines/keyboards#Standard-keyboard-shortcuts).
+Keyboard shortcuts in iPadOS use the same patterns as in macOS. For guidance, see [Standard keyboard shortcuts](https://developer.apple.com/design/human-interface-guidelines/keyboards#Standard-keyboard-shortcuts).
 
 ![An illustration of an app window on iPad, with its menu bar appearing at the top of the screen and the Edit menu open.](https://docs-assets.developer.apple.com/published/7c3a4ae9470f62e0eb41b8ce297032f8/menu-bar-ipad-overview%402x.png)
 
-Menus in the menu bar share most of the appearance and behavior characteristics that all menu types have. To learn about menus in general — and how to organize and label menu items — see [Menus](/design/human-interface-guidelines/menus).
+Menus in the menu bar share most of the appearance and behavior characteristics that all menu types have. To learn about menus in general — and how to organize and label menu items — see [Menus](https://developer.apple.com/design/human-interface-guidelines/menus).
 
-## [Anatomy](/design/human-interface-guidelines/the-menu-bar#Anatomy)
+## [Anatomy](https://developer.apple.com/design/human-interface-guidelines/the-menu-bar#Anatomy)
 
 When present in the menu bar, the following menus appear in the order listed below.
 
@@ -225,21 +41,21 @@ When present in the menu bar, the following menus appear in the order listed bel
 
 
 
-In addition, the macOS menu bar includes the Apple menu on the leading side and menu bar extras on the trailing side. See [macOS Platform considerations](/design/human-interface-guidelines/the-menu-bar#macOS) for guidance.
+In addition, the macOS menu bar includes the Apple menu on the leading side and menu bar extras on the trailing side. See [macOS Platform considerations](https://developer.apple.com/design/human-interface-guidelines/the-menu-bar#macOS) for guidance.
 
-## [Best practices](/design/human-interface-guidelines/the-menu-bar#Best-practices)
+## [Best practices](https://developer.apple.com/design/human-interface-guidelines/the-menu-bar#Best-practices)
 
 **Support the default system-defined menus and their ordering.** People expect to find menus and menu items in an order they’re familiar with. In many cases, the system implements the functionality of standard menu items so you don’t have to. For example, when people select text in a standard text field, the system makes the Edit > Copy menu item available.
 
 **Always show the same set of menu items.** Keeping menu items visible helps people learn what actions your app supports, even if they’re unavailable in the current context. If a menu bar item isn’t actionable, disable the action instead of hiding it from the menu.
 
-**Represent menu item actions with familiar icons.** Icons help people recognize common actions throughout your app. Use the same icons as the system to represent actions such as Copy, Share, and Delete, wherever they appear. For a list of icons that represent common actions, see [Standard icons](/design/human-interface-guidelines/icons#Standard-icons). For additional guidance, see [Menus](/design/human-interface-guidelines/menus).
+**Represent menu item actions with familiar icons.** Icons help people recognize common actions throughout your app. Use the same icons as the system to represent actions such as Copy, Share, and Delete, wherever they appear. For a list of icons that represent common actions, see [Standard icons](https://developer.apple.com/design/human-interface-guidelines/icons#Standard-icons). For additional guidance, see [Menus](https://developer.apple.com/design/human-interface-guidelines/menus).
 
-**Support the keyboard shortcuts defined for the standard menu items you include.** People expect to use the keyboard shortcuts they already know for standard menu items, like Copy, Cut, Paste, Save, and Print. Define custom keyboard shortcuts only when necessary. For guidance, see [Standard keyboard shortcuts](/design/human-interface-guidelines/keyboards#Standard-keyboard-shortcuts).
+**Support the keyboard shortcuts defined for the standard menu items you include.** People expect to use the keyboard shortcuts they already know for standard menu items, like Copy, Cut, Paste, Save, and Print. Define custom keyboard shortcuts only when necessary. For guidance, see [Standard keyboard shortcuts](https://developer.apple.com/design/human-interface-guidelines/keyboards#Standard-keyboard-shortcuts).
 
 **Prefer short, one-word menu titles.** Various factors — like different display sizes and the presence of menu bar extras — can affect the spacing and appearance of your menus. One-word menu titles work especially well in the menu bar because they take little space and are easy for people to scan. If you need to use more than one word in the menu title, use title-style capitalization.
 
-## [App menu](/design/human-interface-guidelines/the-menu-bar#App-menu)
+## [App menu](https://developer.apple.com/design/human-interface-guidelines/the-menu-bar#App-menu)
 
 The app menu lists items that apply to your app or game as a whole, rather than to a specific task, document, or window. To help people quickly identify the active app, the menu bar displays your app name in bold.
 
@@ -248,7 +64,7 @@ The app menu typically contains the following menu items listed in the following
 Menu item| Action| Guidance  
 ---|---|---  
 About _YourAppName_|  Displays the About window for your app, which includes copyright and version information.| Prefer a short name of 16 characters or fewer. Don’t include a version number.  
-Settings…| Opens your [settings](/design/human-interface-guidelines/settings) window, or your app’s page in iPadOS Settings.| Use only for app-level settings. If you also offer document-specific settings, put them in the File menu.  
+Settings…| Opens your [settings](https://developer.apple.com/design/human-interface-guidelines/settings) window, or your app’s page in iPadOS Settings.| Use only for app-level settings. If you also offer document-specific settings, put them in the File menu.  
 Optional app-specific items| Performs custom app-level setting or configuration actions.| List custom app-configuration items after the Settings item and within the same group.  
 Services (macOS only)| Displays a submenu of services from the system and other apps that apply to the current context.|   
 Hide _YourAppName_ (macOS only)| Hides your app and all of its windows, and then activates the most recently used app.| Use the same short app name you supply for the About item.  
@@ -258,7 +74,7 @@ Quit _YourAppName_|  Quits your app. Pressing Option changes Quit _YourAppName_ 
   
 **Display the About menu item first.** Include a separator after the About menu item so that it appears by itself in a group.
 
-## [File menu](/design/human-interface-guidelines/the-menu-bar#File-menu)
+## [File menu](https://developer.apple.com/design/human-interface-guidelines/the-menu-bar#File-menu)
 
 The File menu contains commands that help people manage the files or documents an app supports. If your app doesn’t handle any types of files, you can rename or eliminate this menu.
 
@@ -282,7 +98,7 @@ Revert To| When people turn on autosaving, displays a submenu that lists recent 
 Page Setup…| Opens a panel for specifying printing parameters like paper size and printing orientation. A document can save the printing parameters that people specify.| Include the Page Setup item if you need to support printing parameters that apply to a specific document. Parameters that are global in nature, like a printer’s name, or that people change frequently, like the number of copies to print, belong in the Print panel.  
 Print…| Opens the standard Print panel, which lets people print to a printer, send a fax, or save as a PDF.|   
   
-## [Edit menu](/design/human-interface-guidelines/the-menu-bar#Edit-menu)
+## [Edit menu](https://developer.apple.com/design/human-interface-guidelines/the-menu-bar#Edit-menu)
 
 The Edit menu lets people make changes to content in the current document or text container, and provides commands for interacting with the Clipboard. Because many editing commands apply to any editable content, the Edit menu is useful even in apps that aren’t document-based.
 
@@ -308,7 +124,7 @@ Speech| Displays a submenu containing Start Speaking and Stop Speaking items, wh
 Start Dictation| Opens the dictation window and converts spoken words into text that’s added at the current insertion point. The system automatically adds the Start Dictation menu item at the bottom of the Edit menu.|   
 Emoji & Symbols| Displays a Character Viewer, which includes emoji, symbols, and other characters people can insert at the current insertion point. The system automatically adds the Emoji & Symbols menu item at the bottom of the Edit menu.|   
   
-## [Format menu](/design/human-interface-guidelines/the-menu-bar#Format-menu)
+## [Format menu](https://developer.apple.com/design/human-interface-guidelines/the-menu-bar#Format-menu)
 
 The Format menu lets people adjust text formatting attributes in the current document or text container. You can exclude this menu if your app doesn’t support formatted text editing.
 
@@ -319,13 +135,13 @@ Menu item| Action
 Font| Displays a submenu containing items for adjusting font attributes of the selected text. Standard submenus include: Show Fonts, Bold, Italic, Underline, Bigger, Smaller, Show Colors, Copy Style, and Paste Style.  
 Text| Displays a submenu containing items for adjusting text attributes of the selected text. Standard submenus include: Align Left, Align Center, Justify, Align Right, Writing Direction, Show Ruler, Copy Ruler, and Paste Ruler.  
   
-## [View menu](/design/human-interface-guidelines/the-menu-bar#View-menu)
+## [View menu](https://developer.apple.com/design/human-interface-guidelines/the-menu-bar#View-menu)
 
 The View menu lets people customize the appearance of all an app’s windows, regardless of type.
 
 Important
 
-The View menu doesn’t include items for navigating between or managing specific windows; the [Window menu](/design/human-interface-guidelines/the-menu-bar#Window-menu) provides these commands.
+The View menu doesn’t include items for navigating between or managing specific windows; the [Window menu](https://developer.apple.com/design/human-interface-guidelines/the-menu-bar#Window-menu) provides these commands.
 
 **Provide a View menu even if your app supports only a subset of the standard view functions.** For example, if your app doesn’t include a tab bar, toolbar, or sidebar, but does support full-screen mode, provide a View menu that includes only the Enter/Exit Full Screen menu item.
 
@@ -335,14 +151,14 @@ The View menu typically contains the following top-level menu items, listed in t
 
 Menu item| Action  
 ---|---  
-Show/Hide Tab Bar| Toggles the visibility of the [tab bar](/design/human-interface-guidelines/tab-bars) above the body area in a tab-based window  
+Show/Hide Tab Bar| Toggles the visibility of the [tab bar](https://developer.apple.com/design/human-interface-guidelines/tab-bars) above the body area in a tab-based window  
 Show All Tabs/Exit Tab Overview| Enters and exits a view (similar to Mission Control) that provides an overview of all open tabs in a tab-based window  
-Show/Hide Toolbar| In a window that includes a [toolbar](/design/human-interface-guidelines/toolbars), toggles the toolbar’s visibility  
+Show/Hide Toolbar| In a window that includes a [toolbar](https://developer.apple.com/design/human-interface-guidelines/toolbars), toggles the toolbar’s visibility  
 Customize Toolbar| In a window that includes a toolbar, opens a view that lets people customize toolbar items  
-Show/Hide Sidebar| In a window that includes a [sidebar](/design/human-interface-guidelines/sidebars), toggles the sidebar’s visibility  
-Enter/Exit Full Screen| In an app that supports a [full-screen experience](/design/human-interface-guidelines/going-full-screen), opens the window at full-screen size in a new space  
+Show/Hide Sidebar| In a window that includes a [sidebar](https://developer.apple.com/design/human-interface-guidelines/sidebars), toggles the sidebar’s visibility  
+Enter/Exit Full Screen| In an app that supports a [full-screen experience](https://developer.apple.com/design/human-interface-guidelines/going-full-screen), opens the window at full-screen size in a new space  
   
-## [App-specific menus](/design/human-interface-guidelines/the-menu-bar#App-specific-menus)
+## [App-specific menus](https://developer.apple.com/design/human-interface-guidelines/the-menu-bar#App-specific-menus)
 
 Your app’s custom menus appear in the menu bar between the View menu and the Window menu. For example, Safari’s menu bar includes app-specific History and Bookmarks menus.
 
@@ -352,33 +168,33 @@ Your app’s custom menus appear in the menu bar between the View menu and the W
 
 **Aim to list app-specific menus in order from most to least general or commonly used.** People tend to expect menus in the leading end of a list to be more specialized than menus in the trailing end.
 
-## [Window menu](/design/human-interface-guidelines/the-menu-bar#Window-menu)
+## [Window menu](https://developer.apple.com/design/human-interface-guidelines/the-menu-bar#Window-menu)
 
 The Window menu lets people navigate, organize, and manage an app’s windows.
 
 Important
 
-The Window menu doesn’t help people customize the appearance of windows or close them. To customize a window, people use commands in the [View menu](/design/human-interface-guidelines/the-menu-bar#View-menu); to close a window, people choose Close in the [File menu](/design/human-interface-guidelines/the-menu-bar#File-menu).
+The Window menu doesn’t help people customize the appearance of windows or close them. To customize a window, people use commands in the [View menu](https://developer.apple.com/design/human-interface-guidelines/the-menu-bar#View-menu); to close a window, people choose Close in the [File menu](https://developer.apple.com/design/human-interface-guidelines/the-menu-bar#File-menu).
 
 **Provide a Window menu even if your app has only one window.** Include the Minimize and Zoom menu items so people using Full Keyboard Access can use the keyboard to invoke these functions.
 
-**Consider including menu items for showing and hiding panels.** A [panel](/design/human-interface-guidelines/panels) provides information, configuration options, or tools for interacting with content in a primary window, and typically appears only when people need it. There’s no need to provide access to the font panel or text color panel because the Format menu lists these panels.
+**Consider including menu items for showing and hiding panels.** A [panel](https://developer.apple.com/design/human-interface-guidelines/panels) provides information, configuration options, or tools for interacting with content in a primary window, and typically appears only when people need it. There’s no need to provide access to the font panel or text color panel because the Format menu lists these panels.
 
 The Window menu typically contains the following top-level menu items, listed in the following order.
 
 Menu item| Action| Guidance  
 ---|---|---  
 Minimize| Minimizes the active window to the Dock. Pressing the Option key changes this item to Minimize All.|   
-Zoom| Toggles between a predefined size appropriate to the window’s content and the window size people set. Pressing the Option key changes this item to Zoom All.| Avoid using Zoom to enter or exit full-screen mode. The [View menu](/design/human-interface-guidelines/the-menu-bar#View-menu) supports these functions.  
+Zoom| Toggles between a predefined size appropriate to the window’s content and the window size people set. Pressing the Option key changes this item to Zoom All.| Avoid using Zoom to enter or exit full-screen mode. The [View menu](https://developer.apple.com/design/human-interface-guidelines/the-menu-bar#View-menu) supports these functions.  
 Show Previous Tab| Shows the tab before the current tab in a tab-based window.|   
 Show Next Tab| Shows the tab after the current tab in a tab-based window.|   
 Move Tab to New Window| Opens the current tab in a new window.|   
 Merge All Windows| Combines all open windows into a single tabbed window.|   
-Enter/Exit Full Screen| In an app that supports a [full-screen experience](/design/human-interface-guidelines/going-full-screen), opens the window at full-screen size in a new space.| Include this item in the Window menu only if your app doesn’t have a View menu. In this scenario, continue to provide separate Minimize and Zoom menu items.  
+Enter/Exit Full Screen| In an app that supports a [full-screen experience](https://developer.apple.com/design/human-interface-guidelines/going-full-screen), opens the window at full-screen size in a new space.| Include this item in the Window menu only if your app doesn’t have a View menu. In this scenario, continue to provide separate Minimize and Zoom menu items.  
 Bring All to Front| Brings all an app’s open windows to the front, maintaining their onscreen location, size, and layering order. (Clicking the app icon in the Dock has the same effect.) Pressing the Option key changes this item to Arrange in Front, which brings an app’s windows to the front in a neatly tiled arrangement.|   
 _Name of an open app-specific window_|  Brings the selected window to the front.| List the currently open windows in alphabetical order for easy scanning. Avoid listing panels or other modal views.  
   
-## [Help menu](/design/human-interface-guidelines/the-menu-bar#Help-menu)
+## [Help menu](https://developer.apple.com/design/human-interface-guidelines/the-menu-bar#Help-menu)
 
 The Help menu — located at the trailing end of the menu bar — provides access to an app’s help documentation. When you use the Help Book format for this documentation, macOS automatically includes a search field at the top of the Help menu.
 
@@ -388,9 +204,9 @@ Send _YourAppName_ Feedback to Apple| Opens the Feedback Assistant, in which peo
 _YourAppName_ Help| When the content uses the Help Book format, opens the content in the built-in Help Viewer.|   
 _Additional Item_| |  Use a separator between your primary help documentation and additional items, which might include registration information or release notes. Keep the total the number of items you list in the Help menu small to avoid overwhelming people with too many choices when they need help. Alternatively, consider linking to additional items from within your help documentation.  
   
-For guidance, see [Offering help](/design/human-interface-guidelines/offering-help); for developer guidance, see [`NSHelpManager`](/documentation/AppKit/NSHelpManager).
+For guidance, see [Offering help](https://developer.apple.com/design/human-interface-guidelines/offering-help); for developer guidance, see [`NSHelpManager`](https://developer.apple.com/documentation/AppKit/NSHelpManager).
 
-## [Dynamic menu items](/design/human-interface-guidelines/the-menu-bar#Dynamic-menu-items)
+## [Dynamic menu items](https://developer.apple.com/design/human-interface-guidelines/the-menu-bar#Dynamic-menu-items)
 
 In rare cases, it can make sense to present a _dynamic menu item_ , which is a menu item that changes its behavior when people choose it while pressing a modifier key (Control, Option, Shift, or Command). For example, the _Minimize_ item in the Window menu changes to _Minimize All_ when people press the Option key.
 
@@ -398,19 +214,19 @@ In rare cases, it can make sense to present a _dynamic menu item_ , which is a m
 
 **Use dynamic menu items primarily in menu bar menus.** Adding a dynamic menu item to contextual or Dock menus can make the item even harder for people to discover.
 
-**Require only a single modifier key to reveal a dynamic menu item.** It can be physically awkward to press more than one key while simultaneously opening a menu and choosing a menu item, in addition to reducing the discoverability of the dynamic behavior. For developer guidance, see [`isAlternate`](/documentation/AppKit/NSMenuItem/isAlternate).
+**Require only a single modifier key to reveal a dynamic menu item.** It can be physically awkward to press more than one key while simultaneously opening a menu and choosing a menu item, in addition to reducing the discoverability of the dynamic behavior. For developer guidance, see [`isAlternate`](https://developer.apple.com/documentation/AppKit/NSMenuItem/isAlternate).
 
 Tip
 
 macOS automatically sets the width of a menu to hold the widest item, including dynamic menu items.
 
-## [Platform considerations](/design/human-interface-guidelines/the-menu-bar#Platform-considerations)
+## [Platform considerations](https://developer.apple.com/design/human-interface-guidelines/the-menu-bar#Platform-considerations)
 
  _Not supported in iOS, tvOS, visionOS, or watchOS._
 
-### [iPadOS](/design/human-interface-guidelines/the-menu-bar#iPadOS)
+### [iPadOS](https://developer.apple.com/design/human-interface-guidelines/the-menu-bar#iPadOS)
 
-The menu bar displays the top-level menus for your app or game, including both system-provided menus and any custom ones you choose to add. People reveal the menu bar by moving the pointer to the top edge of the screen, or swiping down from it. When visible, the menu bar occupies the same vertical space as the [status bar](/design/human-interface-guidelines/status-bars) at the top edge of the screen.
+The menu bar displays the top-level menus for your app or game, including both system-provided menus and any custom ones you choose to add. People reveal the menu bar by moving the pointer to the top edge of the screen, or swiping down from it. When visible, the menu bar occupies the same vertical space as the [status bar](https://developer.apple.com/design/human-interface-guidelines/status-bars) at the top edge of the screen.
 
 As with the macOS menu bar, the iPadOS menu bar provides a familiar way for people to learn what an app does, find the commands they need, and discover keyboard shortcuts. While they are similar in most respects, there are a few key differences between the menu bars on each platform.
 
@@ -431,25 +247,25 @@ App menu| About, Services, and app visibility-related items not available| Alway
 
 **Consider grouping menu items into submenus to conserve vertical space.** Menu item rows on iPad use more space than on Mac to make them easier to tap. Because of this, and the smaller screen sizes of some iPads, it can be helpful to group related items into submenus more frequently than in the menu bar on Mac.
 
-### [macOS](/design/human-interface-guidelines/the-menu-bar#macOS)
+### [macOS](https://developer.apple.com/design/human-interface-guidelines/the-menu-bar#macOS)
 
-The menu bar in macOS includes the Apple menu, which is always the first item on the leading side of the menu bar. The Apple menu includes system-defined menu items that are always available, and you can’t modify or remove it. Space permitting, the system can also display menu bar extras in the trailing end of the menu bar. For guidance, see [Menu bar extras](/design/human-interface-guidelines/the-menu-bar#Menu-bar-extras).
+The menu bar in macOS includes the Apple menu, which is always the first item on the leading side of the menu bar. The Apple menu includes system-defined menu items that are always available, and you can’t modify or remove it. Space permitting, the system can also display menu bar extras in the trailing end of the menu bar. For guidance, see [Menu bar extras](https://developer.apple.com/design/human-interface-guidelines/the-menu-bar#Menu-bar-extras).
 
 When menu bar space is constrained, the system prioritizes the display of menus and essential menu bar extras. To ensure that menus remain readable, the system may decrease the space between the titles, truncating them if necessary.
 
-When people enter full-screen mode, the menu bar typically hides until they reveal it by moving the pointer to the top of the screen. For guidance, see [Going full screen](/design/human-interface-guidelines/going-full-screen).
+When people enter full-screen mode, the menu bar typically hides until they reveal it by moving the pointer to the top of the screen. For guidance, see [Going full screen](https://developer.apple.com/design/human-interface-guidelines/going-full-screen).
 
-#### [Menu bar extras](/design/human-interface-guidelines/the-menu-bar#Menu-bar-extras)
+#### [Menu bar extras](https://developer.apple.com/design/human-interface-guidelines/the-menu-bar#Menu-bar-extras)
 
-A menu bar extra exposes app-specific functionality using an icon that appears in the menu bar when your app is running, even when it’s not the frontmost app. Menu bar extras are on the opposite side of the menu bar from your app’s menus. For developer guidance, see [`MenuBarExtra`](/documentation/SwiftUI/MenuBarExtra).
+A menu bar extra exposes app-specific functionality using an icon that appears in the menu bar when your app is running, even when it’s not the frontmost app. Menu bar extras are on the opposite side of the menu bar from your app’s menus. For developer guidance, see [`MenuBarExtra`](https://developer.apple.com/documentation/SwiftUI/MenuBarExtra).
 
 When necessary, the system hides menu bar extras to make room for app menus. Similarly, if there are too many menu bar extras, the system may hide some to avoid crowding app menus.
 
 ![A screenshot of the Input menu bar extra and its menu.](https://docs-assets.developer.apple.com/published/97a8b1969dd941fc8920da157b345fb5/menu-bar-extras%402x.png)
 
-**Consider using a symbol to represent your menu bar extra.** You can create an [icon](/design/human-interface-guidelines/icons) or you can choose one of the [SF Symbols](/design/human-interface-guidelines/sf-symbols), using it as-is or customizing it to suit your needs. Both interface icons and symbols use black and clear colors to define their shapes; the system can apply other colors to the black areas in each image so it looks good on both dark and light menu bars, and when your menu bar extra is selected. The menu bar’s height is 24 pt.
+**Consider using a symbol to represent your menu bar extra.** You can create an [icon](https://developer.apple.com/design/human-interface-guidelines/icons) or you can choose one of the [SF Symbols](https://developer.apple.com/design/human-interface-guidelines/sf-symbols), using it as-is or customizing it to suit your needs. Both interface icons and symbols use black and clear colors to define their shapes; the system can apply other colors to the black areas in each image so it looks good on both dark and light menu bars, and when your menu bar extra is selected. The menu bar’s height is 24 pt.
 
-**Display a menu — not a popover — when people click your menu bar extra.** Unless the app functionality you want to expose is too complex for a menu, avoid presenting it in a [popover](/design/human-interface-guidelines/popovers).
+**Display a menu — not a popover — when people click your menu bar extra.** Unless the app functionality you want to expose is too complex for a menu, avoid presenting it in a [popover](https://developer.apple.com/design/human-interface-guidelines/popovers).
 
 **Let people — not your app — decide whether to put your menu bar extra in the menu bar.** Typically, people add a menu bar extra to the menu bar by changing a setting in an app’s settings window. To ensure discoverability, however, consider giving people the option of doing so during setup.
 
@@ -457,193 +273,31 @@ When necessary, the system hides menu bar extras to make room for app menus. Sim
 
 **Consider exposing app-specific functionality in other ways, too.** For example, you can provide a [Dock menu](https://developer.apple.com/design/human-interface-guidelines/dock-menus) that appears when people Control-click your app’s Dock icon. People can hide or choose not to use your menu bar extra, but a Dock menu is aways available when your app is running.
 
-## [Resources](/design/human-interface-guidelines/the-menu-bar#Resources)
+## [Resources](https://developer.apple.com/design/human-interface-guidelines/the-menu-bar#Resources)
 
-#### [Related](/design/human-interface-guidelines/the-menu-bar#Related)
+#### [Related](https://developer.apple.com/design/human-interface-guidelines/the-menu-bar#Related)
 
-[Menus](/design/human-interface-guidelines/menus)
+[Menus](https://developer.apple.com/design/human-interface-guidelines/menus)
 
-[Dock menus](/design/human-interface-guidelines/dock-menus)
+[Dock menus](https://developer.apple.com/design/human-interface-guidelines/dock-menus)
 
-[Standard keyboard shortcuts](/design/human-interface-guidelines/keyboards#Standard-keyboard-shortcuts)
+[Standard keyboard shortcuts](https://developer.apple.com/design/human-interface-guidelines/keyboards#Standard-keyboard-shortcuts)
 
-#### [Developer documentation](/design/human-interface-guidelines/the-menu-bar#Developer-documentation)
+#### [Developer documentation](https://developer.apple.com/design/human-interface-guidelines/the-menu-bar#Developer-documentation)
 
-[`CommandMenu`](/documentation/SwiftUI/CommandMenu) — SwiftUI
+[`CommandMenu`](https://developer.apple.com/documentation/SwiftUI/CommandMenu) — SwiftUI
 
-[Adding menus and shortcuts to the menu bar and user interface](/documentation/UIKit/adding-menus-and-shortcuts-to-the-menu-bar-and-user-interface) — UIKit
+[Adding menus and shortcuts to the menu bar and user interface](https://developer.apple.com/documentation/UIKit/adding-menus-and-shortcuts-to-the-menu-bar-and-user-interface) — UIKit
 
-[`NSStatusBar`](/documentation/AppKit/NSStatusBar) — AppKit
+[`NSStatusBar`](https://developer.apple.com/documentation/AppKit/NSStatusBar) — AppKit
 
-#### [Videos](/design/human-interface-guidelines/the-menu-bar#Videos)
+#### [Videos](https://developer.apple.com/design/human-interface-guidelines/the-menu-bar#Videos)
 
 [![](https://devimages-cdn.apple.com/wwdc-services/images/3055294D-836B-4513-B7B0-0BC5666246B0/873F40BE-101A-4C0D-99F0-F5C7CE7B47A3/10046_wide_250x141_1x.jpg) Elevate the design of your iPad app ](https://developer.apple.com/videos/play/wwdc2025/208)
 
-## [Change log](/design/human-interface-guidelines/the-menu-bar#Change-log)
+## [Change log](https://developer.apple.com/design/human-interface-guidelines/the-menu-bar#Change-log)
 
 Date| Changes  
 ---|---  
 June 9, 2025| Added guidance for the menu bar in iPadOS.  
   
-Current page is The menu bar 
-
-##### Supported platforms
-
-  *   *   *   *   *   * 
-
-
-  * [ The menu bar ](/design/human-interface-guidelines/the-menu-bar#app-top)
-  * [ Anatomy ](/design/human-interface-guidelines/the-menu-bar#Anatomy)
-  * [ Best practices ](/design/human-interface-guidelines/the-menu-bar#Best-practices)
-  * [ App menu ](/design/human-interface-guidelines/the-menu-bar#App-menu)
-  * [ File menu ](/design/human-interface-guidelines/the-menu-bar#File-menu)
-  * [ Edit menu ](/design/human-interface-guidelines/the-menu-bar#Edit-menu)
-  * [ Format menu ](/design/human-interface-guidelines/the-menu-bar#Format-menu)
-  * [ View menu ](/design/human-interface-guidelines/the-menu-bar#View-menu)
-  * [ App-specific menus ](/design/human-interface-guidelines/the-menu-bar#App-specific-menus)
-  * [ Window menu ](/design/human-interface-guidelines/the-menu-bar#Window-menu)
-  * [ Help menu ](/design/human-interface-guidelines/the-menu-bar#Help-menu)
-  * [ Dynamic menu items ](/design/human-interface-guidelines/the-menu-bar#Dynamic-menu-items)
-  * [ Platform considerations ](/design/human-interface-guidelines/the-menu-bar#Platform-considerations)
-  * [ Resources ](/design/human-interface-guidelines/the-menu-bar#Resources)
-  * [ Change log ](/design/human-interface-guidelines/the-menu-bar#Change-log)
-
-
-
-[Apple](https://www.apple.com)
-
-  1. [Developer](/)
-  2. [ Documentation ](/documentation/)
-
-
-
-###  Platforms 
-
-Toggle Menu 
-
-  * [iOS](/ios/)
-  * [iPadOS](/ipados/)
-  * [macOS](/macos/)
-  * [tvOS](/tvos/)
-  * [visionOS](/visionos/)
-  * [watchOS](/watchos/)
-
-
-
-###  Tools 
-
-Toggle Menu 
-
-  * [Swift](/swift/)
-  * [SwiftUI](/swiftui/)
-  * [Swift Playground](/swift-playground/)
-  * [TestFlight](/testflight/)
-  * [Xcode](/xcode/)
-  * [Xcode Cloud](/xcode-cloud/)
-  * [SF Symbols](/sf-symbols/)
-
-
-
-###  Topics & Technologies 
-
-Toggle Menu 
-
-  * [Accessibility](/accessibility/)
-  * [Accessories](/accessories/)
-  * [App Extension](/app-extensions/)
-  * [App Store](/app-store/)
-  * [Audio & Video](/audio/)
-  * [Augmented Reality](/augmented-reality/)
-  * [Design](/design/)
-  * [Distribution](/distribute/)
-  * [Education](/education/)
-  * [Fonts](/fonts/)
-  * [Games](/games/)
-  * [Health & Fitness](/health-fitness/)
-  * [In-App Purchase](/in-app-purchase/)
-  * [Localization](/localization/)
-  * [Maps & Location](/maps/)
-  * [Machine Learning & AI](/machine-learning/)
-  * [Open Source](https://opensource.apple.com/)
-  * [Security](/security/)
-  * [Safari & Web](/safari/)
-
-
-
-###  Resources 
-
-Toggle Menu 
-
-  *   * [Documentation](/documentation/)
-  * [Tutorials](/learn/)
-  * [Downloads](/download/)
-  * [Forums](/forums/)
-  * [Videos](/videos/)
-
-
-
-###  Support 
-
-Toggle Menu 
-
-  * [Support Articles](/support/articles/)
-  * [Contact Us](/contact/)
-  * [Bug Reporting](/bug-reporting/)
-  * [System Status](/system-status/)
-
-
-
-###  Account 
-
-Toggle Menu 
-
-  * [Apple Developer](/account/)
-  * [App Store Connect](https://appstoreconnect.apple.com/)
-  * [Certificates, IDs, & Profiles](/account/ios/certificate/)
-  * [Feedback Assistant](https://feedbackassistant.apple.com/)
-
-
-
-###  Programs 
-
-Toggle Menu 
-
-  * [Apple Developer Program](/programs/)
-  * [Apple Developer Enterprise Program](/programs/enterprise/)
-  * [App Store Small Business Program](/app-store/small-business-program/)
-  * [MFi Program](https://mfi.apple.com/)
-  * [News Partner Program](/programs/news-partner/)
-  * [Video Partner Program](/programs/video-partner/)
-  * [Security Bounty Program](/security-bounty/)
-  * [Security Research Device Program](/programs/security-research-device/)
-
-
-
-###  Events 
-
-Toggle Menu 
-
-  * [Meet with Apple](/events/)
-  * [Apple Developer Centers](/events/developer-centers/)
-  * [App Store Awards](/app-store/app-store-awards/)
-  * [Apple Design Awards](/design/awards/)
-  * [Apple Developer Academies](/academies/)
-  * [WWDC](/wwdc/)
-
-
-
-To submit feedback on documentation, visit [Feedback Assistant](applefeedback://new?form_identifier=developertools.fba&answers%5B%3Aarea%5D=seedADC%3Adevpubs&answers%5B%3Adoc_type_req%5D=Technology%20Documentation&answers%5B%3Adocumentation_link_req%5D=https%3A%2F%2Fdeveloper.apple.com%2Fdesign%2Fhuman-interface-guidelines%2Fthe-menu-bar).
-
-Select a color scheme preference
-
-Light
-
-Dark
-
-Auto
-
-English  简体中文  日本語  한국어 
-
-Copyright © 2026 [Apple Inc.](https://www.apple.com) All rights reserved. 
-
-[ Terms of Use ](https://www.apple.com/legal/internet-services/terms/site.html)[ Privacy Policy ](https://www.apple.com/legal/privacy/)[ Agreements and Guidelines ](/support/terms/)

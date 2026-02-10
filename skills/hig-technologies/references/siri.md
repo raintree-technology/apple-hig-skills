@@ -1,214 +1,6 @@
 ---
 title: "Siri | Apple Developer Documentation"
 source: https://developer.apple.com/design/human-interface-guidelines/siri
----
-
-# This page requires JavaScript.
-
-Please turn on JavaScript in your browser and refresh the page to view its content.
-
-Skip Navigation 
-
-  * Global Nav Open MenuGlobal Nav Close Menu
-  * [Apple Developer](/)
-
-
-
-[Search Developer Cancel ](/search/)
-
-  * [Apple Developer](/)
-  * [News](/news/)
-  * [Discover](/discover/)
-  * [Design](/design/)
-  * [Develop](/develop/)
-  * [Distribute](/distribute/)
-  * [Support](/support/)
-  * [Account](/account/)
-  * [](/search/)
-
-
-
-Cancel 
-
-Only search within “Human Interface Guidelines”
-
-### Quick Links
-
-  * [Downloads](/download/)
-  * [Documentation](/documentation/)
-  * [Sample Code](/documentation/samplecode/)
-  * [Videos](/videos/)
-  * [Forums](/forums/)
-
-5 Quick Links
-
-[ Design ](/design/)
-
-Open Menu 
-
-  * [ Overview ](https://developer.apple.com/design/)
-  * [ What’s New ](https://developer.apple.com/design/whats-new/)
-  * [ Get Started ](https://developer.apple.com/design/get-started/)
-  * [ Guidelines ](/design/human-interface-guidelines)
-  * [ Resources ](https://developer.apple.com/design/resources/)
-
-
-
-## Human Interface Guidelines
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/88a8c8fdc81e5fc382997c9ec3822eab/augmented-reality.svg)
-
-5 of 29 symbols inside 525506332 [Augmented reality](/design/human-interface-guidelines/augmented-reality)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/7a3379bd1fb861217bd79abdc0c175b9/carekit.svg)
-
-6 of 29 symbols inside 525506332 [CareKit](/design/human-interface-guidelines/carekit)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/3bdef2196e420f50c41a566422cc1e4c/carplay.svg)
-
-7 of 29 symbols inside 525506332 [CarPlay](/design/human-interface-guidelines/carplay)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/1a2766daa7645cc3782710ac0977e6d5/game-center.svg)
-
-8 of 29 symbols inside 525506332 [Game Center](/design/human-interface-guidelines/game-center)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/953d6d049f0943017089f645f030f739/generative-ai.svg)
-
-9 of 29 symbols inside 525506332 [Generative AI](/design/human-interface-guidelines/generative-ai)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/1fd95cf0bcefa3ddb3bd937167c4108e/healthkit.svg)
-
-10 of 29 symbols inside 525506332 [HealthKit](/design/human-interface-guidelines/healthkit)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/73b5b486f329ea3c756fe1016fb5d9b6/homekit.svg)
-
-11 of 29 symbols inside 525506332 [HomeKit](/design/human-interface-guidelines/homekit)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/8ee482d4f70affa6bae663c8d51102d0/icloud.svg)
-
-12 of 29 symbols inside 525506332 [iCloud](/design/human-interface-guidelines/icloud)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/d06f906d625d003fce04c3f46a88e2a0/id-verifier.svg)
-
-13 of 29 symbols inside 525506332 [ID Verifier](/design/human-interface-guidelines/id-verifier)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/ef6f7770a91b075a14f08932b4ab28a2/imessage-app.svg)
-
-14 of 29 symbols inside 525506332 [iMessage apps and stickers](/design/human-interface-guidelines/imessage-apps-and-stickers)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/d6e92e5cc61c45c389938daf49834a04/in-app-purchase.svg)
-
-15 of 29 symbols inside 525506332 [In-app purchase](/design/human-interface-guidelines/in-app-purchase)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/25ea28efbe5e8676fd29370fad560f75/live-photos.svg)
-
-16 of 29 symbols inside 525506332 [Live Photos](/design/human-interface-guidelines/live-photos)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/702ebb485435bf1f6e6c4e2d43edd423/mac-catalyst.svg)
-
-17 of 29 symbols inside 525506332 [Mac Catalyst](/design/human-interface-guidelines/mac-catalyst)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/0fc7417f15cf064f38a83bd30dee77cf/machine-learning.svg)
-
-18 of 29 symbols inside 525506332 [Machine learning](/design/human-interface-guidelines/machine-learning)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/88dc6f3ae567c1430f225d6707e6602b/maps.svg)
-
-19 of 29 symbols inside 525506332 [Maps](/design/human-interface-guidelines/maps)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/576e343bdc0f0f102a11a0f6253005a3/nfc.svg)
-
-20 of 29 symbols inside 525506332 [NFC](/design/human-interface-guidelines/nfc)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/cc7b6cfb42f8feb3e386350f0d535688/photo-editing.svg)
-
-21 of 29 symbols inside 525506332 [Photo editing](/design/human-interface-guidelines/photo-editing)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/09f442c9edd6adfc7b96ba62343974f5/researchkit.svg)
-
-22 of 29 symbols inside 525506332 [ResearchKit](/design/human-interface-guidelines/researchkit)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/2157ce221f6ce83b22b10819d0637fac/shareplay.svg)
-
-23 of 29 symbols inside 525506332 [SharePlay](/design/human-interface-guidelines/shareplay)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/abbb59bae34bcc697e70eb31e1cbf9de/shazamkit.svg)
-
-24 of 29 symbols inside 525506332 [ShazamKit](/design/human-interface-guidelines/shazamkit)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/e7797e1e1209d2513f62a929deabc4e6/sign-in-with-apple.svg)
-
-25 of 29 symbols inside 525506332 [Sign in with Apple](/design/human-interface-guidelines/sign-in-with-apple)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/4f44062987111f81a97052a652371e4a/siri.svg)
-
-26 of 29 symbols inside 525506332 [Siri](/design/human-interface-guidelines/siri)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/8165606b034808bdab7a2eccfc5ba01e/tap-to-pay-on-iphone.svg)
-
-27 of 29 symbols inside 525506332 [Tap to Pay on iPhone](/design/human-interface-guidelines/tap-to-pay-on-iphone)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/c2e174aba030d1a7de30e3fcb0e06ed7/voiceover.svg)
-
-28 of 29 symbols inside 525506332 [VoiceOver](/design/human-interface-guidelines/voiceover)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/496355b11d40fa2ff98a232f5692a3da/wallet.svg)
-
-29 of 29 symbols inside 525506332 [Wallet](/design/human-interface-guidelines/wallet)
-
-35 items were found. Tab back to navigate through them. 
-
-Navigator is ready 
 
 # Siri
 
@@ -216,7 +8,7 @@ Siri makes it easy for people to accomplish everyday tasks quickly, using voice,
 
 ![A sketch of the Siri icon. The image is overlaid with rectangular and circular grid lines and is tinted blue to subtly reflect the blue in the original six-color Apple logo.](https://docs-assets.developer.apple.com/published/4198addd86e0d7d3c38660dd8b20fca0/technologies-Siri-intro%402x.png)
 
-When you use [SiriKit](/documentation/SiriKit) to define the tasks and actions that your app supports, people can use Siri to perform them even when your app isn’t running. If you’re an accessory maker, you can also help people use Siri to control your accessories by integrating them with [HomeKit](/design/human-interface-guidelines/homekit) or [AirPlay](/design/human-interface-guidelines/airplay). Here are some of the ways people can use Siri to interact with your app or accessory:
+When you use [SiriKit](https://developer.apple.com/documentation/SiriKit) to define the tasks and actions that your app supports, people can use Siri to perform them even when your app isn’t running. If you’re an accessory maker, you can also help people use Siri to control your accessories by integrating them with [HomeKit](https://developer.apple.com/design/human-interface-guidelines/homekit) or [AirPlay](https://developer.apple.com/design/human-interface-guidelines/airplay). Here are some of the ways people can use Siri to interact with your app or accessory:
 
   * Ask Siri to perform a system-defined task that your app supports, like send a message, play a song, or start a workout.
 
@@ -248,27 +40,27 @@ As you approach the job of integrating your app with Siri, assess the actions yo
 
 
 
-## [Integrating your app with Siri](/design/human-interface-guidelines/siri#Integrating-your-app-with-Siri)
+## [Integrating your app with Siri](https://developer.apple.com/design/human-interface-guidelines/siri#Integrating-your-app-with-Siri)
 
 Tasks are at the core of your app’s integration with Siri. SiriKit builds on the idea of a person’s intention to perform a task by using the term _intent_ to represent a task an app supports. The communication between your app and Siri is based on the intents — that is, the tasks — your app helps people perform.
 
-SiriKit defines _system intents_ that represent common tasks — such as sending a message, calling a friend, and starting a workout — and groups related intents into domains. A _domain_ is a category of tasks that Siri knows how to talk about, like messaging, calling, and workouts. For a complete list of domains and the actions in each domain that iOS and watchOS support, see [System intents](/design/human-interface-guidelines/siri#System-intents).
+SiriKit defines _system intents_ that represent common tasks — such as sending a message, calling a friend, and starting a workout — and groups related intents into domains. A _domain_ is a category of tasks that Siri knows how to talk about, like messaging, calling, and workouts. For a complete list of domains and the actions in each domain that iOS and watchOS support, see [System intents](https://developer.apple.com/design/human-interface-guidelines/siri#System-intents).
 
-When possible, take advantage of the intents that SiriKit defines. Using system-provided intents can make your job easier, while still giving you opportunities to customize the experience. However, if your app offers tasks that aren’t represented by system-defined intents — like ordering a meal or shopping for groceries — you can create a _custom intent_ (for guidance, see [Custom intents](/design/human-interface-guidelines/siri#Custom-intents)).
+When possible, take advantage of the intents that SiriKit defines. Using system-provided intents can make your job easier, while still giving you opportunities to customize the experience. However, if your app offers tasks that aren’t represented by system-defined intents — like ordering a meal or shopping for groceries — you can create a _custom intent_ (for guidance, see [Custom intents](https://developer.apple.com/design/human-interface-guidelines/siri#Custom-intents)).
 
-### [A closer look at intents](/design/human-interface-guidelines/siri#A-closer-look-at-intents)
+### [A closer look at intents](https://developer.apple.com/design/human-interface-guidelines/siri#A-closer-look-at-intents)
 
 When people use Siri to ask questions and perform actions, Siri does the language processing and semantic analysis needed to turn their requests into intents for your app to handle. The exception is the personal phrase that people create to run a shortcut: When people speak the exact phrase, Siri recognizes it without doing additional processing or analysis.
 
 As a designer, your main job is to present clear, actionable content that helps clarify and streamline the interactions people have with Siri to get things done in your app. Some of these interactions happen while your app and SiriKit communicate about handling the intent, so it’s helpful to be familiar with the related SiriKit terminology. At a high level, your app processes an intent in three phases: resolve, confirm, and handle.
 
-First, your app and SiriKit must agree on what the request means in the _resolve_ phase. You can think of this phase as the time to ask people for everything your app needs and, if necessary, ask for additional information or clarification. For example, if people ask to send a message to Amy, and they have multiple contacts named Amy, a messaging app can have Siri ask which Amy they mean. Details related to an intent, like a message recipient’s name, are known as _parameters_. In the resolve phase, you can indicate the parameters that are required to complete an action and those that are optional. For developer guidance, see [Resolving the Parameters of an Intent](/documentation/SiriKit/resolving-the-parameters-of-an-intent).
+First, your app and SiriKit must agree on what the request means in the _resolve_ phase. You can think of this phase as the time to ask people for everything your app needs and, if necessary, ask for additional information or clarification. For example, if people ask to send a message to Amy, and they have multiple contacts named Amy, a messaging app can have Siri ask which Amy they mean. Details related to an intent, like a message recipient’s name, are known as _parameters_. In the resolve phase, you can indicate the parameters that are required to complete an action and those that are optional. For developer guidance, see [Resolving the Parameters of an Intent](https://developer.apple.com/documentation/SiriKit/resolving-the-parameters-of-an-intent).
 
-The second phase — called the _confirm_ phase — happens when you have all the information you need to handle the intent. This phase can give people a chance to make sure they want to complete the task. For example, tasks that have financial impact require confirmation. In addition to asking for a person’s consent, you can present an error during this phase if something will prevent your app from completing the action. For example, if people use an app to order an item for pickup when the pickup location is closed, the app can describe why it can’t complete the action right now. Presenting this error during the confirm phase avoids making people wait until they’re paying for the item to find out that their request has failed. For developer guidance, see [Confirming the Details of an Intent](/documentation/SiriKit/confirming-the-details-of-an-intent).
+The second phase — called the _confirm_ phase — happens when you have all the information you need to handle the intent. This phase can give people a chance to make sure they want to complete the task. For example, tasks that have financial impact require confirmation. In addition to asking for a person’s consent, you can present an error during this phase if something will prevent your app from completing the action. For example, if people use an app to order an item for pickup when the pickup location is closed, the app can describe why it can’t complete the action right now. Presenting this error during the confirm phase avoids making people wait until they’re paying for the item to find out that their request has failed. For developer guidance, see [Confirming the Details of an Intent](https://developer.apple.com/documentation/SiriKit/confirming-the-details-of-an-intent).
 
-Third, your app performs the task and tells SiriKit what it actually did in the _handle_ phase. You can provide both visual and textual information that tells people what your app did to handle their request. For example, an app that lets people order coffee might present a receipt that describes the order. Siri can speak or display the information your app provides. For developer guidance, see [Handling an Intent](/documentation/SiriKit/handling-an-intent).
+Third, your app performs the task and tells SiriKit what it actually did in the _handle_ phase. You can provide both visual and textual information that tells people what your app did to handle their request. For example, an app that lets people order coffee might present a receipt that describes the order. Siri can speak or display the information your app provides. For developer guidance, see [Handling an Intent](https://developer.apple.com/documentation/SiriKit/handling-an-intent).
 
-### [Provide information about actions and support suggestions](/design/human-interface-guidelines/siri#Provide-information-about-actions-and-support-suggestions)
+### [Provide information about actions and support suggestions](https://developer.apple.com/design/human-interface-guidelines/siri#Provide-information-about-actions-and-support-suggestions)
 
 Most apps support large numbers of actions, but people tend to perform only a handful of them on a regular basis. When you tell the system about people’s regular actions and describe new ones you think they’ll want to perform in the future, Siri can _suggest_ shortcuts for both types of actions when people are likely to be interested in them.
 
@@ -287,9 +79,9 @@ Siri can use signals like location, time of day, and type of motion (such as wal
 
 
 
-When you provide information about your actions to the system, people can also use the Shortcuts app to create shortcuts for the system and custom intents you support. For guidance, see [Shortcuts and suggestions](/design/human-interface-guidelines/siri#Shortcuts-and-suggestions).
+When you provide information about your actions to the system, people can also use the Shortcuts app to create shortcuts for the system and custom intents you support. For guidance, see [Shortcuts and suggestions](https://developer.apple.com/design/human-interface-guidelines/siri#Shortcuts-and-suggestions).
 
-### [Design a great voice experience](/design/human-interface-guidelines/siri#Design-a-great-voice-experience)
+### [Design a great voice experience](https://developer.apple.com/design/human-interface-guidelines/siri#Design-a-great-voice-experience)
 
 A great voice interface helps people feel confident they’ll get the results they want, even when they’re not sure what they can say. Siri supports different voice experiences for system-provided intents and custom intents. With a system intent, Siri does the natural language processing for you, letting people interact with your app in various conversational ways. With a custom intent, your app helps people perform a task that Siri doesn’t know about yet, which results in a different type of support for the voice experience. Custom intents give you additional opportunities to customize conversational dialogue, but also require people to create and speak a precise phrase to start the interaction.
 
@@ -303,7 +95,7 @@ When you support a custom intent, people start the action by using their persona
 
 For example, a coffee app might suggest _Order coffee_ as a phrase people could use to reorder a favorite cup of coffee. In a scenario where people usually use _Order coffee_ to order a cappuccino in various sizes, the coffee app could follow up with custom dialogue that builds on this knowledge, like “What size of cappuccino?” For other types of actions, more open-ended questions can be better at helping people accomplish the task efficiently. For example, if people start a grocery shopping action by saying _Add to cart_ , the grocery shopping app could follow up with “OK, what do you want?”
 
-### [Recognize that people use Siri in different contexts](/design/human-interface-guidelines/siri#Recognize-that-people-use-Siri-in-different-contexts)
+### [Recognize that people use Siri in different contexts](https://developer.apple.com/design/human-interface-guidelines/siri#Recognize-that-people-use-Siri-in-different-contexts)
 
 People can use Siri to get things done while they’re in a car, working out, using apps on a device, or interacting with HomePod. You don’t always know the context in which people are using Siri to perform your app’s actions, so flexibility is key to help people have a great experience no matter what they’re doing.
 
@@ -311,7 +103,7 @@ To communicate with people regardless of their current context, supply informati
 
 In voice-only situations, Siri verbally describes information that would have been presented onscreen in other situations. Consider a food-delivery app that requires people to confirm a transaction before completing the order. In a voice-only scenario, Siri may say “Your total is fifteen dollars, and your order will take thirty minutes to arrive at your door. Ready to order?” In contrast, when people can view the cost and delivery information onscreen, Siri might simply say “Ready to order?” When you support custom intents, you’re responsible for supplying the voice-only dialogue that describes these types of onscreen information.
 
-## [System intents](/design/human-interface-guidelines/siri#System-intents)
+## [System intents](https://developer.apple.com/design/human-interface-guidelines/siri#System-intents)
 
 SiriKit defines a large number of system intents that represent common tasks people do, such as playing music, sending messages to friends, and managing notes. For system intents, Siri defines the conversational flow, while your app provides the data to complete the interaction.
 
@@ -319,24 +111,24 @@ SiriKit provides the following intents.
 
 Domain (link to developer guidance)| Intents  
 ---|---  
-[VoIP Calling](/documentation/SiriKit/voip-calling)| Initiate calls.  
-[Workouts](/documentation/SiriKit/workouts)| Start, pause, resume, end, and cancel workouts.  
-[Lists and Notes](/documentation/SiriKit/lists-and-notes)| Create notes.  
+[VoIP Calling](https://developer.apple.com/documentation/SiriKit/voip-calling)| Initiate calls.  
+[Workouts](https://developer.apple.com/documentation/SiriKit/workouts)| Start, pause, resume, end, and cancel workouts.  
+[Lists and Notes](https://developer.apple.com/documentation/SiriKit/lists-and-notes)| Create notes.  
 Search for notes.  
 Create reminders based on a date, time, or location.  
-[Media](/documentation/SiriKit/media)| Search for and play media content, such as video, music, audiobooks, and podcasts.  
+[Media](https://developer.apple.com/documentation/SiriKit/media)| Search for and play media content, such as video, music, audiobooks, and podcasts.  
 Like or dislike items.  
 Add items to a library or playlist.  
-[Messaging](/documentation/SiriKit/messaging)| Send messages.  
+[Messaging](https://developer.apple.com/documentation/SiriKit/messaging)| Send messages.  
 Search for messages.  
 Read received messages.  
-[Payments](/documentation/SiriKit/payments)| Send payments.  
+[Payments](https://developer.apple.com/documentation/SiriKit/payments)| Send payments.  
 Request payments.  
-[Car Commands](/documentation/SiriKit/car-commands)| Activate hazard lights or honk the horn.  
+[Car Commands](https://developer.apple.com/documentation/SiriKit/car-commands)| Activate hazard lights or honk the horn.  
 Lock and unlock the doors.  
 Check the current fuel or power level.  
   
-### [Design responses to system intents](/design/human-interface-guidelines/siri#Design-responses-to-system-intents)
+### [Design responses to system intents](https://developer.apple.com/design/human-interface-guidelines/siri#Design-responses-to-system-intents)
 
 People use Siri for convenience, and they expect a fast response. Your app needs to perform the system intents it supports quickly and accurately so that people have a great experience when they choose your app to get things done.
 
@@ -348,21 +140,21 @@ People use Siri for convenience, and they expect a fast response. Your app needs
 
 **On Apple Watch, design a streamlined workflow that requires minimal interaction.** Whenever possible, use intelligent defaults instead of asking for input. For example, a music app could respond to a nonspecific request — like “Play music with MyMusicApp” — by playing a favorite playlist. If you must present options to people, offer a small number of relevant choices that reduce the need for additional prompting.
 
-### [Enhance the voice experience for system intents](/design/human-interface-guidelines/siri#Enhance-the-voice-experience-for-system-intents)
+### [Enhance the voice experience for system intents](https://developer.apple.com/design/human-interface-guidelines/siri#Enhance-the-voice-experience-for-system-intents)
 
 Help people learn how to use Siri to get things done in your app, and make conversation with Siri feel natural in the context of your brand, by defining app-specific terms and alternative ways people might refer to your app.
 
-**Create example requests.** When people tap the Help button in the Siri interface, they view a guide that can include example phrases that you supply. Write phrases that demonstrate the easiest and most efficient ways to use Siri with your app. For developer guidance, see [Intent Phrases](/documentation/SiriKit/intent-phrases).
+**Create example requests.** When people tap the Help button in the Siri interface, they view a guide that can include example phrases that you supply. Write phrases that demonstrate the easiest and most efficient ways to use Siri with your app. For developer guidance, see [Intent Phrases](https://developer.apple.com/documentation/SiriKit/intent-phrases).
 
 **Define custom vocabulary that people use with your app.** Help Siri learn more about the actions your app performs by defining specific terms people might actually use in requests, like account names, contact names, photo tags, photo album names, ride options, and workout names. Make sure these terms are nongeneric and unique to your app. Never include other app names, terms that are obviously connected with other apps, inappropriate language, or reserved phrases, like _Hey Siri_. Note that Siri uses the terms you define to help resolve requests, but there’s no guarantee that Siri will recognize them.
 
 **Consider defining alternative app names.** If people might refer to your app in different ways, it’s a good idea to provide a list of alternative names to help Siri understand what people mean. For example, a UnicornChat app might define the term _Unicorn_ as an alternative app name. Never impersonate other apps by listing their names as alternative names for your app.
 
-### [Design a custom interface for a system intent](/design/human-interface-guidelines/siri#Design-a-custom-interface-for-a-system-intent)
+### [Design a custom interface for a system intent](https://developer.apple.com/design/human-interface-guidelines/siri#Design-a-custom-interface-for-a-system-intent)
 
 If it makes sense in your iOS app, you can supply custom interface elements or a completely custom UI for Siri or Maps to display along with your intent response. A watchOS app can’t provide a custom UI for Siri to display on Apple Watch.
 
-**Avoid including extraneous or redundant information.** A custom interface lets you bring elements from your app into the Siri interface, but displaying information that isn’t related to the action can distract people. You also want to avoid duplicating information that the system can display in the Siri or Maps interface. For developer guidance, see [`INParameter`](/documentation/Intents/INParameter).
+**Avoid including extraneous or redundant information.** A custom interface lets you bring elements from your app into the Siri interface, but displaying information that isn’t related to the action can distract people. You also want to avoid duplicating information that the system can display in the Siri or Maps interface. For developer guidance, see [`INParameter`](https://developer.apple.com/documentation/Intents/INParameter).
 
 **Make sure people can still perform the action without viewing your custom interface.** People can switch to voice-only interaction with Siri at any time, so it’s crucial to help Siri speak the same information that you display in your custom interface.
 
@@ -372,13 +164,13 @@ If it makes sense in your iOS app, you can supply custom interface elements or a
 
 **Refrain from displaying your app name or icon.** The system automatically shows this information, so it’s redundant to include it in your custom interface.
 
-For developer guidance, see [Creating an Intents UI Extension](/documentation/SiriKit/creating-an-intents-ui-extension).
+For developer guidance, see [Creating an Intents UI Extension](https://developer.apple.com/documentation/SiriKit/creating-an-intents-ui-extension).
 
-## [Custom intents](/design/human-interface-guidelines/siri#Custom-intents)
+## [Custom intents](https://developer.apple.com/design/human-interface-guidelines/siri#Custom-intents)
 
-If your app lets people perform an everyday task that doesn’t fit into any of the SiriKit domains, you can create a custom intent to represent it (see [System intents](/design/human-interface-guidelines/siri#System-intents) for a list of domains). You can also use a custom or system intent to support a shortcut, which gives people a quick way to initiate frequently performed actions by speaking a simple phrase or accepting a suggestion from Siri. To learn how to integrate your intents with the system so that people can discover them and add them to Siri, see [Shortcuts and suggestions](/design/human-interface-guidelines/siri#Shortcuts-and-suggestions).
+If your app lets people perform an everyday task that doesn’t fit into any of the SiriKit domains, you can create a custom intent to represent it (see [System intents](https://developer.apple.com/design/human-interface-guidelines/siri#System-intents) for a list of domains). You can also use a custom or system intent to support a shortcut, which gives people a quick way to initiate frequently performed actions by speaking a simple phrase or accepting a suggestion from Siri. To learn how to integrate your intents with the system so that people can discover them and add them to Siri, see [Shortcuts and suggestions](https://developer.apple.com/design/human-interface-guidelines/siri#Shortcuts-and-suggestions).
 
-### [Custom intent categories and responses](/design/human-interface-guidelines/siri#Custom-intent-categories-and-responses)
+### [Custom intent categories and responses](https://developer.apple.com/design/human-interface-guidelines/siri#Custom-intent-categories-and-responses)
 
 Although your custom intent won’t belong to a SiriKit domain, you’ll need to model it on a system-defined _intent category_ that’s related to your action. SiriKit defines several categories that represent generic tasks, like create, order, share, and search. Because these definitions are in the system, Siri knows how to communicate with people about common actions that are associated with each category — like placing an order or sharing content — in ways that feel natural.
 
@@ -417,9 +209,9 @@ To customize a response, you create a template that combines dialogue you write 
 
 Depending on the response type, your custom dialogue is presented before or after the default dialogue. For example, confirmation responses present the default dialogue after any custom dialogue. In the coffee app example, the customized confirmation dialogue would begin with something like, “Your large coffee with cream comes to $2.50” and end with the default dialogue, “Ready to order?”
 
-### [Design a custom intent](/design/human-interface-guidelines/siri#Design-a-custom-intent)
+### [Design a custom intent](https://developer.apple.com/design/human-interface-guidelines/siri#Design-a-custom-intent)
 
-If a built-in SiriKit intent represents your action’s purpose, adopt that intent instead of defining a custom intent. For example, if you’d like to offer a shortcut for sending a message, adopt [`INSendMessageIntent`](/documentation/Intents/INSendMessageIntent); if you’d like to offer a shortcut for playing media, adopt [`INPlayMediaIntent`](/documentation/Intents/INPlayMediaIntent). For guidance, see [System intents](/design/human-interface-guidelines/siri#System-intents).
+If a built-in SiriKit intent represents your action’s purpose, adopt that intent instead of defining a custom intent. For example, if you’d like to offer a shortcut for sending a message, adopt [`INSendMessageIntent`](https://developer.apple.com/documentation/Intents/INSendMessageIntent); if you’d like to offer a shortcut for playing media, adopt [`INPlayMediaIntent`](https://developer.apple.com/documentation/Intents/INPlayMediaIntent). For guidance, see [System intents](https://developer.apple.com/design/human-interface-guidelines/siri#System-intents).
 
 **If your app’s action requires a custom intent, pick the category that most closely matches the action.** A category informs the system about the general function of an intent or shortcut — like order, download, or search — and affects the text and spoken dialogue presented to people when a shortcut is offered by the system or used with Siri. You design the flow of conversation for the custom intents you offer, so it’s essential that you choose a category that corresponds to the meaning of each intent.
 
@@ -439,11 +231,11 @@ If your action’s primary purpose is to retrieve information or show something 
 
 **Support background operation.** The best intents support shortcuts that run quickly and don’t pull people out of their current context. Strive to support custom intents that can run in the background without bringing your app to the front. Supporting background operation also ensures that people can complete the task in hands-free and voice-only scenarios.
 
-### [Help people customize their requests](/design/human-interface-guidelines/siri#Help-people-customize-their-requests)
+### [Help people customize their requests](https://developer.apple.com/design/human-interface-guidelines/siri#Help-people-customize-their-requests)
 
 Custom intents can offer follow-up questions that let people do more with a single intent by refining its results on the fly. For example, if you offer an _order coffee_ intent, you can help people get exactly what they want by asking them questions like, “What size?”, “What flavor?”, and “Which location?” Details like size, flavor, and location are _parameters_ your app can define to help people personalize their request.
 
-People supply parameter values to personalize an intent by responding to your follow-up questions or by editing existing values in the Shortcuts app. For example, if you offer an _order ground coffee_ intent that includes a parameter for the grind size, you might supply a follow-up question like, “Which grind?” For people who typically order the coarse grind, you could simplify the interaction by using the value _coarse_ as the default parameter value in a dialogue like, “Do you want coarse-ground coffee?” If people choose a different grind, you can follow up by presenting the full list of options. In voice-only scenarios, Siri speaks your follow-up questions and sends you the responses. When people use the Shortcuts app to edit a parameter value, you receive the new value when they use the associated shortcut. For developer guidance, see [Adding User Interactivity with Siri Shortcuts and the Shortcuts App](/documentation/SiriKit/adding-user-interactivity-with-siri-shortcuts-and-the-shortcuts-app).
+People supply parameter values to personalize an intent by responding to your follow-up questions or by editing existing values in the Shortcuts app. For example, if you offer an _order ground coffee_ intent that includes a parameter for the grind size, you might supply a follow-up question like, “Which grind?” For people who typically order the coarse grind, you could simplify the interaction by using the value _coarse_ as the default parameter value in a dialogue like, “Do you want coarse-ground coffee?” If people choose a different grind, you can follow up by presenting the full list of options. In voice-only scenarios, Siri speaks your follow-up questions and sends you the responses. When people use the Shortcuts app to edit a parameter value, you receive the new value when they use the associated shortcut. For developer guidance, see [Adding User Interactivity with Siri Shortcuts and the Shortcuts App](https://developer.apple.com/documentation/SiriKit/adding-user-interactivity-with-siri-shortcuts-and-the-shortcuts-app).
 
 **Design intents that require as few follow-up questions as possible.** Often, an intent can fulfill a request without asking any follow-up questions. Although follow-up questions make intents more flexible, you don’t want to force people into a long interaction. In most cases, it’s best to offer just one or two follow-up questions.
 
@@ -451,7 +243,7 @@ People supply parameter values to personalize an intent by responding to your fo
 
 **Make sure each follow-up question is meaningful.** Ideally, each follow-up question helps people make an important choice. If options or questions you present are too granular or too similar, the conversation can become repetitive, and people may feel like using your intent is too much work.
 
-**Design parameters that are easy for people to understand and use.** Aim for parameters that represent simple values or attributes and name them using simple, straightforward terms. For example, a soup-ordering app might define parameters for the type of soup, the serving size, and a delivery location, using names like _soup_ , _size_ , and _location_. For guidance, see [Shortcuts and suggestions](/design/human-interface-guidelines/siri#Shortcuts-and-suggestions).
+**Design parameters that are easy for people to understand and use.** Aim for parameters that represent simple values or attributes and name them using simple, straightforward terms. For example, a soup-ordering app might define parameters for the type of soup, the serving size, and a delivery location, using names like _soup_ , _size_ , and _location_. For guidance, see [Shortcuts and suggestions](https://developer.apple.com/design/human-interface-guidelines/siri#Shortcuts-and-suggestions).
 
 **Ask for confirmation only when necessary.** An intent can ask people for confirmation before completing the task or when interpreting an answer to a follow-up question. Apps that support tasks that have financial impact, like an app that helps people place orders, must ask for confirmation before completing an order. For tasks that don’t have financial impact, asking for confirmation can feel like too much extra work and can sometimes discourage people from completing their request. In all cases, avoid asking for confirmation more than once.
 
@@ -468,9 +260,9 @@ People supply parameter values to personalize an intent by responding to your fo
 
 
 
-For developer guidance, see the `storeLocation` parameter in the intent definition file of the [Soup Chef: Accelerating App Interactions with Shortcuts](/documentation/SiriKit/soup-chef-accelerating-app-interactions-with-shortcuts) sample code project.
+For developer guidance, see the `storeLocation` parameter in the intent definition file of the [Soup Chef: Accelerating App Interactions with Shortcuts](https://developer.apple.com/documentation/SiriKit/soup-chef-accelerating-app-interactions-with-shortcuts) sample code project.
 
-### [Enhance the voice experience for custom intents](/design/human-interface-guidelines/siri#Enhance-the-voice-experience-for-custom-intents)
+### [Enhance the voice experience for custom intents](https://developer.apple.com/design/human-interface-guidelines/siri#Enhance-the-voice-experience-for-custom-intents)
 
 **Aim to create conversational interactions.** You can customize what Siri says throughout the voice experience, including the handling of follow-up questions. Try writing a script and acting it out with another person to see how well your dialogue works in a face-to-face exchange. Experiencing custom dialogue in this way can help you find places where the interaction doesn’t feel natural.
 
@@ -498,7 +290,7 @@ For developer guidance, see the `storeLocation` parameter in the intent definiti
 
 **Don’t advertise.** Don’t include advertisements, marketing, or in-app purchase sales pitches in your intent content.
 
-## [Shortcuts and suggestions](/design/human-interface-guidelines/siri#Shortcuts-and-suggestions)
+## [Shortcuts and suggestions](https://developer.apple.com/design/human-interface-guidelines/siri#Shortcuts-and-suggestions)
 
 When you support shortcuts, people have a variety of ways to discover and interact with the custom and system intents your app provides. For example:
 
@@ -513,13 +305,13 @@ When you support shortcuts, people have a variety of ways to discover and intera
 
 
 
-The Shortcuts app is also available in macOS 12 and later and in watchOS 7 and later. For developer guidance, see [SiriKit](/documentation/SiriKit).
+The Shortcuts app is also available in macOS 12 and later and in watchOS 7 and later. For developer guidance, see [SiriKit](https://developer.apple.com/documentation/SiriKit).
 
 Developer note
 
-The Add to Siri method for adding shortcuts is no longer supported. See [App Shortcuts](/design/human-interface-guidelines/app-shortcuts) for ways to integrate your app with Siri and the system.
+The Add to Siri method for adding shortcuts is no longer supported. See [App Shortcuts](https://developer.apple.com/design/human-interface-guidelines/app-shortcuts) for ways to integrate your app with Siri and the system.
 
-### [Make app actions widely available](/design/human-interface-guidelines/siri#Make-app-actions-widely-available)
+### [Make app actions widely available](https://developer.apple.com/design/human-interface-guidelines/siri#Make-app-actions-widely-available)
 
  _Donating_ information about the actions your app supports helps the system offer them to people in various ways, such as:
 
@@ -538,31 +330,31 @@ The Add to Siri method for adding shortcuts is no longer supported. See [App Sho
 
 Donations also power Automation Suggestions in the Shortcut app’s Gallery, making it easy for people to set up automations for hands-free interactions with your app.
 
-You can also tell the system about shortcuts for actions people haven’t taken yet or make a shortcut available on the Siri watch face (for guidance, see [Suggest Shortcuts people might want to add to Siri](/design/human-interface-guidelines/siri#Suggest-Shortcuts-people-might-want-to-add-to-Siri) and [Display shortcuts on the Siri watch face](/design/human-interface-guidelines/siri#Display-shortcuts-on-the-Siri-watch-face)). For developer guidance, see [Donating Shortcuts](/documentation/SiriKit/donating-shortcuts).
+You can also tell the system about shortcuts for actions people haven’t taken yet or make a shortcut available on the Siri watch face (for guidance, see [Suggest Shortcuts people might want to add to Siri](https://developer.apple.com/design/human-interface-guidelines/siri#Suggest-Shortcuts-people-might-want-to-add-to-Siri) and [Display shortcuts on the Siri watch face](https://developer.apple.com/design/human-interface-guidelines/siri#Display-shortcuts-on-the-Siri-watch-face)). For developer guidance, see [Donating Shortcuts](https://developer.apple.com/documentation/SiriKit/donating-shortcuts).
 
 **Make a donation every time people perform the action.** When you donate a shortcut each time people perform the associated action, you help the system more accurately predict the best time and place to offer the shortcut.
 
-**Only donate actions that people actually perform.** For example, a coffee-ordering app donates the _Order coffee_ shortcut every time people order coffee, but not when people do something else, like browse the menu. Similarly, a media app donates information about a song — like its title and album — only when people are actually listening to it. (For developer guidance, see [Improving Siri Media Interactions and App Selection](/documentation/SiriKit/improving-siri-media-interactions-and-app-selection).)
+**Only donate actions that people actually perform.** For example, a coffee-ordering app donates the _Order coffee_ shortcut every time people order coffee, but not when people do something else, like browse the menu. Similarly, a media app donates information about a song — like its title and album — only when people are actually listening to it. (For developer guidance, see [Improving Siri Media Interactions and App Selection](https://developer.apple.com/documentation/SiriKit/improving-siri-media-interactions-and-app-selection).)
 
-**Remove donations for actions that require corresponding data.** If information required by a donated action no longer exists, your app needs to delete the donation so the shortcut isn’t suggested anymore. For example, if people delete a contact in a messaging app, the app needs to delete donations for messaging that contact. When people create a shortcut themselves, only they can delete it. For developer guidance, see [Deleting Donated Shortcuts](/documentation/SiriKit/deleting-donated-shortcuts).
+**Remove donations for actions that require corresponding data.** If information required by a donated action no longer exists, your app needs to delete the donation so the shortcut isn’t suggested anymore. For example, if people delete a contact in a messaging app, the app needs to delete donations for messaging that contact. When people create a shortcut themselves, only they can delete it. For developer guidance, see [Deleting Donated Shortcuts](https://developer.apple.com/documentation/SiriKit/deleting-donated-shortcuts).
 
-**If your app handles reservations, consider donating them to the system.** These items — like ticketed events, travel itineraries, or reservations for restaurants, flights, or movies — automatically appear as suggestions in Calendar or Maps. When you donate a reservation, it can appear on the lock screen with a suggestion to check in with your app or as a reminder that uses current traffic conditions to recommend when people should leave. For developer guidance, see [Donating Reservations](/documentation/SiriKit/donating-reservations).
+**If your app handles reservations, consider donating them to the system.** These items — like ticketed events, travel itineraries, or reservations for restaurants, flights, or movies — automatically appear as suggestions in Calendar or Maps. When you donate a reservation, it can appear on the lock screen with a suggestion to check in with your app or as a reminder that uses current traffic conditions to recommend when people should leave. For developer guidance, see [Donating Reservations](https://developer.apple.com/documentation/SiriKit/donating-reservations).
 
-#### [Suggest Shortcuts people might want to add to Siri](/design/human-interface-guidelines/siri#Suggest-Shortcuts-people-might-want-to-add-to-Siri)
+#### [Suggest Shortcuts people might want to add to Siri](https://developer.apple.com/design/human-interface-guidelines/siri#Suggest-Shortcuts-people-might-want-to-add-to-Siri)
 
 If your app supports an action that people haven’t performed yet but might find useful, you can provide a _suggested_ shortcut to the system so that people can discover it. For example, if people use a coffee-ordering app to order their daily coffee but not to order a holiday special, the app might still want to give them a way to do this with an _Order holiday coffee_ shortcut.
 
-Suggested shortcuts appear in both the Gallery and the shortcut editor in the Shortcuts app. For developer guidance, see [Offering Actions in the Shortcuts App](/documentation/SiriKit/offering-actions-in-the-shortcuts-app).
+Suggested shortcuts appear in both the Gallery and the shortcut editor in the Shortcuts app. For developer guidance, see [Offering Actions in the Shortcuts App](https://developer.apple.com/documentation/SiriKit/offering-actions-in-the-shortcuts-app).
 
-#### [Display shortcuts on the Siri watch face](/design/human-interface-guidelines/siri#Display-shortcuts-on-the-Siri-watch-face)
+#### [Display shortcuts on the Siri watch face](https://developer.apple.com/design/human-interface-guidelines/siri#Display-shortcuts-on-the-Siri-watch-face)
 
-On Apple Watch, people can run shortcuts in several ways. For example, people can ask Siri, tap a shortcut [complication](/design/human-interface-guidelines/complications) on a watch face, or use the Shortcuts app available in watchOS 7 and later. You can also make shortcuts available on the Siri watch face.
+On Apple Watch, people can run shortcuts in several ways. For example, people can ask Siri, tap a shortcut [complication](https://developer.apple.com/design/human-interface-guidelines/complications) on a watch face, or use the Shortcuts app available in watchOS 7 and later. You can also make shortcuts available on the Siri watch face.
 
 To have a shortcut appear on the Siri watch face, you define a _relevant_ shortcut by including information like the time of day at which your shortcut is relevant and how the shortcut can display on the Siri watch face. The information you supply lets the Siri watch face intelligently display your shortcut to people when they’re in the appropriate context.
 
-For developer guidance, see [Defining Relevant Shortcuts for the Siri Watch Face](/documentation/SiriKit/defining-relevant-shortcuts-for-the-siri-watch-face).
+For developer guidance, see [Defining Relevant Shortcuts for the Siri Watch Face](https://developer.apple.com/documentation/SiriKit/defining-relevant-shortcuts-for-the-siri-watch-face).
 
-### [Create shortcut titles and subtitles](/design/human-interface-guidelines/siri#Create-shortcut-titles-and-subtitles)
+### [Create shortcut titles and subtitles](https://developer.apple.com/design/human-interface-guidelines/siri#Create-shortcut-titles-and-subtitles)
 
 Shortcut titles and subtitles appear when the system suggests them. In Siri Suggestions on iPhone and Apple Watch, a shortcut can also display an image.
 
@@ -592,7 +384,7 @@ Shortcut titles and subtitles appear when the system suggests them. In Siri Sugg
 
 
 
-### [Provide default phrases for shortcuts](/design/human-interface-guidelines/siri#Provide-default-phrases-for-shortcuts)
+### [Provide default phrases for shortcuts](https://developer.apple.com/design/human-interface-guidelines/siri#Provide-default-phrases-for-shortcuts)
 
 Your app provides default phrases for shortcuts during setup. People can personalize these phrases when adding your shortcuts to Siri.
 
@@ -602,7 +394,7 @@ Your app provides default phrases for shortcuts during setup. People can persona
 
 **Don’t commandeer core Siri commands.** For example, never suggest a phrase like _Call 911_ or include the text _Hey Siri_.
 
-### [Make shortcuts customizable](/design/human-interface-guidelines/siri#Make-shortcuts-customizable)
+### [Make shortcuts customizable](https://developer.apple.com/design/human-interface-guidelines/siri#Make-shortcuts-customizable)
 
 When you define a parameter for each detail your app needs to perform an intent, people can customize the shortcut by editing these details in the Shortcuts app.
 
@@ -618,15 +410,15 @@ To show people which details they can edit and how their edits affect the action
 
 **Provide output parameters for information that people can use in a multistep shortcut.** For example, an _order coffee_ action might provide output that includes the estimated delivery time and the cost of the order. With this information, people could create a multistep shortcut that messages a friend about the delivery time and logs the transaction in their favorite budgeting app.
 
-**Consider defining an input parameter.** When you define an input parameter for an action, the action can automatically receive output from a preceding action in a multistep shortcut. For example, if your action applies a filter to the image it receives in an _image_ parameter, you might designate _image_ as the input parameter so that it automatically accepts images from other actions. You configure an input parameter in your intent definition file (shown in [Adding User Interactivity with Siri Shortcuts and the Shortcuts App](/documentation/SiriKit/adding-user-interactivity-with-siri-shortcuts-and-the-shortcuts-app#3239040)).
+**Consider defining an input parameter.** When you define an input parameter for an action, the action can automatically receive output from a preceding action in a multistep shortcut. For example, if your action applies a filter to the image it receives in an _image_ parameter, you might designate _image_ as the input parameter so that it automatically accepts images from other actions. You configure an input parameter in your intent definition file (shown in [Adding User Interactivity with Siri Shortcuts and the Shortcuts App](https://developer.apple.com/documentation/SiriKit/adding-user-interactivity-with-siri-shortcuts-and-the-shortcuts-app#3239040)).
 
-**Help people distinguish among different variations of the same action.** For example, an app that offers a _send message_ action might use a contact photo to help people visually distinguish the various messages they send. To do this, choose the parameter that’s most identifiable to people and designate it as the key parameter (shown in [Adding User Interactivity with Siri Shortcuts and the Shortcuts App](/documentation/SiriKit/adding-user-interactivity-with-siri-shortcuts-and-the-shortcuts-app#3239040)). Be sure to provide an image for the key parameter every time you donate the action (for developer guidance, see [`INImage`](/documentation/Intents/INImage)).
+**Help people distinguish among different variations of the same action.** For example, an app that offers a _send message_ action might use a contact photo to help people visually distinguish the various messages they send. To do this, choose the parameter that’s most identifiable to people and designate it as the key parameter (shown in [Adding User Interactivity with Siri Shortcuts and the Shortcuts App](https://developer.apple.com/documentation/SiriKit/adding-user-interactivity-with-siri-shortcuts-and-the-shortcuts-app#3239040)). Be sure to provide an image for the key parameter every time you donate the action (for developer guidance, see [`INImage`](https://developer.apple.com/documentation/Intents/INImage)).
 
 **Avoid providing multiple actions that perform the same basic task.** For example, instead of providing an action that adds text to a note and a different action that adds an image, consider providing a single action that lets people add both types of content. Providing a few high-level actions can make it easier for people to understand what the actions do when they’re combined in a multistep shortcut.
 
-For developer guidance, see [Shortcut-Related UI](/documentation/SiriKit/shortcut-related-ui).
+For developer guidance, see [Shortcut-Related UI](https://developer.apple.com/documentation/SiriKit/shortcut-related-ui).
 
-## [Editorial guidelines](/design/human-interface-guidelines/siri#Editorial-guidelines)
+## [Editorial guidelines](https://developer.apple.com/design/human-interface-guidelines/siri#Editorial-guidelines)
 
 **Don’t refer to Siri using pronouns like “she,” “him,” or “her.”** Ideally, just use the word _Siri_. For example, _After you add a shortcut to Siri, you can run the shortcut anytime by asking Siri_.
 
@@ -665,7 +457,7 @@ es_US| Oye Siri| zh_HK| 喂 Siri
 fi_FI| Hei Siri| zh_TW| 嘿 Siri  
 fr_BE| Dis Siri| |   
   
-### [Referring to Shortcuts](/design/human-interface-guidelines/siri#Referring-to-Shortcuts)
+### [Referring to Shortcuts](https://developer.apple.com/design/human-interface-guidelines/siri#Referring-to-Shortcuts)
 
 **When referring to the Shortcuts feature or app, always typeset with a capital S and make sure that _Shortcuts_ is plural.** For example, _MyApp integrates with Shortcuts to provide a quick way to get things with just a tap or by asking Siri._
 
@@ -679,7 +471,7 @@ Note
 
 Use translations of your app name and the word _Shortcuts_ — but not _Siri_ — when referring to them in a localized context.
 
-### [Referring to Apple products](/design/human-interface-guidelines/siri#Referring-to-Apple-products)
+### [Referring to Apple products](https://developer.apple.com/design/human-interface-guidelines/siri#Referring-to-Apple-products)
 
 **Adhere to Apple’s trademark guidelines.** Apple trademarks can’t appear in your app name or images. In text, use Apple product names exactly as shown on the [Apple Trademark List](https://www.apple.com/legal/intellectual-property/trademark/appletmlist.html).
 
@@ -700,188 +492,32 @@ Use translations of your app name and the word _Shortcuts_ — but not _Siri_ �
 
 See [Guidelines for Using Apple Trademarks](https://www.apple.com/legal/intellectual-property/guidelinesfor3rdparties.html).
 
-## [Platform considerations](/design/human-interface-guidelines/siri#Platform-considerations)
+## [Platform considerations](https://developer.apple.com/design/human-interface-guidelines/siri#Platform-considerations)
 
  _No additional considerations for iOS, iPadOS, macOS, tvOS, visionOS, or watchOS._
 
-## [Resources](/design/human-interface-guidelines/siri#Resources)
+## [Resources](https://developer.apple.com/design/human-interface-guidelines/siri#Resources)
 
-#### [Related](/design/human-interface-guidelines/siri#Related)
+#### [Related](https://developer.apple.com/design/human-interface-guidelines/siri#Related)
 
-[App Shortcuts](/design/human-interface-guidelines/app-shortcuts)
+[App Shortcuts](https://developer.apple.com/design/human-interface-guidelines/app-shortcuts)
 
 [Design for intelligence](https://developer.apple.com/news/?id=mb3c4r4r)
 
 [Guidelines for using Apple trademarks and copyrights](https://www.apple.com/legal/intellectual-property/guidelinesfor3rdparties.html)
 
-#### [Developer documentation](/design/human-interface-guidelines/siri#Developer-documentation)
+#### [Developer documentation](https://developer.apple.com/design/human-interface-guidelines/siri#Developer-documentation)
 
-[SiriKit](/documentation/SiriKit)
+[SiriKit](https://developer.apple.com/documentation/SiriKit)
 
-#### [Videos](/design/human-interface-guidelines/siri#Videos)
+#### [Videos](https://developer.apple.com/design/human-interface-guidelines/siri#Videos)
 
 [![](https://devimages-cdn.apple.com/wwdc-services/images/3055294D-836B-4513-B7B0-0BC5666246B0/4D88FD13-E491-4499-AA3F-8A84CF4BA607/9999_wide_250x141_1x.jpg) Design interactive snippets ](https://developer.apple.com/videos/play/wwdc2025/281)
 
-## [Change log](/design/human-interface-guidelines/siri#Change-log)
+## [Change log](https://developer.apple.com/design/human-interface-guidelines/siri#Change-log)
 
 Date| Changes  
 ---|---  
-June 5, 2023| Removed Add to Siri guidance. Added references to the new [App Shortcuts](/design/human-interface-guidelines/app-shortcuts) page.  
+June 5, 2023| Removed Add to Siri guidance. Added references to the new [App Shortcuts](https://developer.apple.com/design/human-interface-guidelines/app-shortcuts) page.  
 May 2, 2023| Consolidated guidance into one page.  
   
-Current page is Siri 
-
-##### Supported platforms
-
-  *   *   *   *   *   * 
-
-
-  * [ Siri ](/design/human-interface-guidelines/siri#app-top)
-  * [ Integrating your app with Siri ](/design/human-interface-guidelines/siri#Integrating-your-app-with-Siri)
-  * [ System intents ](/design/human-interface-guidelines/siri#System-intents)
-  * [ Custom intents ](/design/human-interface-guidelines/siri#Custom-intents)
-  * [ Shortcuts and suggestions ](/design/human-interface-guidelines/siri#Shortcuts-and-suggestions)
-  * [ Editorial guidelines ](/design/human-interface-guidelines/siri#Editorial-guidelines)
-  * [ Platform considerations ](/design/human-interface-guidelines/siri#Platform-considerations)
-  * [ Resources ](/design/human-interface-guidelines/siri#Resources)
-  * [ Change log ](/design/human-interface-guidelines/siri#Change-log)
-
-
-
-[Apple](https://www.apple.com)
-
-  1. [Developer](/)
-  2. [ Documentation ](/documentation/)
-
-
-
-###  Platforms 
-
-Toggle Menu 
-
-  * [iOS](/ios/)
-  * [iPadOS](/ipados/)
-  * [macOS](/macos/)
-  * [tvOS](/tvos/)
-  * [visionOS](/visionos/)
-  * [watchOS](/watchos/)
-
-
-
-###  Tools 
-
-Toggle Menu 
-
-  * [Swift](/swift/)
-  * [SwiftUI](/swiftui/)
-  * [Swift Playground](/swift-playground/)
-  * [TestFlight](/testflight/)
-  * [Xcode](/xcode/)
-  * [Xcode Cloud](/xcode-cloud/)
-  * [SF Symbols](/sf-symbols/)
-
-
-
-###  Topics & Technologies 
-
-Toggle Menu 
-
-  * [Accessibility](/accessibility/)
-  * [Accessories](/accessories/)
-  * [App Extension](/app-extensions/)
-  * [App Store](/app-store/)
-  * [Audio & Video](/audio/)
-  * [Augmented Reality](/augmented-reality/)
-  * [Design](/design/)
-  * [Distribution](/distribute/)
-  * [Education](/education/)
-  * [Fonts](/fonts/)
-  * [Games](/games/)
-  * [Health & Fitness](/health-fitness/)
-  * [In-App Purchase](/in-app-purchase/)
-  * [Localization](/localization/)
-  * [Maps & Location](/maps/)
-  * [Machine Learning & AI](/machine-learning/)
-  * [Open Source](https://opensource.apple.com/)
-  * [Security](/security/)
-  * [Safari & Web](/safari/)
-
-
-
-###  Resources 
-
-Toggle Menu 
-
-  *   * [Documentation](/documentation/)
-  * [Tutorials](/learn/)
-  * [Downloads](/download/)
-  * [Forums](/forums/)
-  * [Videos](/videos/)
-
-
-
-###  Support 
-
-Toggle Menu 
-
-  * [Support Articles](/support/articles/)
-  * [Contact Us](/contact/)
-  * [Bug Reporting](/bug-reporting/)
-  * [System Status](/system-status/)
-
-
-
-###  Account 
-
-Toggle Menu 
-
-  * [Apple Developer](/account/)
-  * [App Store Connect](https://appstoreconnect.apple.com/)
-  * [Certificates, IDs, & Profiles](/account/ios/certificate/)
-  * [Feedback Assistant](https://feedbackassistant.apple.com/)
-
-
-
-###  Programs 
-
-Toggle Menu 
-
-  * [Apple Developer Program](/programs/)
-  * [Apple Developer Enterprise Program](/programs/enterprise/)
-  * [App Store Small Business Program](/app-store/small-business-program/)
-  * [MFi Program](https://mfi.apple.com/)
-  * [News Partner Program](/programs/news-partner/)
-  * [Video Partner Program](/programs/video-partner/)
-  * [Security Bounty Program](/security-bounty/)
-  * [Security Research Device Program](/programs/security-research-device/)
-
-
-
-###  Events 
-
-Toggle Menu 
-
-  * [Meet with Apple](/events/)
-  * [Apple Developer Centers](/events/developer-centers/)
-  * [App Store Awards](/app-store/app-store-awards/)
-  * [Apple Design Awards](/design/awards/)
-  * [Apple Developer Academies](/academies/)
-  * [WWDC](/wwdc/)
-
-
-
-To submit feedback on documentation, visit [Feedback Assistant](applefeedback://new?form_identifier=developertools.fba&answers%5B%3Aarea%5D=seedADC%3Adevpubs&answers%5B%3Adoc_type_req%5D=Technology%20Documentation&answers%5B%3Adocumentation_link_req%5D=https%3A%2F%2Fdeveloper.apple.com%2Fdesign%2Fhuman-interface-guidelines%2Fsiri).
-
-Select a color scheme preference
-
-Light
-
-Dark
-
-Auto
-
-English  简体中文  日本語  한국어 
-
-Copyright © 2026 [Apple Inc.](https://www.apple.com) All rights reserved. 
-
-[ Terms of Use ](https://www.apple.com/legal/internet-services/terms/site.html)[ Privacy Policy ](https://www.apple.com/legal/privacy/)[ Agreements and Guidelines ](/support/terms/)

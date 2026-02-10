@@ -1,214 +1,6 @@
 ---
 title: "CareKit | Apple Developer Documentation"
 source: https://developer.apple.com/design/human-interface-guidelines/carekit
----
-
-# This page requires JavaScript.
-
-Please turn on JavaScript in your browser and refresh the page to view its content.
-
-Skip Navigation 
-
-  * Global Nav Open MenuGlobal Nav Close Menu
-  * [Apple Developer](/)
-
-
-
-[Search Developer Cancel ](/search/)
-
-  * [Apple Developer](/)
-  * [News](/news/)
-  * [Discover](/discover/)
-  * [Design](/design/)
-  * [Develop](/develop/)
-  * [Distribute](/distribute/)
-  * [Support](/support/)
-  * [Account](/account/)
-  * [](/search/)
-
-
-
-Cancel 
-
-Only search within “Human Interface Guidelines”
-
-### Quick Links
-
-  * [Downloads](/download/)
-  * [Documentation](/documentation/)
-  * [Sample Code](/documentation/samplecode/)
-  * [Videos](/videos/)
-  * [Forums](/forums/)
-
-5 Quick Links
-
-[ Design ](/design/)
-
-Open Menu 
-
-  * [ Overview ](https://developer.apple.com/design/)
-  * [ What’s New ](https://developer.apple.com/design/whats-new/)
-  * [ Get Started ](https://developer.apple.com/design/get-started/)
-  * [ Guidelines ](/design/human-interface-guidelines)
-  * [ Resources ](https://developer.apple.com/design/resources/)
-
-
-
-## Human Interface Guidelines
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/c9d2e563aa23997588edd7b4538f6c5b/overview.svg)
-
-1 of 6 symbols inside <root> containing 7 symbols[Getting started](/design/human-interface-guidelines/getting-started)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/c9d2e563aa23997588edd7b4538f6c5b/overview.svg)
-
-2 of 6 symbols inside <root> containing 18 symbols[Foundations](/design/human-interface-guidelines/foundations)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/c9d2e563aa23997588edd7b4538f6c5b/overview.svg)
-
-3 of 6 symbols inside <root> containing 25 symbols[Patterns](/design/human-interface-guidelines/patterns)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/c9d2e563aa23997588edd7b4538f6c5b/overview.svg)
-
-4 of 6 symbols inside <root> containing 8 symbols[Components](/design/human-interface-guidelines/components)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/c9d2e563aa23997588edd7b4538f6c5b/overview.svg)
-
-5 of 6 symbols inside <root> containing 13 symbols[Inputs](/design/human-interface-guidelines/inputs)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/c9d2e563aa23997588edd7b4538f6c5b/overview.svg)
-
-6 of 6 symbols inside <root> containing 29 symbols[Technologies](/design/human-interface-guidelines/technologies)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/f848bdcfb46c64dd6fcec70cae4620a3/airplay.svg)
-
-1 of 29 symbols inside 525506332 [AirPlay](/design/human-interface-guidelines/airplay)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/9e23a9dca1bba674ca611a9875a09439/always-on.svg)
-
-2 of 29 symbols inside 525506332 [Always On](/design/human-interface-guidelines/always-on)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/ed35a8d690d9aa594ec108f4b000ba3e/app-clips.svg)
-
-3 of 29 symbols inside 525506332 [App Clips](/design/human-interface-guidelines/app-clips)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/fe96765a9ec7f01392fa7bc9938ae12b/apple-pay.svg)
-
-4 of 29 symbols inside 525506332 [Apple Pay](/design/human-interface-guidelines/apple-pay)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/88a8c8fdc81e5fc382997c9ec3822eab/augmented-reality.svg)
-
-5 of 29 symbols inside 525506332 [Augmented reality](/design/human-interface-guidelines/augmented-reality)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/7a3379bd1fb861217bd79abdc0c175b9/carekit.svg)
-
-6 of 29 symbols inside 525506332 [CareKit](/design/human-interface-guidelines/carekit)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/3bdef2196e420f50c41a566422cc1e4c/carplay.svg)
-
-7 of 29 symbols inside 525506332 [CarPlay](/design/human-interface-guidelines/carplay)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/1a2766daa7645cc3782710ac0977e6d5/game-center.svg)
-
-8 of 29 symbols inside 525506332 [Game Center](/design/human-interface-guidelines/game-center)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/953d6d049f0943017089f645f030f739/generative-ai.svg)
-
-9 of 29 symbols inside 525506332 [Generative AI](/design/human-interface-guidelines/generative-ai)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/1fd95cf0bcefa3ddb3bd937167c4108e/healthkit.svg)
-
-10 of 29 symbols inside 525506332 [HealthKit](/design/human-interface-guidelines/healthkit)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/73b5b486f329ea3c756fe1016fb5d9b6/homekit.svg)
-
-11 of 29 symbols inside 525506332 [HomeKit](/design/human-interface-guidelines/homekit)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/8ee482d4f70affa6bae663c8d51102d0/icloud.svg)
-
-12 of 29 symbols inside 525506332 [iCloud](/design/human-interface-guidelines/icloud)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/d06f906d625d003fce04c3f46a88e2a0/id-verifier.svg)
-
-13 of 29 symbols inside 525506332 [ID Verifier](/design/human-interface-guidelines/id-verifier)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/ef6f7770a91b075a14f08932b4ab28a2/imessage-app.svg)
-
-14 of 29 symbols inside 525506332 [iMessage apps and stickers](/design/human-interface-guidelines/imessage-apps-and-stickers)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/d6e92e5cc61c45c389938daf49834a04/in-app-purchase.svg)
-
-15 of 29 symbols inside 525506332 [In-app purchase](/design/human-interface-guidelines/in-app-purchase)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/25ea28efbe5e8676fd29370fad560f75/live-photos.svg)
-
-16 of 29 symbols inside 525506332 [Live Photos](/design/human-interface-guidelines/live-photos)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/702ebb485435bf1f6e6c4e2d43edd423/mac-catalyst.svg)
-
-17 of 29 symbols inside 525506332 [Mac Catalyst](/design/human-interface-guidelines/mac-catalyst)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/0fc7417f15cf064f38a83bd30dee77cf/machine-learning.svg)
-
-18 of 29 symbols inside 525506332 [Machine learning](/design/human-interface-guidelines/machine-learning)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/88dc6f3ae567c1430f225d6707e6602b/maps.svg)
-
-19 of 29 symbols inside 525506332 [Maps](/design/human-interface-guidelines/maps)
-
-35 items were found. Tab back to navigate through them. 
-
-Navigator is ready 
 
 # CareKit
 
@@ -220,47 +12,47 @@ To learn more about CareKit, see [Research & Care > CareKit](https://www.researc
 
 CareKit 2.0 contains two projects, CareKit UI and CareKit Store. CareKit UI provides a wide variety of prebuilt views you can use to create a custom CareKit app. CareKit Store defines a database scheme that incorporates CareKit entities — such as patients, care plans, tasks, and contacts — so you can store and manage data on the patient’s device. CareKit 2.0 provides seamless synchronization between your database and the UI, so you can always keep a care plan up to date. For developer guidance, see [CareKit](https://carekit-apple.github.io/CareKit/documentation/carekit).
 
-## [Data and privacy](/design/human-interface-guidelines/carekit#Data-and-privacy)
+## [Data and privacy](https://developer.apple.com/design/human-interface-guidelines/carekit#Data-and-privacy)
 
 Nothing is more important than protecting people’s privacy and safeguarding the extremely sensitive data your CareKit app collects and stores.
 
 **Provide a coherent privacy policy.** During the app submission process, you must provide a URL to a clearly stated privacy policy, so that people can view the policy when they click the link in the App Store page for your app. For developer guidance, see [App information > App Store Connect help](https://help.apple.com/app-store-connect/#/dev219b53a88).
 
-In addition to the data that people enter into your CareKit app, you may be able to access data through iOS features and capabilities. You must receive people’s permission before accessing data through these features, and you must protect people’s data whether people enter it into your app or you get it from the device or the system. For developer guidance, see [Protecting user privacy](/documentation/HealthKit/protecting-user-privacy).
+In addition to the data that people enter into your CareKit app, you may be able to access data through iOS features and capabilities. You must receive people’s permission before accessing data through these features, and you must protect people’s data whether people enter it into your app or you get it from the device or the system. For developer guidance, see [Protecting user privacy](https://developer.apple.com/documentation/HealthKit/protecting-user-privacy).
 
-### [HealthKit integration](/design/human-interface-guidelines/carekit#HealthKit-integration)
+### [HealthKit integration](https://developer.apple.com/design/human-interface-guidelines/carekit#HealthKit-integration)
 
 HealthKit is the central repository for health and fitness data in iOS and watchOS. When you support HealthKit in your CareKit app, you can ask people for permission to access and share their health and fitness data with designated caregivers.
 
-**Request access to health data only when you need it.** It makes sense to request access to weight information when people log their weight, for example, but not immediately after your app launches. When your request is clearly related to the current context, you help people understand your app’s intentions. Also, people can change the permissions they grant, so it’s a good idea to make a request every time your app needs access. For developer guidance, see [`requestAuthorization(toShare:read:completion:)`](/documentation/HealthKit/HKHealthStore/requestAuthorization\(toShare:read:completion:\)).
+**Request access to health data only when you need it.** It makes sense to request access to weight information when people log their weight, for example, but not immediately after your app launches. When your request is clearly related to the current context, you help people understand your app’s intentions. Also, people can change the permissions they grant, so it’s a good idea to make a request every time your app needs access. For developer guidance, see [`requestAuthorization(toShare:read:completion:)`](https://developer.apple.com/documentation/HealthKit/HKHealthStore/requestAuthorization\(toShare:read:completion:\)).
 
 **Clarify your app’s intent by adding descriptive messages to the standard permission screen.** People expect to see the system-provided permission screen when asked to approve access to health data. Write a few succinct sentences that explain why you need the information and how people can benefit from sharing it with your app. Avoid adding custom screens that replicate the standard permission screen’s behavior or content.
 
 **Manage health data sharing solely through the system’s privacy settings.** People expect to globally manage access to their health information in Settings > Privacy. Don’t confuse people by building additional screens in your app that affect the flow of health data.
 
-For related design guidance, see [HealthKit](/design/human-interface-guidelines/healthkit). For developer guidance, see [HealthKit](/documentation/HealthKit).
+For related design guidance, see [HealthKit](https://developer.apple.com/design/human-interface-guidelines/healthkit). For developer guidance, see [HealthKit](https://developer.apple.com/documentation/HealthKit).
 
-### [Motion data](/design/human-interface-guidelines/carekit#Motion-data)
+### [Motion data](https://developer.apple.com/design/human-interface-guidelines/carekit#Motion-data)
 
 If it’s useful for treatment and if people give permission, your app can get motion information from the device to determine if people are standing still, walking, running, cycling, or driving. When people are walking or running, you can also determine the step count, pace, and number of flights of stairs ascended or descended.
 
 Motion information can also include custom data collected as part of physical therapy. For example, some ResearchKit tasks use device sensors to test flexibility, range of motion, and ambulatory capability.
 
-For developer guidance, see [Core Motion](/documentation/CoreMotion).
+For developer guidance, see [Core Motion](https://developer.apple.com/documentation/CoreMotion).
 
-### [Photos](/design/human-interface-guidelines/carekit#Photos)
+### [Photos](https://developer.apple.com/design/human-interface-guidelines/carekit#Photos)
 
 Pictures are a great way to communicate treatment progress. With people’s permission, your app can access the device’s camera and photos to share pictures with a care team. For example, a care plan might include a request for people to share periodic photos of an injury, so the physician can monitor the healing process.
 
-For developer guidance, see [`UIImagePickerController`](/documentation/UIKit/UIImagePickerController).
+For developer guidance, see [`UIImagePickerController`](https://developer.apple.com/documentation/UIKit/UIImagePickerController).
 
-### [ResearchKit integration](/design/human-interface-guidelines/carekit#ResearchKit-integration)
+### [ResearchKit integration](https://developer.apple.com/design/human-interface-guidelines/carekit#ResearchKit-integration)
 
 A ResearchKit app lets people participate in important medical research studies. Your CareKit app can incorporate ResearchKit features to display related surveys, tasks, and charts, if appropriate. ResearchKit also includes an informed consent module, which your CareKit app can use to request people’s permission to collect and share data.
 
-For related design guidance, see [ResearchKit](/design/human-interface-guidelines/researchkit). For developer guidance, see [Research & Care > Developers](https://www.researchandcare.org/developers/).
+For related design guidance, see [ResearchKit](https://developer.apple.com/design/human-interface-guidelines/researchkit). For developer guidance, see [Research & Care > Developers](https://www.researchandcare.org/developers/).
 
-## [CareKit views](/design/human-interface-guidelines/carekit#CareKit-views)
+## [CareKit views](https://developer.apple.com/design/human-interface-guidelines/carekit#CareKit-views)
 
 CareKit UI provides customizable views organized into three categories — tasks, charts, and contacts — and defines several default view styles in each. To design a CareKit app, you simply choose the view styles you need and supply CareKit Store data to display in them.
 
@@ -268,9 +60,9 @@ Each view category is designed to support specific types of content and interact
 
 Category| Purpose  
 ---|---  
-[Tasks](/design/human-interface-guidelines/carekit#Tasks)| Present tasks, like taking medication or doing physical therapy. Support logging of patient symptoms and other data.  
-[Charts](/design/human-interface-guidelines/carekit#Charts)| Display graphical data that can help people understand how their treatment is progressing.  
-[Contact views](/design/human-interface-guidelines/carekit#Contact-views)| Display contact information. Support communication through phone, message, and email, and link to a map of the contact’s location.  
+[Tasks](https://developer.apple.com/design/human-interface-guidelines/carekit#Tasks)| Present tasks, like taking medication or doing physical therapy. Support logging of patient symptoms and other data.  
+[Charts](https://developer.apple.com/design/human-interface-guidelines/carekit#Charts)| Display graphical data that can help people understand how their treatment is progressing.  
+[Contact views](https://developer.apple.com/design/human-interface-guidelines/carekit#Contact-views)| Display contact information. Support communication through phone, message, and email, and link to a map of the contact’s location.  
   
 ![A screenshot of a CareKit app screen on iPhone that shows completed and uncompleted days, a medication task, a chart that compares the patient's nausea with their medication intake, and a logging task the patient can use to log each occurrence of nausea.](https://docs-assets.developer.apple.com/published/977d2f1a52a79ab993cf5bc0aa8389ac/carekit-tasks-and-charts%402x.png)
 
@@ -286,7 +78,7 @@ A CareKit UI view consists of a header and may include a stack of content subvie
 
 CareKit UI takes care of all the layout constraints within a view, so you don’t have to worry about breaking existing constraints when you add new subviews to the stack.
 
-### [Tasks](/design/human-interface-guidelines/carekit#Tasks)
+### [Tasks](https://developer.apple.com/design/human-interface-guidelines/carekit#Tasks)
 
 A care plan generally presents a set of prescribed actions for people to perform, such as taking medication, eating specific foods, exercising, or reporting symptoms. CareKit UI defines several styles of task views you can use to display prescribed actions. Typically, you customize a task view by providing the information to display, often by specifying data stored in an on-device CareKit Store database. In some cases, you might also supply custom UI elements.
 
@@ -321,13 +113,13 @@ In CareKit 2.0, CareKit UI defines five styles of task views: simple, instructio
 
 ![An illustration of a task that consists of three circles that represent three doses of a medicine. The first two circles are filled in and contain checkmarks, indicating that the patient has already taken two doses.](https://docs-assets.developer.apple.com/published/9a88f8e5d4239b399b13d5107025304a/carekit-grid-task%402x.png)
 
-**Consider using color to reinforce the meaning of task items.** Color can be a good way to help people understand information at a glance. For example, you could use one color for medications and a different color for physical activities. Always avoid using color as the only way to convey information. For guidance, see [Color](/design/human-interface-guidelines/color).
+**Consider using color to reinforce the meaning of task items.** Color can be a good way to help people understand information at a glance. For example, you could use one color for medications and a different color for physical activities. Always avoid using color as the only way to convey information. For guidance, see [Color](https://developer.apple.com/design/human-interface-guidelines/color).
 
 **Combine accuracy with simplicity when describing a task and its steps.** For example, use a medication’s marketing name instead of its chemical description. Also, when the context of a task helps to clarify meaning, minimize the number of words you use. For example, a daily medication task generally tells people when to take specific medications, so it may be unnecessary to repeat words like _take_.
 
 **Consider supplementing multistep or complex tasks with videos or images.** Visually demonstrating how to perform a task can help people avoid mistakes.
 
-### [Charts](/design/human-interface-guidelines/carekit#Charts)
+### [Charts](https://developer.apple.com/design/human-interface-guidelines/carekit#Charts)
 
 Chart views let you present data and trends in graphical ways that can help people visualize their progress in a care plan. CareKit chart views can display both current and historical data, and update automatically with new data.
 
@@ -343,7 +135,7 @@ In CareKit 2.0, CareKit UI provides three chart styles: bar, scatter, and line. 
 
 **Label chart elements clearly and succinctly.** Long, detailed labels can make a chart difficult to read and understand. Keep labels short and avoid repeating the same information. For example, a heart rate chart might use the term _BPM_ in an axis label instead of using it in the label of every data point.
 
-**Use distinct colors.** In general, avoid using different shades of the same color to mean different things. Also ensure that you use colors with sufficient contrast. For related guidance, see [Accessibility](/design/human-interface-guidelines/accessibility).
+**Use distinct colors.** In general, avoid using different shades of the same color to mean different things. Also ensure that you use colors with sufficient contrast. For related guidance, see [Accessibility](https://developer.apple.com/design/human-interface-guidelines/accessibility).
 
 **Consider providing a legend to add clarity.** If the colors you use to represent different types of data aren’t immediately clear, include a legend that clearly and succinctly describes them.
 
@@ -355,7 +147,7 @@ In CareKit 2.0, CareKit UI provides three chart styles: bar, scatter, and line. 
 
 For developer guidance, see [CareKit > Chart Interfaces](https://carekit-apple.github.io/CareKit/documentation/carekit/chart-interfaces). To learn about ResearchKit charts, see the [ResearchKit GitHub project](https://github.com/ResearchKit/ResearchKit).
 
-### [Contact views](/design/human-interface-guidelines/carekit#Contact-views)
+### [Contact views](https://developer.apple.com/design/human-interface-guidelines/carekit#Contact-views)
 
 A care plan typically includes a care team and other trusted individuals who can help patients follow the plan. CareKit UI defines a contact view you can use to help patients communicate with the people in their care plan.
 
@@ -367,21 +159,21 @@ In CareKit 2.0, CareKit UI provides two styles of the contact view: simple and d
 
 **Consider using color to categorize care team members.** Color can help people identify care team members at a glance.
 
-## [Notifications](/design/human-interface-guidelines/carekit#Notifications)
+## [Notifications](https://developer.apple.com/design/human-interface-guidelines/carekit#Notifications)
 
-Notifications can tell people when it’s time to take medication or complete a task, and badging your app icon can show that there’s an unread message from a caregiver. Apple Watch can also display a notification from your app; for guidance, see [Notifications](/design/human-interface-guidelines/notifications).
+Notifications can tell people when it’s time to take medication or complete a task, and badging your app icon can show that there’s an unread message from a caregiver. Apple Watch can also display a notification from your app; for guidance, see [Notifications](https://developer.apple.com/design/human-interface-guidelines/notifications).
 
 **Minimize notifications.** Care plans vary from patient to patient. While one individual may have only a few daily tasks to complete, another may have a long list. Use notifications sparingly so people don’t feel overwhelmed. When possible, consider coalescing multiple items into a single notification.
 
 **Consider providing a detail view.** In addition to providing more information, a notification detail view can help people take immediate action without leaving their current context to open your app. For example, you could use a notification detail view to display a list of pending tasks so that people can quickly mark them as complete.
 
-## [Symbols and branding](/design/human-interface-guidelines/carekit#Symbols-and-branding)
+## [Symbols and branding](https://developer.apple.com/design/human-interface-guidelines/carekit#Symbols-and-branding)
 
 CareKit uses a variety of built-in symbols to help people understand what they can do in a care app. For example, CareKit can display the phone, messaging, and envelope symbols in a contact view and the clock symbol in a log-style task view.
 
 Although you can customize the default symbols, most view styles work best with the CareKit-provided symbols. The exception is the highly customizable grid-style task view, which can display your custom UI in a grid layout.
 
-In a grid view, you might want to display custom symbols that are relevant to the unique content and experience in your app. You could use symbols to indicate the grouping of tasks; for example, a pill to represent medication tasks, or a person walking to represent exercise tasks. In this scenario, consider using [SF Symbols](/design/human-interface-guidelines/sf-symbols) to illustrate custom items in your app.
+In a grid view, you might want to display custom symbols that are relevant to the unique content and experience in your app. You could use symbols to indicate the grouping of tasks; for example, a pill to represent medication tasks, or a person walking to represent exercise tasks. In this scenario, consider using [SF Symbols](https://developer.apple.com/design/human-interface-guidelines/sf-symbols) to illustrate custom items in your app.
 
 Using SF Symbols in your app gives you:
 
@@ -396,192 +188,37 @@ Using SF Symbols in your app gives you:
 
 **Incorporate refined, unobtrusive branding.** People use CareKit apps to help them achieve their health and wellness goals; they don’t want to see advertising. To avoid distracting people from their care plan, subtly incorporate your brand through your app’s use of color and communication style.
 
-## [Platform considerations](/design/human-interface-guidelines/carekit#Platform-considerations)
+## [Platform considerations](https://developer.apple.com/design/human-interface-guidelines/carekit#Platform-considerations)
 
  _No additional considerations for iOS or iPadOS. Not supported in macOS, tvOS, visionOS, or watchOS._
 
-## [Resources](/design/human-interface-guidelines/carekit#Resources)
+## [Resources](https://developer.apple.com/design/human-interface-guidelines/carekit#Resources)
 
-#### [Related](/design/human-interface-guidelines/carekit#Related)
+#### [Related](https://developer.apple.com/design/human-interface-guidelines/carekit#Related)
 
 [Research & Care > CareKit](https://www.researchandcare.org/carekit/)
 
-#### [Developer documentation](/design/human-interface-guidelines/carekit#Developer-documentation)
+#### [Developer documentation](https://developer.apple.com/design/human-interface-guidelines/carekit#Developer-documentation)
 
 [CareKit](https://carekit-apple.github.io/CareKit/documentation/carekit)
 
 [Research & Care > Developers](https://www.researchandcare.org/developers/)
 
-[Protecting user privacy](/documentation/HealthKit/protecting-user-privacy) — HealthKit
+[Protecting user privacy](https://developer.apple.com/documentation/HealthKit/protecting-user-privacy) — HealthKit
 
-[HealthKit](/documentation/HealthKit)
+[HealthKit](https://developer.apple.com/documentation/HealthKit)
 
 [ResearchKit GitHub project](https://github.com/ResearchKit/ResearchKit)
 
-#### [Videos](/design/human-interface-guidelines/carekit#Videos)
+#### [Videos](https://developer.apple.com/design/human-interface-guidelines/carekit#Videos)
 
 [![](https://devimages-cdn.apple.com/wwdc-services/images/49/196C46B0-DF68-4947-B211-4FEECE415A6E/3408_wide_250x141_1x.jpg) What's new in CareKit ](https://developer.apple.com/videos/play/wwdc2020/10151)
 
 [![](https://devimages-cdn.apple.com/wwdc-services/images/119/EAFF830B-8468-49BA-A5DC-D3A3E8B7F463/4960_wide_250x141_1x.jpg) Build a research and care app, part 1: Setup onboarding ](https://developer.apple.com/videos/play/wwdc2021/10068)
 
-## [Change log](/design/human-interface-guidelines/carekit#Change-log)
+## [Change log](https://developer.apple.com/design/human-interface-guidelines/carekit#Change-log)
 
 Date| Changes  
 ---|---  
 May 2, 2023| Consolidated guidance into one page.  
   
-Current page is CareKit 
-
-##### Supported platforms
-
-  *   *   *   *   *   * 
-
-
-  * [ CareKit ](/design/human-interface-guidelines/carekit#app-top)
-  * [ Data and privacy ](/design/human-interface-guidelines/carekit#Data-and-privacy)
-  * [ CareKit views ](/design/human-interface-guidelines/carekit#CareKit-views)
-  * [ Notifications ](/design/human-interface-guidelines/carekit#Notifications)
-  * [ Symbols and branding ](/design/human-interface-guidelines/carekit#Symbols-and-branding)
-  * [ Platform considerations ](/design/human-interface-guidelines/carekit#Platform-considerations)
-  * [ Resources ](/design/human-interface-guidelines/carekit#Resources)
-  * [ Change log ](/design/human-interface-guidelines/carekit#Change-log)
-
-
-
-[Apple](https://www.apple.com)
-
-  1. [Developer](/)
-  2. [ Documentation ](/documentation/)
-
-
-
-###  Platforms 
-
-Toggle Menu 
-
-  * [iOS](/ios/)
-  * [iPadOS](/ipados/)
-  * [macOS](/macos/)
-  * [tvOS](/tvos/)
-  * [visionOS](/visionos/)
-  * [watchOS](/watchos/)
-
-
-
-###  Tools 
-
-Toggle Menu 
-
-  * [Swift](/swift/)
-  * [SwiftUI](/swiftui/)
-  * [Swift Playground](/swift-playground/)
-  * [TestFlight](/testflight/)
-  * [Xcode](/xcode/)
-  * [Xcode Cloud](/xcode-cloud/)
-  * [SF Symbols](/sf-symbols/)
-
-
-
-###  Topics & Technologies 
-
-Toggle Menu 
-
-  * [Accessibility](/accessibility/)
-  * [Accessories](/accessories/)
-  * [App Extension](/app-extensions/)
-  * [App Store](/app-store/)
-  * [Audio & Video](/audio/)
-  * [Augmented Reality](/augmented-reality/)
-  * [Design](/design/)
-  * [Distribution](/distribute/)
-  * [Education](/education/)
-  * [Fonts](/fonts/)
-  * [Games](/games/)
-  * [Health & Fitness](/health-fitness/)
-  * [In-App Purchase](/in-app-purchase/)
-  * [Localization](/localization/)
-  * [Maps & Location](/maps/)
-  * [Machine Learning & AI](/machine-learning/)
-  * [Open Source](https://opensource.apple.com/)
-  * [Security](/security/)
-  * [Safari & Web](/safari/)
-
-
-
-###  Resources 
-
-Toggle Menu 
-
-  *   * [Documentation](/documentation/)
-  * [Tutorials](/learn/)
-  * [Downloads](/download/)
-  * [Forums](/forums/)
-  * [Videos](/videos/)
-
-
-
-###  Support 
-
-Toggle Menu 
-
-  * [Support Articles](/support/articles/)
-  * [Contact Us](/contact/)
-  * [Bug Reporting](/bug-reporting/)
-  * [System Status](/system-status/)
-
-
-
-###  Account 
-
-Toggle Menu 
-
-  * [Apple Developer](/account/)
-  * [App Store Connect](https://appstoreconnect.apple.com/)
-  * [Certificates, IDs, & Profiles](/account/ios/certificate/)
-  * [Feedback Assistant](https://feedbackassistant.apple.com/)
-
-
-
-###  Programs 
-
-Toggle Menu 
-
-  * [Apple Developer Program](/programs/)
-  * [Apple Developer Enterprise Program](/programs/enterprise/)
-  * [App Store Small Business Program](/app-store/small-business-program/)
-  * [MFi Program](https://mfi.apple.com/)
-  * [News Partner Program](/programs/news-partner/)
-  * [Video Partner Program](/programs/video-partner/)
-  * [Security Bounty Program](/security-bounty/)
-  * [Security Research Device Program](/programs/security-research-device/)
-
-
-
-###  Events 
-
-Toggle Menu 
-
-  * [Meet with Apple](/events/)
-  * [Apple Developer Centers](/events/developer-centers/)
-  * [App Store Awards](/app-store/app-store-awards/)
-  * [Apple Design Awards](/design/awards/)
-  * [Apple Developer Academies](/academies/)
-  * [WWDC](/wwdc/)
-
-
-
-To submit feedback on documentation, visit [Feedback Assistant](applefeedback://new?form_identifier=developertools.fba&answers%5B%3Aarea%5D=seedADC%3Adevpubs&answers%5B%3Adoc_type_req%5D=Technology%20Documentation&answers%5B%3Adocumentation_link_req%5D=https%3A%2F%2Fdeveloper.apple.com%2Fdesign%2Fhuman-interface-guidelines%2Fcarekit).
-
-Select a color scheme preference
-
-Light
-
-Dark
-
-Auto
-
-English  简体中文  日本語  한국어 
-
-Copyright © 2026 [Apple Inc.](https://www.apple.com) All rights reserved. 
-
-[ Terms of Use ](https://www.apple.com/legal/internet-services/terms/site.html)[ Privacy Policy ](https://www.apple.com/legal/privacy/)[ Agreements and Guidelines ](/support/terms/)

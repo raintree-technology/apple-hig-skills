@@ -1,218 +1,6 @@
 ---
 title: "Apple Pay | Apple Developer Documentation"
 source: https://developer.apple.com/design/human-interface-guidelines/apple-pay
----
-
-# This page requires JavaScript.
-
-Please turn on JavaScript in your browser and refresh the page to view its content.
-
-Skip Navigation 
-
-  * Global Nav Open MenuGlobal Nav Close Menu
-  * [Apple Developer](/)
-
-
-
-[Search Developer Cancel ](/search/)
-
-  * [Apple Developer](/)
-  * [News](/news/)
-  * [Discover](/discover/)
-  * [Design](/design/)
-  * [Develop](/develop/)
-  * [Distribute](/distribute/)
-  * [Support](/support/)
-  * [Account](/account/)
-  * [](/search/)
-
-
-
-Cancel 
-
-Only search within “Human Interface Guidelines”
-
-### Quick Links
-
-  * [Downloads](/download/)
-  * [Documentation](/documentation/)
-  * [Sample Code](/documentation/samplecode/)
-  * [Videos](/videos/)
-  * [Forums](/forums/)
-
-5 Quick Links
-
-[ Design ](/design/)
-
-Open Menu 
-
-  * [ Overview ](https://developer.apple.com/design/)
-  * [ What’s New ](https://developer.apple.com/design/whats-new/)
-  * [ Get Started ](https://developer.apple.com/design/get-started/)
-  * [ Guidelines ](/design/human-interface-guidelines)
-  * [ Resources ](https://developer.apple.com/design/resources/)
-
-
-
-## Human Interface Guidelines
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/c9d2e563aa23997588edd7b4538f6c5b/overview.svg)
-
-1 of 6 symbols inside <root> containing 7 symbols[Getting started](/design/human-interface-guidelines/getting-started)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/c9d2e563aa23997588edd7b4538f6c5b/overview.svg)
-
-2 of 6 symbols inside <root> containing 18 symbols[Foundations](/design/human-interface-guidelines/foundations)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/c9d2e563aa23997588edd7b4538f6c5b/overview.svg)
-
-3 of 6 symbols inside <root> containing 25 symbols[Patterns](/design/human-interface-guidelines/patterns)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/c9d2e563aa23997588edd7b4538f6c5b/overview.svg)
-
-4 of 6 symbols inside <root> containing 8 symbols[Components](/design/human-interface-guidelines/components)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/c9d2e563aa23997588edd7b4538f6c5b/overview.svg)
-
-5 of 6 symbols inside <root> containing 13 symbols[Inputs](/design/human-interface-guidelines/inputs)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/c9d2e563aa23997588edd7b4538f6c5b/overview.svg)
-
-6 of 6 symbols inside <root> containing 29 symbols[Technologies](/design/human-interface-guidelines/technologies)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/f848bdcfb46c64dd6fcec70cae4620a3/airplay.svg)
-
-1 of 29 symbols inside 525506332 [AirPlay](/design/human-interface-guidelines/airplay)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/9e23a9dca1bba674ca611a9875a09439/always-on.svg)
-
-2 of 29 symbols inside 525506332 [Always On](/design/human-interface-guidelines/always-on)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/ed35a8d690d9aa594ec108f4b000ba3e/app-clips.svg)
-
-3 of 29 symbols inside 525506332 [App Clips](/design/human-interface-guidelines/app-clips)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/fe96765a9ec7f01392fa7bc9938ae12b/apple-pay.svg)
-
-4 of 29 symbols inside 525506332 [Apple Pay](/design/human-interface-guidelines/apple-pay)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/88a8c8fdc81e5fc382997c9ec3822eab/augmented-reality.svg)
-
-5 of 29 symbols inside 525506332 [Augmented reality](/design/human-interface-guidelines/augmented-reality)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/7a3379bd1fb861217bd79abdc0c175b9/carekit.svg)
-
-6 of 29 symbols inside 525506332 [CareKit](/design/human-interface-guidelines/carekit)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/3bdef2196e420f50c41a566422cc1e4c/carplay.svg)
-
-7 of 29 symbols inside 525506332 [CarPlay](/design/human-interface-guidelines/carplay)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/1a2766daa7645cc3782710ac0977e6d5/game-center.svg)
-
-8 of 29 symbols inside 525506332 [Game Center](/design/human-interface-guidelines/game-center)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/953d6d049f0943017089f645f030f739/generative-ai.svg)
-
-9 of 29 symbols inside 525506332 [Generative AI](/design/human-interface-guidelines/generative-ai)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/1fd95cf0bcefa3ddb3bd937167c4108e/healthkit.svg)
-
-10 of 29 symbols inside 525506332 [HealthKit](/design/human-interface-guidelines/healthkit)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/73b5b486f329ea3c756fe1016fb5d9b6/homekit.svg)
-
-11 of 29 symbols inside 525506332 [HomeKit](/design/human-interface-guidelines/homekit)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/8ee482d4f70affa6bae663c8d51102d0/icloud.svg)
-
-12 of 29 symbols inside 525506332 [iCloud](/design/human-interface-guidelines/icloud)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/d06f906d625d003fce04c3f46a88e2a0/id-verifier.svg)
-
-13 of 29 symbols inside 525506332 [ID Verifier](/design/human-interface-guidelines/id-verifier)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/ef6f7770a91b075a14f08932b4ab28a2/imessage-app.svg)
-
-14 of 29 symbols inside 525506332 [iMessage apps and stickers](/design/human-interface-guidelines/imessage-apps-and-stickers)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/d6e92e5cc61c45c389938daf49834a04/in-app-purchase.svg)
-
-15 of 29 symbols inside 525506332 [In-app purchase](/design/human-interface-guidelines/in-app-purchase)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/25ea28efbe5e8676fd29370fad560f75/live-photos.svg)
-
-16 of 29 symbols inside 525506332 [Live Photos](/design/human-interface-guidelines/live-photos)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/702ebb485435bf1f6e6c4e2d43edd423/mac-catalyst.svg)
-
-17 of 29 symbols inside 525506332 [Mac Catalyst](/design/human-interface-guidelines/mac-catalyst)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/0fc7417f15cf064f38a83bd30dee77cf/machine-learning.svg)
-
-18 of 29 symbols inside 525506332 [Machine learning](/design/human-interface-guidelines/machine-learning)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/88dc6f3ae567c1430f225d6707e6602b/maps.svg)
-
-19 of 29 symbols inside 525506332 [Maps](/design/human-interface-guidelines/maps)
-
-35 items were found. Tab back to navigate through them. 
-
-Navigator is ready 
-
-December 16, 2025
-
-Clarified supported platforms, including web browsers and Apple Vision Pro. 
 
 # Apple Pay
 
@@ -224,11 +12,11 @@ People authorize payments and provide shipping and contact information, using cr
 
 Tip
 
-It’s important to understand the difference between Apple Pay and [In-app purchase](/design/human-interface-guidelines/in-app-purchase). Use Apple Pay in your app to sell physical goods like groceries, clothing, and appliances; for services such as club memberships, hotel reservations, and tickets for events; and for donations. Use In-App Purchase in your app to sell virtual goods, such as premium content for your app, and subscriptions for digital content.
+It’s important to understand the difference between Apple Pay and [In-app purchase](https://developer.apple.com/design/human-interface-guidelines/in-app-purchase). Use Apple Pay in your app to sell physical goods like groceries, clothing, and appliances; for services such as club memberships, hotel reservations, and tickets for events; and for donations. Use In-App Purchase in your app to sell virtual goods, such as premium content for your app, and subscriptions for digital content.
 
-Apps and websites that accept Apple Pay display it as an available payment option, and include an Apple Pay button in the purchasing flow that people tap to bring up a payment sheet. During checkout, the payment sheet can show the credit or debit card linked to Apple Pay, purchase amount (including tax and fees), shipping options, and contact information. People make any necessary adjustments and then authorize payment and complete the purchase. For developer guidance, see [Apple Pay](/documentation/PassKit/apple-pay).
+Apps and websites that accept Apple Pay display it as an available payment option, and include an Apple Pay button in the purchasing flow that people tap to bring up a payment sheet. During checkout, the payment sheet can show the credit or debit card linked to Apple Pay, purchase amount (including tax and fees), shipping options, and contact information. People make any necessary adjustments and then authorize payment and complete the purchase. For developer guidance, see [Apple Pay](https://developer.apple.com/documentation/PassKit/apple-pay).
 
-All websites that offer Apple Pay must include a privacy statement and adhere to the [Acceptable use guidelines for Apple Pay on the web](https://developer.apple.com/apple-pay/acceptable-use-guidelines-for-websites/). For developer guidance, see [Apple Pay on the Web](/documentation/ApplePayontheWeb). For a hands-on demo of Apple Pay on the web, see [Apple Pay on the web interactive demo](https://applepaydemo.apple.com).
+All websites that offer Apple Pay must include a privacy statement and adhere to the [Acceptable use guidelines for Apple Pay on the web](https://developer.apple.com/apple-pay/acceptable-use-guidelines-for-websites/). For developer guidance, see [Apple Pay on the Web](https://developer.apple.com/documentation/ApplePayontheWeb). For a hands-on demo of Apple Pay on the web, see [Apple Pay on the web interactive demo](https://applepaydemo.apple.com).
 
 ![A screenshot of a payment sheet that displays details about a purchase, including bank information, shipping address, and the total amount.](https://docs-assets.developer.apple.com/published/5d04903da870750a01127a7674d93e3c/apple-pay-sheet%402x.png)
 
@@ -236,11 +24,11 @@ The device performs payment authentication in most cases where the device suppor
 
 ![An illustration of a MacBook Pro on the left and an iPhone on the right. The MacBook Pro displays a Safari window that shows an online store with Apple Pay buttons for checking out and adding to a bag. The iPhone displays an Apple Pay payment sheet.](https://docs-assets.developer.apple.com/published/dd757533a7c6981c4932724381e10ad2/apple-pay-hero%402x.png)
 
-## [Offering Apple Pay](/design/human-interface-guidelines/apple-pay#Offering-Apple-Pay)
+## [Offering Apple Pay](https://developer.apple.com/design/human-interface-guidelines/apple-pay#Offering-Apple-Pay)
 
-**Offer Apple Pay on all devices and browsers that support it.** If the device doesn’t support Apple Pay, don’t present Apple Pay as a payment option. Use Apple Pay APIs to evaluate when a device can support Apple Pay. For developer guidance, see [`PKPaymentAuthorizationController`](/documentation/PassKit/PKPaymentAuthorizationController) (iOS, watchOS) and [`canMakePayments`](/documentation/ApplePayontheWeb/ApplePaySession/canMakePayments) (web).
+**Offer Apple Pay on all devices and browsers that support it.** If the device doesn’t support Apple Pay, don’t present Apple Pay as a payment option. Use Apple Pay APIs to evaluate when a device can support Apple Pay. For developer guidance, see [`PKPaymentAuthorizationController`](https://developer.apple.com/documentation/PassKit/PKPaymentAuthorizationController) (iOS, watchOS) and [`canMakePayments`](https://developer.apple.com/documentation/ApplePayontheWeb/ApplePaySession/canMakePayments) (web).
 
-**If you use Apple Pay APIs to find out whether someone has an active card in Wallet, you must make Apple Pay the primary — but not necessarily sole — payment option everywhere you use the APIs.** For example, you might pre-select Apple Pay as the payment option when you display it alongside other options. For developer guidance, see [Offering Apple Pay in Your App](/documentation/PassKit/offering-apple-pay-in-your-app) (iOS, watchOS) and [Checking for Apple Pay availability](/documentation/ApplePayontheWeb/checking-for-apple-pay-availability) (web).
+**If you use Apple Pay APIs to find out whether someone has an active card in Wallet, you must make Apple Pay the primary — but not necessarily sole — payment option everywhere you use the APIs.** For example, you might pre-select Apple Pay as the payment option when you display it alongside other options. For developer guidance, see [Offering Apple Pay in Your App](https://developer.apple.com/documentation/PassKit/offering-apple-pay-in-your-app) (iOS, watchOS) and [Checking for Apple Pay availability](https://developer.apple.com/documentation/ApplePayontheWeb/checking-for-apple-pay-availability) (web).
 
 **If you also offer other payment methods, offer Apple Pay at the same time.** Feature Apple Pay at least as prominently as the other options on every page or screen that offers or accepts payment methods.
 
@@ -264,9 +52,9 @@ The device performs payment authentication in most cases where the device suppor
 
 **Inform search engines that Apple Pay is accepted on your website.** If your website uses semantic markup to provide product details to search engines, list Apple Pay as a payment option.
 
-For app developer guidance, see [Apple Pay](/documentation/PassKit/apple-pay). For website developer guidance, including how to determine whether Apple Pay on the web is available, see [Apple Pay on the Web](/documentation/ApplePayontheWeb).
+For app developer guidance, see [Apple Pay](https://developer.apple.com/documentation/PassKit/apple-pay). For website developer guidance, including how to determine whether Apple Pay on the web is available, see [Apple Pay on the Web](https://developer.apple.com/documentation/ApplePayontheWeb).
 
-## [Streamlining checkout](/design/human-interface-guidelines/apple-pay#Streamlining-checkout)
+## [Streamlining checkout](https://developer.apple.com/design/human-interface-guidelines/apple-pay#Streamlining-checkout)
 
 **Provide a cohesive checkout experience.** It’s best when the entire checkout flow feels tightly integrated with your app or website. To strengthen people’s perception of integration, use your branding throughout the checkout experience and avoid opening different pages or windows. For website checkout flows in particular, opening new windows during the process can cause confusion and may even lead people to think they’ve been handed off to a different website.
 
@@ -282,7 +70,7 @@ For app developer guidance, see [Apple Pay](/documentation/PassKit/apple-pay). F
 
 **Gather multiple shipping methods and destinations before showing the payment sheet.** The payment sheet lets people select a single shipping method and destination for an entire order. If your customers can choose different shipping methods and destinations for individual items in an order, collect those details before Apple Pay checkout begins, instead of on the payment sheet.
 
-**For in-store pickup, help people choose a pickup location before displaying the payment sheet.** After a customer chooses the pickup location they want, use the read-only format to display the location’s address on the payment sheet. For developer guidance, see [Displaying a Read-Only Pickup Address](/documentation/PassKit/displaying-a-read-only-pickup-address).
+**For in-store pickup, help people choose a pickup location before displaying the payment sheet.** After a customer chooses the pickup location they want, use the read-only format to display the location’s address on the payment sheet. For developer guidance, see [Displaying a Read-Only Pickup Address](https://developer.apple.com/documentation/PassKit/displaying-a-read-only-pickup-address).
 
 **Prefer information from Apple Pay.** Assume that Apple Pay information is complete and up to date. Even if your app or website has existing contact, shipping, and payment information, consider fetching the latest from Apple Pay during checkout to reduce potential corrections.
 
@@ -294,17 +82,17 @@ For app developer guidance, see [Apple Pay](/documentation/PassKit/apple-pay). F
 
 **Display an order confirmation or thank-you page.** After the payment sheet shows the result of the transaction, display an order confirmation page to thank people for their purchase, provide details about when the order will ship, and indicate how to check its status. Listing Apple Pay on the confirmation page isn’t necessary, but if you do, show it after the last four digits of the account used to process the transaction or as a separate note. For example, ”1234 (Apple Pay)” or ”Paid with Apple Pay.”
 
-### [Customizing the payment sheet](/design/human-interface-guidelines/apple-pay#Customizing-the-payment-sheet)
+### [Customizing the payment sheet](https://developer.apple.com/design/human-interface-guidelines/apple-pay#Customizing-the-payment-sheet)
 
 **Only present and request essential information.** People may get confused or have privacy concerns if the payment sheet includes extraneous information. For example, it makes sense to see a contact email address but not a shipping address if the purchase is a gift card that will be delivered electronically. Showing or asking for a shipping address in this scenario may give the false impression that something will be physically delivered.
 
 **Display the active coupon or promotional code, or give people a way to enter it.** For example, if people can enter a code before the payment sheet appears, displaying it on the sheet can reassure them that the code works as they expect. Alternatively, allowing code entry on the payment sheet can be particularly beneficial in an express checkout flow.
 
-**Let people choose the shipping method in the payment sheet.** To the extent space permits, show a clear description, a cost, and, optionally, an estimated delivery or pickup date — or range of dates — for each available option. In iOS 15 and later, you can take advantage of the shipping method’s calendar and time-zone support to provide accurate delivery or pickup information, regardless of the customer’s current location. For developer guidance, see [`PKDateComponentsRange`](/documentation/PassKit/PKDateComponentsRange).
+**Let people choose the shipping method in the payment sheet.** To the extent space permits, show a clear description, a cost, and, optionally, an estimated delivery or pickup date — or range of dates — for each available option. In iOS 15 and later, you can take advantage of the shipping method’s calendar and time-zone support to provide accurate delivery or pickup information, regardless of the customer’s current location. For developer guidance, see [`PKDateComponentsRange`](https://developer.apple.com/documentation/PassKit/PKDateComponentsRange).
 
 **For in-store pickup, consider letting people choose a pickup window that works for them.** You can use the shipping method to supply a range of dates and times from which people can choose.
 
-**Use line items to explain additional charges, discounts, pending costs, add-on donations, recurring, and future payments.** A line item includes a label and cost; a line item for a recurring payment can also include a frequency. Don’t use line items to show an itemized list of products that make up the purchase. For developer guidance, see [`paymentSummaryItems`](/documentation/PassKit/PKPaymentRequest/paymentSummaryItems); for guidance on donations, see [Supporting donations](/design/human-interface-guidelines/apple-pay#Supporting-donations).
+**Use line items to explain additional charges, discounts, pending costs, add-on donations, recurring, and future payments.** A line item includes a label and cost; a line item for a recurring payment can also include a frequency. Don’t use line items to show an itemized list of products that make up the purchase. For developer guidance, see [`paymentSummaryItems`](https://developer.apple.com/documentation/PassKit/PKPaymentRequest/paymentSummaryItems); for guidance on donations, see [Supporting donations](https://developer.apple.com/design/human-interface-guidelines/apple-pay#Supporting-donations).
 
   * iOS 
   * Web 
@@ -323,9 +111,9 @@ For app developer guidance, see [Apple Pay](/documentation/PassKit/apple-pay). F
 
 **Clearly disclose when additional costs may be incurred after payment authorization.** In some cases, the total cost may be unknown at checkout time. For example, the price of a car ride based on distance or time might change after checkout. Or, a customer might want to add a tip after a product is delivered. In situations like these, and when local regulations allow, you can provide a clear explanation in the payment sheet and a subtotal marked as Amount Pending. If you’re preauthorizing a specific amount, be sure the payment sheet accurately reflects this information.
 
-**Handle data entry and payment errors gracefully.** If an error occurs during checkout, help people resolve it quickly so they can complete their transaction. For related guidance, see [Data validation](/design/human-interface-guidelines/apple-pay#Data-validation).
+**Handle data entry and payment errors gracefully.** If an error occurs during checkout, help people resolve it quickly so they can complete their transaction. For related guidance, see [Data validation](https://developer.apple.com/design/human-interface-guidelines/apple-pay#Data-validation).
 
-### [Displaying a website icon](/design/human-interface-guidelines/apple-pay#Displaying-a-website-icon)
+### [Displaying a website icon](https://developer.apple.com/design/human-interface-guidelines/apple-pay#Displaying-a-website-icon)
 
 Many websites provide an icon that can display with bookmarks, in URL fields, or on a device’s Home screen. Websites that support Apple Pay can display this icon in a summary view and in the payment sheet of the connected device that’s used to authorize payment. The icon provides visual reassurance that payment is going to the right place.
 
@@ -337,11 +125,11 @@ If your website supports Apple Pay, provide an icon in the following sizes for u
   
 ![An illustration of an Apple Pay payment sheet on iPhone, which shows a website icon above the payment details.](https://docs-assets.developer.apple.com/published/69ae379313b720a151bf5eda6edc712f/web-icon-payment%402x.png)
 
-## [Handling errors](/design/human-interface-guidelines/apple-pay#Handling-errors)
+## [Handling errors](https://developer.apple.com/design/human-interface-guidelines/apple-pay#Handling-errors)
 
 Provide clear, actionable guidance when problems occur during checkout or payment processing, so people can resolve problems quickly and complete their transaction.
 
-### [Data validation](/design/human-interface-guidelines/apple-pay#Data-validation)
+### [Data validation](https://developer.apple.com/design/human-interface-guidelines/apple-pay#Data-validation)
 
 Your app or website can respond to user input when the payment sheet appears, when people change certain field values on the payment sheet, and after they authenticate the transaction. Use these opportunities to check for data entry problems and to provide clear and consistent messaging.
 
@@ -364,7 +152,7 @@ Custom detail view error messaging
 
 When data is invalid, system-provided error messaging calls attention to relevant fields on the payment sheet. People can choose a field to view additional details and resolve the problem. Provide customized error messages for the detail view that appears when people choose a problematic field.
 
-For developer guidance, see [`PKPaymentAuthorizationViewControllerDelegate`](/documentation/PassKit/PKPaymentAuthorizationViewControllerDelegate) (iOS, watchOS) and [Apple Pay on the Web](/documentation/ApplePayontheWeb) (web).
+For developer guidance, see [`PKPaymentAuthorizationViewControllerDelegate`](https://developer.apple.com/documentation/PassKit/PKPaymentAuthorizationViewControllerDelegate) (iOS, watchOS) and [Apple Pay on the Web](https://developer.apple.com/documentation/ApplePayontheWeb) (web).
 
 Note
 
@@ -372,15 +160,15 @@ For privacy reasons, your app or website has limited access to data until people
 
 **Avoid forcing compliance with your business logic.** Design a data validation process that’s intelligent enough to ignore irrelevant data and infer missing data whenever possible. For example, if your app requires a five-digit zip code but someone enters a Zip+4 code, ignore the additional digits rather than asking for a correction. Let people enter phone numbers in multiple formats — such as with and without dashes, and with and without a country code — without producing an error.
 
-**Provide accurate status reporting to the system.** When a problem occurs, it’s essential that your app or website accurately indicate the type of problem so the system can show the most relevant error message on the payment sheet. This is done by accompanying your custom error message with the correct status code. For developer guidance, see [`PKPaymentError`](/documentation/PassKit/PKPaymentError) (iOS, watchOS) and [Apple Pay Status Codes](/documentation/ApplePayontheWeb/apple-pay-status-codes) (web).
+**Provide accurate status reporting to the system.** When a problem occurs, it’s essential that your app or website accurately indicate the type of problem so the system can show the most relevant error message on the payment sheet. This is done by accompanying your custom error message with the correct status code. For developer guidance, see [`PKPaymentError`](https://developer.apple.com/documentation/PassKit/PKPaymentError) (iOS, watchOS) and [Apple Pay Status Codes](https://developer.apple.com/documentation/ApplePayontheWeb/apple-pay-status-codes) (web).
 
 **Succinctly and specifically describe the problem when data is invalid or incorrectly formatted.** Reference the relevant field and indicate exactly what’s expected. For example, if people enter an invalid zip code, instead of showing “Address is invalid,” show a specific message like “Zip code doesn’t match city.” If the shipping address is unserviceable, indicate why with a message like “Shipping not available for this state.” Use noun phrases with sentence-style capitalization and no ending punctuation. Aim to keep messages at 128 characters or fewer to avoid truncation.
 
-### [Payment processing](/design/human-interface-guidelines/apple-pay#Payment-processing)
+### [Payment processing](https://developer.apple.com/design/human-interface-guidelines/apple-pay#Payment-processing)
 
-**Handle interruptions correctly.** A user-driven event like a cancellation or a system-driven event like a timeout could cause an interruption in the payment flow, resulting in the payment sheet being dismissed. When such an event occurs, you must cancel any in-progress payment. After the payment sheet dismisses, people can restart the process by choosing the Apple Pay button again. For developer guidance, see [`PKPaymentAuthorizationViewControllerDelegate`](/documentation/PassKit/PKPaymentAuthorizationViewControllerDelegate) (iOS, watchOS) and [`oncancel`](/documentation/ApplePayontheWeb/ApplePaySession/oncancel) (web).
+**Handle interruptions correctly.** A user-driven event like a cancellation or a system-driven event like a timeout could cause an interruption in the payment flow, resulting in the payment sheet being dismissed. When such an event occurs, you must cancel any in-progress payment. After the payment sheet dismisses, people can restart the process by choosing the Apple Pay button again. For developer guidance, see [`PKPaymentAuthorizationViewControllerDelegate`](https://developer.apple.com/documentation/PassKit/PKPaymentAuthorizationViewControllerDelegate) (iOS, watchOS) and [`oncancel`](https://developer.apple.com/documentation/ApplePayontheWeb/ApplePaySession/oncancel) (web).
 
-## [Supporting subscriptions](/design/human-interface-guidelines/apple-pay#Supporting-subscriptions)
+## [Supporting subscriptions](https://developer.apple.com/design/human-interface-guidelines/apple-pay#Supporting-subscriptions)
 
 Your app or website can use Apple Pay to request authorization for recurring fees. A recurring fee can be a fixed amount, such as a monthly movie ticket subscription, or — when local regulations allow — a variable amount like a weekly grocery order. The initial authorization can also include discounts and additional fees.
 
@@ -420,7 +208,7 @@ No payment required at authorization
 
 **Only show the payment sheet when a subscription change results in additional fees.** When the someone changes a subscription, authorization isn’t necessary if the cost decreases or remains the same.
 
-### [Supporting donations](/design/human-interface-guidelines/apple-pay#Supporting-donations)
+### [Supporting donations](https://developer.apple.com/design/human-interface-guidelines/apple-pay#Supporting-donations)
 
 [Approved nonprofits](https://developer.apple.com/support/apple-pay-nonprofits/) can use Apple Pay to accept donations.
 
@@ -428,15 +216,15 @@ No payment required at authorization
 
 **Streamline checkout by offering predefined donation amounts.** You can reduce steps in the donation process by offering one-step recommended donations, like $25, $50, $100. Be sure to include an Other Amount option too, so people can customize the donation if they prefer.
 
-## [Using Apple Pay buttons](/design/human-interface-guidelines/apple-pay#Using-Apple-Pay-buttons)
+## [Using Apple Pay buttons](https://developer.apple.com/design/human-interface-guidelines/apple-pay#Using-Apple-Pay-buttons)
 
-The system provides several Apple Pay button types and styles you can use in your app or website. In contrast to the Apple Pay buttons, you use the [Apple Pay mark](/design/human-interface-guidelines/apple-pay#Apple-Pay-mark) to communicate the availability of Apple Pay as a payment option.
+The system provides several Apple Pay button types and styles you can use in your app or website. In contrast to the Apple Pay buttons, you use the [Apple Pay mark](https://developer.apple.com/design/human-interface-guidelines/apple-pay#Apple-Pay-mark) to communicate the availability of Apple Pay as a payment option.
 
 Don’t create your own Apple Pay button design or attempt to mimic the system-provided button designs.
 
-For developer guidance, see [`PKPaymentButtonType`](/documentation/PassKit/PKPaymentButtonType) and [`PKPaymentButtonStyle`](/documentation/PassKit/PKPaymentButtonStyle) (iOS and macOS), [`WKInterfacePaymentButton`](/documentation/WatchKit/WKInterfacePaymentButton) (watchOS), and [Apple Pay on the Web](/documentation/ApplePayontheWeb) (web).
+For developer guidance, see [`PKPaymentButtonType`](https://developer.apple.com/documentation/PassKit/PKPaymentButtonType) and [`PKPaymentButtonStyle`](https://developer.apple.com/documentation/PassKit/PKPaymentButtonStyle) (iOS and macOS), [`WKInterfacePaymentButton`](https://developer.apple.com/documentation/WatchKit/WKInterfacePaymentButton) (watchOS), and [Apple Pay on the Web](https://developer.apple.com/documentation/ApplePayontheWeb) (web).
 
-### [Button types](/design/human-interface-guidelines/apple-pay#Button-types)
+### [Button types](https://developer.apple.com/design/human-interface-guidelines/apple-pay#Button-types)
 
 Apple provides several types of buttons so you can choose the button type that fits best with the terminology and flow of your purchase or payment experience.
 
@@ -480,11 +268,11 @@ When a device supports Apple Pay, but it hasn’t been set up yet, you can use t
 
 You can display the Set up Apple Pay button on pages such as a Settings page, a user profile screen, or an interstitial page. Tapping the button in any of these locations needs to initiate the process of adding a card.
 
-### [Button styles](/design/human-interface-guidelines/apple-pay#Button-styles)
+### [Button styles](https://developer.apple.com/design/human-interface-guidelines/apple-pay#Button-styles)
 
-You can use the _automatic_ style to let the current system appearance determine the appearance of the Apple Pay buttons in your app (for developer guidance, see [`PKPaymentButtonStyle.automatic`](/documentation/PassKit/PKPaymentButtonStyle/automatic)). If you want to control the button appearance yourself, you can use one of the following options. For web developer guidance, see [`ApplePayButtonStyle`](/documentation/ApplePayontheWeb/ApplePayButtonStyle).
+You can use the _automatic_ style to let the current system appearance determine the appearance of the Apple Pay buttons in your app (for developer guidance, see [`PKPaymentButtonStyle.automatic`](https://developer.apple.com/documentation/PassKit/PKPaymentButtonStyle/automatic)). If you want to control the button appearance yourself, you can use one of the following options. For web developer guidance, see [`ApplePayButtonStyle`](https://developer.apple.com/documentation/ApplePayontheWeb/ApplePayButtonStyle).
 
-#### [Black](/design/human-interface-guidelines/apple-pay#Black)
+#### [Black](https://developer.apple.com/design/human-interface-guidelines/apple-pay#Black)
 
 Use on white or light-color backgrounds that provide sufficient contrast. Don’t use on black or dark backgrounds.
 
@@ -496,7 +284,7 @@ Use on white or light-color backgrounds that provide sufficient contrast. Don’
 
 ![Incorrect usage](https://docs-assets.developer.apple.com/published/209f6f0fc8ad99d9bf59e12d82d06584/crossout%402x.png)
 
-#### [White with outline](/design/human-interface-guidelines/apple-pay#White-with-outline)
+#### [White with outline](https://developer.apple.com/design/human-interface-guidelines/apple-pay#White-with-outline)
 
 Use on white or light-color backgrounds that don’t provide sufficient contrast. Don’t place on dark or saturated backgrounds.
 
@@ -508,7 +296,7 @@ Use on white or light-color backgrounds that don’t provide sufficient contrast
 
 ![Incorrect usage](https://docs-assets.developer.apple.com/published/209f6f0fc8ad99d9bf59e12d82d06584/crossout%402x.png)
 
-#### [White](/design/human-interface-guidelines/apple-pay#White)
+#### [White](https://developer.apple.com/design/human-interface-guidelines/apple-pay#White)
 
 Use on dark-color backgrounds that provide sufficient contrast.
 
@@ -520,7 +308,7 @@ Use on dark-color backgrounds that provide sufficient contrast.
 
 ![Incorrect usage](https://docs-assets.developer.apple.com/published/209f6f0fc8ad99d9bf59e12d82d06584/crossout%402x.png)
 
-### [Button size and position](/design/human-interface-guidelines/apple-pay#Button-size-and-position)
+### [Button size and position](https://developer.apple.com/design/human-interface-guidelines/apple-pay#Button-size-and-position)
 
 **Prominently display the Apple Pay button.** Make the Apple Pay button no smaller than other payment buttons, and avoid making people scroll to see it.
 
@@ -552,7 +340,7 @@ In a stacked layout, place the Apple Pay button above an Add to Cart button.
 
 ![Incorrect usage](https://docs-assets.developer.apple.com/published/209f6f0fc8ad99d9bf59e12d82d06584/crossout%402x.png)
 
-**Adjust the corner radius to match the appearance of other buttons.** By default, an Apple Pay button has rounded corners. You can change the corner radius to produce a button with square corners or a capsule-shape button. For developer guidance, see [`cornerRadius`](/documentation/PassKit/PKPaymentButton/cornerRadius).
+**Adjust the corner radius to match the appearance of other buttons.** By default, an Apple Pay button has rounded corners. You can change the corner radius to produce a button with square corners or a capsule-shape button. For developer guidance, see [`cornerRadius`](https://developer.apple.com/documentation/PassKit/PKPaymentButton/cornerRadius).
 
 ![An illustration showing a Check Out with Apple Pay button above a custom Add to Cart button. Both buttons have 90-degree corners.](https://docs-assets.developer.apple.com/published/d910506f4d9d613db7d6c977fcba8fbd/minimum-corner-radii%402x.png)Minimum corner radius
 
@@ -582,9 +370,9 @@ Donate with Apple Pay
 Set up Apple Pay  
 Subscribe with Apple Pay  
   
-### [Apple Pay mark](/design/human-interface-guidelines/apple-pay#Apple-Pay-mark)
+### [Apple Pay mark](https://developer.apple.com/design/human-interface-guidelines/apple-pay#Apple-Pay-mark)
 
-Use the Apple Pay mark graphic to show that Apple Pay is an available payment option when showing other payment options in a similar manner. The Apple Pay mark isn’t a button; if you need an Apple Pay button, choose one of the buttons described in [Button types](/design/human-interface-guidelines/apple-pay#Button-types). For design guidance related to showing Apple Pay as a payment option, see [Offering Apple Pay](/design/human-interface-guidelines/apple-pay#Offering-Apple-Pay).
+Use the Apple Pay mark graphic to show that Apple Pay is an available payment option when showing other payment options in a similar manner. The Apple Pay mark isn’t a button; if you need an Apple Pay button, choose one of the buttons described in [Button types](https://developer.apple.com/design/human-interface-guidelines/apple-pay#Button-types). For design guidance related to showing Apple Pay as a payment option, see [Offering Apple Pay](https://developer.apple.com/design/human-interface-guidelines/apple-pay#Offering-Apple-Pay).
 
 ![A row of four credit card logos, all of which are the same size and shape. The leftmost logo is the Apple Pay mark.](https://docs-assets.developer.apple.com/published/eb623bea0d2c8176ba590efef4493b9d/apple-pay-mark-with-payment-options%402x.png)
 
@@ -592,9 +380,9 @@ Use the Apple Pay mark graphic to show that Apple Pay is an available payment op
 
 **Maintain a minimum clear space around the mark of 1/10 of its height.** Don’t let the Apple Pay mark share its surrounding border with another graphic or button.
 
-Download the Apple Pay mark graphic and full usage guidelines [here](/apple-pay/marketing/).
+Download the Apple Pay mark graphic and full usage guidelines [here](https://developer.apple.com/apple-pay/marketing/).
 
-## [Referring to Apple Pay](/design/human-interface-guidelines/apple-pay#Referring-to-Apple-Pay)
+## [Referring to Apple Pay](https://developer.apple.com/design/human-interface-guidelines/apple-pay#Referring-to-Apple-Pay)
 
 As with all Apple product names, use Apple Pay exactly as shown in [Apple Trademark List](https://www.apple.com/legal/intellectual-property/trademark/appletmlist.html) — never make it plural or possessive — and adhere to [Guidelines for Using Apple Trademarks](https://www.apple.com/legal/intellectual-property/guidelinesfor3rdparties.html).
 
@@ -616,33 +404,33 @@ You can use plain text to promote Apple Pay and indicate that Apple Pay is a pay
 
 **Don’t translate _Apple Pay_ or any other Apple trademark.** Always use Apple trademarks in English, even when they appear within non-English text.
 
-**In a payment selection context, you can display a text-only description of Apple Pay only when all payment options have text-only descriptions.** If any other payment option description includes an icon or logo, you must use the Apple Pay mark as described in [Offering Apple Pay](/design/human-interface-guidelines/apple-pay#Offering-Apple-Pay).
+**In a payment selection context, you can display a text-only description of Apple Pay only when all payment options have text-only descriptions.** If any other payment option description includes an icon or logo, you must use the Apple Pay mark as described in [Offering Apple Pay](https://developer.apple.com/design/human-interface-guidelines/apple-pay#Offering-Apple-Pay).
 
 **When promoting your app’s use of Apple Pay, follow App Store guidelines.** Before promoting Apple Pay for your app, refer to the [App Store marketing guidelines](https://developer.apple.com/app-store/marketing/guidelines/).
 
-## [Platform considerations](/design/human-interface-guidelines/apple-pay#Platform-considerations)
+## [Platform considerations](https://developer.apple.com/design/human-interface-guidelines/apple-pay#Platform-considerations)
 
  _No additional considerations for iOS, iPadOS, macOS, visionOS, or watchOS. Not supported in tvOS._
 
-## [Resources](/design/human-interface-guidelines/apple-pay#Resources)
+## [Resources](https://developer.apple.com/design/human-interface-guidelines/apple-pay#Resources)
 
-#### [Related](/design/human-interface-guidelines/apple-pay#Related)
+#### [Related](https://developer.apple.com/design/human-interface-guidelines/apple-pay#Related)
 
 [Apple Pay Marketing Guidelines](https://developer.apple.com/apple-pay/marketing/)
 
-#### [Developer documentation](/design/human-interface-guidelines/apple-pay#Developer-documentation)
+#### [Developer documentation](https://developer.apple.com/design/human-interface-guidelines/apple-pay#Developer-documentation)
 
-[Apple Pay](/documentation/PassKit/apple-pay) — PassKit
+[Apple Pay](https://developer.apple.com/documentation/PassKit/apple-pay) — PassKit
 
-[Apple Pay on the Web](/documentation/ApplePayontheWeb)
+[Apple Pay on the Web](https://developer.apple.com/documentation/ApplePayontheWeb)
 
-[`WKInterfacePaymentButton`](/documentation/WatchKit/WKInterfacePaymentButton) — WatchKit
+[`WKInterfacePaymentButton`](https://developer.apple.com/documentation/WatchKit/WKInterfacePaymentButton) — WatchKit
 
-#### [Videos](/design/human-interface-guidelines/apple-pay#Videos)
+#### [Videos](https://developer.apple.com/design/human-interface-guidelines/apple-pay#Videos)
 
 [![](https://devimages-cdn.apple.com/wwdc-services/images/3055294D-836B-4513-B7B0-0BC5666246B0/FC715972-F367-4C86-A291-5C0358E5E230/9873_wide_250x141_1x.jpg) What’s new in Apple Pay ](https://developer.apple.com/videos/play/wwdc2025/201)
 
-## [Change log](/design/human-interface-guidelines/apple-pay#Change-log)
+## [Change log](https://developer.apple.com/design/human-interface-guidelines/apple-pay#Change-log)
 
 Date| Changes  
 ---|---  
@@ -651,160 +439,3 @@ June 10, 2024| Updated links to developer guidance for offering Apple Pay on the
 September 12, 2023| Updated artwork.  
 May 2, 2023| Consolidated guidance into one page.  
   
-Current page is Apple Pay 
-
-##### Supported platforms
-
-  *   *   *   *   *   * 
-
-
-  * [ Apple Pay ](/design/human-interface-guidelines/apple-pay#app-top)
-  * [ Offering Apple Pay ](/design/human-interface-guidelines/apple-pay#Offering-Apple-Pay)
-  * [ Streamlining checkout ](/design/human-interface-guidelines/apple-pay#Streamlining-checkout)
-  * [ Handling errors ](/design/human-interface-guidelines/apple-pay#Handling-errors)
-  * [ Supporting subscriptions ](/design/human-interface-guidelines/apple-pay#Supporting-subscriptions)
-  * [ Using Apple Pay buttons ](/design/human-interface-guidelines/apple-pay#Using-Apple-Pay-buttons)
-  * [ Referring to Apple Pay ](/design/human-interface-guidelines/apple-pay#Referring-to-Apple-Pay)
-  * [ Platform considerations ](/design/human-interface-guidelines/apple-pay#Platform-considerations)
-  * [ Resources ](/design/human-interface-guidelines/apple-pay#Resources)
-  * [ Change log ](/design/human-interface-guidelines/apple-pay#Change-log)
-
-
-
-[Apple](https://www.apple.com)
-
-  1. [Developer](/)
-  2. [ Documentation ](/documentation/)
-
-
-
-###  Platforms 
-
-Toggle Menu 
-
-  * [iOS](/ios/)
-  * [iPadOS](/ipados/)
-  * [macOS](/macos/)
-  * [tvOS](/tvos/)
-  * [visionOS](/visionos/)
-  * [watchOS](/watchos/)
-
-
-
-###  Tools 
-
-Toggle Menu 
-
-  * [Swift](/swift/)
-  * [SwiftUI](/swiftui/)
-  * [Swift Playground](/swift-playground/)
-  * [TestFlight](/testflight/)
-  * [Xcode](/xcode/)
-  * [Xcode Cloud](/xcode-cloud/)
-  * [SF Symbols](/sf-symbols/)
-
-
-
-###  Topics & Technologies 
-
-Toggle Menu 
-
-  * [Accessibility](/accessibility/)
-  * [Accessories](/accessories/)
-  * [App Extension](/app-extensions/)
-  * [App Store](/app-store/)
-  * [Audio & Video](/audio/)
-  * [Augmented Reality](/augmented-reality/)
-  * [Design](/design/)
-  * [Distribution](/distribute/)
-  * [Education](/education/)
-  * [Fonts](/fonts/)
-  * [Games](/games/)
-  * [Health & Fitness](/health-fitness/)
-  * [In-App Purchase](/in-app-purchase/)
-  * [Localization](/localization/)
-  * [Maps & Location](/maps/)
-  * [Machine Learning & AI](/machine-learning/)
-  * [Open Source](https://opensource.apple.com/)
-  * [Security](/security/)
-  * [Safari & Web](/safari/)
-
-
-
-###  Resources 
-
-Toggle Menu 
-
-  *   * [Documentation](/documentation/)
-  * [Tutorials](/learn/)
-  * [Downloads](/download/)
-  * [Forums](/forums/)
-  * [Videos](/videos/)
-
-
-
-###  Support 
-
-Toggle Menu 
-
-  * [Support Articles](/support/articles/)
-  * [Contact Us](/contact/)
-  * [Bug Reporting](/bug-reporting/)
-  * [System Status](/system-status/)
-
-
-
-###  Account 
-
-Toggle Menu 
-
-  * [Apple Developer](/account/)
-  * [App Store Connect](https://appstoreconnect.apple.com/)
-  * [Certificates, IDs, & Profiles](/account/ios/certificate/)
-  * [Feedback Assistant](https://feedbackassistant.apple.com/)
-
-
-
-###  Programs 
-
-Toggle Menu 
-
-  * [Apple Developer Program](/programs/)
-  * [Apple Developer Enterprise Program](/programs/enterprise/)
-  * [App Store Small Business Program](/app-store/small-business-program/)
-  * [MFi Program](https://mfi.apple.com/)
-  * [News Partner Program](/programs/news-partner/)
-  * [Video Partner Program](/programs/video-partner/)
-  * [Security Bounty Program](/security-bounty/)
-  * [Security Research Device Program](/programs/security-research-device/)
-
-
-
-###  Events 
-
-Toggle Menu 
-
-  * [Meet with Apple](/events/)
-  * [Apple Developer Centers](/events/developer-centers/)
-  * [App Store Awards](/app-store/app-store-awards/)
-  * [Apple Design Awards](/design/awards/)
-  * [Apple Developer Academies](/academies/)
-  * [WWDC](/wwdc/)
-
-
-
-To submit feedback on documentation, visit [Feedback Assistant](applefeedback://new?form_identifier=developertools.fba&answers%5B%3Aarea%5D=seedADC%3Adevpubs&answers%5B%3Adoc_type_req%5D=Technology%20Documentation&answers%5B%3Adocumentation_link_req%5D=https%3A%2F%2Fdeveloper.apple.com%2Fdesign%2Fhuman-interface-guidelines%2Fapple-pay).
-
-Select a color scheme preference
-
-Light
-
-Dark
-
-Auto
-
-English  简体中文  日本語  한국어 
-
-Copyright © 2026 [Apple Inc.](https://www.apple.com) All rights reserved. 
-
-[ Terms of Use ](https://www.apple.com/legal/internet-services/terms/site.html)[ Privacy Policy ](https://www.apple.com/legal/privacy/)[ Agreements and Guidelines ](/support/terms/)

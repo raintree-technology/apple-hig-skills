@@ -1,208 +1,6 @@
 ---
 title: "Materials | Apple Developer Documentation"
 source: https://developer.apple.com/design/human-interface-guidelines/materials
----
-
-# This page requires JavaScript.
-
-Please turn on JavaScript in your browser and refresh the page to view its content.
-
-Skip Navigation 
-
-  * Global Nav Open MenuGlobal Nav Close Menu
-  * [Apple Developer](/)
-
-
-
-[Search Developer Cancel ](/search/)
-
-  * [Apple Developer](/)
-  * [News](/news/)
-  * [Discover](/discover/)
-  * [Design](/design/)
-  * [Develop](/develop/)
-  * [Distribute](/distribute/)
-  * [Support](/support/)
-  * [Account](/account/)
-  * [](/search/)
-
-
-
-Cancel 
-
-Only search within “Human Interface Guidelines”
-
-### Quick Links
-
-  * [Downloads](/download/)
-  * [Documentation](/documentation/)
-  * [Sample Code](/documentation/samplecode/)
-  * [Videos](/videos/)
-  * [Forums](/forums/)
-
-5 Quick Links
-
-[ Design ](/design/)
-
-Open Menu 
-
-  * [ Overview ](https://developer.apple.com/design/)
-  * [ What’s New ](https://developer.apple.com/design/whats-new/)
-  * [ Get Started ](https://developer.apple.com/design/get-started/)
-  * [ Guidelines ](/design/human-interface-guidelines)
-  * [ Resources ](https://developer.apple.com/design/resources/)
-
-
-
-## Human Interface Guidelines
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/c9d2e563aa23997588edd7b4538f6c5b/overview.svg)
-
-1 of 6 symbols inside <root> containing 7 symbols[Getting started](/design/human-interface-guidelines/getting-started)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/c9d2e563aa23997588edd7b4538f6c5b/overview.svg)
-
-2 of 6 symbols inside <root> containing 18 symbols[Foundations](/design/human-interface-guidelines/foundations)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/83c941607786e0ba1f582082f4e94361/accessibility.svg)
-
-1 of 18 symbols inside -159075944 [Accessibility](/design/human-interface-guidelines/accessibility)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/fe2a86283eab29ab76732e955802ab1d/app-icons.svg)
-
-2 of 18 symbols inside -159075944 [App icons](/design/human-interface-guidelines/app-icons)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/8ccc36b6fd261c7d126737ba1a7fae5d/branding.svg)
-
-3 of 18 symbols inside -159075944 [Branding](/design/human-interface-guidelines/branding)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/d8868e121f0aff9e53911d53a00e1c1a/color.svg)
-
-4 of 18 symbols inside -159075944 [Color](/design/human-interface-guidelines/color)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/d0d8ac151e6b6513f9e33a90b8cff011/dark-mode.svg)
-
-5 of 18 symbols inside -159075944 [Dark Mode](/design/human-interface-guidelines/dark-mode)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/8404a78cf8d0b283d894aa5c80c0b3d8/icons.svg)
-
-6 of 18 symbols inside -159075944 [Icons](/design/human-interface-guidelines/icons)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/622f1bc92665b4bea75242308b7ec901/images.svg)
-
-7 of 18 symbols inside -159075944 [Images](/design/human-interface-guidelines/images)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/d5b7d90ff2c45d295ab24816bf9b7488/immersive-experiences.svg)
-
-8 of 18 symbols inside -159075944 [Immersive experiences](/design/human-interface-guidelines/immersive-experiences)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/555095c3c9550a1c9622f8b2fb944b4c/inclusion.svg)
-
-9 of 18 symbols inside -159075944 [Inclusion](/design/human-interface-guidelines/inclusion)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/f3e002314da7a56d2f24cdec3be06327/layout.svg)
-
-10 of 18 symbols inside -159075944 [Layout](/design/human-interface-guidelines/layout)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/1ef2efc25cb743289767a8505bc30929/materials.svg)
-
-11 of 18 symbols inside -159075944 [Materials](/design/human-interface-guidelines/materials)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/1a90a8ffd801429564df725c0c62fd51/motion.svg)
-
-12 of 18 symbols inside -159075944 [Motion](/design/human-interface-guidelines/motion)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/2a423497018ef4861033a900bb8241ad/privacy.svg)
-
-13 of 18 symbols inside -159075944 [Privacy](/design/human-interface-guidelines/privacy)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/585ef588a0cd49392ca51abdc81b302d/right-to-left.svg)
-
-14 of 18 symbols inside -159075944 [Right to left](/design/human-interface-guidelines/right-to-left)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/889c48d0b4f0916dabff9890e12cff79/sf-symbols.svg)
-
-15 of 18 symbols inside -159075944 [SF Symbols](/design/human-interface-guidelines/sf-symbols)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/5ab0c95285fec5f89d7c5eb7fa8b6a30/spatial-layout.svg)
-
-16 of 18 symbols inside -159075944 [Spatial layout](/design/human-interface-guidelines/spatial-layout)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/2b0ebfb3e9329c6ae3eac3d8f579a474/typography.svg)
-
-17 of 18 symbols inside -159075944 [Typography](/design/human-interface-guidelines/typography)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/b58149dcdf7b2d5066c3d2217e667cda/writing.svg)
-
-18 of 18 symbols inside -159075944 [Writing](/design/human-interface-guidelines/writing)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/c9d2e563aa23997588edd7b4538f6c5b/overview.svg)
-
-3 of 6 symbols inside <root> containing 25 symbols[Patterns](/design/human-interface-guidelines/patterns)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/c9d2e563aa23997588edd7b4538f6c5b/overview.svg)
-
-4 of 6 symbols inside <root> containing 8 symbols[Components](/design/human-interface-guidelines/components)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/c9d2e563aa23997588edd7b4538f6c5b/overview.svg)
-
-5 of 6 symbols inside <root> containing 13 symbols[Inputs](/design/human-interface-guidelines/inputs)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/c9d2e563aa23997588edd7b4538f6c5b/overview.svg)
-
-6 of 6 symbols inside <root> containing 29 symbols[Technologies](/design/human-interface-guidelines/technologies)
-
-24 items were found. Tab back to navigate through them. 
-
-Navigator is ready 
 
 # Materials
 
@@ -212,17 +10,17 @@ A material is a visual effect that creates a sense of depth, layering, and hiera
 
 Materials help visually separate foreground elements, such as text and controls, from background elements, such as content and solid colors. By allowing color to pass through from background to foreground, a material establishes visual hierarchy to help people more easily retain a sense of place.
 
-Apple platforms feature two types of materials: Liquid Glass, and standard materials. [Liquid Glass](/design/human-interface-guidelines/materials#Liquid-Glass) is a dynamic material that unifies the design language across Apple platforms, allowing you to present controls and navigation without obscuring underlying content. In contrast to Liquid Glass, the [standard materials](/design/human-interface-guidelines/materials#Standard-materials) help with visual differentiation within the content layer.
+Apple platforms feature two types of materials: Liquid Glass, and standard materials. [Liquid Glass](https://developer.apple.com/design/human-interface-guidelines/materials#Liquid-Glass) is a dynamic material that unifies the design language across Apple platforms, allowing you to present controls and navigation without obscuring underlying content. In contrast to Liquid Glass, the [standard materials](https://developer.apple.com/design/human-interface-guidelines/materials#Standard-materials) help with visual differentiation within the content layer.
 
-## [Liquid Glass](/design/human-interface-guidelines/materials#Liquid-Glass)
+## [Liquid Glass](https://developer.apple.com/design/human-interface-guidelines/materials#Liquid-Glass)
 
 Liquid Glass forms a distinct functional layer for controls and navigation elements — like tab bars and sidebars — that floats above the content layer, establishing a clear visual hierarchy between functional elements and content. Liquid Glass allows content to scroll and peek through from beneath these elements to give the interface a sense of dynamism and depth, all while maintaining legibility for controls and navigation.
 
-**Don’t use Liquid Glass in the content layer.** Liquid Glass works best when it provides a clear distinction between interactive elements and content, and including it in the content layer can result in unnecessary complexity and a confusing visual hierarchy. Instead, use [standard materials](/design/human-interface-guidelines/materials#Standard-materials) for elements in the content layer, such as app backgrounds. An exception to this is for controls in the content layer with a transient interactive element like [sliders](/design/human-interface-guidelines/sliders) and [toggles](/design/human-interface-guidelines/toggles); in these cases, the element takes on a Liquid Glass appearance to emphasize its interactivity when a person activates it.
+**Don’t use Liquid Glass in the content layer.** Liquid Glass works best when it provides a clear distinction between interactive elements and content, and including it in the content layer can result in unnecessary complexity and a confusing visual hierarchy. Instead, use [standard materials](https://developer.apple.com/design/human-interface-guidelines/materials#Standard-materials) for elements in the content layer, such as app backgrounds. An exception to this is for controls in the content layer with a transient interactive element like [sliders](https://developer.apple.com/design/human-interface-guidelines/sliders) and [toggles](https://developer.apple.com/design/human-interface-guidelines/toggles); in these cases, the element takes on a Liquid Glass appearance to emphasize its interactivity when a person activates it.
 
-**Use Liquid Glass effects sparingly.** Standard components from system frameworks pick up the appearance and behavior of this material automatically. If you apply Liquid Glass effects to a custom control, do so sparingly. Liquid Glass seeks to bring attention to the underlying content, and overusing this material in multiple custom controls can provide a subpar user experience by distracting from that content. Limit these effects to the most important functional elements in your app. For developer guidance, see [Applying Liquid Glass to custom views](/documentation/SwiftUI/Applying-Liquid-Glass-to-custom-views).
+**Use Liquid Glass effects sparingly.** Standard components from system frameworks pick up the appearance and behavior of this material automatically. If you apply Liquid Glass effects to a custom control, do so sparingly. Liquid Glass seeks to bring attention to the underlying content, and overusing this material in multiple custom controls can provide a subpar user experience by distracting from that content. Limit these effects to the most important functional elements in your app. For developer guidance, see [Applying Liquid Glass to custom views](https://developer.apple.com/documentation/SwiftUI/Applying-Liquid-Glass-to-custom-views).
 
-**Only use clear Liquid Glass for components that appear over visually rich backgrounds.** Liquid Glass provides two variants — [`regular`](/documentation/SwiftUI/Glass/regular) and [`clear`](/documentation/SwiftUI/Glass/clear) — that you can choose when building custom components or styling some system components. The appearance of these variants can differ in response to certain system settings, like if people choose a preferred look for Liquid Glass in their device’s display settings, or turn on accessibility settings that reduce transparency or increase contrast in the interface.
+**Only use clear Liquid Glass for components that appear over visually rich backgrounds.** Liquid Glass provides two variants — [`regular`](https://developer.apple.com/documentation/SwiftUI/Glass/regular) and [`clear`](https://developer.apple.com/documentation/SwiftUI/Glass/clear) — that you can choose when building custom components or styling some system components. The appearance of these variants can differ in response to certain system settings, like if people choose a preferred look for Liquid Glass in their device’s display settings, or turn on accessibility settings that reduce transparency or increase contrast in the interface.
 
 The _regular_ variant blurs and adjusts the luminosity of background content to maintain legibility of text and other foreground elements. Scroll edge effects further enhance legibility by blurring and reducing the opacity of background content. Most system components use this variant. Use the regular variant when background content might create legibility issues, or when components have a significant amount of text, such as alerts, sidebars, or popovers.
 
@@ -236,22 +34,22 @@ The _clear_ variant is highly translucent, which is ideal for prioritizing the v
 
 For optimal contrast and legibility, determine whether to add a dimming layer behind components with clear Liquid Glass:
 
-  * If the underlying content is bright, consider adding a dark dimming layer of 35% opacity. For developer guidance, see [`clear`](/documentation/SwiftUI/Glass/clear).
+  * If the underlying content is bright, consider adding a dark dimming layer of 35% opacity. For developer guidance, see [`clear`](https://developer.apple.com/documentation/SwiftUI/Glass/clear).
 
   * If the underlying content is sufficiently dark, or if you use standard media playback controls from AVKit that provide their own dimming layer, you don’t need to apply a dimming layer.
 
 
 
 
-For guidance about the use of color, see [Liquid Glass color](/design/human-interface-guidelines/color#Liquid-Glass-color).
+For guidance about the use of color, see [Liquid Glass color](https://developer.apple.com/design/human-interface-guidelines/color#Liquid-Glass-color).
 
-## [Standard materials](/design/human-interface-guidelines/materials#Standard-materials)
+## [Standard materials](https://developer.apple.com/design/human-interface-guidelines/materials#Standard-materials)
 
-Use standard materials and effects — such as [blur](/documentation/UIKit/UIBlurEffect), [vibrancy](/documentation/UIKit/UIVibrancyEffect), and [blending modes](/documentation/AppKit/NSVisualEffectView/BlendingMode-swift.enum) — to convey a sense of structure in the content beneath Liquid Glass.
+Use standard materials and effects — such as [blur](https://developer.apple.com/documentation/UIKit/UIBlurEffect), [vibrancy](https://developer.apple.com/documentation/UIKit/UIVibrancyEffect), and [blending modes](https://developer.apple.com/documentation/AppKit/NSVisualEffectView/BlendingMode-swift.enum) — to convey a sense of structure in the content beneath Liquid Glass.
 
 **Choose materials and effects based on semantic meaning and recommended usage.** Avoid selecting a material or effect based on the apparent color it imparts to your interface, because system settings can change its appearance and behavior. Instead, match the material or vibrancy style to your specific use case.
 
-**Help ensure legibility by using vibrant colors on top of materials.** When you use system-defined vibrant colors, you don’t need to worry about colors seeming too dark, bright, saturated, or low contrast in different contexts. Regardless of the material you choose, use vibrant colors on top of it. For guidance, see [System colors](/design/human-interface-guidelines/color#System-colors).
+**Help ensure legibility by using vibrant colors on top of materials.** When you use system-defined vibrant colors, you don’t need to worry about colors seeming too dark, bright, saturated, or low contrast in different contexts. Regardless of the material you choose, use vibrant colors on top of it. For guidance, see [System colors](https://developer.apple.com/design/human-interface-guidelines/color#System-colors).
 
 ![An illustration of a Share button with a translucent background material and a symbol. The symbol uses the systemGray3 color and is difficult to see against the background material.](https://docs-assets.developer.apple.com/published/8a395765f911660a5e16b3bdb30ddd2f/materials-legibility-non-vibrant-label%402x.png)Poor contrast between the material and `systemGray3` label
 
@@ -270,11 +68,11 @@ Use standard materials and effects — such as [blur](/documentation/UIKit/UIBlu
 
 
 
-For developer guidance, see [`Material`](/documentation/SwiftUI/Material).
+For developer guidance, see [`Material`](https://developer.apple.com/documentation/SwiftUI/Material).
 
-## [Platform considerations](/design/human-interface-guidelines/materials#Platform-considerations)
+## [Platform considerations](https://developer.apple.com/design/human-interface-guidelines/materials#Platform-considerations)
 
-### [iOS, iPadOS](/design/human-interface-guidelines/materials#iOS-iPadOS)
+### [iOS, iPadOS](https://developer.apple.com/design/human-interface-guidelines/materials#iOS-iPadOS)
 
 In addition to Liquid Glass, iOS and iPadOS continue to provide four standard materials — ultra-thin, thin, regular (default), and thick — which you can use in the content layer to help create visual distinction.
 
@@ -288,41 +86,41 @@ In addition to Liquid Glass, iOS and iPadOS continue to provide four standard ma
 
 iOS and iPadOS also define vibrant colors for labels, fills, and separators that are specifically designed to work with each material. Labels and fills both have several levels of vibrancy; separators have one level. The name of a level indicates the relative amount of contrast between an element and the background: The default level has the highest contrast, whereas quaternary (when it exists) has the lowest contrast.
 
-Except for quaternary, you can use the following vibrancy values for labels on any material. In general, avoid using quaternary on top of the [`thin`](/documentation/SwiftUI/Material/thin) and [`ultraThin`](/documentation/SwiftUI/Material/ultraThin) materials, because the contrast is too low.
+Except for quaternary, you can use the following vibrancy values for labels on any material. In general, avoid using quaternary on top of the [`thin`](https://developer.apple.com/documentation/SwiftUI/Material/thin) and [`ultraThin`](https://developer.apple.com/documentation/SwiftUI/Material/ultraThin) materials, because the contrast is too low.
 
-  * [`UIVibrancyEffectStyle.label`](/documentation/UIKit/UIVibrancyEffectStyle/label) (default)
+  * [`UIVibrancyEffectStyle.label`](https://developer.apple.com/documentation/UIKit/UIVibrancyEffectStyle/label) (default)
 
-  * [`UIVibrancyEffectStyle.secondaryLabel`](/documentation/UIKit/UIVibrancyEffectStyle/secondaryLabel)
+  * [`UIVibrancyEffectStyle.secondaryLabel`](https://developer.apple.com/documentation/UIKit/UIVibrancyEffectStyle/secondaryLabel)
 
-  * [`UIVibrancyEffectStyle.tertiaryLabel`](/documentation/UIKit/UIVibrancyEffectStyle/tertiaryLabel)
+  * [`UIVibrancyEffectStyle.tertiaryLabel`](https://developer.apple.com/documentation/UIKit/UIVibrancyEffectStyle/tertiaryLabel)
 
-  * [`UIVibrancyEffectStyle.quaternaryLabel`](/documentation/UIKit/UIVibrancyEffectStyle/quaternaryLabel)
+  * [`UIVibrancyEffectStyle.quaternaryLabel`](https://developer.apple.com/documentation/UIKit/UIVibrancyEffectStyle/quaternaryLabel)
 
 
 
 
 You can use the following vibrancy values for fills on all materials.
 
-  * [`UIVibrancyEffectStyle.fill`](/documentation/UIKit/UIVibrancyEffectStyle/fill) (default)
+  * [`UIVibrancyEffectStyle.fill`](https://developer.apple.com/documentation/UIKit/UIVibrancyEffectStyle/fill) (default)
 
-  * [`UIVibrancyEffectStyle.secondaryFill`](/documentation/UIKit/UIVibrancyEffectStyle/secondaryFill)
+  * [`UIVibrancyEffectStyle.secondaryFill`](https://developer.apple.com/documentation/UIKit/UIVibrancyEffectStyle/secondaryFill)
 
-  * [`UIVibrancyEffectStyle.tertiaryFill`](/documentation/UIKit/UIVibrancyEffectStyle/tertiaryFill)
-
-
+  * [`UIVibrancyEffectStyle.tertiaryFill`](https://developer.apple.com/documentation/UIKit/UIVibrancyEffectStyle/tertiaryFill)
 
 
-The system provides a single, default vibrancy value for a [separator](/documentation/UIKit/UIVibrancyEffectStyle/separator), which works well on all materials.
 
-### [macOS](/design/human-interface-guidelines/materials#macOS)
 
-macOS provides several standard materials with designated purposes, and vibrant versions of all [system colors](/design/human-interface-guidelines/color#Specifications). For developer guidance, see [`NSVisualEffectView.Material`](/documentation/AppKit/NSVisualEffectView/Material-swift.enum).
+The system provides a single, default vibrancy value for a [separator](https://developer.apple.com/documentation/UIKit/UIVibrancyEffectStyle/separator), which works well on all materials.
+
+### [macOS](https://developer.apple.com/design/human-interface-guidelines/materials#macOS)
+
+macOS provides several standard materials with designated purposes, and vibrant versions of all [system colors](https://developer.apple.com/design/human-interface-guidelines/color#Specifications). For developer guidance, see [`NSVisualEffectView.Material`](https://developer.apple.com/documentation/AppKit/NSVisualEffectView/Material-swift.enum).
 
 **Choose when to allow vibrancy in custom views and controls.** Depending on configuration and system settings, system views and controls use vibrancy to make foreground content stand out against any background. Test your interface in a variety of contexts to discover when vibrancy enhances the appearance and improves communication.
 
-**Choose a background blending mode that complements your interface design.** macOS defines two modes that blend background content: behind window and within window. For developer guidance, see [`NSVisualEffectView.BlendingMode`](/documentation/AppKit/NSVisualEffectView/BlendingMode-swift.enum).
+**Choose a background blending mode that complements your interface design.** macOS defines two modes that blend background content: behind window and within window. For developer guidance, see [`NSVisualEffectView.BlendingMode`](https://developer.apple.com/documentation/AppKit/NSVisualEffectView/BlendingMode-swift.enum).
 
-### [tvOS](/design/human-interface-guidelines/materials#tvOS)
+### [tvOS](https://developer.apple.com/design/human-interface-guidelines/materials#tvOS)
 
 In tvOS, Liquid Glass appears throughout navigation elements and system experiences such as Top Shelf and Control Center. Certain interface elements, like image views and buttons, adopt Liquid Glass when they gain focus.
 
@@ -332,12 +130,12 @@ In addition to Liquid Glass, tvOS continues to provide standard materials, which
 
 Material| Recommended for  
 ---|---  
-[`ultraThin`](/documentation/SwiftUI/Material/ultraThin)| Full-screen views that require a light color scheme  
-[`thin`](/documentation/SwiftUI/Material/thin)| Overlay views that partially obscure onscreen content and require a light color scheme  
-[`regular`](/documentation/SwiftUI/Material/regular)| Overlay views that partially obscure onscreen content  
-[`thick`](/documentation/SwiftUI/Material/thick)| Overlay views that partially obscure onscreen content and require a dark color scheme  
+[`ultraThin`](https://developer.apple.com/documentation/SwiftUI/Material/ultraThin)| Full-screen views that require a light color scheme  
+[`thin`](https://developer.apple.com/documentation/SwiftUI/Material/thin)| Overlay views that partially obscure onscreen content and require a light color scheme  
+[`regular`](https://developer.apple.com/documentation/SwiftUI/Material/regular)| Overlay views that partially obscure onscreen content  
+[`thick`](https://developer.apple.com/documentation/SwiftUI/Material/thick)| Overlay views that partially obscure onscreen content and require a dark color scheme  
   
-### [visionOS](/design/human-interface-guidelines/materials#visionOS)
+### [visionOS](https://developer.apple.com/design/human-interface-guidelines/materials#visionOS)
 
 In visionOS, windows generally use an unmodifiable system-defined material called _glass_ that helps people stay grounded by letting light, the current Environment, virtual content, and objects in people’s surroundings show through. Glass is an adaptive material that limits the range of background color information so a window can continue to provide contrast for app content while becoming brighter or darker depending on people’s physical surroundings and other virtual content.
 
@@ -363,11 +161,11 @@ visionOS doesn’t have a distinct Dark Mode setting. Instead, glass automatical
 
 **If necessary, choose materials that help you create visual separations or indicate interactivity in your app.** If you need to create a custom component, you may need to specify a system material for it. Use the following examples for guidance.
 
-  * The [`thin`](/documentation/SwiftUI/Material/thin) material brings attention to interactive elements like buttons and selected items.
+  * The [`thin`](https://developer.apple.com/documentation/SwiftUI/Material/thin) material brings attention to interactive elements like buttons and selected items.
 
-  * The [`regular`](/documentation/SwiftUI/Material/regular) material can help you visually separate sections of your app, like a sidebar or a grouped table view.
+  * The [`regular`](https://developer.apple.com/documentation/SwiftUI/Material/regular) material can help you visually separate sections of your app, like a sidebar or a grouped table view.
 
-  * The [`thick`](/documentation/SwiftUI/Material/thick) material lets you create a dark element that remains visually distinct when it’s on top of an area that uses a `regular` background.
+  * The [`thick`](https://developer.apple.com/documentation/SwiftUI/Material/thick) material lets you create a dark element that remains visually distinct when it’s on top of an area that uses a `regular` background.
 
 
 
@@ -378,11 +176,11 @@ To ensure foreground content remains legible when it displays on top of a materi
 
 visionOS defines three vibrancy values that help you communicate a hierarchy of text, symbols, and fills.
 
-  * Use [`UIVibrancyEffectStyle.label`](/documentation/UIKit/UIVibrancyEffectStyle/label) for standard text.
+  * Use [`UIVibrancyEffectStyle.label`](https://developer.apple.com/documentation/UIKit/UIVibrancyEffectStyle/label) for standard text.
 
-  * Use [`UIVibrancyEffectStyle.secondaryLabel`](/documentation/UIKit/UIVibrancyEffectStyle/secondaryLabel) for descriptive text like footnotes and subtitles.
+  * Use [`UIVibrancyEffectStyle.secondaryLabel`](https://developer.apple.com/documentation/UIKit/UIVibrancyEffectStyle/secondaryLabel) for descriptive text like footnotes and subtitles.
 
-  * Use [`UIVibrancyEffectStyle.tertiaryLabel`](/documentation/UIKit/UIVibrancyEffectStyle/tertiaryLabel) for inactive elements, and only when text doesn’t need high legibility.
+  * Use [`UIVibrancyEffectStyle.tertiaryLabel`](https://developer.apple.com/documentation/UIKit/UIVibrancyEffectStyle/tertiaryLabel) for inactive elements, and only when text doesn’t need high legibility.
 
 
 
@@ -393,41 +191,41 @@ visionOS defines three vibrancy values that help you communicate a hierarchy of 
 
 ![An illustration of a Share button with a translucent background material and a symbol. The symbol uses the tertiary vibrant label color and has muted contrast against the background material.](https://docs-assets.developer.apple.com/published/b3b80e5f23b286f6c7897780676e6dfe/materials-visionos-label-vibrant-tertiary%402x.png)`tertiaryLabel`
 
-### [watchOS](/design/human-interface-guidelines/materials#watchOS)
+### [watchOS](https://developer.apple.com/design/human-interface-guidelines/materials#watchOS)
 
 **Use materials to provide context in a full-screen modal view.** Because full-screen modal views are common in watchOS, the contrast provided by material layers can help orient people in your app and distinguish controls and system elements from other content. Avoid removing or replacing material backgrounds for modal sheets when they’re provided by default.
 
 ![An illustration of a modal view in watchOS with an example title, descriptive text, and a single action button. The modal completely covers the screen with a transparent material, and uses a thinner material for the button along with vibrant label text.](https://docs-assets.developer.apple.com/published/b9bdbaa947d461e98681c9fbb87a7052/watchos-modal-view-material-background%402x.png)
 
-## [Resources](/design/human-interface-guidelines/materials#Resources)
+## [Resources](https://developer.apple.com/design/human-interface-guidelines/materials#Resources)
 
-#### [Related](/design/human-interface-guidelines/materials#Related)
+#### [Related](https://developer.apple.com/design/human-interface-guidelines/materials#Related)
 
-[Color](/design/human-interface-guidelines/color)
+[Color](https://developer.apple.com/design/human-interface-guidelines/color)
 
-[Accessibility](/design/human-interface-guidelines/accessibility)
+[Accessibility](https://developer.apple.com/design/human-interface-guidelines/accessibility)
 
-[Dark Mode](/design/human-interface-guidelines/dark-mode)
+[Dark Mode](https://developer.apple.com/design/human-interface-guidelines/dark-mode)
 
-#### [Developer documentation](/design/human-interface-guidelines/materials#Developer-documentation)
+#### [Developer documentation](https://developer.apple.com/design/human-interface-guidelines/materials#Developer-documentation)
 
-[Adopting Liquid Glass](/documentation/TechnologyOverviews/adopting-liquid-glass)
+[Adopting Liquid Glass](https://developer.apple.com/documentation/TechnologyOverviews/adopting-liquid-glass)
 
-[`glassEffect(_:in:)`](/documentation/SwiftUI/View/glassEffect\(_:in:\)) — SwiftUI
+[`glassEffect(_:in:)`](https://developer.apple.com/documentation/SwiftUI/View/glassEffect\(_:in:\)) — SwiftUI
 
-[`Material`](/documentation/SwiftUI/Material) — SwiftUI
+[`Material`](https://developer.apple.com/documentation/SwiftUI/Material) — SwiftUI
 
-[`UIVisualEffectView`](/documentation/UIKit/UIVisualEffectView) — UIKit
+[`UIVisualEffectView`](https://developer.apple.com/documentation/UIKit/UIVisualEffectView) — UIKit
 
-[`NSVisualEffectView`](/documentation/AppKit/NSVisualEffectView) — AppKit
+[`NSVisualEffectView`](https://developer.apple.com/documentation/AppKit/NSVisualEffectView) — AppKit
 
-#### [Videos](/design/human-interface-guidelines/materials#Videos)
+#### [Videos](https://developer.apple.com/design/human-interface-guidelines/materials#Videos)
 
 [![](https://devimages-cdn.apple.com/wwdc-services/images/3055294D-836B-4513-B7B0-0BC5666246B0/5CD0E251-424E-490F-89CF-1E64848209A6/9910_wide_250x141_1x.jpg) Meet Liquid Glass ](https://developer.apple.com/videos/play/wwdc2025/219)
 
 [![](https://devimages-cdn.apple.com/wwdc-services/images/3055294D-836B-4513-B7B0-0BC5666246B0/1AAA030E-2ECA-47D8-AE09-6D7B72A840F6/10044_wide_250x141_1x.jpg) Get to know the new design system ](https://developer.apple.com/videos/play/wwdc2025/356)
 
-## [Change log](/design/human-interface-guidelines/materials#Change-log)
+## [Change log](https://developer.apple.com/design/human-interface-guidelines/materials#Change-log)
 
 Date| Changes  
 ---|---  
@@ -438,156 +236,3 @@ December 5, 2023| Updated descriptions of the various material types, and clarif
 June 21, 2023| Updated to include guidance for visionOS.  
 June 5, 2023| Added guidance on using materials to provide context and orientation in watchOS apps.  
   
-Current page is Materials 
-
-##### Supported platforms
-
-  *   *   *   *   *   * 
-
-
-  * [ Materials ](/design/human-interface-guidelines/materials#app-top)
-  * [ Liquid Glass ](/design/human-interface-guidelines/materials#Liquid-Glass)
-  * [ Standard materials ](/design/human-interface-guidelines/materials#Standard-materials)
-  * [ Platform considerations ](/design/human-interface-guidelines/materials#Platform-considerations)
-  * [ Resources ](/design/human-interface-guidelines/materials#Resources)
-  * [ Change log ](/design/human-interface-guidelines/materials#Change-log)
-
-
-
-[Apple](https://www.apple.com)
-
-  1. [Developer](/)
-  2. [ Documentation ](/documentation/)
-
-
-
-###  Platforms 
-
-Toggle Menu 
-
-  * [iOS](/ios/)
-  * [iPadOS](/ipados/)
-  * [macOS](/macos/)
-  * [tvOS](/tvos/)
-  * [visionOS](/visionos/)
-  * [watchOS](/watchos/)
-
-
-
-###  Tools 
-
-Toggle Menu 
-
-  * [Swift](/swift/)
-  * [SwiftUI](/swiftui/)
-  * [Swift Playground](/swift-playground/)
-  * [TestFlight](/testflight/)
-  * [Xcode](/xcode/)
-  * [Xcode Cloud](/xcode-cloud/)
-  * [SF Symbols](/sf-symbols/)
-
-
-
-###  Topics & Technologies 
-
-Toggle Menu 
-
-  * [Accessibility](/accessibility/)
-  * [Accessories](/accessories/)
-  * [App Extension](/app-extensions/)
-  * [App Store](/app-store/)
-  * [Audio & Video](/audio/)
-  * [Augmented Reality](/augmented-reality/)
-  * [Design](/design/)
-  * [Distribution](/distribute/)
-  * [Education](/education/)
-  * [Fonts](/fonts/)
-  * [Games](/games/)
-  * [Health & Fitness](/health-fitness/)
-  * [In-App Purchase](/in-app-purchase/)
-  * [Localization](/localization/)
-  * [Maps & Location](/maps/)
-  * [Machine Learning & AI](/machine-learning/)
-  * [Open Source](https://opensource.apple.com/)
-  * [Security](/security/)
-  * [Safari & Web](/safari/)
-
-
-
-###  Resources 
-
-Toggle Menu 
-
-  *   * [Documentation](/documentation/)
-  * [Tutorials](/learn/)
-  * [Downloads](/download/)
-  * [Forums](/forums/)
-  * [Videos](/videos/)
-
-
-
-###  Support 
-
-Toggle Menu 
-
-  * [Support Articles](/support/articles/)
-  * [Contact Us](/contact/)
-  * [Bug Reporting](/bug-reporting/)
-  * [System Status](/system-status/)
-
-
-
-###  Account 
-
-Toggle Menu 
-
-  * [Apple Developer](/account/)
-  * [App Store Connect](https://appstoreconnect.apple.com/)
-  * [Certificates, IDs, & Profiles](/account/ios/certificate/)
-  * [Feedback Assistant](https://feedbackassistant.apple.com/)
-
-
-
-###  Programs 
-
-Toggle Menu 
-
-  * [Apple Developer Program](/programs/)
-  * [Apple Developer Enterprise Program](/programs/enterprise/)
-  * [App Store Small Business Program](/app-store/small-business-program/)
-  * [MFi Program](https://mfi.apple.com/)
-  * [News Partner Program](/programs/news-partner/)
-  * [Video Partner Program](/programs/video-partner/)
-  * [Security Bounty Program](/security-bounty/)
-  * [Security Research Device Program](/programs/security-research-device/)
-
-
-
-###  Events 
-
-Toggle Menu 
-
-  * [Meet with Apple](/events/)
-  * [Apple Developer Centers](/events/developer-centers/)
-  * [App Store Awards](/app-store/app-store-awards/)
-  * [Apple Design Awards](/design/awards/)
-  * [Apple Developer Academies](/academies/)
-  * [WWDC](/wwdc/)
-
-
-
-To submit feedback on documentation, visit [Feedback Assistant](applefeedback://new?form_identifier=developertools.fba&answers%5B%3Aarea%5D=seedADC%3Adevpubs&answers%5B%3Adoc_type_req%5D=Technology%20Documentation&answers%5B%3Adocumentation_link_req%5D=https%3A%2F%2Fdeveloper.apple.com%2Fdesign%2Fhuman-interface-guidelines%2Fmaterials).
-
-Select a color scheme preference
-
-Light
-
-Dark
-
-Auto
-
-English  简体中文  日本語  한국어 
-
-Copyright © 2026 [Apple Inc.](https://www.apple.com) All rights reserved. 
-
-[ Terms of Use ](https://www.apple.com/legal/internet-services/terms/site.html)[ Privacy Policy ](https://www.apple.com/legal/privacy/)[ Agreements and Guidelines ](/support/terms/)

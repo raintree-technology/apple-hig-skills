@@ -1,214 +1,6 @@
 ---
 title: "Sign in with Apple | Apple Developer Documentation"
 source: https://developer.apple.com/design/human-interface-guidelines/sign-in-with-apple
----
-
-# This page requires JavaScript.
-
-Please turn on JavaScript in your browser and refresh the page to view its content.
-
-Skip Navigation 
-
-  * Global Nav Open MenuGlobal Nav Close Menu
-  * [Apple Developer](/)
-
-
-
-[Search Developer Cancel ](/search/)
-
-  * [Apple Developer](/)
-  * [News](/news/)
-  * [Discover](/discover/)
-  * [Design](/design/)
-  * [Develop](/develop/)
-  * [Distribute](/distribute/)
-  * [Support](/support/)
-  * [Account](/account/)
-  * [](/search/)
-
-
-
-Cancel 
-
-Only search within “Human Interface Guidelines”
-
-### Quick Links
-
-  * [Downloads](/download/)
-  * [Documentation](/documentation/)
-  * [Sample Code](/documentation/samplecode/)
-  * [Videos](/videos/)
-  * [Forums](/forums/)
-
-5 Quick Links
-
-[ Design ](/design/)
-
-Open Menu 
-
-  * [ Overview ](https://developer.apple.com/design/)
-  * [ What’s New ](https://developer.apple.com/design/whats-new/)
-  * [ Get Started ](https://developer.apple.com/design/get-started/)
-  * [ Guidelines ](/design/human-interface-guidelines)
-  * [ Resources ](https://developer.apple.com/design/resources/)
-
-
-
-## Human Interface Guidelines
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/88a8c8fdc81e5fc382997c9ec3822eab/augmented-reality.svg)
-
-5 of 29 symbols inside 525506332 [Augmented reality](/design/human-interface-guidelines/augmented-reality)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/7a3379bd1fb861217bd79abdc0c175b9/carekit.svg)
-
-6 of 29 symbols inside 525506332 [CareKit](/design/human-interface-guidelines/carekit)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/3bdef2196e420f50c41a566422cc1e4c/carplay.svg)
-
-7 of 29 symbols inside 525506332 [CarPlay](/design/human-interface-guidelines/carplay)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/1a2766daa7645cc3782710ac0977e6d5/game-center.svg)
-
-8 of 29 symbols inside 525506332 [Game Center](/design/human-interface-guidelines/game-center)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/953d6d049f0943017089f645f030f739/generative-ai.svg)
-
-9 of 29 symbols inside 525506332 [Generative AI](/design/human-interface-guidelines/generative-ai)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/1fd95cf0bcefa3ddb3bd937167c4108e/healthkit.svg)
-
-10 of 29 symbols inside 525506332 [HealthKit](/design/human-interface-guidelines/healthkit)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/73b5b486f329ea3c756fe1016fb5d9b6/homekit.svg)
-
-11 of 29 symbols inside 525506332 [HomeKit](/design/human-interface-guidelines/homekit)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/8ee482d4f70affa6bae663c8d51102d0/icloud.svg)
-
-12 of 29 symbols inside 525506332 [iCloud](/design/human-interface-guidelines/icloud)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/d06f906d625d003fce04c3f46a88e2a0/id-verifier.svg)
-
-13 of 29 symbols inside 525506332 [ID Verifier](/design/human-interface-guidelines/id-verifier)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/ef6f7770a91b075a14f08932b4ab28a2/imessage-app.svg)
-
-14 of 29 symbols inside 525506332 [iMessage apps and stickers](/design/human-interface-guidelines/imessage-apps-and-stickers)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/d6e92e5cc61c45c389938daf49834a04/in-app-purchase.svg)
-
-15 of 29 symbols inside 525506332 [In-app purchase](/design/human-interface-guidelines/in-app-purchase)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/25ea28efbe5e8676fd29370fad560f75/live-photos.svg)
-
-16 of 29 symbols inside 525506332 [Live Photos](/design/human-interface-guidelines/live-photos)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/702ebb485435bf1f6e6c4e2d43edd423/mac-catalyst.svg)
-
-17 of 29 symbols inside 525506332 [Mac Catalyst](/design/human-interface-guidelines/mac-catalyst)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/0fc7417f15cf064f38a83bd30dee77cf/machine-learning.svg)
-
-18 of 29 symbols inside 525506332 [Machine learning](/design/human-interface-guidelines/machine-learning)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/88dc6f3ae567c1430f225d6707e6602b/maps.svg)
-
-19 of 29 symbols inside 525506332 [Maps](/design/human-interface-guidelines/maps)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/576e343bdc0f0f102a11a0f6253005a3/nfc.svg)
-
-20 of 29 symbols inside 525506332 [NFC](/design/human-interface-guidelines/nfc)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/cc7b6cfb42f8feb3e386350f0d535688/photo-editing.svg)
-
-21 of 29 symbols inside 525506332 [Photo editing](/design/human-interface-guidelines/photo-editing)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/09f442c9edd6adfc7b96ba62343974f5/researchkit.svg)
-
-22 of 29 symbols inside 525506332 [ResearchKit](/design/human-interface-guidelines/researchkit)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/2157ce221f6ce83b22b10819d0637fac/shareplay.svg)
-
-23 of 29 symbols inside 525506332 [SharePlay](/design/human-interface-guidelines/shareplay)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/abbb59bae34bcc697e70eb31e1cbf9de/shazamkit.svg)
-
-24 of 29 symbols inside 525506332 [ShazamKit](/design/human-interface-guidelines/shazamkit)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/e7797e1e1209d2513f62a929deabc4e6/sign-in-with-apple.svg)
-
-25 of 29 symbols inside 525506332 [Sign in with Apple](/design/human-interface-guidelines/sign-in-with-apple)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/4f44062987111f81a97052a652371e4a/siri.svg)
-
-26 of 29 symbols inside 525506332 [Siri](/design/human-interface-guidelines/siri)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/8165606b034808bdab7a2eccfc5ba01e/tap-to-pay-on-iphone.svg)
-
-27 of 29 symbols inside 525506332 [Tap to Pay on iPhone](/design/human-interface-guidelines/tap-to-pay-on-iphone)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/c2e174aba030d1a7de30e3fcb0e06ed7/voiceover.svg)
-
-28 of 29 symbols inside 525506332 [VoiceOver](/design/human-interface-guidelines/voiceover)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/496355b11d40fa2ff98a232f5692a3da/wallet.svg)
-
-29 of 29 symbols inside 525506332 [Wallet](/design/human-interface-guidelines/wallet)
-
-35 items were found. Tab back to navigate through them. 
-
-Navigator is ready 
 
 # Sign in with Apple
 
@@ -216,13 +8,13 @@ Sign in with Apple provides a fast, private way to sign into apps and websites, 
 
 ![A sketch of the Apple logo, suggesting Sign in with Apple. The image is overlaid with rectangular and circular grid lines and is tinted blue to subtly reflect the blue in the original six-color Apple logo.](https://docs-assets.developer.apple.com/published/0e77230e8cf51c67c7d3a883ec8e0373/technologies-SIWA-intro%402x.png)
 
-Supporting Sign in with Apple lets people use the Apple Account they already have to sign in or sign up, and skip filling out forms, verifying email addresses, and choosing passwords. In cases where you choose to ask for a name and email address, people have the option to share a unique, random email address that automatically relays messages to their personal email address. For developer guidance, see [Authentication Services](/documentation/AuthenticationServices).
+Supporting Sign in with Apple lets people use the Apple Account they already have to sign in or sign up, and skip filling out forms, verifying email addresses, and choosing passwords. In cases where you choose to ask for a name and email address, people have the option to share a unique, random email address that automatically relays messages to their personal email address. For developer guidance, see [Authentication Services](https://developer.apple.com/documentation/AuthenticationServices).
 
 You can offer Sign in with Apple in every version of your app or website across all platforms — including non-Apple platforms.
 
 Sign in with Apple makes it easy for people to authenticate with Face ID, Touch ID, or Optic ID and has two-factor authentication built in for an added layer of security. Apple doesn’t use Sign in with Apple to profile people or their activity in apps.
 
-## [Offering Sign in with Apple](/design/human-interface-guidelines/sign-in-with-apple#Offering-Sign-in-with-Apple)
+## [Offering Sign in with Apple](https://developer.apple.com/design/human-interface-guidelines/sign-in-with-apple#Offering-Sign-in-with-Apple)
 
 Follow these guidelines to offer Sign in with Apple when it’s most convenient for people.
 
@@ -249,7 +41,7 @@ Follow these guidelines to offer Sign in with Apple when it’s most convenient 
 
 **Indicate when people are currently signed in.** You can help people confirm their sign-in method by displaying a phrase like “Using Sign in with Apple” in places like a settings or account interface.
 
-## [Collecting data](/design/human-interface-guidelines/sign-in-with-apple#Collecting-data)
+## [Collecting data](https://developer.apple.com/design/human-interface-guidelines/sign-in-with-apple#Collecting-data)
 
 People appreciate Sign in with Apple for its privacy and convenience. Although some apps or websites may require additional information — such as a date of birth or a region of residence — it’s essential to minimize your requests for data as people set up an account. Build on the trust that people have in Sign in with Apple by describing why you need additional data and clearly displaying the data you receive.
 
@@ -272,13 +64,13 @@ People appreciate Sign in with Apple for its privacy and convenience. Although s
 
 **Be transparent about the data you collect.** People value knowing how you use the data that they share with you. One way you can be transparent is to welcome people by using the name or email address they shared. Doing this helps establish how you use this information and, for a relay address, shows people where to find it in the future. If you don’t display all the data that people provide, they are likely to wonder why you asked for it.
 
-## [Displaying buttons](/design/human-interface-guidelines/sign-in-with-apple#Displaying-buttons)
+## [Displaying buttons](https://developer.apple.com/design/human-interface-guidelines/sign-in-with-apple#Displaying-buttons)
 
-Apple provides several Sign in with Apple buttons you can use to let people set up an account and sign in. If necessary, you can create a custom button to offer Sign in with Apple; for guidelines, see [Creating a custom Sign in with Apple button](/design/human-interface-guidelines/sign-in-with-apple#Creating-a-custom-Sign-in-with-Apple-button).
+Apple provides several Sign in with Apple buttons you can use to let people set up an account and sign in. If necessary, you can create a custom button to offer Sign in with Apple; for guidelines, see [Creating a custom Sign in with Apple button](https://developer.apple.com/design/human-interface-guidelines/sign-in-with-apple#Creating-a-custom-Sign-in-with-Apple-button).
 
 **Prominently display a Sign in with Apple button.** Make a Sign in with Apple button no smaller than other sign-in buttons, and avoid making people scroll to see the button.
 
-### [Using the system-provided buttons](/design/human-interface-guidelines/sign-in-with-apple#Using-the-system-provided-buttons)
+### [Using the system-provided buttons](https://developer.apple.com/design/human-interface-guidelines/sign-in-with-apple#Using-the-system-provided-buttons)
 
 When you use the system-provided APIs to create a Sign in with Apple button, you get the following advantages.
 
@@ -295,7 +87,7 @@ When you use the system-provided APIs to create a Sign in with Apple button, you
 
 
 
-For developer guidance, see [`ASAuthorizationAppleIDButton`](/documentation/AuthenticationServices/ASAuthorizationAppleIDButton) (iOS, macOS, and tvOS), [`WKInterfaceAuthorizationAppleIDButton`](/documentation/WatchKit/WKInterfaceAuthorizationAppleIDButton) (watchOS), and [Displaying Sign in with Apple buttons on the web](/documentation/signinwithapple/displaying-sign-in-with-apple-buttons-on-the-web). You can also visit [Sign in with Apple button](https://appleid.apple.com/signinwithapple/button) to view and adjust live previews of web-based buttons and get the code.
+For developer guidance, see [`ASAuthorizationAppleIDButton`](https://developer.apple.com/documentation/AuthenticationServices/ASAuthorizationAppleIDButton) (iOS, macOS, and tvOS), [`WKInterfaceAuthorizationAppleIDButton`](https://developer.apple.com/documentation/WatchKit/WKInterfaceAuthorizationAppleIDButton) (watchOS), and [Displaying Sign in with Apple buttons on the web](https://developer.apple.com/documentation/signinwithapple/displaying-sign-in-with-apple-buttons-on-the-web). You can also visit [Sign in with Apple button](https://appleid.apple.com/signinwithapple/button) to view and adjust live previews of web-based buttons and get the code.
 
 The system provides several variants of the button title. Depending on the platform on which your content runs, choose the variant that fits the terminology of your sign-in experience and use it consistently throughout your interfaces.
 
@@ -313,7 +105,7 @@ For watchOS, the system provides one title:  Sign in.
 
 Depending on the platform, the system provides up to three options for the appearance of the Sign in with Apple button: white, white with an outline, and black. Choose the appearance that works best with the background on which the button displays.
 
-#### [White](/design/human-interface-guidelines/sign-in-with-apple#White)
+#### [White](https://developer.apple.com/design/human-interface-guidelines/sign-in-with-apple#White)
 
 The white style is available on all platforms and the web. Use this style on dark backgrounds that provide sufficient contrast.
 
@@ -325,7 +117,7 @@ The white style is available on all platforms and the web. Use this style on dar
 
 ![An X in a circle to indicate incorrect usage.](https://docs-assets.developer.apple.com/published/209f6f0fc8ad99d9bf59e12d82d06584/crossout%402x.png)
 
-#### [White with outline](/design/human-interface-guidelines/sign-in-with-apple#White-with-outline)
+#### [White with outline](https://developer.apple.com/design/human-interface-guidelines/sign-in-with-apple#White-with-outline)
 
 The white outlined style is available in iOS, macOS, and the web. Use this style on white or light-color backgrounds that don’t provide sufficient contrast with the white button fill. Avoid using this style on a dark or saturated background, because the black outline can add visual clutter; instead, use the [white](https://developer.apple.com/design/human-interface-guidelines/sign-in-with-apple#White) style to contrast with a dark background.
 
@@ -337,7 +129,7 @@ The white outlined style is available in iOS, macOS, and the web. Use this style
 
 ![An X in a circle to indicate incorrect usage.](https://docs-assets.developer.apple.com/published/209f6f0fc8ad99d9bf59e12d82d06584/crossout%402x.png)
 
-#### [Black](/design/human-interface-guidelines/sign-in-with-apple#Black)
+#### [Black](https://developer.apple.com/design/human-interface-guidelines/sign-in-with-apple#Black)
 
 The black style is available on all platforms and the web. Use this style on white or light-color backgrounds that provide sufficient contrast; don’t use it on black or dark backgrounds.
 
@@ -353,9 +145,9 @@ Unlike the black Sign in with Apple button for other platforms, the watchOS butt
 
 ![An illustration of a dark shaded button for watchOS on a black background, that includes the Apple logo and text that reads 'Sign in'.](https://docs-assets.developer.apple.com/published/dbd9944a0b54c61b4ad31ae7a1ba5a82/apple-account-watch-44mm%402x.png)
 
-#### [Button size and corner radius](/design/human-interface-guidelines/sign-in-with-apple#Button-size-and-corner-radius)
+#### [Button size and corner radius](https://developer.apple.com/design/human-interface-guidelines/sign-in-with-apple#Button-size-and-corner-radius)
 
-**Adjust the corner radius to match the appearance of other buttons in your app.** By default, the Sign in with Apple button has rounded corners. In iOS, macOS, and the web, you can change the corner radius to produce a button with square corners or a capsule-shape button. For developer guidance, see [`cornerRadius`](/documentation/AuthenticationServices/ASAuthorizationAppleIDButton/cornerRadius) (iOS and macOS) and [Displaying Sign in with Apple buttons on the web](/documentation/signinwithapple/displaying-sign-in-with-apple-buttons-on-the-web).
+**Adjust the corner radius to match the appearance of other buttons in your app.** By default, the Sign in with Apple button has rounded corners. In iOS, macOS, and the web, you can change the corner radius to produce a button with square corners or a capsule-shape button. For developer guidance, see [`cornerRadius`](https://developer.apple.com/documentation/AuthenticationServices/ASAuthorizationAppleIDButton/cornerRadius) (iOS and macOS) and [Displaying Sign in with Apple buttons on the web](https://developer.apple.com/documentation/signinwithapple/displaying-sign-in-with-apple-buttons-on-the-web).
 
 ![An illustration of a 'Sign in with Apple' button with 90-degree corners.](https://docs-assets.developer.apple.com/published/4f279ff515dfcb50faf6f085acceffb9/apple-account-minimum-corner-radii%402x.png)Minimum corner radius
 
@@ -369,7 +161,7 @@ Minimum width| Minimum height| Minimum margin
 ---|---|---  
 140pt (140px @1x, 280px @2x)| 30pt (30px @1x, 60px @2x)| 1/10 of the button’s height  
   
-### [Creating a custom Sign in with Apple button](/design/human-interface-guidelines/sign-in-with-apple#Creating-a-custom-Sign-in-with-Apple-button)
+### [Creating a custom Sign in with Apple button](https://developer.apple.com/design/human-interface-guidelines/sign-in-with-apple#Creating-a-custom-Sign-in-with-Apple-button)
 
 If your interface requires it, you can create a custom Sign in with Apple button for iOS, macOS, or the web. For example, you may want to align logos across multiple sign-in buttons, use buttons that display only a logo, or adjust the button’s font, bezel, or background appearance to coordinate with your UI.
 
@@ -424,7 +216,7 @@ To coordinate with your app design, you can change:
 
 
 
-#### [Custom buttons with a logo and text](/design/human-interface-guidelines/sign-in-with-apple#Custom-buttons-with-a-logo-and-text)
+#### [Custom buttons with a logo and text](https://developer.apple.com/design/human-interface-guidelines/sign-in-with-apple#Custom-buttons-with-a-logo-and-text)
 
 **Choose the format of the logo file based on the height of your button.** Because SVG and PDF are vector-based formats, you can use these files in buttons of any height. Use the PNG files only in buttons that are 44 points tall, which is the default (and recommended) button height in iOS. Logos are available in small, medium, and large sizes, so you can match logo sizes in all the sign-up buttons you display.
 
@@ -448,7 +240,7 @@ Minimum width| Minimum height| Minimum margin
 ---|---|---  
 140 pt (140 px @1x, 280 px @2x)| 30 pt (30 px @1x, 60 px @2x)| 1/10 of the button’s height  
   
-#### [Custom logo-only buttons](/design/human-interface-guidelines/sign-in-with-apple#Custom-logo-only-buttons)
+#### [Custom logo-only buttons](https://developer.apple.com/design/human-interface-guidelines/sign-in-with-apple#Custom-logo-only-buttons)
 
 **Choose the format of the logo file based on the size of your button.** The downloadable artwork for logo-only buttons is available in SVG, PDF, and PNG formats. Use the vector-based SVG and PDF formats for buttons of any size; use the PNG format only in buttons that measure 44x44 pt.
 
@@ -464,23 +256,23 @@ Minimum width| Minimum height| Minimum margin
 
 **Maintain a minimum margin around the button.** Ensure the margin measures at least 1/10 of the button’s height.
 
-## [Platform considerations](/design/human-interface-guidelines/sign-in-with-apple#Platform-considerations)
+## [Platform considerations](https://developer.apple.com/design/human-interface-guidelines/sign-in-with-apple#Platform-considerations)
 
  _No additional considerations for iOS, iPadOS, macOS, tvOS, visionOS, or watchOS._
 
-## [Resources](/design/human-interface-guidelines/sign-in-with-apple#Resources)
+## [Resources](https://developer.apple.com/design/human-interface-guidelines/sign-in-with-apple#Resources)
 
-#### [Related](/design/human-interface-guidelines/sign-in-with-apple#Related)
+#### [Related](https://developer.apple.com/design/human-interface-guidelines/sign-in-with-apple#Related)
 
 [Sign in with Apple button](https://appleid.apple.com/signinwithapple/button)
 
-#### [Developer documentation](/design/human-interface-guidelines/sign-in-with-apple#Developer-documentation)
+#### [Developer documentation](https://developer.apple.com/design/human-interface-guidelines/sign-in-with-apple#Developer-documentation)
 
-[Authentication Services](/documentation/AuthenticationServices)
+[Authentication Services](https://developer.apple.com/documentation/AuthenticationServices)
 
-[Displaying Sign in with Apple buttons on the web](/documentation/signinwithapple/displaying-sign-in-with-apple-buttons-on-the-web) — Sign in with Apple
+[Displaying Sign in with Apple buttons on the web](https://developer.apple.com/documentation/signinwithapple/displaying-sign-in-with-apple-buttons-on-the-web) — Sign in with Apple
 
-#### [Videos](/design/human-interface-guidelines/sign-in-with-apple#Videos)
+#### [Videos](https://developer.apple.com/design/human-interface-guidelines/sign-in-with-apple#Videos)
 
 [![](https://devimages-cdn.apple.com/wwdc-services/images/119/B671AE75-5224-4AA1-BB31-F4CBA7E95342/5002_wide_250x141_1x.jpg) Move beyond passwords ](https://developer.apple.com/videos/play/wwdc2021/10106)
 
@@ -488,163 +280,9 @@ Minimum width| Minimum height| Minimum margin
 
 [![](https://devimages-cdn.apple.com/wwdc-services/images/48/D792218F-60EA-427D-8034-204243D383C7/2645_wide_250x141_1x.jpg) Introducing Sign In with Apple ](https://developer.apple.com/videos/play/wwdc2019/706)
 
-## [Change log](/design/human-interface-guidelines/sign-in-with-apple#Change-log)
+## [Change log](https://developer.apple.com/design/human-interface-guidelines/sign-in-with-apple#Change-log)
 
 Date| Changes  
 ---|---  
 September 14, 2022| Refined guidance on supporting existing accounts, helping people set up a new account, and indicating the current sign-in status. Consolidated guidance into one page.  
   
-Current page is Sign in with Apple 
-
-##### Supported platforms
-
-  *   *   *   *   *   * 
-
-
-  * [ Sign in with Apple ](/design/human-interface-guidelines/sign-in-with-apple#app-top)
-  * [ Offering Sign in with Apple ](/design/human-interface-guidelines/sign-in-with-apple#Offering-Sign-in-with-Apple)
-  * [ Collecting data ](/design/human-interface-guidelines/sign-in-with-apple#Collecting-data)
-  * [ Displaying buttons ](/design/human-interface-guidelines/sign-in-with-apple#Displaying-buttons)
-  * [ Platform considerations ](/design/human-interface-guidelines/sign-in-with-apple#Platform-considerations)
-  * [ Resources ](/design/human-interface-guidelines/sign-in-with-apple#Resources)
-  * [ Change log ](/design/human-interface-guidelines/sign-in-with-apple#Change-log)
-
-
-
-[Apple](https://www.apple.com)
-
-  1. [Developer](/)
-  2. [ Documentation ](/documentation/)
-
-
-
-###  Platforms 
-
-Toggle Menu 
-
-  * [iOS](/ios/)
-  * [iPadOS](/ipados/)
-  * [macOS](/macos/)
-  * [tvOS](/tvos/)
-  * [visionOS](/visionos/)
-  * [watchOS](/watchos/)
-
-
-
-###  Tools 
-
-Toggle Menu 
-
-  * [Swift](/swift/)
-  * [SwiftUI](/swiftui/)
-  * [Swift Playground](/swift-playground/)
-  * [TestFlight](/testflight/)
-  * [Xcode](/xcode/)
-  * [Xcode Cloud](/xcode-cloud/)
-  * [SF Symbols](/sf-symbols/)
-
-
-
-###  Topics & Technologies 
-
-Toggle Menu 
-
-  * [Accessibility](/accessibility/)
-  * [Accessories](/accessories/)
-  * [App Extension](/app-extensions/)
-  * [App Store](/app-store/)
-  * [Audio & Video](/audio/)
-  * [Augmented Reality](/augmented-reality/)
-  * [Design](/design/)
-  * [Distribution](/distribute/)
-  * [Education](/education/)
-  * [Fonts](/fonts/)
-  * [Games](/games/)
-  * [Health & Fitness](/health-fitness/)
-  * [In-App Purchase](/in-app-purchase/)
-  * [Localization](/localization/)
-  * [Maps & Location](/maps/)
-  * [Machine Learning & AI](/machine-learning/)
-  * [Open Source](https://opensource.apple.com/)
-  * [Security](/security/)
-  * [Safari & Web](/safari/)
-
-
-
-###  Resources 
-
-Toggle Menu 
-
-  *   * [Documentation](/documentation/)
-  * [Tutorials](/learn/)
-  * [Downloads](/download/)
-  * [Forums](/forums/)
-  * [Videos](/videos/)
-
-
-
-###  Support 
-
-Toggle Menu 
-
-  * [Support Articles](/support/articles/)
-  * [Contact Us](/contact/)
-  * [Bug Reporting](/bug-reporting/)
-  * [System Status](/system-status/)
-
-
-
-###  Account 
-
-Toggle Menu 
-
-  * [Apple Developer](/account/)
-  * [App Store Connect](https://appstoreconnect.apple.com/)
-  * [Certificates, IDs, & Profiles](/account/ios/certificate/)
-  * [Feedback Assistant](https://feedbackassistant.apple.com/)
-
-
-
-###  Programs 
-
-Toggle Menu 
-
-  * [Apple Developer Program](/programs/)
-  * [Apple Developer Enterprise Program](/programs/enterprise/)
-  * [App Store Small Business Program](/app-store/small-business-program/)
-  * [MFi Program](https://mfi.apple.com/)
-  * [News Partner Program](/programs/news-partner/)
-  * [Video Partner Program](/programs/video-partner/)
-  * [Security Bounty Program](/security-bounty/)
-  * [Security Research Device Program](/programs/security-research-device/)
-
-
-
-###  Events 
-
-Toggle Menu 
-
-  * [Meet with Apple](/events/)
-  * [Apple Developer Centers](/events/developer-centers/)
-  * [App Store Awards](/app-store/app-store-awards/)
-  * [Apple Design Awards](/design/awards/)
-  * [Apple Developer Academies](/academies/)
-  * [WWDC](/wwdc/)
-
-
-
-To submit feedback on documentation, visit [Feedback Assistant](applefeedback://new?form_identifier=developertools.fba&answers%5B%3Aarea%5D=seedADC%3Adevpubs&answers%5B%3Adoc_type_req%5D=Technology%20Documentation&answers%5B%3Adocumentation_link_req%5D=https%3A%2F%2Fdeveloper.apple.com%2Fdesign%2Fhuman-interface-guidelines%2Fsign-in-with-apple).
-
-Select a color scheme preference
-
-Light
-
-Dark
-
-Auto
-
-English  简体中文  日本語  한국어 
-
-Copyright © 2026 [Apple Inc.](https://www.apple.com) All rights reserved. 
-
-[ Terms of Use ](https://www.apple.com/legal/internet-services/terms/site.html)[ Privacy Policy ](https://www.apple.com/legal/privacy/)[ Agreements and Guidelines ](/support/terms/)

@@ -1,214 +1,6 @@
 ---
 title: "Maps | Apple Developer Documentation"
 source: https://developer.apple.com/design/human-interface-guidelines/maps
----
-
-# This page requires JavaScript.
-
-Please turn on JavaScript in your browser and refresh the page to view its content.
-
-Skip Navigation 
-
-  * Global Nav Open MenuGlobal Nav Close Menu
-  * [Apple Developer](/)
-
-
-
-[Search Developer Cancel ](/search/)
-
-  * [Apple Developer](/)
-  * [News](/news/)
-  * [Discover](/discover/)
-  * [Design](/design/)
-  * [Develop](/develop/)
-  * [Distribute](/distribute/)
-  * [Support](/support/)
-  * [Account](/account/)
-  * [](/search/)
-
-
-
-Cancel 
-
-Only search within “Human Interface Guidelines”
-
-### Quick Links
-
-  * [Downloads](/download/)
-  * [Documentation](/documentation/)
-  * [Sample Code](/documentation/samplecode/)
-  * [Videos](/videos/)
-  * [Forums](/forums/)
-
-5 Quick Links
-
-[ Design ](/design/)
-
-Open Menu 
-
-  * [ Overview ](https://developer.apple.com/design/)
-  * [ What’s New ](https://developer.apple.com/design/whats-new/)
-  * [ Get Started ](https://developer.apple.com/design/get-started/)
-  * [ Guidelines ](/design/human-interface-guidelines)
-  * [ Resources ](https://developer.apple.com/design/resources/)
-
-
-
-## Human Interface Guidelines
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/88a8c8fdc81e5fc382997c9ec3822eab/augmented-reality.svg)
-
-5 of 29 symbols inside 525506332 [Augmented reality](/design/human-interface-guidelines/augmented-reality)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/7a3379bd1fb861217bd79abdc0c175b9/carekit.svg)
-
-6 of 29 symbols inside 525506332 [CareKit](/design/human-interface-guidelines/carekit)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/3bdef2196e420f50c41a566422cc1e4c/carplay.svg)
-
-7 of 29 symbols inside 525506332 [CarPlay](/design/human-interface-guidelines/carplay)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/1a2766daa7645cc3782710ac0977e6d5/game-center.svg)
-
-8 of 29 symbols inside 525506332 [Game Center](/design/human-interface-guidelines/game-center)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/953d6d049f0943017089f645f030f739/generative-ai.svg)
-
-9 of 29 symbols inside 525506332 [Generative AI](/design/human-interface-guidelines/generative-ai)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/1fd95cf0bcefa3ddb3bd937167c4108e/healthkit.svg)
-
-10 of 29 symbols inside 525506332 [HealthKit](/design/human-interface-guidelines/healthkit)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/73b5b486f329ea3c756fe1016fb5d9b6/homekit.svg)
-
-11 of 29 symbols inside 525506332 [HomeKit](/design/human-interface-guidelines/homekit)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/8ee482d4f70affa6bae663c8d51102d0/icloud.svg)
-
-12 of 29 symbols inside 525506332 [iCloud](/design/human-interface-guidelines/icloud)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/d06f906d625d003fce04c3f46a88e2a0/id-verifier.svg)
-
-13 of 29 symbols inside 525506332 [ID Verifier](/design/human-interface-guidelines/id-verifier)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/ef6f7770a91b075a14f08932b4ab28a2/imessage-app.svg)
-
-14 of 29 symbols inside 525506332 [iMessage apps and stickers](/design/human-interface-guidelines/imessage-apps-and-stickers)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/d6e92e5cc61c45c389938daf49834a04/in-app-purchase.svg)
-
-15 of 29 symbols inside 525506332 [In-app purchase](/design/human-interface-guidelines/in-app-purchase)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/25ea28efbe5e8676fd29370fad560f75/live-photos.svg)
-
-16 of 29 symbols inside 525506332 [Live Photos](/design/human-interface-guidelines/live-photos)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/702ebb485435bf1f6e6c4e2d43edd423/mac-catalyst.svg)
-
-17 of 29 symbols inside 525506332 [Mac Catalyst](/design/human-interface-guidelines/mac-catalyst)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/0fc7417f15cf064f38a83bd30dee77cf/machine-learning.svg)
-
-18 of 29 symbols inside 525506332 [Machine learning](/design/human-interface-guidelines/machine-learning)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/88dc6f3ae567c1430f225d6707e6602b/maps.svg)
-
-19 of 29 symbols inside 525506332 [Maps](/design/human-interface-guidelines/maps)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/576e343bdc0f0f102a11a0f6253005a3/nfc.svg)
-
-20 of 29 symbols inside 525506332 [NFC](/design/human-interface-guidelines/nfc)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/cc7b6cfb42f8feb3e386350f0d535688/photo-editing.svg)
-
-21 of 29 symbols inside 525506332 [Photo editing](/design/human-interface-guidelines/photo-editing)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/09f442c9edd6adfc7b96ba62343974f5/researchkit.svg)
-
-22 of 29 symbols inside 525506332 [ResearchKit](/design/human-interface-guidelines/researchkit)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/2157ce221f6ce83b22b10819d0637fac/shareplay.svg)
-
-23 of 29 symbols inside 525506332 [SharePlay](/design/human-interface-guidelines/shareplay)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/abbb59bae34bcc697e70eb31e1cbf9de/shazamkit.svg)
-
-24 of 29 symbols inside 525506332 [ShazamKit](/design/human-interface-guidelines/shazamkit)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/e7797e1e1209d2513f62a929deabc4e6/sign-in-with-apple.svg)
-
-25 of 29 symbols inside 525506332 [Sign in with Apple](/design/human-interface-guidelines/sign-in-with-apple)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/4f44062987111f81a97052a652371e4a/siri.svg)
-
-26 of 29 symbols inside 525506332 [Siri](/design/human-interface-guidelines/siri)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/8165606b034808bdab7a2eccfc5ba01e/tap-to-pay-on-iphone.svg)
-
-27 of 29 symbols inside 525506332 [Tap to Pay on iPhone](/design/human-interface-guidelines/tap-to-pay-on-iphone)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/c2e174aba030d1a7de30e3fcb0e06ed7/voiceover.svg)
-
-28 of 29 symbols inside 525506332 [VoiceOver](/design/human-interface-guidelines/voiceover)
-
-To navigate the symbols, press Up Arrow, Down Arrow, Left Arrow or Right Arrow 
-
-![](https://docs-assets.developer.apple.com/published/496355b11d40fa2ff98a232f5692a3da/wallet.svg)
-
-29 of 29 symbols inside 525506332 [Wallet](/design/human-interface-guidelines/wallet)
-
-35 items were found. Tab back to navigate through them. 
-
-Navigator is ready 
 
 # Maps
 
@@ -218,7 +10,7 @@ A map displays outdoor or indoor geographical data in your app or on your websit
 
 A map uses a familiar interface that supports much of the same functionality as the system-provided Maps app, such as zooming, panning, and rotation. A map can also include annotations and overlays and show routing information, and you can configure it to use a standard graphical view, a satellite image-based view, or a view that’s a hybrid of both.
 
-## [Best practices](/design/human-interface-guidelines/maps#Best-practices)
+## [Best practices](https://developer.apple.com/design/human-interface-guidelines/maps#Best-practices)
 
 **In general, make your map interactive.** People expect to be able to zoom, pan, and otherwise interact with maps in familiar ways. Noninteractive elements that obscure the map can interfere with people’s expectations for how maps behave.
 
@@ -239,7 +31,7 @@ Default style
 
 Muted style
 
-For developer guidance, see [`MKStandardMapConfiguration.EmphasisStyle`](/documentation/MapKit/MKStandardMapConfiguration/EmphasisStyle-swift.enum).
+For developer guidance, see [`MKStandardMapConfiguration.EmphasisStyle`](https://developer.apple.com/documentation/MapKit/MKStandardMapConfiguration/EmphasisStyle-swift.enum).
 
 **Help people find places in your map.** Consider offering a search feature combined with a way to filter locations by category. The search field for a shopping mall map, for example, might include filters that make it easy to find common store types, like clothing, housewares, electronics, jewelry, and toys.
 
@@ -266,11 +58,11 @@ Note
 
 The Apple logo and legal link aren’t shown on maps that are smaller than 200x100 pixels.
 
-## [Custom information](/design/human-interface-guidelines/maps#Custom-information)
+## [Custom information](https://developer.apple.com/design/human-interface-guidelines/maps#Custom-information)
 
-**Use annotations that match the visual style of your app.** Annotations identify custom points of interest on your map. The default annotation marker has a red tint and a white pin icon. You can change the tint to match the color scheme of your app. You can also change the icon to a string or image, like a logo. An icon string can contain any characters, including Unicode characters, but keep it to two to three characters in length for readability. For developer guidance, see [`MKAnnotationView`](/documentation/MapKit/MKAnnotationView).
+**Use annotations that match the visual style of your app.** Annotations identify custom points of interest on your map. The default annotation marker has a red tint and a white pin icon. You can change the tint to match the color scheme of your app. You can also change the icon to a string or image, like a logo. An icon string can contain any characters, including Unicode characters, but keep it to two to three characters in length for readability. For developer guidance, see [`MKAnnotationView`](https://developer.apple.com/documentation/MapKit/MKAnnotationView).
 
-**If you want to display custom information that’s related to standard map features, consider making them independently selectable.** When you support selectable map features, the system treats Apple-provided features (including points of interest, territories, and physical features) independently from other annotations that you add. You can configure custom appearances and information to represent these features when people select them. For developer guidance, see [`MKMapFeatureOptions`](/documentation/MapKit/MKMapFeatureOptions).
+**If you want to display custom information that’s related to standard map features, consider making them independently selectable.** When you support selectable map features, the system treats Apple-provided features (including points of interest, territories, and physical features) independently from other annotations that you add. You can configure custom appearances and information to represent these features when people select them. For developer guidance, see [`MKMapFeatureOptions`](https://developer.apple.com/documentation/MapKit/MKMapFeatureOptions).
 
 **Use overlays to define map areas with a specific relationship to your content.**
 
@@ -281,23 +73,23 @@ The Apple logo and legal link aren’t shown on maps that are smaller than 200x1
 
 
 
-For developer guidance, see [Displaying overlays on a map](/documentation/MapKit/displaying-overlays-on-a-map) and [`MKOverlayLevel`](/documentation/MapKit/MKOverlayLevel).
+For developer guidance, see [Displaying overlays on a map](https://developer.apple.com/documentation/MapKit/displaying-overlays-on-a-map) and [`MKOverlayLevel`](https://developer.apple.com/documentation/MapKit/MKOverlayLevel).
 
 **Make sure there’s enough contrast between custom controls and the map.** Insufficient contrast makes controls hard to see and can cause them to blend in with the map. Consider using a thin stroke or light drop shadow to help a custom control stand out, or applying blend modes to the map area to increase its contrast with the controls atop it.
 
-## [Place cards](/design/human-interface-guidelines/maps#Place-cards)
+## [Place cards](https://developer.apple.com/design/human-interface-guidelines/maps#Place-cards)
 
 Place cards display rich place information in your app or website, such as operating hours, phone numbers, addresses, and more. This enables you to provide structured and up-to-date information for places that you specify, and add depth to search results.
 
-### [Displaying place cards in a map](/design/human-interface-guidelines/maps#Displaying-place-cards-in-a-map)
+### [Displaying place cards in a map](https://developer.apple.com/design/human-interface-guidelines/maps#Displaying-place-cards-in-a-map)
 
-You can present a place card that appears directly in your map anytime someone selects a place. This is a great way to provide place information in a map with multiple places that you specify, like a map of bookstores that an author plans to visit on their book signing tour. For developer guidance, see [`mapItemDetailSelectionAccessory(_:)`](/documentation/MapKit/MapContent/mapItemDetailSelectionAccessory\(_:\)), [`mapView(_:selectionAccessoryFor:)`](/documentation/MapKit/MKMapViewDelegate/mapView\(_:selectionAccessoryFor:\)), and [`selectionAccessory`](/documentation/MapKitJS/Annotation/selectionAccessory).
+You can present a place card that appears directly in your map anytime someone selects a place. This is a great way to provide place information in a map with multiple places that you specify, like a map of bookstores that an author plans to visit on their book signing tour. For developer guidance, see [`mapItemDetailSelectionAccessory(_:)`](https://developer.apple.com/documentation/MapKit/MapContent/mapItemDetailSelectionAccessory\(_:\)), [`mapView(_:selectionAccessoryFor:)`](https://developer.apple.com/documentation/MapKit/MKMapViewDelegate/mapView\(_:selectionAccessoryFor:\)), and [`selectionAccessory`](https://developer.apple.com/documentation/MapKitJS/Annotation/selectionAccessory).
 
-You can also display place cards for other places on a map, such as points of interest, territories, and physical features, to provide valuable context to people about nearby places. For developer guidance, see [`mapFeatureSelectionAccessory(_:)`](/documentation/SwiftUI/View/mapFeatureSelectionAccessory\(_:\)), [`mapView(_:selectionAccessoryFor:)`](/documentation/MapKit/MKMapViewDelegate/mapView\(_:selectionAccessoryFor:\)), and [`selectableMapFeatureSelectionAccessory`](/documentation/MapKitJS/Map/selectableMapFeatureSelectionAccessory).
+You can also display place cards for other places on a map, such as points of interest, territories, and physical features, to provide valuable context to people about nearby places. For developer guidance, see [`mapFeatureSelectionAccessory(_:)`](https://developer.apple.com/documentation/SwiftUI/View/mapFeatureSelectionAccessory\(_:\)), [`mapView(_:selectionAccessoryFor:)`](https://developer.apple.com/documentation/MapKit/MKMapViewDelegate/mapView\(_:selectionAccessoryFor:\)), and [`selectableMapFeatureSelectionAccessory`](https://developer.apple.com/documentation/MapKitJS/Map/selectableMapFeatureSelectionAccessory).
 
 Developer note
 
-In websites, you can embed a custom map that displays a place card by default for a single place that you specify. For developer guidance, see [Displaying place information using the Maps Embed API](/documentation/MapKitJS/displaying-place-information-using-the-maps-embed-api).
+In websites, you can embed a custom map that displays a place card by default for a single place that you specify. For developer guidance, see [Displaying place information using the Maps Embed API](https://developer.apple.com/documentation/MapKitJS/displaying-place-information-using-the-maps-embed-api).
 
 The system defines several place card styles, which specify the size, appearance, and information included in a place card.
 
@@ -312,7 +104,7 @@ The system defines several place card styles, which specify the size, appearance
 
 
 
-For developer guidance, see [`MapItemDetailSelectionAccessoryStyle`](/documentation/MapKit/MapItemDetailSelectionAccessoryStyle), [`MKSelectionAccessory.MapItemDetailPresentationStyle`](/documentation/MapKit/MKSelectionAccessory/MapItemDetailPresentationStyle), and [`PlaceSelectionAccessoryStyle`](/documentation/MapKitJS/PlaceSelectionAccessoryStyle).
+For developer guidance, see [`MapItemDetailSelectionAccessoryStyle`](https://developer.apple.com/documentation/MapKit/MapItemDetailSelectionAccessoryStyle), [`MKSelectionAccessory.MapItemDetailPresentationStyle`](https://developer.apple.com/documentation/MapKit/MKSelectionAccessory/MapItemDetailPresentationStyle), and [`PlaceSelectionAccessoryStyle`](https://developer.apple.com/documentation/MapKitJS/PlaceSelectionAccessoryStyle).
 
   * Full callout 
   * Compact callout 
@@ -339,19 +131,19 @@ Full callout style place cards appear differently depending on a person’s devi
 
 **Avoid duplicating information.** Consider what information you already display in your app or website when you choose a place card style. For example, the full callout style place card might display information that your app already shows. In this case, the compact callout or caption style might be a better complement.
 
-**Keep the location on your map visible when displaying a place card.** This helps people maintain a sense of where the location is on your map while getting detailed place information. You can set an offset distance for your place card and point it to the selected location. For developer guidance, see [`offset(_:)`](/documentation/SwiftUI/View/offset\(_:\)), [`accessoryOffset`](/documentation/MapKit/MKAnnotationView/accessoryOffset), and [`selectionAccessoryOffset`](/documentation/MapKitJS/Annotation/selectionAccessoryOffset).
+**Keep the location on your map visible when displaying a place card.** This helps people maintain a sense of where the location is on your map while getting detailed place information. You can set an offset distance for your place card and point it to the selected location. For developer guidance, see [`offset(_:)`](https://developer.apple.com/documentation/SwiftUI/View/offset\(_:\)), [`accessoryOffset`](https://developer.apple.com/documentation/MapKit/MKAnnotationView/accessoryOffset), and [`selectionAccessoryOffset`](https://developer.apple.com/documentation/MapKitJS/Annotation/selectionAccessoryOffset).
 
-### [Adding place cards outside of a map](/design/human-interface-guidelines/maps#Adding-place-cards-outside-of-a-map)
+### [Adding place cards outside of a map](https://developer.apple.com/design/human-interface-guidelines/maps#Adding-place-cards-outside-of-a-map)
 
-You can also display place information outside of a map in your app or website. For example, you might want to display a list of places rather than a map, like in search results or a store locator, and present a place card when people select one. For developer guidance, see [`mapItemDetailSelectionAccessory(_:)`](/documentation/MapKit/MapContent/mapItemDetailSelectionAccessory\(_:\)), [`mapItemDetail(_:)`](/documentation/MapKit/MKSelectionAccessory/mapItemDetail\(_:\)), and [`PlaceDetail`](/documentation/MapKitJS/PlaceDetail).
+You can also display place information outside of a map in your app or website. For example, you might want to display a list of places rather than a map, like in search results or a store locator, and present a place card when people select one. For developer guidance, see [`mapItemDetailSelectionAccessory(_:)`](https://developer.apple.com/documentation/MapKit/MapContent/mapItemDetailSelectionAccessory\(_:\)), [`mapItemDetail(_:)`](https://developer.apple.com/documentation/MapKit/MKSelectionAccessory/mapItemDetail\(_:\)), and [`PlaceDetail`](https://developer.apple.com/documentation/MapKitJS/PlaceDetail).
 
 Important
 
-If you don’t display a place card directly within a map view, you must include a map in the place card. For developer guidance, see [`mapItemDetailSheet(item:displaysMap:)`](/documentation/SwiftUI/View/mapItemDetailSheet\(item:displaysMap:\)) and [`init(mapItem:displaysMap:)`](/documentation/MapKit/MKMapItemDetailViewController/init\(mapItem:displaysMap:\)).
+If you don’t display a place card directly within a map view, you must include a map in the place card. For developer guidance, see [`mapItemDetailSheet(item:displaysMap:)`](https://developer.apple.com/documentation/SwiftUI/View/mapItemDetailSheet\(item:displaysMap:\)) and [`init(mapItem:displaysMap:)`](https://developer.apple.com/documentation/MapKit/MKMapItemDetailViewController/init\(mapItem:displaysMap:\)).
 
 **Use location-related cues in surrounding content to help communicate that people can open a place card.** For example, you can display place names and addresses alongside a button for more details to help indicate that people can interact with it to get place information. For a space-efficient design, you can include a map pin icon with a place name to help communicate that people can open a place card.
 
-## [Indoor maps](/design/human-interface-guidelines/maps#Indoor-maps)
+## [Indoor maps](https://developer.apple.com/design/human-interface-guidelines/maps#Indoor-maps)
 
 Apps connected with specific venues like shopping malls and stadiums can design custom interactive maps that help people locate and navigate to indoor points of interest. Indoor maps can include overlays that highlight specific areas, such as rooms, kiosks, and other locations. They can also include text labels, icons, and routes.
 
@@ -387,13 +179,13 @@ Apps connected with specific venues like shopping malls and stadiums can design 
 
 ![A screenshot of a custom map in an app on iPhone, showing an airport concourse. Elements of the map are tinted green to correspond with the app's UI, and custom icons represent gates, security checkpoints, and an information booth.](https://docs-assets.developer.apple.com/published/d87fb8004dcbd26d042a43ef797a1022/indoor-maps-custom-map-design%402x.png)
 
-## [Platform considerations](/design/human-interface-guidelines/maps#Platform-considerations)
+## [Platform considerations](https://developer.apple.com/design/human-interface-guidelines/maps#Platform-considerations)
 
  _No additional considerations for iOS, iPadOS, macOS, tvOS, or visionOS._
 
-### [watchOS](/design/human-interface-guidelines/maps#watchOS)
+### [watchOS](https://developer.apple.com/design/human-interface-guidelines/maps#watchOS)
 
-On Apple Watch, maps are static snapshots of geographic locations. Place a map in your interface at design time and show the appropriate region at runtime. The displayed region isn’t interactive; tapping it opens the Maps app on Apple Watch. You can add up to five annotations to a map to highlight points of interest or other relevant information. For developer guidance, see [`WKInterfaceMap`](/documentation/WatchKit/WKInterfaceMap).
+On Apple Watch, maps are static snapshots of geographic locations. Place a map in your interface at design time and show the appropriate region at runtime. The displayed region isn’t interactive; tapping it opens the Maps app on Apple Watch. You can add up to five annotations to a map to highlight points of interest or other relevant information. For developer guidance, see [`WKInterfaceMap`](https://developer.apple.com/documentation/WatchKit/WKInterfaceMap).
 
 ![A screenshot of a map on Apple Watch, displaying Apple Park and some of the surrounding area.](https://docs-assets.developer.apple.com/published/befea7e8b96bc123bfef582ba3857d64/maps-watch1%402x.png)
 
@@ -401,25 +193,25 @@ On Apple Watch, maps are static snapshots of geographic locations. Place a map i
 
 **Show the smallest region that encompasses the points of interest.** The content within a map interface element doesn’t scroll, so all key content must be visible within the displayed region.
 
-For developer guidance, see [`WKInterfaceMap`](/documentation/WatchKit/WKInterfaceMap).
+For developer guidance, see [`WKInterfaceMap`](https://developer.apple.com/documentation/WatchKit/WKInterfaceMap).
 
-## [Resources](/design/human-interface-guidelines/maps#Resources)
+## [Resources](https://developer.apple.com/design/human-interface-guidelines/maps#Resources)
 
-#### [Developer documentation](/design/human-interface-guidelines/maps#Developer-documentation)
+#### [Developer documentation](https://developer.apple.com/design/human-interface-guidelines/maps#Developer-documentation)
 
-[MapKit](/documentation/MapKit)
+[MapKit](https://developer.apple.com/documentation/MapKit)
 
-[MapKit JS](/documentation/MapKitJS)
+[MapKit JS](https://developer.apple.com/documentation/MapKitJS)
 
 [Indoor Mapping Data Format](https://register.apple.com/resources/imdf/)
 
-#### [Videos](/design/human-interface-guidelines/maps#Videos)
+#### [Videos](https://developer.apple.com/design/human-interface-guidelines/maps#Videos)
 
 [![](https://devimages-cdn.apple.com/wwdc-services/images/3055294D-836B-4513-B7B0-0BC5666246B0/33B45785-076C-43F4-85FC-8D11F70E7A57/9878_wide_250x141_1x.jpg) Go further with MapKit ](https://developer.apple.com/videos/play/wwdc2025/204)
 
 [![](https://devimages-cdn.apple.com/wwdc-services/images/C03E6E6D-A32A-41D0-9E50-C3C6059820AA/04977BF3-7B89-4A9E-AE42-79BD268F4684/9212_wide_250x141_1x.jpg) Unlock the power of places with MapKit ](https://developer.apple.com/videos/play/wwdc2024/10097)
 
-## [Change log](/design/human-interface-guidelines/maps#Change-log)
+## [Change log](https://developer.apple.com/design/human-interface-guidelines/maps#Change-log)
 
 Date| Changes  
 ---|---  
@@ -427,158 +219,3 @@ December 18, 2024| Added guidance for place cards and included additional artwor
 September 12, 2023| Added artwork.  
 September 23, 2022| Added guidelines for presenting custom information, refined best practices, and consolidated guidance into one page.  
   
-Current page is Maps 
-
-##### Supported platforms
-
-  *   *   *   *   *   * 
-
-
-  * [ Maps ](/design/human-interface-guidelines/maps#app-top)
-  * [ Best practices ](/design/human-interface-guidelines/maps#Best-practices)
-  * [ Custom information ](/design/human-interface-guidelines/maps#Custom-information)
-  * [ Place cards ](/design/human-interface-guidelines/maps#Place-cards)
-  * [ Indoor maps ](/design/human-interface-guidelines/maps#Indoor-maps)
-  * [ Platform considerations ](/design/human-interface-guidelines/maps#Platform-considerations)
-  * [ Resources ](/design/human-interface-guidelines/maps#Resources)
-  * [ Change log ](/design/human-interface-guidelines/maps#Change-log)
-
-
-
-[Apple](https://www.apple.com)
-
-  1. [Developer](/)
-  2. [ Documentation ](/documentation/)
-
-
-
-###  Platforms 
-
-Toggle Menu 
-
-  * [iOS](/ios/)
-  * [iPadOS](/ipados/)
-  * [macOS](/macos/)
-  * [tvOS](/tvos/)
-  * [visionOS](/visionos/)
-  * [watchOS](/watchos/)
-
-
-
-###  Tools 
-
-Toggle Menu 
-
-  * [Swift](/swift/)
-  * [SwiftUI](/swiftui/)
-  * [Swift Playground](/swift-playground/)
-  * [TestFlight](/testflight/)
-  * [Xcode](/xcode/)
-  * [Xcode Cloud](/xcode-cloud/)
-  * [SF Symbols](/sf-symbols/)
-
-
-
-###  Topics & Technologies 
-
-Toggle Menu 
-
-  * [Accessibility](/accessibility/)
-  * [Accessories](/accessories/)
-  * [App Extension](/app-extensions/)
-  * [App Store](/app-store/)
-  * [Audio & Video](/audio/)
-  * [Augmented Reality](/augmented-reality/)
-  * [Design](/design/)
-  * [Distribution](/distribute/)
-  * [Education](/education/)
-  * [Fonts](/fonts/)
-  * [Games](/games/)
-  * [Health & Fitness](/health-fitness/)
-  * [In-App Purchase](/in-app-purchase/)
-  * [Localization](/localization/)
-  * [Maps & Location](/maps/)
-  * [Machine Learning & AI](/machine-learning/)
-  * [Open Source](https://opensource.apple.com/)
-  * [Security](/security/)
-  * [Safari & Web](/safari/)
-
-
-
-###  Resources 
-
-Toggle Menu 
-
-  *   * [Documentation](/documentation/)
-  * [Tutorials](/learn/)
-  * [Downloads](/download/)
-  * [Forums](/forums/)
-  * [Videos](/videos/)
-
-
-
-###  Support 
-
-Toggle Menu 
-
-  * [Support Articles](/support/articles/)
-  * [Contact Us](/contact/)
-  * [Bug Reporting](/bug-reporting/)
-  * [System Status](/system-status/)
-
-
-
-###  Account 
-
-Toggle Menu 
-
-  * [Apple Developer](/account/)
-  * [App Store Connect](https://appstoreconnect.apple.com/)
-  * [Certificates, IDs, & Profiles](/account/ios/certificate/)
-  * [Feedback Assistant](https://feedbackassistant.apple.com/)
-
-
-
-###  Programs 
-
-Toggle Menu 
-
-  * [Apple Developer Program](/programs/)
-  * [Apple Developer Enterprise Program](/programs/enterprise/)
-  * [App Store Small Business Program](/app-store/small-business-program/)
-  * [MFi Program](https://mfi.apple.com/)
-  * [News Partner Program](/programs/news-partner/)
-  * [Video Partner Program](/programs/video-partner/)
-  * [Security Bounty Program](/security-bounty/)
-  * [Security Research Device Program](/programs/security-research-device/)
-
-
-
-###  Events 
-
-Toggle Menu 
-
-  * [Meet with Apple](/events/)
-  * [Apple Developer Centers](/events/developer-centers/)
-  * [App Store Awards](/app-store/app-store-awards/)
-  * [Apple Design Awards](/design/awards/)
-  * [Apple Developer Academies](/academies/)
-  * [WWDC](/wwdc/)
-
-
-
-To submit feedback on documentation, visit [Feedback Assistant](applefeedback://new?form_identifier=developertools.fba&answers%5B%3Aarea%5D=seedADC%3Adevpubs&answers%5B%3Adoc_type_req%5D=Technology%20Documentation&answers%5B%3Adocumentation_link_req%5D=https%3A%2F%2Fdeveloper.apple.com%2Fdesign%2Fhuman-interface-guidelines%2Fmaps).
-
-Select a color scheme preference
-
-Light
-
-Dark
-
-Auto
-
-English  简体中文  日本語  한국어 
-
-Copyright © 2026 [Apple Inc.](https://www.apple.com) All rights reserved. 
-
-[ Terms of Use ](https://www.apple.com/legal/internet-services/terms/site.html)[ Privacy Policy ](https://www.apple.com/legal/privacy/)[ Agreements and Guidelines ](/support/terms/)

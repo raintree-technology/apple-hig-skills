@@ -15,180 +15,98 @@ description: >
   hig-technologies for VoiceOver and Siri.
 ---
 
-# HIG Inputs
+# Apple HIG: Inputs
 
-## Persona
-
-Provide Apple HIG guidance on input methods and interaction patterns (gestures, Apple Pencil, keyboards, pointers, Digital Crown, eye tracking, game controllers, motion sensors). Reference the material below.
-
-## Before Providing Guidance
-
-**Check for project context first:**
-If `.claude/apple-design-context.md` exists, read it before asking questions. Use that context and only ask for information not already covered or specific to this task.
-
-## When to Use This Skill
-
-Activate this skill when the user:
-
-- Asks about gesture design (tap, swipe, pinch, long press, rotation, drag)
-- Needs Apple Pencil or Scribble integration guidance
-- Wants to implement keyboard shortcuts or keyboard navigation
-- Asks about game controller support or MFi controller mapping
-- Needs pointer, mouse, or trackpad support guidance for iPadOS or macOS
-- Asks about Digital Crown interaction on watchOS
-- Wants to design for eye tracking or hand gestures on visionOS
-- Needs focus and selection system guidance for tvOS or visionOS
-- Asks about Siri Remote or other remote control interaction
-- Wants to use gyroscope, accelerometer, or motion data
-- Asks about spatial interactions in visionOS
-- Needs guidance on nearby interactions (UWB / U1 chip)
-- Is building a multi-input experience that adapts to available input methods
+Check for `.claude/apple-design-context.md` before asking questions. Use existing context and only ask for information not already covered.
 
 ## Key Principles
 
 ### General
 
-1. **Support multiple input methods and never require only one.** Users interact
-   through touch, pointer, keyboard, pencil, voice, eyes, hands, and game
-   controllers. Design for the inputs available on each platform and adapt
-   gracefully when multiple are present. On iPadOS, for example, support both
-   touch and pointer; on macOS, support both pointer and keyboard navigation.
+1. **Support multiple input methods.** Touch, pointer, keyboard, pencil, voice, eyes, hands, controllers. Design for the inputs available on each platform. On iPadOS, support both touch and pointer; on macOS, both pointer and keyboard.
 
-2. **Provide consistent feedback.** Every input action should produce a visible,
-   audible, or haptic response so users know their input was received.
+2. **Consistent feedback for every input action.** Visible, audible, or haptic response.
 
 ### Gestures
 
-3. **Standard gestures must behave consistently.** Tap to activate, swipe to
-   scroll or navigate, pinch to zoom, long press for context menus, and drag to
-   move. Do not override system gestures (edge swipes for back, Home, and
-   notifications are owned by the system).
+3. **Standard gestures must behave consistently.** Tap to activate, swipe to scroll/navigate, pinch to zoom, long press for context menus, drag to move. Don't override system gestures (edge swipes for back, Home, notifications).
 
-4. **Use standard gesture recognizers; keep custom gestures discoverable.**
-   Apple's built-in recognizers handle edge cases, accessibility, and
-   simultaneous gesture coordination. If you add non-standard gestures, provide
-   onboarding hints or coaching overlays to teach them.
+4. **Use standard recognizers; keep custom gestures discoverable.** Apple's built-in recognizers handle edge cases and accessibility. If you add non-standard gestures, provide hints or coaching to teach them.
 
 ### Apple Pencil
 
-5. **Apple Pencil enables precision drawing, markup, and selection.** Support
-   pressure, tilt, and hover on compatible devices. Distinguish finger from
-   Pencil when appropriate (e.g., finger pans while Pencil draws) and use
-   tool-picker patterns to let users control this mapping.
+5. **Precision drawing, markup, and selection.** Support pressure, tilt, and hover. Distinguish finger from Pencil when appropriate (finger pans, Pencil draws).
 
-6. **Support Scribble in text fields.** Users expect to write with Apple Pencil
-   in any text input and have it converted to typed text automatically.
+6. **Support Scribble in text fields.** Users expect to write with Pencil in any text input.
 
 ### Keyboards
 
-7. **Provide keyboard shortcuts and full keyboard navigation.** On iPadOS and
-   macOS, use standard system shortcuts (Cmd+C, Cmd+V, Cmd+Z) and register
-   custom ones so they appear in the iPadOS Command key overlay. Tab order
-   should be logical and predictable so users can accomplish primary tasks
-   without lifting their hands from the keyboard.
+7. **Keyboard shortcuts and full navigation.** Standard shortcuts (Cmd+C/V/Z) plus custom ones visible in the iPadOS Command key overlay. Logical tab order.
 
-8. **Respect the software keyboard.** On iOS and iPadOS, adjust your layout
-   when the keyboard appears. Use keyboard-avoidance APIs to keep content
-   visible and accessible.
+8. **Respect the software keyboard.** Adjust layout when keyboard appears. Use keyboard-avoidance APIs.
 
 ### Game Controllers
 
-9. **Support MFi controllers with on-screen fallbacks.** Map controls to the
-   extended gamepad profile, provide sensible defaults, and let users remap
-   buttons. Always offer touch or keyboard alternatives for users without a
-   controller.
+9. **MFi controllers with on-screen fallbacks.** Map to extended gamepad profile, sensible defaults, remappable. Always offer touch or keyboard alternatives.
 
 ### Pointer and Trackpad
 
-10. **Pointer and trackpad support should feel native.** Use hover effects,
-    pointer shape adaptation, and standard cursor behaviors. Support two-finger
-    scroll, pinch to zoom, and swipe to navigate on trackpad-connected iPads
-    and all Macs.
+10. **Native feel.** Hover effects, pointer shape adaptation, standard cursor behaviors. Two-finger scroll, pinch to zoom, swipe to navigate.
 
 ### Digital Crown
 
-11. **The Digital Crown is the primary scrolling and value-adjustment input on
-    watchOS.** Use it for scrolling lists, adjusting values, and navigating
-    between views. Provide haptic feedback at detents so users feel discrete
-    steps.
+11. **Primary scrolling and value-adjustment input on watchOS.** Scrolling lists, adjusting values, navigating views. Haptic feedback at detents.
 
-### Eyes and Spatial Interaction (visionOS)
+### Eyes and Spatial (visionOS)
 
-12. **Eyes and hands are the primary visionOS input.** Users look at a target
-    to focus it, then pinch to select (look-and-tap). Design generous hit
-    targets because eye tracking is less precise than touch, avoid requiring
-    sustained gaze for activation, and support direct hand manipulation in
-    immersive experiences.
+12. **Look and pinch.** Generous hit targets (eye tracking is less precise than touch). Avoid sustained gaze for activation. Direct hand manipulation in immersive experiences.
 
-### Focus and Selection
+### Focus System
 
-13. **The focus system is critical for tvOS and visionOS.** Make focus movement
-    predictable, ensure every interactive element is focusable, provide clear
-    visual focus indicators (scale, highlight, or elevation), and organize
-    focus groups so movement flows logically within sections.
+13. **Critical for tvOS and visionOS.** Predictable focus movement. Every interactive element focusable. Clear visual indicators (scale, highlight, elevation). Logical focus groups.
 
 ### Remotes
 
-14. **The Siri Remote is the primary tvOS input.** Design for its limited
-    surface -- touch area for swiping, clickpad for selection, and a few
-    physical buttons. Keep interactions simple; users hold the remote casually.
+14. **Siri Remote: limited surface.** Touch area for swiping, clickpad for selection, few physical buttons. Keep interactions simple.
 
-### Motion and Nearby Interactions
+### Motion and Nearby
 
-15. **Use gyroscope, accelerometer, and UWB data judiciously.** Motion input
-    suits gaming, fitness, and AR but should not be required for essential tasks.
-    Provide calibration and reset options. For nearby interactions (U1 chip),
-    communicate distance and direction with clear visual or haptic cues.
+15. **Gyroscope, accelerometer, UWB: use judiciously.** Suits gaming, fitness, AR. Not for essential tasks. Provide calibration and reset. For UWB, communicate distance and direction with visual or haptic cues.
 
 ## Reference Index
 
 | Reference | Topic | Key content |
 |---|---|---|
 | [gestures.md](references/gestures.md) | Touch gestures | Tap, swipe, pinch, long press, drag, system gestures |
-| [apple-pencil-and-scribble.md](references/apple-pencil-and-scribble.md) | Apple Pencil and Scribble | Precision, pressure, tilt, hover, handwriting |
-| [keyboards.md](references/keyboards.md) | Keyboard input | Shortcuts, navigation, software keyboard, Command key |
-| [game-controls.md](references/game-controls.md) | Game controllers | MFi, extended gamepad, remapping, on-screen fallbacks |
-| [pointing-devices.md](references/pointing-devices.md) | Pointer, mouse, trackpad | Hover, cursor morphing, trackpad gestures |
-| [digital-crown.md](references/digital-crown.md) | watchOS Digital Crown | Scrolling, value adjustment, haptic detents |
-| [eyes.md](references/eyes.md) | Eye tracking (visionOS) | Look and tap, gaze targeting, hit target sizing |
-| [spatial-interactions.md](references/spatial-interactions.md) | Spatial input (visionOS) | Hand gestures, direct manipulation, immersive input |
+| [apple-pencil-and-scribble.md](references/apple-pencil-and-scribble.md) | Apple Pencil | Precision, pressure, tilt, hover, handwriting |
+| [keyboards.md](references/keyboards.md) | Keyboards | Shortcuts, navigation, software keyboard, Command key |
+| [game-controls.md](references/game-controls.md) | Game controllers | MFi, extended gamepad, remapping, fallbacks |
+| [pointing-devices.md](references/pointing-devices.md) | Pointer/trackpad | Hover, cursor morphing, trackpad gestures |
+| [digital-crown.md](references/digital-crown.md) | Digital Crown | Scrolling, value adjustment, haptic detents |
+| [eyes.md](references/eyes.md) | Eye tracking | Look and tap, gaze targeting, hit target sizing |
+| [spatial-interactions.md](references/spatial-interactions.md) | Spatial input | Hand gestures, direct manipulation, immersive input |
 | [focus-and-selection.md](references/focus-and-selection.md) | Focus system | tvOS/visionOS navigation, focus indicators, groups |
-| [remotes.md](references/remotes.md) | Siri Remote and remotes | Touch surface, clickpad, simple interactions |
+| [remotes.md](references/remotes.md) | Remotes | Touch surface, clickpad, simple interactions |
 | [gyro-and-accelerometer.md](references/gyro-and-accelerometer.md) | Motion sensors | Gyroscope, accelerometer, calibration, gaming |
-| [nearby-interactions.md](references/nearby-interactions.md) | UWB nearby interactions | U1 chip, directional finding, proximity triggers |
-| [camera-control.md](references/camera-control.md) | Camera Control button | iPhone camera hardware button, quick launch |
+| [nearby-interactions.md](references/nearby-interactions.md) | Nearby interactions | U1 chip, directional finding, proximity triggers |
+| [camera-control.md](references/camera-control.md) | Camera Control | iPhone camera hardware button, quick launch |
 
 ## Output Format
 
-When responding to input and interaction questions, provide:
+1. **Input method recommendations by platform** and how they interact.
+2. **Gesture specification table** -- standard and custom gestures with expected behaviors.
+3. **Keyboard shortcut recommendations** following system conventions.
+4. **Accessibility input alternatives** for VoiceOver, Switch Control, etc.
 
-- **Input method recommendations by platform** -- Which input methods to support
-  on each target platform and how they interact.
-- **Gesture specification table** -- Standard and custom gestures with their
-  expected behaviors, listed in a clear tabular format.
-- **Keyboard shortcut recommendations** -- Recommended shortcuts for primary
-  actions, following system conventions and the Command key overlay.
-- **Accessibility input alternatives** -- Alternative input paths for users who
-  rely on VoiceOver, Switch Control, or other assistive technologies.
+## Questions to Ask
 
-## Task-Specific Questions
-
-Before providing detailed guidance, clarify:
-
-1. **Which platforms and input devices are you targeting?** Input support varies
-   significantly across iOS, iPadOS, macOS, watchOS, tvOS, and visionOS.
-2. **Is this a productivity or casual app?** Productivity apps need deeper
-   keyboard and pointer support; casual apps prioritize touch and gestures.
-3. **Are there custom gestures in your design?** Custom gestures need
-   discoverability strategies and must not conflict with system gestures.
-4. **Do you need to support game controllers?** MFi controller support requires
-   specific mapping and on-screen fallback considerations.
+1. Which platforms and input devices?
+2. Productivity or casual app?
+3. Custom gestures in the design?
+4. Game controller support needed?
 
 ## Related Skills
 
-- **hig-components-status** -- Progress indicators that respond to user input
-  such as pull-to-refresh gestures.
-- **hig-components-system** -- System experiences like widgets and complications
-  that have unique input constraints.
-- **hig-technologies** -- VoiceOver for accessible input, Siri for voice input,
-  ARKit for spatial gesture context.
+- **hig-components-status** -- Progress indicators responding to input (pull-to-refresh)
+- **hig-components-system** -- System experiences with unique input constraints
+- **hig-technologies** -- VoiceOver, Siri voice input, ARKit spatial gesture context

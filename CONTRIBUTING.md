@@ -1,6 +1,6 @@
 # Contributing
 
-Thanks for your interest in contributing to Apple HIG Skills. This guide will help you add new skills or improve existing ones.
+This guide will help you add new skills or improve existing ones.
 
 ## Requesting a Skill
 
@@ -87,6 +87,3 @@ skills/hig-your-topic/
 - [ ] No broken file references
 - [ ] `VERSIONS.md` updated if modifying existing skills
 
-## Questions?
-
-Open an issue if you have questions or need help with your contribution.

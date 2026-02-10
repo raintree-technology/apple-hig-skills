@@ -14,92 +14,67 @@ description: >
 
 # Apple HIG: Platform Design
 
-## Persona
-
-Provide Apple HIG guidance on platform-specific design for iOS, iPadOS, macOS, tvOS, visionOS, and watchOS. Reference the material below.
-
-## Before Providing Guidance
-
-**Check for project context first:**
-If `.claude/apple-design-context.md` exists, read it before asking questions. Use that context and only ask for information not already covered or specific to this task.
-
-## When to Use This Skill
-
-Activate this skill when the user:
-
-- Asks about designing for a specific Apple platform (iOS, iPadOS, macOS, tvOS, visionOS, watchOS)
-- Wants to understand differences between Apple platforms
-- Needs guidance on adapting an app for multiple platforms
-- Asks about platform-specific interaction paradigms (touch, pointer, gaze, Digital Crown, remote)
-- Wants to know which platform conventions to follow
-- Is designing a game for Apple platforms
-- Asks about screen sizes, safe areas, or platform-specific layout concerns
+Check for `.claude/apple-design-context.md` before asking questions. Use existing context and only ask for information not already covered.
 
 ## Key Principles
 
-1. **Each platform has a distinct identity.** Do not simply port a design from one platform to another. Respect the conventions, interaction models, and user expectations unique to each platform.
+1. **Each platform has a distinct identity.** Do not port designs between platforms. Respect each platform's conventions, interaction models, and user expectations.
 
-2. **iOS emphasizes touch.** Direct manipulation through gestures on a handheld screen. Apps should be optimized for one-handed use, with key actions within thumb reach. Navigation typically uses tab bars and push/pop stacks.
+2. **iOS: touch-first.** Direct manipulation on a handheld screen. Optimize for one-handed use. Navigation uses tab bars and push/pop stacks.
 
-3. **iPadOS extends iOS with multitasking and larger canvas.** Support Split View, Slide Over, and Stage Manager. Use sidebars and multi-column layouts. Consider pointer and keyboard input alongside touch.
+3. **iPadOS: expanded canvas.** Support Split View, Slide Over, and Stage Manager. Use sidebars and multi-column layouts. Support pointer and keyboard alongside touch.
 
-4. **macOS emphasizes pointer and keyboard.** Dense information display is acceptable. Use menubars, toolbars, and keyboard shortcuts extensively. Windows are resizable and users expect precise control.
+4. **macOS: pointer and keyboard.** Dense information display is acceptable. Use menu bars, toolbars, and keyboard shortcuts extensively. Windows are resizable with precise control.
 
-5. **tvOS emphasizes remote and focus-based navigation.** Content is viewed from a distance. Design for the Siri Remote with a focus-based interface. Keep text large and layouts simple. Navigation should be linear and predictable.
+5. **tvOS: remote and focus.** Viewed from a distance. Design for the Siri Remote with focus-based navigation. Large text, simple layouts, linear navigation.
 
-6. **visionOS emphasizes spatial interaction with eyes and hands.** Design for a 3D environment using windows, volumes, and spaces. Use eye tracking for targeting and indirect gestures for interaction. Respect ergonomic comfort zones and depth placement.
+6. **visionOS: spatial interaction.** 3D environment using windows, volumes, and spaces. Eye tracking for targeting, indirect gestures for interaction. Respect ergonomic comfort zones.
 
-7. **watchOS emphasizes glanceability and brevity.** Information should be consumable at a glance. Interactions must be brief. Use the Digital Crown, haptics, and complications to deliver timely, relevant content.
+7. **watchOS: glanceable and brief.** Information consumable at a glance. Brief interactions. Digital Crown, haptics, and complications for timely content.
 
-8. **Games have their own paradigm.** Game design on Apple platforms should still respect platform conventions for system interactions (notifications, accessibility, controllers) while being free to define in-game interaction models.
+8. **Games: own paradigm.** Free to define in-game interaction models, but still respect platform conventions for system interactions (notifications, accessibility, controllers).
 
 ## Reference Index
 
 | Reference | Topic | Key content |
 |---|---|---|
-| [designing-for-ios.md](references/designing-for-ios.md) | iOS Design | Touch interaction, tab bars, navigation stacks, gestures, screen sizes, safe areas |
-| [designing-for-ipados.md](references/designing-for-ipados.md) | iPadOS Design | Multitasking, sidebars, pointer support, keyboard integration, Apple Pencil, Stage Manager |
-| [designing-for-macos.md](references/designing-for-macos.md) | macOS Design | Menu bars, toolbars, window management, keyboard shortcuts, dense layouts, Dock integration |
-| [designing-for-tvos.md](references/designing-for-tvos.md) | tvOS Design | Focus engine, Siri Remote, lean-back experience, content-forward design, parallax effects |
-| [designing-for-visionos.md](references/designing-for-visionos.md) | visionOS Design | Spatial computing, windows/volumes/spaces, eye tracking, hand gestures, depth, ergonomics |
-| [designing-for-watchos.md](references/designing-for-watchos.md) | watchOS Design | Glanceable UI, Digital Crown, complications, notifications, workout sessions, haptic feedback |
-| [designing-for-games.md](references/designing-for-games.md) | Game Design | Game controllers, immersive experiences, platform-specific game conventions, accessibility in games |
+| [designing-for-ios.md](references/designing-for-ios.md) | iOS | Touch, tab bars, navigation stacks, gestures, screen sizes, safe areas |
+| [designing-for-ipados.md](references/designing-for-ipados.md) | iPadOS | Multitasking, sidebars, pointer, keyboard, Apple Pencil, Stage Manager |
+| [designing-for-macos.md](references/designing-for-macos.md) | macOS | Menu bars, toolbars, window management, keyboard shortcuts, dense layouts, Dock |
+| [designing-for-tvos.md](references/designing-for-tvos.md) | tvOS | Focus engine, Siri Remote, lean-back experience, content-forward, parallax |
+| [designing-for-visionos.md](references/designing-for-visionos.md) | visionOS | Spatial computing, windows/volumes/spaces, eye tracking, hand gestures, depth |
+| [designing-for-watchos.md](references/designing-for-watchos.md) | watchOS | Glanceable UI, Digital Crown, complications, notifications, haptics |
+| [designing-for-games.md](references/designing-for-games.md) | Games | Controllers, immersive experiences, platform-specific conventions, accessibility |
 
 ## Decision Framework
 
-When advising on platform choice or adaptation:
-
-1. **Identify the primary use context.** Where and how will the user interact with this app? On the go (iOS/watchOS), at a desk (macOS), on the couch (tvOS), or in a spatial environment (visionOS)?
+1. **Identify the primary use context.** On the go (iOS/watchOS), at a desk (macOS), on the couch (tvOS), spatial environment (visionOS)?
 
 2. **Match input to interaction.** Touch for direct manipulation, pointer for precision, gaze+gesture for spatial, Digital Crown for quick scrolling, remote for focus navigation.
 
-3. **Adapt, don't replicate.** A macOS sidebar becomes a tab bar on iPhone. A visionOS volume has no equivalent on watchOS. Translate the intent, not the implementation.
+3. **Adapt, don't replicate.** A macOS sidebar becomes a tab bar on iPhone. A visionOS volume has no equivalent on watchOS. Translate intent, not implementation.
 
-4. **Leverage platform strengths.** Use Live Activities on iOS, Desktop Widgets on macOS, complications on watchOS, immersive spaces on visionOS.
+4. **Leverage platform strengths.** Live Activities on iOS, Desktop Widgets on macOS, complications on watchOS, immersive spaces on visionOS.
 
-5. **Maintain brand consistency across platforms** while respecting each platform's visual language and interaction patterns.
+5. **Maintain brand consistency** while respecting each platform's visual language and interaction patterns.
 
 ## Output Format
 
-When providing platform guidance, structure your response as:
+1. **Platform-specific recommendations** citing relevant HIG sections.
+2. **Platform differences table** comparing navigation, input, layout, and conventions.
+3. **Implementation notes** per platform including recommended APIs and adaptation strategies.
 
-1. **Platform-Specific Recommendations** -- Concrete guidance tailored to each target platform, citing relevant HIG sections.
-2. **Platform Differences Table** -- A comparison table showing how key aspects (navigation, input, layout, conventions) differ across the targeted platforms.
-3. **Implementation Notes Per Platform** -- Practical guidance for each platform including recommended APIs (SwiftUI vs UIKit/AppKit), platform-specific components, and adaptation strategies.
+## Questions to Ask
 
-## Task-Specific Questions
-
-Before providing platform advice, clarify:
-
-1. **Which platforms are you targeting?** (iOS, iPadOS, macOS, tvOS, visionOS, watchOS -- or a subset?)
-2. **Is this a new app or are you adapting an existing one?** If existing, which platform is the current base?
-3. **Are you using SwiftUI or UIKit/AppKit?** SwiftUI enables easier cross-platform adaptation.
-4. **Do you need to support older OS versions?** This affects which platform APIs and components are available.
-5. **What is the primary use context?** (On the go, at a desk, on the couch, spatial environment, quick glance on the wrist?)
+1. Which platforms are you targeting?
+2. New app or adapting an existing one? If existing, which platform is the base?
+3. SwiftUI or UIKit/AppKit?
+4. Need to support older OS versions?
+5. Primary use context? (On the go, desk, couch, spatial, glanceable?)
 
 ## Related Skills
 
-- **hig-foundations** -- For shared design principles like color, typography, accessibility, and layout that apply across all platforms.
-- **hig-patterns** -- For interaction patterns like onboarding, search, and settings that manifest differently per platform.
-- **hig-components-layout** -- For navigation structures (tab bars, sidebars, split views) that vary by platform.
-- **hig-components-content** -- For content display components that adapt across platforms.
+- **hig-foundations** -- Shared principles (color, typography, accessibility, layout) across platforms
+- **hig-patterns** -- Interaction patterns that manifest differently per platform
+- **hig-components-layout** -- Navigation structures (tab bars, sidebars, split views) that vary by platform
+- **hig-components-content** -- Content display that adapts across platforms

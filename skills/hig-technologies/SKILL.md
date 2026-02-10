@@ -15,205 +15,113 @@ description: >
   Cross-references: hig-inputs for input methods, hig-components-system for widgets.
 ---
 
-# HIG Technologies
+# Apple HIG: Technologies
 
-## Persona
-
-Provide Apple HIG guidance on Apple technology integrations (Siri, Apple Pay, HealthKit, HomeKit, ARKit, ML, iCloud, Sign in with Apple, SharePlay, CarPlay, and others). Reference the material below.
-
-## Before Providing Guidance
-
-**Check for project context first:**
-If `.claude/apple-design-context.md` exists, read it before asking questions. Use that context and only ask for information not already covered or specific to this task.
-
-## When to Use This Skill
-
-Activate this skill when the user:
-
-- Asks about Siri integration, SiriKit, or voice assistant design
-- Needs Apple Pay or Tap to Pay implementation guidance
-- Wants to integrate HealthKit or CareKit health data
-- Asks about HomeKit smart home control interfaces
-- Needs ARKit or augmented reality design guidance
-- Asks about machine learning or Core ML integration patterns
-- Wants guidance on generative AI features and responsible AI design
-- Needs iCloud sync or CloudKit data design patterns
-- Asks about Sign in with Apple implementation
-- Wants to design SharePlay shared experiences
-- Asks about CarPlay app design
-- Needs Game Center integration for achievements or leaderboards
-- Asks about in-app purchase flows or subscription design
-- Wants NFC or Wallet integration guidance
-- Needs VoiceOver or accessibility technology guidance
-- Asks about Maps, Live Photos, photo editing extensions
-- Wants to bring an iPad app to Mac with Mac Catalyst
-- Asks about iMessage apps and stickers
-- Needs ShazamKit audio recognition integration
-- Asks about AirPlay streaming design
-- Wants always-on display design guidance
-- Asks about ResearchKit study design
-- Needs ID Verifier or identity verification guidance
+Check for `.claude/apple-design-context.md` before asking questions. Use existing context and only ask for information not already covered.
 
 ## Key Principles
 
 ### General
 
-1. **Apple technologies extend app capabilities through system integration.**
-   They let your app participate in system-wide experiences (Siri, Wallet,
-   Control Center) and access powerful hardware and data (health sensors, UWB,
-   camera, LiDAR). Each technology has established user-facing patterns;
-   deviating from them creates confusion and erodes trust.
+1. **Apple technologies extend app capabilities through system integration.** Each technology has established user-facing patterns; deviating creates confusion and erodes trust.
 
-2. **Privacy and user control are paramount.** This is especially critical for
-   health, payment, and identity technologies. Request only the data you need,
-   explain why you need it, and respect the user's choices.
+2. **Privacy and user control are paramount.** Especially for health, payment, and identity technologies. Request only needed data, explain why, respect choices.
 
 ### Siri and Voice
 
-3. **Siri features should feel natural, predictable, and recoverable.** Define
-   clear, conversational intent phrases that complete quickly and confirm the
-   result. Support App Shortcuts so the system can proactively suggest actions,
-   and handle errors gracefully with clear fallbacks or redirects to the app.
+3. **Natural, predictable, recoverable.** Clear conversational intent phrases that complete quickly and confirm results. Support App Shortcuts for proactive suggestions. Handle errors with clear fallbacks.
 
 ### Payments and Commerce
 
-4. **Make payments transparent and frictionless.** Display the Apple Pay button
-   using standard styles and never ask for card details when Apple Pay is
-   available. For in-app purchases, clearly describe what the user is buying,
-   the price, and whether it is a one-time purchase or subscription. For Tap to
-   Pay, follow the guided merchant and customer flows.
+4. **Transparent and frictionless.** Standard Apple Pay button styles. Never ask for card details when Apple Pay is available. Clearly describe what the user is buying, the price, and whether it's one-time or subscription.
 
 ### Health and Fitness
 
-5. **Health data is deeply personal -- request only what you need and explain
-   why.** For HealthKit, explain the health benefit before requesting access.
-   For CareKit, design care tasks that are encouraging and easy to complete.
-   For ResearchKit, present informed consent flows that are thorough, readable,
-   and respect participant autonomy.
+5. **Health data is deeply personal.** Explain the health benefit before requesting access. CareKit tasks should be encouraging. ResearchKit consent flows must be thorough, readable, and respect autonomy.
 
 ### Smart Home
 
-6. **HomeKit interfaces should be simple and reliable.** Users expect immediate
-   response when controlling lights, locks, and thermostats. Show device state
-   clearly and handle connectivity issues gracefully.
+6. **Simple and reliable.** Immediate response when controlling devices. Clear device state. Graceful handling of connectivity issues.
 
 ### Augmented Reality
 
-7. **AR experiences should add genuine value, not serve as gimmicks.** Use AR
-   when spatial context improves the user's understanding or experience. Guide
-   users through setup (surface, lighting, space), and always provide a clear
-   exit back to standard app interaction.
+7. **Genuine value, not gimmicks.** Use AR when spatial context improves understanding. Guide setup (surface, lighting, space). Provide clear exit back to standard interaction.
 
 ### Machine Learning and Generative AI
 
-8. **ML features should enhance workflows without surprising the user.** Use
-   machine learning for smart suggestions, image recognition, and text
-   prediction. Clearly attribute AI-generated content, provide controls to
-   edit, regenerate, or dismiss AI suggestions, and build interfaces that let
-   users correct mistakes when model confidence is low.
+8. **Enhance without surprising.** Smart suggestions, image recognition, text prediction. Clearly attribute AI-generated content. Controls to edit, regenerate, or dismiss. Let users correct mistakes.
 
 ### Identity and Authentication
 
-9. **Offer Sign in with Apple as the top sign-in option.** Use standard button
-   styles and respect the user's choice to hide their email. For ID Verifier,
-   follow guided flows and never store sensitive identity data beyond what
-   verification requires.
+9. **Sign in with Apple as top option.** Standard button styles. Respect email hiding preference. ID Verifier: guided flows, don't store sensitive data beyond what verification requires.
 
 ### Cloud and Data
 
-10. **iCloud sync should be invisible and reliable.** Users expect their data to
-    appear on all their devices without manual intervention. Handle conflicts
-    gracefully and never lose data.
+10. **Invisible and reliable sync.** Data appears on all devices without manual intervention. Handle conflicts gracefully. Never lose data.
 
 ### Shared Experiences
 
-11. **Design shared experiences for real-time participation.** For SharePlay,
-    support multiple participants viewing or controlling content simultaneously,
-    show participant presence, and handle latency. For AirPlay, provide
-    appropriate Now Playing metadata for seamless streaming.
+11. **Real-time participation.** SharePlay: support multiple participants, show presence, handle latency. AirPlay: appropriate Now Playing metadata.
 
 ### Automotive
 
-12. **CarPlay apps must prioritize driver safety.** Minimize interaction
-    complexity, use large touch targets, and never present content that
-    distracts from driving. Only audio, messaging, EV charging, navigation,
-    parking, and quick food ordering app types are permitted.
+12. **Driver safety first.** Minimize interaction complexity, large touch targets, no distracting content. Only permitted app types: audio, messaging, EV charging, navigation, parking, quick food ordering.
 
 ### Accessibility
 
-13. **Accessibility is a baseline requirement, not an enhancement.** Ensure
-    every element has a meaningful VoiceOver label, trait, and action. Support
-    Dynamic Type, Switch Control, and other assistive technologies. Test your
-    app entirely with VoiceOver enabled.
+13. **Baseline requirement.** Every element has a meaningful VoiceOver label, trait, and action. Support Dynamic Type, Switch Control, and other assistive technologies. Test entirely with VoiceOver enabled.
 
 ## Reference Index
 
 | Reference | Topic | Key content |
 |---|---|---|
-| [siri.md](references/siri.md) | Siri integration | Intents, shortcuts, voice interaction, App Shortcuts |
+| [siri.md](references/siri.md) | Siri | Intents, shortcuts, voice interaction, App Shortcuts |
 | [apple-pay.md](references/apple-pay.md) | Apple Pay | Payment buttons, checkout flow, security |
-| [tap-to-pay-on-iphone.md](references/tap-to-pay-on-iphone.md) | Tap to Pay on iPhone | Merchant flows, contactless payment acceptance |
+| [tap-to-pay-on-iphone.md](references/tap-to-pay-on-iphone.md) | Tap to Pay | Merchant flows, contactless payment |
 | [in-app-purchase.md](references/in-app-purchase.md) | In-app purchase | Subscriptions, one-time purchases, transparency |
 | [healthkit.md](references/healthkit.md) | HealthKit | Health data access, privacy, permissions |
 | [carekit.md](references/carekit.md) | CareKit | Care plans, tasks, health management |
 | [researchkit.md](references/researchkit.md) | ResearchKit | Studies, informed consent, data collection |
 | [homekit.md](references/homekit.md) | HomeKit | Smart home control, device state, scenes |
-| [augmented-reality.md](references/augmented-reality.md) | ARKit / AR experiences | Spatial context, surface detection, setup guidance |
-| [machine-learning.md](references/machine-learning.md) | Core ML / machine learning | Predictions, smart features, confidence handling |
+| [augmented-reality.md](references/augmented-reality.md) | ARKit | Spatial context, surface detection, setup |
+| [machine-learning.md](references/machine-learning.md) | Core ML | Predictions, smart features, confidence handling |
 | [generative-ai.md](references/generative-ai.md) | Generative AI | Attribution, editing, responsible AI, uncertainty |
-| [icloud.md](references/icloud.md) | iCloud sync | CloudKit, cross-device sync, conflict resolution |
+| [icloud.md](references/icloud.md) | iCloud | CloudKit, cross-device sync, conflict resolution |
 | [sign-in-with-apple.md](references/sign-in-with-apple.md) | Sign in with Apple | Authentication, privacy, button styles |
 | [id-verifier.md](references/id-verifier.md) | ID Verifier | Identity verification, document scanning |
-| [shareplay.md](references/shareplay.md) | SharePlay | Shared experiences, participant presence, real-time |
+| [shareplay.md](references/shareplay.md) | SharePlay | Shared experiences, participant presence |
 | [airplay.md](references/airplay.md) | AirPlay | Media streaming, Now Playing, wireless display |
 | [carplay.md](references/carplay.md) | CarPlay | Driver safety, permitted app types, large targets |
 | [game-center.md](references/game-center.md) | Game Center | Achievements, leaderboards, multiplayer |
 | [voiceover.md](references/voiceover.md) | VoiceOver | Screen reader, labels, traits, accessibility |
-| [wallet.md](references/wallet.md) | Wallet | Passes, tickets, loyalty cards, timely info |
+| [wallet.md](references/wallet.md) | Wallet | Passes, tickets, loyalty cards |
 | [nfc.md](references/nfc.md) | NFC | Tag reading, quick interactions, App Clips |
-| [maps.md](references/maps.md) | Maps / MapKit | Location display, annotations, directions |
+| [maps.md](references/maps.md) | Maps | Location display, annotations, directions |
 | [mac-catalyst.md](references/mac-catalyst.md) | Mac Catalyst | iPad to Mac, menu bar, keyboard, pointer |
 | [live-photos.md](references/live-photos.md) | Live Photos | Motion capture, playback, editing |
-| [imessage-apps-and-stickers.md](references/imessage-apps-and-stickers.md) | iMessage apps and stickers | Messages extension, stickers, compact UI |
-| [shazamkit.md](references/shazamkit.md) | ShazamKit | Audio recognition, music identification, feedback |
+| [imessage-apps-and-stickers.md](references/imessage-apps-and-stickers.md) | iMessage apps | Messages extension, stickers, compact UI |
+| [shazamkit.md](references/shazamkit.md) | ShazamKit | Audio recognition, music identification |
 | [always-on.md](references/always-on.md) | Always-on display | Dimmed state, power efficiency, reduced updates |
-| [photo-editing.md](references/photo-editing.md) | Photo editing extensions | System photo editor, filters, adjustments |
+| [photo-editing.md](references/photo-editing.md) | Photo editing | System photo editor, filters, adjustments |
 
 ## Output Format
 
-When responding to technology integration questions, provide:
+1. **Implementation checklist** -- step-by-step requirements per Apple's guidelines.
+2. **Required vs optional features** for approval.
+3. **Privacy and permission requirements** -- data access, usage descriptions.
+4. **User-facing flow** from permission prompt through task completion.
+5. **Testing guidance** -- key scenarios including edge cases.
 
-- **Technology-specific implementation checklist** -- Step-by-step requirements
-  for integrating the technology per Apple's guidelines.
-- **Required vs optional features** -- Which capabilities are mandatory for
-  approval and which are recommended enhancements.
-- **Privacy and permission requirements** -- What data access is needed, how to
-  request it, and what usage descriptions to provide.
-- **User-facing flow description** -- The end-to-end user experience, from
-  permission prompt through task completion.
-- **Testing guidance** -- Key scenarios to validate, including edge cases and
-  error states specific to the technology.
+## Questions to Ask
 
-## Task-Specific Questions
-
-Before providing detailed guidance, clarify:
-
-1. **Which Apple technology are you integrating?** Each technology has its own
-   guidelines, entitlements, and review requirements.
-2. **What is the core use case?** Understanding the problem helps recommend the
-   right technology and avoid over-engineering.
-3. **Which platforms are you targeting?** Technology availability and behavior
-   vary across iOS, iPadOS, macOS, watchOS, tvOS, and visionOS.
-4. **Have you reviewed Apple's specific API requirements?** Some technologies
-   require entitlements, merchant setup, or developer program enrollment.
-5. **What data or permissions are needed?** Privacy-sensitive technologies
-   require careful scoping and clear user-facing explanations.
+1. Which Apple technology?
+2. Core use case?
+3. Which platforms?
+4. API requirements and entitlements reviewed?
+5. What data or permissions needed?
 
 ## Related Skills
 
-- **hig-inputs** -- Input methods that interact with technologies (e.g., voice
-  for Siri, Apple Pencil for AR markup, gestures for Maps).
-- **hig-components-system** -- Widgets, complications, and Live Activities that
-  surface technology data (HealthKit in complications, Maps in widgets).
-- **hig-components-status** -- Progress indicators for technology operations
-  (iCloud sync progress, payment processing, AR loading).
+- **hig-inputs** -- Input methods interacting with technologies (voice for Siri, Pencil for AR, gestures for Maps)
+- **hig-components-system** -- Widgets, complications, Live Activities surfacing technology data
+- **hig-components-status** -- Progress indicators for technology operations (sync, payment, AR loading)

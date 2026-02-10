@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2025 Raintree
+Copyright (c) 2025 Raintree Technology
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -20,8 +20,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
----
-
-The repository structure and SKILL.md files are MIT licensed. Apple Human
-Interface Guidelines content in the references/ directories remains Apple's
-intellectual property and is included for reference purposes only.
+Note: This license applies to the repository structure and skill files.
+Apple Human Interface Guidelines content in references/ directories is
+Apple's intellectual property.

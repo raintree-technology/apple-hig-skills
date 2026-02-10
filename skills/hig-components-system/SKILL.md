@@ -14,155 +14,89 @@ description: >
   interaction patterns, hig-technologies for Siri and system integration.
 ---
 
-# HIG Components: System Experiences
+# Apple HIG: System Experiences
 
-## Persona
-
-Provide Apple HIG guidance on system experience components (widgets, live activities, notifications, complications, quick actions, app clips, app shortcuts). Reference the material below.
-
-## Before Providing Guidance
-
-**Check for project context first:**
-If `.claude/apple-design-context.md` exists, read it before asking questions. Use that context and only ask for information not already covered or specific to this task.
-
-## When to Use This Skill
-
-Activate this skill when the user:
-
-- Asks about designing widgets for Home Screen, Lock Screen, or StandBy
-- Needs guidance on Live Activities for real-time event tracking
-- Wants to design notification content, grouping, or interaction
-- Asks about watchOS complications or watch face integration
-- Needs guidance on Home Screen quick actions (Haptic Touch)
-- Asks about tvOS top shelf content or design
-- Wants to build an App Clip for lightweight, instant experiences
-- Asks about App Shortcuts and Siri integration for quick actions
-- Is designing any experience that lives outside the main app window
+Check for `.claude/apple-design-context.md` before asking questions. Use existing context and only ask for information not already covered.
 
 ## Key Principles
 
 ### General
 
-1. **System experiences extend your app with glanceable, immediate value.**
-   They bring your app's most important content and actions to surfaces the
-   user sees without launching your app. Design for seconds of attention, not
-   minutes -- every system experience should communicate its purpose at a glance.
+1. **Glanceable, immediate value.** System experiences bring your app's most important content to surfaces the user sees without launching your app. Design for seconds of attention.
 
-2. **Respect the platform context.** A widget on the Lock Screen has different
-   constraints than one on the Home Screen. A complication on a watch face is
-   far smaller than a top shelf item on tvOS.
+2. **Respect platform context.** A Lock Screen widget has different constraints than a Home Screen widget. A complication is far smaller than a top shelf item.
 
 ### Widgets
 
-3. **Show glanceable, relevant information.** Widgets should display the most
-   useful subset of your app's data, updated appropriately. Avoid cramming too
-   much content into a widget.
+3. **Show relevant information, not everything.** Display the most useful subset, updated appropriately.
 
-4. **Support multiple sizes with distinct layouts.** Offer small, medium, and
-   large widget families where it makes sense. Each size should present a
-   thoughtfully designed layout, not just a scaled version of another size.
+4. **Support multiple sizes with distinct layouts.** Each size should be a thoughtful design, not a scaled version of another.
 
-5. **Tapping a widget should deep-link.** When the user taps a widget, take them
-   to the relevant content in your app, not the app's root screen.
+5. **Deep-link on tap.** Take users to the relevant content, not the app's root screen.
 
 ### Live Activities
 
-6. **Track real-time events that have a clear start and end.** Use Live
-   Activities for deliveries, sports scores, timers, and ride tracking. Design
-   for both the Dynamic Island and Lock Screen, as each has distinct size and
-   layout requirements.
+6. **Track events with a clear start and end.** Deliveries, scores, timers, rides. Design for both Dynamic Island and Lock Screen.
 
-7. **Keep Live Activities updated and timely.** Stale data undermines trust.
-   End the Live Activity promptly when the tracked event concludes.
+7. **Stay updated and timely.** Stale data undermines trust. End promptly when the event concludes.
 
 ### Notifications
 
-8. **Respect user attention.** Only send notifications for information the user
-   genuinely cares about. Avoid promotional or low-value notifications that
-   train users to disable them.
+8. **Respect user attention.** Only send notifications for information users genuinely care about. No promotional or low-value notifications.
 
-9. **Provide actionable, self-contained content.** Include enough context for
-   the user to understand and act without opening the app. Support notification
-   actions so users can respond, approve, or dismiss directly from the banner
-   or expanded view. Use threading and grouping to prevent overload.
+9. **Actionable and self-contained.** Include enough context to understand and act without opening the app. Support notification actions. Use threading and grouping.
 
 ### Complications
 
-10. **Complications show focused data on the watch face.** Design for the
-    smallest useful representation of your app's information. Support multiple
-    complication families (different shapes and sizes) and use budgeted updates
-    wisely, as the system limits update frequency to preserve battery life.
+10. **Focused data on the watch face.** Design for the smallest useful representation. Support multiple families. Budget updates wisely.
 
 ### Home Screen Quick Actions
 
-11. **Offer 3-4 of the most common tasks.** Quick actions should surface the
-    most frequent or time-sensitive actions. Use short titles, optional
-    subtitles, and relevant SF Symbol icons.
+11. **3-4 most common tasks.** Short titles, optional subtitles, relevant SF Symbol icons.
 
 ### Top Shelf
 
-12. **Top shelf is a tvOS showcase.** Use it to feature content that entices
-    the user to open your app: new episodes, featured items, or recent content.
+12. **tvOS showcase.** Feature content that entices: new episodes, featured items, recent content.
 
 ### App Clips
 
-13. **App Clips provide instant, focused functionality within a strict size
-    budget.** They load quickly without a full App Store download. Include only
-    what is needed for the immediate task, then offer a clear path to install
-    the full app afterward.
+13. **Instant, focused functionality within a strict size budget.** Load quickly without App Store download. Only what's needed for the immediate task, then offer full app install.
 
 ### App Shortcuts
 
-14. **App Shortcuts surface key actions to Siri and Spotlight.** Define
-    shortcuts for tasks users perform frequently or want voice access to. Use
-    natural, conversational trigger phrases that feel like something a user
-    would actually say.
+14. **Surface key actions to Siri and Spotlight.** Define shortcuts for frequent tasks. Use natural, conversational trigger phrases.
 
 ## Reference Index
 
 | Reference | Topic | Key content |
 |---|---|---|
-| [widgets.md](references/widgets.md) | Widget design | Glanceable info, sizes, deep linking, timeline |
+| [widgets.md](references/widgets.md) | Widgets | Glanceable info, sizes, deep linking, timeline |
 | [live-activities.md](references/live-activities.md) | Live Activities | Real-time tracking, Dynamic Island, Lock Screen |
-| [notifications.md](references/notifications.md) | Notification design | Attention, actions, grouping, content |
-| [complications.md](references/complications.md) | watchOS complications | Watch face data, families, budgeted updates |
-| [home-screen-quick-actions.md](references/home-screen-quick-actions.md) | Home Screen quick actions | Haptic Touch, common tasks, SF Symbols |
-| [top-shelf.md](references/top-shelf.md) | tvOS top shelf | Featured content, showcase, enticing imagery |
+| [notifications.md](references/notifications.md) | Notifications | Attention, actions, grouping, content |
+| [complications.md](references/complications.md) | Complications | Watch face data, families, budgeted updates |
+| [home-screen-quick-actions.md](references/home-screen-quick-actions.md) | Quick actions | Haptic Touch, common tasks, SF Symbols |
+| [top-shelf.md](references/top-shelf.md) | Top shelf | Featured content, showcase |
 | [app-clips.md](references/app-clips.md) | App Clips | Instant use, lightweight, focused task, NFC/QR |
-| [app-shortcuts.md](references/app-shortcuts.md) | App Shortcuts | Siri, Spotlight, voice triggers, frequent actions |
+| [watch-faces.md](references/watch-faces.md) | Watch faces | Custom complications, face sharing |
+| [app-shortcuts.md](references/app-shortcuts.md) | App Shortcuts | Siri, Spotlight, voice triggers |
 
 ## Output Format
 
-When responding to system experience questions, provide:
+1. **System experience recommendation** -- which surface best fits the use case.
+2. **Content strategy** -- what to display, priority, what to omit.
+3. **Update frequency** -- refresh rate including system budget constraints.
+4. **Size/family variants** -- which to support and how layout adapts.
+5. **Deep link behavior** -- where tapping takes the user.
 
-- **System experience recommendation** -- Which system surface (widget, Live
-  Activity, notification, complication, App Clip, etc.) best fits the use case.
-- **Content strategy** -- What information to display, how to prioritize it, and
-  what to omit for the glanceable context.
-- **Update frequency guidance** -- How often the content should refresh, including
-  system budget constraints and timeline considerations.
-- **Size and family variants** -- Which sizes or families to support and how
-  the layout adapts across each variant.
-- **Deep link behavior** -- Where tapping should take the user in the full app.
+## Questions to Ask
 
-## Task-Specific Questions
-
-Before providing detailed guidance, clarify:
-
-1. **What information needs to surface outside the app?** This determines which
-   system experience is the best fit.
-2. **Which platform are you targeting?** Widgets, complications, top shelf, and
-   Live Activities are platform-specific.
-3. **How frequently does the data update?** Real-time data suits Live Activities;
-   periodic data suits widgets and complications.
-4. **What is the user's primary glanceable need?** Understanding the quick-look
-   use case shapes content hierarchy and layout decisions.
+1. What information needs to surface outside the app?
+2. Which platform?
+3. How frequently does the data update?
+4. What is the primary glanceable need?
 
 ## Related Skills
 
-- **hig-components-status** -- Progress indicators and status bars that may appear
-  within widgets or Live Activities.
-- **hig-inputs** -- Interaction and gesture patterns for navigating system
-  experiences (e.g., Digital Crown for complications).
-- **hig-technologies** -- Siri integration for App Shortcuts, HealthKit for
-  complications, NFC for App Clip invocation.
+- **hig-components-status** -- Progress indicators in widgets or Live Activities
+- **hig-inputs** -- Interaction patterns for system experiences (Digital Crown for complications)
+- **hig-technologies** -- Siri for App Shortcuts, HealthKit for complications, NFC for App Clips

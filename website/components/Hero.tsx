@@ -95,12 +95,12 @@ export default function Hero() {
             id="hero-heading"
             className="text-5xl sm:text-6xl lg:text-[80px] font-semibold tracking-tight leading-[1.05] mb-6"
           >
-            Teach your AI agent
+            Teach your AI
             <br />
             Apple&apos;s design language.
           </h1>
           <p className="text-xl sm:text-2xl text-muted-foreground font-medium tracking-tight max-w-3xl mx-auto mb-3">
-            Give your AI agent the complete Apple Human Interface Guidelines.
+            Give your AI the complete Apple Human Interface Guidelines.
             No more hallucinated patterns. No more wrong-platform advice.
           </p>
           <p className="text-lg sm:text-xl text-muted-foreground/70 font-medium tracking-tight max-w-2xl mx-auto mb-8">

@@ -97,7 +97,7 @@ export default function Header({
     >
       <nav
         aria-label="Main"
-        className="flex h-14 items-center justify-between px-6 max-w-6xl mx-auto"
+        className="flex h-16 items-center justify-between px-6 max-w-6xl mx-auto"
       >
         <a
           href={variant === "topic" ? "/" : "#"}

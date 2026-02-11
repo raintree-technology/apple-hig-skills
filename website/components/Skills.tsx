@@ -24,6 +24,7 @@ export default function Skills() {
   const [filter, setFilter] = useState("");
 
   const toggle = (name: string) => {
+    const wasOpen = expanded.has(name);
     setExpanded((prev) => {
       const next = new Set(prev);
       if (next.has(name)) {
@@ -33,6 +34,17 @@ export default function Skills() {
       }
       return next;
     });
+    
+    // Move focus to first link when expanding (accessibility fix for keyboard navigation)
+    if (!wasOpen) {
+      setTimeout(() => {
+        const expandedRow = document.querySelector(
+          `[data-skill-name="${name}"] + tr [role="region"]`
+        );
+        const firstLink = expandedRow?.querySelector('a');
+        (firstLink as HTMLElement)?.focus();
+      }, 100); // Allow animation to complete
+    }
   };
 
   const allSkills = categories.flatMap((category) =>
@@ -124,17 +136,17 @@ export default function Skills() {
             <Table className="text-base">
               <TableHeader>
                 <TableRow className="border-border/50 hover:bg-transparent">
-                  <TableHead className="text-sm uppercase tracking-wider pl-5 pr-2 py-4 w-8" />
-                  <TableHead className="text-sm uppercase tracking-wider px-4 py-4">
+                  <TableHead className="text-[13px] uppercase tracking-wider pl-5 pr-2 py-4 w-8" />
+                  <TableHead className="text-[13px] uppercase tracking-wider px-4 py-4">
                     Skill
                   </TableHead>
-                  <TableHead className="text-sm uppercase tracking-wider px-4 py-4 hidden sm:table-cell">
+                  <TableHead className="text-[13px] uppercase tracking-wider px-4 py-4 hidden sm:table-cell">
                     Category
                   </TableHead>
-                  <TableHead className="text-sm uppercase tracking-wider px-4 py-4 hidden md:table-cell">
+                  <TableHead className="text-[13px] uppercase tracking-wider px-4 py-4 hidden md:table-cell">
                     Description
                   </TableHead>
-                  <TableHead className="text-sm uppercase tracking-wider px-5 py-4 text-right">
+                  <TableHead className="text-[13px] uppercase tracking-wider px-5 py-4 text-right">
                     References
                   </TableHead>
                 </TableRow>
@@ -157,6 +169,7 @@ export default function Skills() {
                   return (
                     <React.Fragment key={skill.name}>
                       <TableRow
+                        data-skill-name={skill.name}
                         className={`border-border/30 ${hasRefs ? "cursor-pointer" : ""} ${isOpen ? "bg-accent/20" : "hover:bg-accent/30"}`}
                         onClick={() => hasRefs && toggle(skill.name)}
                         onKeyDown={(e) => {
@@ -199,7 +212,7 @@ export default function Skills() {
                         </TableCell>
                         <TableCell className="px-5 py-3.5 text-right">
                           {skill.refCount ? (
-                            <span className="inline-flex items-center rounded-md bg-muted px-2 py-0.5 text-xs font-medium tabular-nums text-muted-foreground">
+                            <span className="inline-flex items-center rounded-md bg-muted px-2 py-0.5 text-[11px] font-medium tabular-nums text-muted-foreground">
                               {skill.refCount} refs
                             </span>
                           ) : (
@@ -216,8 +229,12 @@ export default function Skills() {
                             colSpan={5}
                             className="border-b border-border/30 bg-accent/10 p-0"
                           >
-                            <div className="px-5 py-4 pl-11">
-                              <p className="text-xs uppercase tracking-wider text-muted-foreground mb-3">
+                            <div 
+                              className="px-5 py-4 pl-11"
+                              role="region"
+                              aria-label={`${skill.displayName} references`}
+                            >
+                              <p className="text-[11px] uppercase tracking-wider text-muted-foreground mb-3">
                                 Reference files
                               </p>
                               <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-x-6 gap-y-1.5">

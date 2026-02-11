@@ -70,19 +70,23 @@ export default function UseCases() {
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-6 max-w-4xl mx-auto">
           {useCases.map((useCase) => (
             <Card key={useCase.question} className="h-full">
-              <CardHeader className="pb-3">
-                <div className="w-10 h-10 rounded-lg bg-muted flex items-center justify-center mb-3">
-                  <useCase.icon
-                    className="h-5 w-5 text-muted-foreground"
-                    aria-hidden="true"
-                  />
+              <CardHeader className="pb-4">
+                <div className="flex items-start gap-3">
+                  <div className="w-10 h-10 rounded-lg bg-muted flex items-center justify-center shrink-0">
+                    <useCase.icon
+                      className="h-5 w-5 text-muted-foreground"
+                      aria-hidden="true"
+                    />
+                  </div>
+                  <div className="flex-1 min-w-0">
+                    <CardTitle className="text-lg mb-2">{useCase.question}</CardTitle>
+                    <CardDescription className="leading-relaxed">
+                      {useCase.answer}
+                    </CardDescription>
+                  </div>
                 </div>
-                <CardTitle className="text-lg">{useCase.question}</CardTitle>
               </CardHeader>
-              <CardContent>
-                <CardDescription className="leading-relaxed mb-4">
-                  {useCase.answer}
-                </CardDescription>
+              <CardContent className="pt-0">
                 <div className="flex flex-wrap gap-1.5">
                   {useCase.skills.map((skill) => (
                     <Badge

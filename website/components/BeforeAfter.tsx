@@ -130,6 +130,17 @@ export default function BeforeAfter() {
   const [activeExample, setActiveExample] = useState(0);
   const example = examples[activeExample];
 
+  // Arrow key navigation for tabs
+  const handleKeyDown = (e: React.KeyboardEvent) => {
+    if (e.key === "ArrowRight") {
+      e.preventDefault();
+      setActiveExample((prev) => (prev + 1) % examples.length);
+    } else if (e.key === "ArrowLeft") {
+      e.preventDefault();
+      setActiveExample((prev) => (prev - 1 + examples.length) % examples.length);
+    }
+  };
+
   return (
     <section
       id="before-after"
@@ -154,6 +165,7 @@ export default function BeforeAfter() {
         <div className="inline-flex items-center justify-center gap-1 mb-8 mx-auto w-full rounded-full bg-muted/30 p-1 sm:w-auto sm:flex"
           role="tablist"
           aria-label="Comparison examples"
+          onKeyDown={handleKeyDown}
         >
           {examples.map((ex, i) => (
             <button

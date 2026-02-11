@@ -89,7 +89,7 @@ export default function Hero() {
         <div className="text-center mb-16">
           <h1
             id="hero-heading"
-            className="text-5xl sm:text-6xl lg:text-[80px] font-semibold tracking-tight leading-[1.05] mb-5"
+            className="text-5xl sm:text-6xl lg:text-[80px] font-semibold tracking-tight leading-[1.05] mb-6"
           >
             Teach your AI agent
             <br />

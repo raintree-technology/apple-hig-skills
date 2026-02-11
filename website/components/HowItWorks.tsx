@@ -110,7 +110,7 @@ export default function HowItWorks() {
           </div>
         </div>
 
-        <div className="grid grid-cols-1 sm:grid-cols-3 gap-5 max-w-3xl mx-auto mb-10">
+        <div className="grid grid-cols-1 sm:grid-cols-3 gap-6 max-w-3xl mx-auto mb-10">
           <div className="text-center rounded-xl border bg-card/50 px-4 py-5">
             <p className="text-2xl sm:text-3xl font-semibold tracking-tight mb-1">
               Seconds
@@ -137,7 +137,7 @@ export default function HowItWorks() {
           </div>
         </div>
 
-        <ol className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-5 list-none p-0">
+        <ol className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 list-none p-0">
           {steps.map((step, i) => (
             <li key={i}>
               <Card className="h-full">

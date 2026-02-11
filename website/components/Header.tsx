@@ -133,17 +133,14 @@ export default function Header({
                 key={item.label}
                 href={item.href}
                 className={cn(
-                  "text-sm transition-colors relative py-1",
+                  "text-sm transition-all relative px-3 py-1.5 rounded-full",
                   isActive
-                    ? "text-foreground"
-                    : "text-muted-foreground hover:text-foreground",
+                    ? "text-foreground bg-accent"
+                    : "text-muted-foreground hover:text-foreground hover:bg-accent/50",
                 )}
                 aria-current={isActive ? "true" : undefined}
               >
                 {item.label}
-                {isActive && (
-                  <span className="absolute -bottom-0.5 left-0 right-0 h-px bg-foreground" />
-                )}
               </a>
             );
           })}

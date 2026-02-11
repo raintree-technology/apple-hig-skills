@@ -53,59 +53,72 @@ export default function HowItWorks() {
             id="how-it-works-heading"
             className="text-4xl sm:text-5xl font-semibold tracking-tight mb-4"
           >
-            Your agent loads only what it needs.
+            Load only what you need.
           </h2>
           <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
             ~4,000 tokens per question instead of 50,000+ for the full HIG.
-            Your agent gets the answer without burning your context window.
+            Get the answer without burning your context window.
           </p>
         </div>
 
-        {/* Savings callout */}
-        <div className="mb-10 rounded-xl border bg-card/50 px-8 py-6 max-w-2xl mx-auto">
-          <div className="flex items-center justify-center gap-6 sm:gap-10">
+        {/* Token comparison chart */}
+        <div className="mb-10 rounded-xl border bg-card/50 p-8 max-w-3xl mx-auto">
+          <div className="grid grid-cols-2 gap-8 sm:gap-12 mb-6">
+            {/* Before: Full HIG */}
             <div className="text-center">
-              <p className="text-3xl sm:text-4xl font-semibold tracking-tight text-muted-foreground/40 line-through decoration-2">
-                50,000+
-              </p>
-              <p className="text-[13px] text-muted-foreground mt-1">
-                Full HIG dump
-              </p>
+              <div className="relative h-48 sm:h-56 flex items-end justify-center mb-4">
+                <div className="w-full max-w-[120px] relative">
+                  <div className="absolute inset-0 flex items-end">
+                    <div className="w-full h-full rounded-t-lg bg-gradient-to-t from-red-500/20 to-red-500/10 border-2 border-red-500/30 relative overflow-hidden">
+                      <div className="absolute inset-0 bg-gradient-to-t from-red-500/5 to-transparent" />
+                    </div>
+                  </div>
+                  <div className="absolute top-2 left-0 right-0 text-center">
+                    <div className="text-2xl sm:text-3xl font-bold text-red-600 dark:text-red-400">
+                      50k+
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="space-y-1">
+                <p className="text-sm sm:text-base font-semibold">Without HIG Skills</p>
+                <p className="text-[13px] text-muted-foreground">Full HIG dump</p>
+              </div>
             </div>
-            <div className="text-2xl text-muted-foreground">&rarr;</div>
+
+            {/* After: Progressive disclosure */}
             <div className="text-center">
-              <p className="text-3xl sm:text-4xl font-semibold tracking-tight">
-                ~4,000
-              </p>
-              <p className="text-[13px] text-muted-foreground mt-1">
-                With progressive disclosure
-              </p>
-            </div>
-            <div className="text-center pl-4 sm:pl-6 border-l">
-              <p className="text-3xl sm:text-4xl font-semibold tracking-tight text-green-600 dark:text-green-400">
-                92%
-              </p>
-              <p className="text-[13px] text-muted-foreground mt-1">
-                Less context used
-              </p>
+              <div className="relative h-48 sm:h-56 flex items-end justify-center mb-4">
+                <div className="w-full max-w-[120px] relative">
+                  <div className="absolute inset-0 flex items-end">
+                    <div className="w-full h-[8%] rounded-t-lg bg-gradient-to-t from-green-500/30 to-green-500/20 border-2 border-green-500/50 relative overflow-hidden">
+                      <div className="absolute inset-0 bg-gradient-to-t from-green-500/10 to-transparent" />
+                    </div>
+                  </div>
+                  <div className="absolute bottom-2 left-0 right-0 text-center">
+                    <div className="text-2xl sm:text-3xl font-bold text-green-600 dark:text-green-400">
+                      ~4k
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="space-y-1">
+                <p className="text-sm sm:text-base font-semibold">With HIG Skills</p>
+                <p className="text-[13px] text-muted-foreground">Progressive disclosure</p>
+              </div>
             </div>
           </div>
-          {/* Visual gauge */}
-          <div
-            className="mt-5 pt-4 border-t border-border/30"
-            role="img"
-            aria-label="Visual comparison: ~4,000 tokens used out of 50,000, representing 92% savings"
-          >
-            <div className="flex items-center gap-3">
-              <span className="text-[11px] text-muted-foreground shrink-0 w-12 text-right">
-                50k
-              </span>
-              <div className="flex-1 h-2 rounded-full bg-muted overflow-hidden">
-                <div className="h-full w-[8%] rounded-full bg-green-600 dark:bg-green-400" />
+
+          {/* Savings metric */}
+          <div className="text-center pt-6 border-t border-border/30">
+            <div className="inline-flex items-center gap-3 px-6 py-3 rounded-full bg-green-500/10 border border-green-500/20">
+              <div className="text-3xl sm:text-4xl font-bold text-green-600 dark:text-green-400">
+                92%
               </div>
-              <span className="text-[11px] text-muted-foreground shrink-0 w-8">
-                4k
-              </span>
+              <div className="text-left">
+                <div className="text-sm font-semibold">Less context</div>
+                <div className="text-[13px] text-muted-foreground">46,000 tokens saved</div>
+              </div>
             </div>
           </div>
         </div>

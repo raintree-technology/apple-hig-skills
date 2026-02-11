@@ -83,20 +83,22 @@ export default function AgentSkills() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-12">
           {features.map((feature) => (
             <Card key={feature.title} className="h-full">
-              <CardHeader className="pb-3">
-                <div className="w-10 h-10 rounded-lg bg-muted flex items-center justify-center mb-2">
-                  <feature.icon
-                    className="h-5 w-5 text-muted-foreground"
-                    aria-hidden="true"
-                  />
+              <CardHeader className="pb-4">
+                <div className="flex items-start gap-3">
+                  <div className="w-10 h-10 rounded-lg bg-muted flex items-center justify-center shrink-0">
+                    <feature.icon
+                      className="h-5 w-5 text-muted-foreground"
+                      aria-hidden="true"
+                    />
+                  </div>
+                  <div className="flex-1 min-w-0">
+                    <CardTitle className="text-base mb-2">{feature.title}</CardTitle>
+                    <CardDescription className="leading-relaxed">
+                      {feature.description}
+                    </CardDescription>
+                  </div>
                 </div>
-                <CardTitle className="text-base">{feature.title}</CardTitle>
               </CardHeader>
-              <CardContent>
-                <CardDescription className="leading-relaxed">
-                  {feature.description}
-                </CardDescription>
-              </CardContent>
             </Card>
           ))}
         </div>

@@ -58,20 +58,22 @@ export default function Audience() {
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-6 max-w-4xl mx-auto">
           {audiences.map((audience) => (
             <Card key={audience.title} className="h-full">
-              <CardHeader className="pb-3">
-                <div className="w-10 h-10 rounded-lg bg-muted flex items-center justify-center mb-2">
-                  <audience.icon
-                    className="h-5 w-5 text-muted-foreground"
-                    aria-hidden="true"
-                  />
+              <CardHeader className="pb-4">
+                <div className="flex items-start gap-3">
+                  <div className="w-10 h-10 rounded-lg bg-muted flex items-center justify-center shrink-0">
+                    <audience.icon
+                      className="h-5 w-5 text-muted-foreground"
+                      aria-hidden="true"
+                    />
+                  </div>
+                  <div className="flex-1 min-w-0">
+                    <CardTitle className="text-base mb-2">{audience.title}</CardTitle>
+                    <CardDescription className="leading-relaxed">
+                      {audience.description}
+                    </CardDescription>
+                  </div>
                 </div>
-                <CardTitle className="text-base">{audience.title}</CardTitle>
               </CardHeader>
-              <CardContent>
-                <CardDescription className="leading-relaxed">
-                  {audience.description}
-                </CardDescription>
-              </CardContent>
             </Card>
           ))}
         </div>

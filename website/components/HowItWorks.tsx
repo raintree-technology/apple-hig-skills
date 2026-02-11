@@ -141,26 +141,28 @@ export default function HowItWorks() {
           {steps.map((step, i) => (
             <li key={i}>
               <Card className="h-full">
-                <CardHeader className="pb-3">
-                  <div className="flex items-center justify-between mb-2">
-                    <div className="flex items-center gap-2.5">
-                      <div className="w-10 h-10 rounded-lg bg-muted flex items-center justify-center">
-                        <step.icon
-                          className="h-5 w-5 text-muted-foreground"
-                          aria-hidden="true"
-                        />
-                      </div>
-                      <span className="text-[13px] font-medium text-muted-foreground">
-                        Step {i + 1}
-                      </span>
+                <CardHeader className="pb-4">
+                  <div className="flex items-start gap-3 mb-3">
+                    <div className="w-10 h-10 rounded-lg bg-muted flex items-center justify-center shrink-0">
+                      <step.icon
+                        className="h-5 w-5 text-muted-foreground"
+                        aria-hidden="true"
+                      />
                     </div>
-                    <Badge variant="outline" className="text-[11px] font-mono">
-                      {step.tokens}
-                    </Badge>
+                    <div className="flex-1 min-w-0">
+                      <div className="flex items-center justify-between gap-2 mb-1">
+                        <span className="text-[13px] font-medium text-muted-foreground">
+                          Step {i + 1}
+                        </span>
+                        <Badge variant="outline" className="text-[11px] font-mono shrink-0">
+                          {step.tokens}
+                        </Badge>
+                      </div>
+                      <CardTitle className="text-base">{step.title}</CardTitle>
+                    </div>
                   </div>
-                  <CardTitle className="text-base">{step.title}</CardTitle>
                 </CardHeader>
-                <CardContent>
+                <CardContent className="pt-0">
                   <CardDescription className="leading-relaxed">
                     {step.description}
                   </CardDescription>

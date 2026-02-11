@@ -80,7 +80,7 @@ export default function AgentSkills() {
           </Button>
         </div>
 
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-5 mb-12">
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-12">
           {features.map((feature) => (
             <Card key={feature.title} className="h-full">
               <CardHeader className="pb-3">

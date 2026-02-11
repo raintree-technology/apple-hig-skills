@@ -198,7 +198,7 @@ export default function BeforeAfter() {
             <div className="rounded-xl border border-red-500/20 overflow-hidden">
               <div className="flex items-center gap-2 px-4 py-3 border-b border-red-500/20 bg-red-500/5">
                 <TerminalDots />
-                <span className="flex-1 text-center text-xs font-medium flex items-center justify-center gap-1.5">
+                <span className="flex-1 text-center text-[13px] font-medium flex items-center justify-center gap-1.5">
                   <AlertTriangle className="h-3 w-3 text-red-400" />
                   <span className="text-red-400">Without HIG Skills</span>
                 </span>
@@ -236,7 +236,7 @@ export default function BeforeAfter() {
             <div className="rounded-xl border border-green-500/20 overflow-hidden">
               <div className="flex items-center gap-2 px-4 py-3 border-b border-green-500/20 bg-green-500/5">
                 <TerminalDots />
-                <span className="flex-1 text-center text-xs font-medium flex items-center justify-center gap-1.5">
+                <span className="flex-1 text-center text-[13px] font-medium flex items-center justify-center gap-1.5">
                   <CheckCircle2 className="h-3 w-3 text-green-400" />
                   <span className="text-green-400">With HIG Skills</span>
                 </span>

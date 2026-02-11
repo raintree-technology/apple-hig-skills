@@ -21,8 +21,8 @@ export default function TopicSidebar({
   return (
     <aside className="space-y-6 lg:sticky lg:top-24">
       {/* Skill info */}
-      <div className="rounded-xl glass p-5">
-        <p className="text-xs uppercase tracking-wider text-muted-foreground mb-2">
+      <div className="rounded-xl glass p-6">
+        <p className="text-[13px] uppercase tracking-wider text-muted-foreground mb-2">
           Skill
         </p>
         <a
@@ -42,7 +42,7 @@ export default function TopicSidebar({
 
       {/* Apple Developer link */}
       {source && (
-        <div className="rounded-xl glass p-5">
+        <div className="rounded-xl glass p-6">
           <a
             href={source}
             target="_blank"
@@ -57,8 +57,8 @@ export default function TopicSidebar({
 
       {/* Related topics */}
       {relatedTopics.length > 0 && (
-        <div className="rounded-xl glass p-5">
-          <p className="text-xs uppercase tracking-wider text-muted-foreground mb-3">
+        <div className="rounded-xl glass p-6">
+          <p className="text-[13px] uppercase tracking-wider text-muted-foreground mb-3">
             Related topics
           </p>
           <ul className="space-y-1.5">
@@ -81,12 +81,12 @@ export default function TopicSidebar({
       )}
 
       {/* Install CTA */}
-      <div className="rounded-xl glass p-5">
+      <div className="rounded-xl glass p-6">
         <p className="text-sm font-medium text-foreground mb-2">
           Get HIG guidance in your AI agent
         </p>
         <div className="flex items-center gap-2">
-          <code className="flex-1 text-xs text-muted-foreground truncate font-mono">
+          <code className="flex-1 text-[13px] text-muted-foreground truncate font-mono">
             {INSTALL_COMMAND}
           </code>
           <TopicCopyButton text={INSTALL_COMMAND} />

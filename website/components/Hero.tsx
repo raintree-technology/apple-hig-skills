@@ -38,6 +38,7 @@ export default function Hero() {
   const [visibleLines, setVisibleLines] = useState(0);
   const [copied, setCopied] = useState(false);
   const [stars, setStars] = useState<number | null>(null);
+  const [starsLoading, setStarsLoading] = useState(true);
   const prefersReducedMotion = useRef(false);
 
   useEffect(() => {
@@ -69,8 +70,11 @@ export default function Hero() {
         if (typeof data.stargazers_count === "number") {
           setStars(data.stargazers_count);
         }
+        setStarsLoading(false);
       })
-      .catch(() => { });
+      .catch(() => {
+        setStarsLoading(false);
+      });
   }, []);
 
   const handleCopy = useCallback(() => {
@@ -121,15 +125,21 @@ export default function Hero() {
               href="https://github.com/raintree-technology/apple-hig-skills"
               target="_blank"
               rel="noopener noreferrer"
+              hrefLang="en"
+              title="View apple-hig-skills on GitHub"
               className="inline-flex items-center gap-1.5 text-sm text-muted-foreground hover:text-foreground transition-colors"
             >
               <Github className="h-3.5 w-3.5" />
               Star on GitHub
-              {stars !== null && (
-                <span className="ml-0.5 inline-flex items-center rounded-full bg-muted/50 px-2 py-0.5 text-xs tabular-nums">
+              {starsLoading ? (
+                <span className="ml-0.5 inline-flex items-center rounded-full bg-muted/50 px-2 py-0.5 text-[13px]">
+                  <span className="inline-block w-3 h-3 border-2 border-muted-foreground/30 border-t-muted-foreground/60 rounded-full animate-spin" />
+                </span>
+              ) : stars !== null ? (
+                <span className="ml-0.5 inline-flex items-center rounded-full bg-muted/50 px-2 py-0.5 text-[13px] tabular-nums">
                   {stars.toLocaleString()}
                 </span>
-              )}
+              ) : null}
               <span className="sr-only"> (opens in new tab)</span>
             </a>
             <span className="text-muted-foreground/30 hidden sm:inline">|</span>
@@ -149,6 +159,7 @@ export default function Hero() {
               aria-label={
                 copied ? "Copied to clipboard" : "Copy install command"
               }
+              title={copied ? "Copied!" : "Copy to clipboard"}
               aria-live="polite"
             >
               {copied ? (
@@ -172,7 +183,7 @@ export default function Hero() {
               <div className="w-3 h-3 rounded-full bg-[#febc2e]/80" />
               <div className="w-3 h-3 rounded-full bg-[#28c840]/80" />
             </div>
-            <span className="flex-1 text-center text-xs text-muted-foreground font-medium">
+            <span className="flex-1 text-center text-[13px] text-muted-foreground font-medium">
               Claude Code
             </span>
             <div className="w-[54px]" />
@@ -203,7 +214,7 @@ export default function Hero() {
               />
             ) : visibleLines > 0 ? (
               <div className="mt-3 pt-3 border-t border-white/10">
-                <span className="text-white/30 text-xs">
+                <span className="text-white/30 text-[13px]">
                   ${" "}
                   <span className="inline-block w-1.5 h-3.5 bg-white/40 align-text-bottom animate-pulse" />
                 </span>

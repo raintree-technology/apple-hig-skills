@@ -55,7 +55,7 @@ export default function Audience() {
           </p>
         </div>
 
-        <div className="grid grid-cols-1 sm:grid-cols-2 gap-5 max-w-4xl mx-auto">
+        <div className="grid grid-cols-1 sm:grid-cols-2 gap-6 max-w-4xl mx-auto">
           {audiences.map((audience) => (
             <Card key={audience.title} className="h-full">
               <CardHeader className="pb-3">

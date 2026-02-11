@@ -68,7 +68,7 @@ export default function HowItWorks() {
               <p className="text-3xl sm:text-4xl font-semibold tracking-tight text-muted-foreground/40 line-through decoration-2">
                 50,000+
               </p>
-              <p className="text-xs text-muted-foreground mt-1">
+              <p className="text-[13px] text-muted-foreground mt-1">
                 Full HIG dump
               </p>
             </div>
@@ -77,7 +77,7 @@ export default function HowItWorks() {
               <p className="text-3xl sm:text-4xl font-semibold tracking-tight">
                 ~4,000
               </p>
-              <p className="text-xs text-muted-foreground mt-1">
+              <p className="text-[13px] text-muted-foreground mt-1">
                 With progressive disclosure
               </p>
             </div>
@@ -85,7 +85,7 @@ export default function HowItWorks() {
               <p className="text-3xl sm:text-4xl font-semibold tracking-tight text-green-600 dark:text-green-400">
                 92%
               </p>
-              <p className="text-xs text-muted-foreground mt-1">
+              <p className="text-[13px] text-muted-foreground mt-1">
                 Less context used
               </p>
             </div>
@@ -112,26 +112,26 @@ export default function HowItWorks() {
 
         <div className="grid grid-cols-1 sm:grid-cols-3 gap-6 max-w-3xl mx-auto mb-10">
           <div className="text-center rounded-xl border bg-card/50 px-4 py-5">
-            <p className="text-2xl sm:text-3xl font-semibold tracking-tight mb-1">
+            <p className="text-2xl sm:text-3xl font-semibold tracking-tight mb-2">
               Seconds
             </p>
-            <p className="text-xs text-muted-foreground">
+            <p className="text-[13px] text-muted-foreground">
               Not hours in Apple&apos;s docs
             </p>
           </div>
           <div className="text-center rounded-xl border bg-card/50 px-4 py-5">
-            <p className="text-2xl sm:text-3xl font-semibold tracking-tight mb-1">
+            <p className="text-2xl sm:text-3xl font-semibold tracking-tight mb-2">
               Grounded
             </p>
-            <p className="text-xs text-muted-foreground">
+            <p className="text-[13px] text-muted-foreground">
               Apple&apos;s actual text, not guesses
             </p>
           </div>
           <div className="text-center rounded-xl border bg-card/50 px-4 py-5">
-            <p className="text-2xl sm:text-3xl font-semibold tracking-tight mb-1">
+            <p className="text-2xl sm:text-3xl font-semibold tracking-tight mb-2">
               Current
             </p>
-            <p className="text-xs text-muted-foreground">
+            <p className="text-[13px] text-muted-foreground">
               Updated when Apple updates
             </p>
           </div>
@@ -142,7 +142,7 @@ export default function HowItWorks() {
             <li key={i}>
               <Card className="h-full">
                 <CardHeader className="pb-3">
-                  <div className="flex items-center justify-between mb-1">
+                  <div className="flex items-center justify-between mb-2">
                     <div className="flex items-center gap-2.5">
                       <div className="w-10 h-10 rounded-lg bg-muted flex items-center justify-center">
                         <step.icon
@@ -150,7 +150,7 @@ export default function HowItWorks() {
                           aria-hidden="true"
                         />
                       </div>
-                      <span className="text-xs font-medium text-muted-foreground">
+                      <span className="text-[13px] font-medium text-muted-foreground">
                         Step {i + 1}
                       </span>
                     </div>

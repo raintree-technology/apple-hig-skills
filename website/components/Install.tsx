@@ -149,7 +149,7 @@ export default function Install() {
                           <span className="text-muted-foreground font-medium min-w-[80px]">
                             {method.label}
                           </span>
-                          <code className="flex-1 font-mono text-xs truncate text-muted-foreground">
+                          <code className="flex-1 font-mono text-[13px] truncate text-muted-foreground">
                             {method.command}
                           </code>
                           <Button
@@ -179,7 +179,7 @@ export default function Install() {
                 </AccordionItem>
               </Accordion>
 
-              <p className="text-xs text-muted-foreground text-center">
+              <p className="text-[13px] text-muted-foreground text-center">
                 Having trouble?{" "}
                 <a
                   href="https://github.com/raintree-technology/apple-hig-skills/issues"

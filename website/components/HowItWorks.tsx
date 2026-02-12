@@ -123,34 +123,7 @@ export default function HowItWorks() {
           </div>
         </div>
 
-        <div className="grid grid-cols-1 sm:grid-cols-3 gap-6 max-w-3xl mx-auto mb-10">
-          <div className="text-center rounded-xl border bg-card/50 px-4 py-5">
-            <p className="text-2xl sm:text-3xl font-semibold tracking-tight mb-2">
-              Seconds
-            </p>
-            <p className="text-[13px] text-muted-foreground">
-              Not hours in Apple&apos;s docs
-            </p>
-          </div>
-          <div className="text-center rounded-xl border bg-card/50 px-4 py-5">
-            <p className="text-2xl sm:text-3xl font-semibold tracking-tight mb-2">
-              Grounded
-            </p>
-            <p className="text-[13px] text-muted-foreground">
-              Apple&apos;s actual text, not guesses
-            </p>
-          </div>
-          <div className="text-center rounded-xl border bg-card/50 px-4 py-5">
-            <p className="text-2xl sm:text-3xl font-semibold tracking-tight mb-2">
-              Current
-            </p>
-            <p className="text-[13px] text-muted-foreground">
-              Updated when Apple updates
-            </p>
-          </div>
-        </div>
-
-        <ol className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 list-none p-0">
+        <ol className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 list-none p-0 mt-12">
           {steps.map((step, i) => (
             <li key={i}>
               <Card className="h-full">

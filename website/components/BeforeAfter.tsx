@@ -156,7 +156,7 @@ export default function BeforeAfter() {
             See the difference.
           </h2>
           <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
-            Same question. Same AI agent. The only difference is whether it has
+            Same question. Same AI. The only difference is whether it has
             Apple&apos;s actual guidelines or not.
           </p>
         </div>

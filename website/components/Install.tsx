@@ -14,12 +14,13 @@ import { Separator } from "@/components/ui/separator";
 import UpdateNotify from "./UpdateNotify";
 
 const MAIN_COMMAND =
-  "git clone https://github.com/raintree-technology/apple-hig-skills.git .claude/apple-hig-skills";
+  "npx skills add raintree-technology/apple-hig-skills";
 
 const altMethods = [
   {
-    label: "Copy files",
-    command: "cp -r apple-hig-skills/skills/* .claude/skills/",
+    label: "Git clone",
+    command:
+      "git clone https://github.com/raintree-technology/apple-hig-skills.git .claude/apple-hig-skills",
   },
   {
     label: "Submodule",
@@ -27,8 +28,8 @@ const altMethods = [
       "git submodule add https://github.com/raintree-technology/apple-hig-skills.git .claude/apple-hig-skills",
   },
   {
-    label: "CLI",
-    command: "npx skills add raintree-technology/apple-hig-skills",
+    label: "Copy files",
+    command: "cp -r apple-hig-skills/skills/* .claude/skills/",
   },
 ] as const;
 

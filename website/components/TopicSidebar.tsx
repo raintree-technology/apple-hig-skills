@@ -3,7 +3,7 @@ import type { TopicMeta } from "@/lib/topics";
 import TopicCopyButton from "./TopicCopyButton";
 
 const INSTALL_COMMAND =
-  "git clone https://github.com/raintree-technology/apple-hig-skills.git .claude/apple-hig-skills";
+  "npx skills add raintree-technology/apple-hig-skills";
 
 interface TopicSidebarProps {
   skillDisplayName: string;

@@ -2,7 +2,7 @@ import TopicCopyButton from "./TopicCopyButton";
 import UpdateNotify from "./UpdateNotify";
 
 const INSTALL_COMMAND =
-  "git clone https://github.com/raintree-technology/apple-hig-skills.git .claude/apple-hig-skills";
+  "npx skills add raintree-technology/apple-hig-skills";
 
 export default function TopicCTA() {
   return (

@@ -59,7 +59,7 @@ export default function UseCases() {
             id="use-cases-heading"
             className="text-3xl sm:text-5xl font-semibold tracking-tight mb-4"
           >
-            What can you ask?
+            What can you ask
           </h2>
           <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
             Ask a design question. Get a specific, platform-aware answer

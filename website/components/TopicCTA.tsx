@@ -9,7 +9,7 @@ export default function TopicCTA() {
     <section className="py-16 sm:py-20">
       <div className="mx-auto max-w-3xl px-6 text-center">
         <h2 className="text-3xl sm:text-4xl font-semibold tracking-tight mb-3">
-          Get HIG guidance in your AI agent.
+          Get HIG guidance in your AI
         </h2>
         <p className="text-lg text-muted-foreground mb-8 max-w-xl mx-auto">
           Install Apple HIG Skills and get expert design guidance directly in

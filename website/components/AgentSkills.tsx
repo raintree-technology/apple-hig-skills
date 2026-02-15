@@ -60,7 +60,7 @@ export default function AgentSkills() {
             id="agent-skills-heading"
             className="text-3xl sm:text-5xl font-semibold tracking-tight mb-4"
           >
-            Works everywhere. Updates automatically.
+            Works everywhere, updates automatically
           </h2>
           <p className="text-xl text-muted-foreground max-w-2xl mx-auto mb-6">
             Built on Agent Skills — an open standard for giving AI agents

@@ -47,7 +47,7 @@ export default function Audience() {
             id="audience-heading"
             className="text-3xl sm:text-5xl font-semibold tracking-tight mb-4"
           >
-            Built for how you work.
+            Built for how you work
           </h2>
           <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
             Solo developer or full team — same accurate answers, zero HIG

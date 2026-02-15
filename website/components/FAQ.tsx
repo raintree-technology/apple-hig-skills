@@ -55,7 +55,7 @@ export default function FAQ() {
             id="faq-heading"
             className="text-3xl sm:text-5xl font-semibold tracking-tight mb-4"
           >
-            Common questions.
+            Common questions
           </h2>
         </div>
 

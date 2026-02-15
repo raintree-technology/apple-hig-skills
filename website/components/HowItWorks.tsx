@@ -53,7 +53,7 @@ export default function HowItWorks() {
             id="how-it-works-heading"
             className="text-3xl sm:text-5xl font-semibold tracking-tight mb-4"
           >
-            Your agent loads only what it needs.
+            Your agent loads only what it needs
           </h2>
           <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
             ~4,000 tokens per question instead of 50,000+ for the full HIG.

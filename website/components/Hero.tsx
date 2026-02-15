@@ -93,7 +93,7 @@ export default function Hero() {
           >
             Teach your AI
             <br />
-            Apple&apos;s design language.
+            Apple&apos;s design language
           </h1>
           <p className="text-xl sm:text-2xl text-muted-foreground font-medium tracking-tight max-w-3xl mx-auto mb-4">
             Give your AI the complete Apple Human Interface Guidelines.

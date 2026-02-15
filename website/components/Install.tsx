@@ -61,7 +61,7 @@ export default function Install() {
                 id="install-heading"
                 className="text-3xl sm:text-5xl font-semibold leading-none tracking-tight"
               >
-                Install in 30 seconds.
+                Install in 30 seconds
               </h2>
               <p className="text-lg text-muted-foreground mt-2">
                 One command. No configuration. Your agent discovers the skills

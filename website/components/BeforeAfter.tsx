@@ -142,7 +142,7 @@ export default function BeforeAfter() {
             id="before-after-heading"
             className="text-3xl sm:text-5xl font-semibold tracking-tight mb-4"
           >
-            See the difference.
+            See the difference
           </h2>
           <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
             Same question. Same AI. The only difference is whether it has

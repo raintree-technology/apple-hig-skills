@@ -66,7 +66,7 @@ export default function Skills() {
             id="skills-heading"
             className="text-3xl sm:text-5xl font-semibold tracking-tight mb-4"
           >
-            What&apos;s included.
+            What&apos;s included
           </h2>
           <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
             {totalSkills} skills. {totalReferences} reference topics. The full

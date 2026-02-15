@@ -24,6 +24,18 @@ jobs:
       - name: Install dependencies
         run: bun install --frozen-lockfile
 
+      - name: Auto-fix lint and formatting
+        run: bunx biome check --write .
+
+      - name: Commit fixes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "style: auto-fix lint and formatting"
+          git push
+        if: github.event_name == 'push'
+
       - name: Typecheck
         run: bun run typecheck
 

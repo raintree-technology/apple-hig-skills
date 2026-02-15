@@ -130,17 +130,6 @@ export default function BeforeAfter() {
   const [activeExample, setActiveExample] = useState(0);
   const example = examples[activeExample];
 
-  // Arrow key navigation for tabs
-  const handleKeyDown = (e: React.KeyboardEvent) => {
-    if (e.key === "ArrowRight") {
-      e.preventDefault();
-      setActiveExample((prev) => (prev + 1) % examples.length);
-    } else if (e.key === "ArrowLeft") {
-      e.preventDefault();
-      setActiveExample((prev) => (prev - 1 + examples.length) % examples.length);
-    }
-  };
-
   return (
     <section
       id="before-after"
@@ -151,7 +140,7 @@ export default function BeforeAfter() {
         <div className="text-center mb-12">
           <h2
             id="before-after-heading"
-            className="text-4xl sm:text-5xl font-semibold tracking-tight mb-4"
+            className="text-3xl sm:text-5xl font-semibold tracking-tight mb-4"
           >
             See the difference.
           </h2>
@@ -162,10 +151,9 @@ export default function BeforeAfter() {
         </div>
 
         {/* Example selector */}
-        <div className="inline-flex items-center justify-center gap-1 mb-8 mx-auto w-full rounded-full bg-muted/30 p-1 sm:w-auto sm:flex"
+        <div className="flex items-center justify-center gap-1 mb-8 mx-auto w-full rounded-full bg-muted/30 p-1 sm:w-auto"
           role="tablist"
           aria-label="Comparison examples"
-          onKeyDown={handleKeyDown}
         >
           {examples.map((ex, i) => (
             <button
@@ -175,7 +163,7 @@ export default function BeforeAfter() {
               aria-selected={i === activeExample}
               onClick={() => setActiveExample(i)}
               className={cn(
-                "px-3.5 py-1.5 rounded-full text-sm font-medium transition-all",
+                "flex-1 sm:flex-none px-3.5 py-1.5 rounded-full text-sm font-medium transition-all whitespace-nowrap",
                 i === activeExample
                   ? "bg-foreground text-background shadow-sm"
                   : "text-muted-foreground hover:text-foreground",
@@ -198,7 +186,7 @@ export default function BeforeAfter() {
             <div className="rounded-xl border border-red-500/20 overflow-hidden">
               <div className="flex items-center gap-2 px-4 py-3 border-b border-red-500/20 bg-red-500/5">
                 <TerminalDots />
-                <span className="flex-1 text-center text-[13px] font-medium flex items-center justify-center gap-1.5">
+                <span className="flex-1 text-center text-xs font-medium flex items-center justify-center gap-1.5">
                   <AlertTriangle className="h-3 w-3 text-red-400" />
                   <span className="text-red-400">Without HIG Skills</span>
                 </span>
@@ -208,7 +196,7 @@ export default function BeforeAfter() {
                 {example.without.lines.map((line, i) => (
                   <div
                     key={i}
-                    className={cn("text-white/60", line === "" && "h-5")}
+                    className={cn("text-white/70", line === "" && "h-5")}
                   >
                     {line}
                   </div>
@@ -222,7 +210,7 @@ export default function BeforeAfter() {
               {example.without.problems.map((problem) => (
                 <li
                   key={problem}
-                  className="flex items-start gap-2 text-sm text-red-300/70"
+                  className="flex items-start gap-2 text-sm text-red-300/80"
                 >
                   <X className="h-4 w-4 shrink-0 text-red-400 mt-0.5" />
                   {problem}
@@ -236,7 +224,7 @@ export default function BeforeAfter() {
             <div className="rounded-xl border border-green-500/20 overflow-hidden">
               <div className="flex items-center gap-2 px-4 py-3 border-b border-green-500/20 bg-green-500/5">
                 <TerminalDots />
-                <span className="flex-1 text-center text-[13px] font-medium flex items-center justify-center gap-1.5">
+                <span className="flex-1 text-center text-xs font-medium flex items-center justify-center gap-1.5">
                   <CheckCircle2 className="h-3 w-3 text-green-400" />
                   <span className="text-green-400">With HIG Skills</span>
                 </span>
@@ -246,7 +234,7 @@ export default function BeforeAfter() {
                 {example.with.lines.map((line, i) => (
                   <div
                     key={i}
-                    className={cn("text-white/70", line === "" && "h-5")}
+                    className={cn("text-white/80", line === "" && "h-5")}
                   >
                     {line}
                   </div>
@@ -260,7 +248,7 @@ export default function BeforeAfter() {
               {example.with.strengths.map((strength) => (
                 <li
                   key={strength}
-                  className="flex items-start gap-2 text-sm text-green-300/70"
+                  className="flex items-start gap-2 text-sm text-green-300/80"
                 >
                   <CheckCircle2 className="h-4 w-4 shrink-0 text-green-400 mt-0.5" />
                   {strength}

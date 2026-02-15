@@ -1,6 +1,6 @@
 "use client";
 
-import { ArrowRight, Check, Copy } from "lucide-react";
+import { ArrowRight, Check, Copy, Github } from "lucide-react";
 import { useCallback, useEffect, useRef, useState } from "react";
 import { Button } from "@/components/ui/button";
 import { cn } from "@/lib/utils";
@@ -37,6 +37,7 @@ const INSTALL_COMMAND =
 export default function Hero() {
   const [visibleLines, setVisibleLines] = useState(0);
   const [copied, setCopied] = useState(false);
+  const [stars, setStars] = useState<number | null>(null);
   const prefersReducedMotion = useRef(false);
 
   useEffect(() => {
@@ -61,6 +62,17 @@ export default function Hero() {
     return () => clearInterval(timer);
   }, []);
 
+  useEffect(() => {
+    fetch("https://api.github.com/repos/raintree-technology/apple-hig-skills")
+      .then((res) => res.json())
+      .then((data) => {
+        if (typeof data.stargazers_count === "number") {
+          setStars(data.stargazers_count);
+        }
+      })
+      .catch(() => { });
+  }, []);
+
   const handleCopy = useCallback(() => {
     navigator.clipboard.writeText(INSTALL_COMMAND);
     setCopied(true);
@@ -77,17 +89,17 @@ export default function Hero() {
         <div className="text-center mb-16">
           <h1
             id="hero-heading"
-            className="text-5xl sm:text-6xl lg:text-[80px] font-semibold tracking-tight leading-[1.05] mb-6"
+            className="text-4xl sm:text-6xl lg:text-[80px] font-semibold tracking-[-0.015em] leading-[1.05] mb-5"
           >
             Teach your AI
             <br />
             Apple&apos;s design language.
           </h1>
-          <p className="text-xl sm:text-2xl text-muted-foreground font-medium tracking-tight max-w-3xl mx-auto mb-3">
+          <p className="text-xl sm:text-2xl text-muted-foreground font-medium tracking-tight max-w-3xl mx-auto mb-4">
             Give your AI the complete Apple Human Interface Guidelines.
             No more hallucinated patterns. No more wrong-platform advice.
           </p>
-          <p className="text-lg sm:text-xl text-muted-foreground/70 font-medium tracking-tight max-w-2xl mx-auto mb-8">
+          <p className="text-lg sm:text-xl text-muted-foreground/80 tracking-tight max-w-2xl mx-auto mb-8">
             Accurate, platform-specific guidance for iOS, iPadOS, macOS,
             watchOS, and visionOS — without reading 500 pages yourself.
           </p>
@@ -104,14 +116,30 @@ export default function Hero() {
             </Button>
           </div>
 
-          <div className="flex items-center justify-center mb-6">
+          <div className="flex flex-wrap items-center justify-center gap-x-6 gap-y-2 mb-6">
+            <a
+              href="https://github.com/raintree-technology/apple-hig-skills"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center gap-1.5 text-sm text-muted-foreground hover:text-foreground transition-colors"
+            >
+              <Github className="h-3.5 w-3.5" />
+              Star on GitHub
+              {stars !== null && (
+                <span className="ml-0.5 inline-flex items-center rounded-full bg-muted/50 px-2 py-0.5 text-xs tabular-nums">
+                  {stars.toLocaleString()}
+                </span>
+              )}
+              <span className="sr-only"> (opens in new tab)</span>
+            </a>
+            <span className="text-muted-foreground/30 hidden sm:inline">|</span>
             <span className="text-sm text-muted-foreground">
               14 skills. 100+ HIG reference topics.
             </span>
           </div>
 
-          <div className="inline-flex items-center gap-2">
-            <code className="px-4 py-2.5 rounded-lg border bg-muted/50 text-sm font-mono text-muted-foreground">
+          <div className="inline-flex items-center gap-2 max-w-full">
+            <code className="px-4 py-2.5 rounded-lg border bg-muted/50 text-sm font-mono text-muted-foreground overflow-x-auto min-w-0">
               npx skills add raintree-technology/apple-hig-skills
             </code>
             <Button
@@ -121,7 +149,6 @@ export default function Hero() {
               aria-label={
                 copied ? "Copied to clipboard" : "Copy install command"
               }
-              title={copied ? "Copied!" : "Copy to clipboard"}
               aria-live="polite"
             >
               {copied ? (
@@ -145,7 +172,7 @@ export default function Hero() {
               <div className="w-3 h-3 rounded-full bg-[#febc2e]/80" />
               <div className="w-3 h-3 rounded-full bg-[#28c840]/80" />
             </div>
-            <span className="flex-1 text-center text-[13px] text-muted-foreground font-medium">
+            <span className="flex-1 text-center text-xs text-muted-foreground font-medium">
               Claude Code
             </span>
             <div className="w-[54px]" />
@@ -158,13 +185,13 @@ export default function Hero() {
                   "mb-0.5",
                   line.type === "prompt" && "text-white",
                   line.type === "user" && "text-white font-medium",
-                  line.type === "system" && "text-white/50",
-                  line.type === "response" && "text-white/70",
+                  line.type === "system" && "text-white/60",
+                  line.type === "response" && "text-white/80",
                   line.type === "blank" && "h-5",
                 )}
               >
                 {line.type === "prompt" && (
-                  <span className="text-white/50">$ </span>
+                  <span className="text-white/60">$ </span>
                 )}
                 {line.content}
               </div>
@@ -176,7 +203,7 @@ export default function Hero() {
               />
             ) : visibleLines > 0 ? (
               <div className="mt-3 pt-3 border-t border-white/10">
-                <span className="text-white/30 text-[13px]">
+                <span className="text-white/30 text-xs">
                   ${" "}
                   <span className="inline-block w-1.5 h-3.5 bg-white/40 align-text-bottom animate-pulse" />
                 </span>

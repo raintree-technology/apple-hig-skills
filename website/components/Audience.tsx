@@ -45,7 +45,7 @@ export default function Audience() {
         <div className="text-center mb-12">
           <h2
             id="audience-heading"
-            className="text-4xl sm:text-5xl font-semibold tracking-tight mb-4"
+            className="text-3xl sm:text-5xl font-semibold tracking-tight mb-4"
           >
             Built for how you work.
           </h2>
@@ -55,25 +55,23 @@ export default function Audience() {
           </p>
         </div>
 
-        <div className="grid grid-cols-1 sm:grid-cols-2 gap-6 max-w-4xl mx-auto">
+        <div className="grid grid-cols-1 sm:grid-cols-2 gap-5 max-w-4xl mx-auto">
           {audiences.map((audience) => (
             <Card key={audience.title} className="h-full">
-              <CardHeader className="pb-4">
-                <div className="flex items-start gap-3">
-                  <div className="w-10 h-10 rounded-lg bg-muted flex items-center justify-center shrink-0">
-                    <audience.icon
-                      className="h-5 w-5 text-muted-foreground"
-                      aria-hidden="true"
-                    />
-                  </div>
-                  <div className="flex-1 min-w-0">
-                    <CardTitle className="text-base mb-2">{audience.title}</CardTitle>
-                    <CardDescription className="leading-relaxed">
-                      {audience.description}
-                    </CardDescription>
-                  </div>
+              <div className="flex gap-4 p-6">
+                <div className="w-10 h-10 rounded-lg bg-muted flex items-center justify-center shrink-0">
+                  <audience.icon
+                    className="h-5 w-5 text-muted-foreground"
+                    aria-hidden="true"
+                  />
                 </div>
-              </CardHeader>
+                <div>
+                  <CardTitle className="text-base mb-2">{audience.title}</CardTitle>
+                  <CardDescription className="leading-relaxed">
+                    {audience.description}
+                  </CardDescription>
+                </div>
+              </div>
             </Card>
           ))}
         </div>

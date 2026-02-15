@@ -51,108 +51,118 @@ export default function HowItWorks() {
         <div className="text-center mb-12">
           <h2
             id="how-it-works-heading"
-            className="text-4xl sm:text-5xl font-semibold tracking-tight mb-4"
+            className="text-3xl sm:text-5xl font-semibold tracking-tight mb-4"
           >
-            Load only what you need.
+            Your agent loads only what it needs.
           </h2>
           <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
             ~4,000 tokens per question instead of 50,000+ for the full HIG.
-            Get the answer without burning your context window.
+            Your agent gets the answer without burning your context window.
           </p>
         </div>
 
-        {/* Token comparison chart */}
-        <div className="mb-10 rounded-xl border bg-card/50 p-8 max-w-3xl mx-auto">
-          <div className="grid grid-cols-2 gap-8 sm:gap-12 mb-6">
-            {/* Before: Full HIG */}
+        {/* Savings callout */}
+        <div className="mb-10 rounded-xl border bg-card/50 px-4 sm:px-8 py-6 max-w-2xl mx-auto">
+          <div className="flex items-center justify-center gap-4 sm:gap-10">
             <div className="text-center">
-              <div className="relative h-48 sm:h-56 flex items-end justify-center mb-4">
-                <div className="w-full max-w-[120px] relative">
-                  <div className="absolute inset-0 flex items-end">
-                    <div className="w-full h-full rounded-t-lg bg-gradient-to-t from-red-500/20 to-red-500/10 border-2 border-red-500/30 relative overflow-hidden">
-                      <div className="absolute inset-0 bg-gradient-to-t from-red-500/5 to-transparent" />
-                    </div>
-                  </div>
-                  <div className="absolute top-2 left-0 right-0 text-center">
-                    <div className="text-2xl sm:text-3xl font-bold text-red-600 dark:text-red-400">
-                      50k+
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div className="space-y-1">
-                <p className="text-sm sm:text-base font-semibold">Without HIG Skills</p>
-                <p className="text-[13px] text-muted-foreground">Full HIG dump</p>
-              </div>
+              <p className="text-2xl sm:text-4xl font-semibold tracking-tight text-muted-foreground/40 line-through decoration-2">
+                50,000+
+              </p>
+              <p className="text-xs text-muted-foreground mt-1">
+                Full HIG dump
+              </p>
             </div>
-
-            {/* After: Progressive disclosure */}
+            <div className="text-xl sm:text-2xl text-muted-foreground">&rarr;</div>
             <div className="text-center">
-              <div className="relative h-48 sm:h-56 flex items-end justify-center mb-4">
-                <div className="w-full max-w-[120px] relative">
-                  <div className="absolute inset-0 flex items-end">
-                    <div className="w-full h-[8%] rounded-t-lg bg-gradient-to-t from-green-500/30 to-green-500/20 border-2 border-green-500/50 relative overflow-hidden">
-                      <div className="absolute inset-0 bg-gradient-to-t from-green-500/10 to-transparent" />
-                    </div>
-                  </div>
-                  <div className="absolute bottom-2 left-0 right-0 text-center">
-                    <div className="text-2xl sm:text-3xl font-bold text-green-600 dark:text-green-400">
-                      ~4k
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div className="space-y-1">
-                <p className="text-sm sm:text-base font-semibold">With HIG Skills</p>
-                <p className="text-[13px] text-muted-foreground">Progressive disclosure</p>
-              </div>
+              <p className="text-2xl sm:text-4xl font-semibold tracking-tight">
+                ~4,000
+              </p>
+              <p className="text-xs text-muted-foreground mt-1">
+                With progressive disclosure
+              </p>
+            </div>
+            <div className="text-center pl-4 sm:pl-6 border-l">
+              <p className="text-2xl sm:text-4xl font-semibold tracking-tight text-green-600 dark:text-green-400">
+                92%
+              </p>
+              <p className="text-xs text-muted-foreground mt-1">
+                Less context used
+              </p>
             </div>
           </div>
-
-          {/* Savings metric */}
-          <div className="text-center pt-6 border-t border-border/30">
-            <div className="inline-flex items-center gap-3 px-6 py-3 rounded-full bg-green-500/10 border border-green-500/20">
-              <div className="text-3xl sm:text-4xl font-bold text-green-600 dark:text-green-400">
-                92%
+          {/* Visual gauge */}
+          <div
+            className="mt-5 pt-4 border-t border-border/30"
+            role="img"
+            aria-label="Visual comparison: ~4,000 tokens used out of 50,000, representing 92% savings"
+          >
+            <div className="flex items-center gap-3">
+              <span className="text-xs text-muted-foreground shrink-0 w-12 text-right tabular-nums">
+                50k
+              </span>
+              <div className="flex-1 h-2 rounded-full bg-muted overflow-hidden">
+                <div className="h-full w-[8%] rounded-full bg-green-600 dark:bg-green-400" />
               </div>
-              <div className="text-left">
-                <div className="text-sm font-semibold">Less context</div>
-                <div className="text-[13px] text-muted-foreground">46,000 tokens saved</div>
-              </div>
+              <span className="text-xs text-muted-foreground shrink-0 w-8 tabular-nums">
+                4k
+              </span>
             </div>
           </div>
         </div>
 
-        <ol className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 list-none p-0 mt-12">
+        <div className="grid grid-cols-1 sm:grid-cols-3 gap-5 max-w-3xl mx-auto mb-10">
+          <div className="text-center rounded-xl border bg-card/50 px-4 py-5">
+            <p className="text-2xl sm:text-3xl font-semibold tracking-tight mb-1">
+              Seconds
+            </p>
+            <p className="text-xs text-muted-foreground">
+              Not hours in Apple&apos;s docs
+            </p>
+          </div>
+          <div className="text-center rounded-xl border bg-card/50 px-4 py-5">
+            <p className="text-2xl sm:text-3xl font-semibold tracking-tight mb-1">
+              Grounded
+            </p>
+            <p className="text-xs text-muted-foreground">
+              Apple&apos;s actual text, not guesses
+            </p>
+          </div>
+          <div className="text-center rounded-xl border bg-card/50 px-4 py-5">
+            <p className="text-2xl sm:text-3xl font-semibold tracking-tight mb-1">
+              Current
+            </p>
+            <p className="text-xs text-muted-foreground">
+              Updated when Apple updates
+            </p>
+          </div>
+        </div>
+
+        <ol className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-5 list-none p-0">
           {steps.map((step, i) => (
             <li key={i}>
               <Card className="h-full">
-                <CardHeader className="pb-4">
-                  <div className="flex items-start gap-3 mb-3">
-                    <div className="w-10 h-10 rounded-lg bg-muted flex items-center justify-center shrink-0">
-                      <step.icon
-                        className="h-5 w-5 text-muted-foreground"
-                        aria-hidden="true"
-                      />
-                    </div>
-                    <div className="flex-1 min-w-0">
-                      <div className="flex items-center justify-between gap-2 mb-1">
-                        <span className="text-[13px] font-medium text-muted-foreground">
-                          Step {i + 1}
-                        </span>
-                        <Badge variant="outline" className="text-[11px] font-mono shrink-0">
-                          {step.tokens}
-                        </Badge>
-                      </div>
-                      <CardTitle className="text-base">{step.title}</CardTitle>
-                    </div>
+                <div className="flex gap-4 p-6">
+                  <div className="w-10 h-10 rounded-lg bg-muted flex items-center justify-center shrink-0">
+                    <step.icon
+                      className="h-5 w-5 text-muted-foreground"
+                      aria-hidden="true"
+                    />
                   </div>
-                </CardHeader>
-                <CardContent className="pt-0">
-                  <CardDescription className="leading-relaxed">
-                    {step.description}
-                  </CardDescription>
-                </CardContent>
+                  <div className="min-w-0">
+                    <div className="flex items-center justify-between mb-1">
+                      <span className="text-xs font-medium text-muted-foreground">
+                        Step {i + 1}
+                      </span>
+                      <Badge variant="outline" className="text-xs font-mono">
+                        {step.tokens}
+                      </Badge>
+                    </div>
+                    <CardTitle className="text-base mb-2">{step.title}</CardTitle>
+                    <CardDescription className="leading-relaxed">
+                      {step.description}
+                    </CardDescription>
+                  </div>
+                </div>
               </Card>
             </li>
           ))}

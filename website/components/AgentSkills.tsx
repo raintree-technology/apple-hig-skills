@@ -53,12 +53,12 @@ export default function AgentSkills() {
     >
       <div className="mx-auto max-w-6xl px-6">
         <div className="text-center mb-12">
-          <Badge variant="outline" className="mb-4 gap-1.5 text-xs">
+          <Badge variant="outline" className="mb-5 gap-1.5 text-xs">
             Open Standard
           </Badge>
           <h2
             id="agent-skills-heading"
-            className="text-4xl sm:text-5xl font-semibold tracking-tight mb-4"
+            className="text-3xl sm:text-5xl font-semibold tracking-tight mb-4"
           >
             Works everywhere. Updates automatically.
           </h2>
@@ -80,25 +80,23 @@ export default function AgentSkills() {
           </Button>
         </div>
 
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-12">
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-5 mb-12">
           {features.map((feature) => (
             <Card key={feature.title} className="h-full">
-              <CardHeader className="pb-4">
-                <div className="flex items-start gap-3">
-                  <div className="w-10 h-10 rounded-lg bg-muted flex items-center justify-center shrink-0">
-                    <feature.icon
-                      className="h-5 w-5 text-muted-foreground"
-                      aria-hidden="true"
-                    />
-                  </div>
-                  <div className="flex-1 min-w-0">
-                    <CardTitle className="text-base mb-2">{feature.title}</CardTitle>
-                    <CardDescription className="leading-relaxed">
-                      {feature.description}
-                    </CardDescription>
-                  </div>
+              <div className="flex gap-4 p-6">
+                <div className="w-10 h-10 rounded-lg bg-muted flex items-center justify-center shrink-0">
+                  <feature.icon
+                    className="h-5 w-5 text-muted-foreground"
+                    aria-hidden="true"
+                  />
                 </div>
-              </CardHeader>
+                <div>
+                  <CardTitle className="text-base mb-2">{feature.title}</CardTitle>
+                  <CardDescription className="leading-relaxed">
+                    {feature.description}
+                  </CardDescription>
+                </div>
+              </div>
             </Card>
           ))}
         </div>
@@ -114,13 +112,13 @@ export default function AgentSkills() {
                 href={agent.url}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="flex items-center gap-3 rounded-full border border-border/60 bg-muted/40 py-2.5 px-5 text-base text-muted-foreground hover:text-foreground hover:border-foreground/20 transition-colors"
+                className="flex items-center gap-2 sm:gap-3 rounded-full border border-border/60 bg-muted/40 py-2 px-3.5 sm:py-2.5 sm:px-5 text-sm sm:text-base text-muted-foreground hover:text-foreground hover:border-foreground/20 transition-colors"
               >
-                <span className="flex h-7 w-7 items-center justify-center rounded-full bg-background shrink-0">
+                <span className="flex h-6 w-6 sm:h-7 sm:w-7 items-center justify-center rounded-full bg-background shrink-0">
                   {agent.domain ? (
                     <img
                       src={`https://www.google.com/s2/favicons?domain=${agent.domain}&sz=64`}
-                      alt=""
+                      alt={`${agent.name} logo`}
                       width={16}
                       height={16}
                       className="rounded-sm"

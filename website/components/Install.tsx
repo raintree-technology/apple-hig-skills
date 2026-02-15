@@ -14,13 +14,12 @@ import { Separator } from "@/components/ui/separator";
 import UpdateNotify from "./UpdateNotify";
 
 const MAIN_COMMAND =
-  "npx skills add raintree-technology/apple-hig-skills";
+  "git clone https://github.com/raintree-technology/apple-hig-skills.git .claude/apple-hig-skills";
 
 const altMethods = [
   {
-    label: "Git clone",
-    command:
-      "git clone https://github.com/raintree-technology/apple-hig-skills.git .claude/apple-hig-skills",
+    label: "Copy files",
+    command: "cp -r apple-hig-skills/skills/* .claude/skills/",
   },
   {
     label: "Submodule",
@@ -28,8 +27,8 @@ const altMethods = [
       "git submodule add https://github.com/raintree-technology/apple-hig-skills.git .claude/apple-hig-skills",
   },
   {
-    label: "Copy files",
-    command: "cp -r apple-hig-skills/skills/* .claude/skills/",
+    label: "CLI",
+    command: "npx skills add raintree-technology/apple-hig-skills",
   },
 ] as const;
 
@@ -60,7 +59,7 @@ export default function Install() {
             <CardHeader className="text-center pb-4">
               <h2
                 id="install-heading"
-                className="text-4xl sm:text-5xl font-semibold leading-none tracking-tight"
+                className="text-3xl sm:text-5xl font-semibold leading-none tracking-tight"
               >
                 Install in 30 seconds.
               </h2>
@@ -73,7 +72,7 @@ export default function Install() {
               {/* Main command */}
               <div className="flex items-center gap-2">
                 <code
-                  className="flex-1 px-4 py-3 rounded-lg bg-[#1d1d1f] dark:bg-[#0a0a0a] text-white/80 text-sm font-mono overflow-x-auto"
+                  className="flex-1 min-w-0 px-4 py-3 rounded-lg bg-[#1d1d1f] dark:bg-[#0a0a0a] text-white/80 text-xs sm:text-sm font-mono overflow-x-auto"
                   aria-label={`Install: ${MAIN_COMMAND}`}
                 >
                   {MAIN_COMMAND}
@@ -119,7 +118,7 @@ export default function Install() {
                       type="button"
                       key={question}
                       onClick={() => handleCopy(question, question)}
-                      className="w-full text-left px-3 py-2 rounded-md bg-background border text-sm text-muted-foreground hover:text-foreground hover:border-foreground/20 transition-colors cursor-pointer flex items-center gap-2"
+                      className="w-full text-left px-3.5 py-2.5 rounded-lg bg-background border text-sm text-muted-foreground hover:text-foreground hover:border-foreground/20 transition-colors cursor-pointer flex items-center gap-2"
                       aria-label={`Copy: ${question}`}
                       aria-live="polite"
                     >
@@ -145,12 +144,12 @@ export default function Install() {
                       {altMethods.map((method, i) => (
                         <div
                           key={method.label}
-                          className="flex items-center gap-3 rounded-lg bg-muted/50 px-4 py-2.5 text-sm"
+                          className="flex items-center gap-3 rounded-lg bg-muted/50 px-4 py-3 text-sm"
                         >
                           <span className="text-muted-foreground font-medium min-w-[80px]">
                             {method.label}
                           </span>
-                          <code className="flex-1 font-mono text-[13px] truncate text-muted-foreground">
+                          <code className="flex-1 font-mono text-xs truncate text-muted-foreground">
                             {method.command}
                           </code>
                           <Button
@@ -180,7 +179,7 @@ export default function Install() {
                 </AccordionItem>
               </Accordion>
 
-              <p className="text-[13px] text-muted-foreground text-center">
+              <p className="text-xs text-muted-foreground text-center">
                 Having trouble?{" "}
                 <a
                   href="https://github.com/raintree-technology/apple-hig-skills/issues"

@@ -18,39 +18,9 @@
 
 @layer base {
     :root {
-        /* Light mode colors */
-        --background: 0 0% 100%;
-        --foreground: 0 0% 10%;
-        --card: 0 0% 98%;
-        --card-foreground: 0 0% 10%;
-        --popover: 0 0% 100%;
-        --popover-foreground: 0 0% 10%;
-        --primary: 0 0% 9%;
-        --primary-foreground: 0 0% 98%;
-        --secondary: 0 0% 96%;
-        --secondary-foreground: 0 0% 10%;
-        --muted: 0 0% 96%;
-        --muted-foreground: 0 0% 40%;
-        --accent: 0 0% 94%;
-        --accent-foreground: 0 0% 10%;
-        --destructive: 0 84% 60%;
-        --destructive-foreground: 0 0% 98%;
-        --border: 0 0% 90%;
-        --input: 0 0% 90%;
-        --ring: 0 0% 20%;
-        --radius: 0.75rem;
-        --chart-1: 220 70% 50%;
-        --chart-2: 160 60% 45%;
-        --chart-3: 30 80% 55%;
-        --chart-4: 280 65% 60%;
-        --chart-5: 340 75% 55%;
-    }
-
-    .dark {
-        /* Dark mode colors */
         --background: 225 10% 6%;
         --foreground: 0 0% 95%;
-        --card: 225 10% 10%;
+        --card: 225 10% 11%;
         --card-foreground: 0 0% 95%;
         --popover: 225 10% 10%;
         --popover-foreground: 0 0% 95%;
@@ -59,14 +29,20 @@
         --secondary: 225 10% 14%;
         --secondary-foreground: 0 0% 95%;
         --muted: 225 10% 14%;
-        --muted-foreground: 0 0% 65%;
+        --muted-foreground: 0 0% 63%;
         --accent: 225 10% 14%;
         --accent-foreground: 0 0% 95%;
         --destructive: 0 63% 31%;
         --destructive-foreground: 0 0% 98%;
-        --border: 225 10% 16%;
-        --input: 225 10% 16%;
+        --border: 225 10% 18%;
+        --input: 225 10% 18%;
         --ring: 0 0% 83.1%;
+        --radius: 0.75rem;
+        --chart-1: 220 70% 50%;
+        --chart-2: 160 60% 45%;
+        --chart-3: 30 80% 55%;
+        --chart-4: 280 65% 60%;
+        --chart-5: 340 75% 55%;
     }
 }
 
@@ -93,14 +69,14 @@
     h4,
     h5,
     h6 {
-        letter-spacing: -0.03em;
+        letter-spacing: -0.025em;
         font-weight: 600;
     }
 
     :focus-visible {
-        outline: 4px solid hsl(var(--ring) / 0.5);
-        outline-offset: 2px;
-        border-radius: 4px;
+        outline: 3px solid hsl(var(--ring) / 0.6);
+        outline-offset: 3px;
+        border-radius: 6px;
     }
 
     :focus:not(:focus-visible) {
@@ -130,13 +106,6 @@ html {
 /* Increased contrast mode support */
 @media (prefers-contrast: more) {
     :root {
-        --foreground: 0 0% 0%;
-        --muted-foreground: 0 0% 20%;
-        --border: 0 0% 70%;
-        --accent: 0 0% 88%;
-    }
-
-    .dark {
         --foreground: 0 0% 100%;
         --background: 0 0% 0%;
         --muted-foreground: 0 0% 80%;
@@ -184,21 +153,12 @@ html {
     background: hsl(var(--muted-foreground) / 0.5);
 }
 
-/* Glass card */
+/* Glass card — per HIG Materials: use sufficient opacity to preserve legibility */
 .glass {
-    background: hsla(0, 0%, 100%, 0.65);
+    background: hsla(225, 10%, 12%, 0.5);
     backdrop-filter: blur(40px) saturate(180%);
     -webkit-backdrop-filter: blur(40px) saturate(180%);
-    border: 1px solid hsla(0, 0%, 0%, 0.08);
-    box-shadow:
-        0 0 0 0.5px hsla(0, 0%, 0%, 0.05),
-        0 2px 8px hsla(0, 0%, 0%, 0.08),
-        0 12px 40px hsla(0, 0%, 0%, 0.12);
-}
-
-.dark .glass {
-    background: hsla(225, 10%, 12%, 0.35);
-    border: 1px solid hsla(0, 0%, 100%, 0.08);
+    border: 1px solid hsla(0, 0%, 100%, 0.1);
     box-shadow:
         0 0 0 0.5px hsla(0, 0%, 0%, 0.2),
         0 2px 8px hsla(0, 0%, 0%, 0.15),
@@ -222,16 +182,12 @@ html {
     content: "";
     position: fixed;
     inset: 0;
-    background-color: hsla(0, 0%, 94%, 0.75);
+    background-color: hsla(225, 15%, 5%, 0.72);
     mask-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='4' height='4'%3E%3Crect width='4' height='4' fill='black'/%3E%3Crect x='0' y='0' width='1' height='1' fill='white'/%3E%3Crect x='2' y='2' width='1' height='1' fill='white'/%3E%3C/svg%3E");
     -webkit-mask-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='4' height='4'%3E%3Crect width='4' height='4' fill='black'/%3E%3Crect x='0' y='0' width='1' height='1' fill='white'/%3E%3Crect x='2' y='2' width='1' height='1' fill='white'/%3E%3C/svg%3E");
     mask-size: 4px 4px;
     -webkit-mask-size: 4px 4px;
     z-index: -1;
-}
-
-.dark .photo-bg::after {
-    background-color: hsla(225, 15%, 5%, 0.80);
 }
 
 code {
@@ -439,6 +395,7 @@ body {
 
 /* Print stylesheet */
 @media print {
+
     header,
     footer,
     .skip-link,

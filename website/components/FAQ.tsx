@@ -9,28 +9,36 @@ import {
 
 const questions = [
   {
-    q: "I'm a designer with no terminal experience. Can I use this?",
-    a: "Yes. Copy-paste one line into a terminal and you're done. No configuration, no build steps. If you get stuck, open an issue and we'll help.",
+    q: "Can't my AI already answer HIG questions without this?",
+    a: "It can try — but it's working from training data, not Apple's actual documentation. That means it mixes up platform conventions (suggesting iPhone tab bars on iPad), recommends deprecated patterns, and invents guidance that doesn't exist. These skills give your agent the real HIG text so it cites instead of guesses.",
   },
   {
-    q: "Will this work with my AI tool?",
-    a: "If your tool reads files, it works. Claude Code, Cursor, Copilot, Windsurf, and custom agents are all supported. No plugins needed.",
+    q: "How is this different from pasting the HIG into my prompt?",
+    a: "The full HIG is 50,000+ tokens — most models will either truncate it or lose focus. These skills use progressive disclosure: your agent loads only the specific topic it needs (~4,000 tokens), so you get precise answers without burning your context window.",
   },
   {
-    q: "What happens when Apple updates the HIG?",
-    a: "We publish a new version. Run git pull to get it, or sign up for email notifications. Zero maintenance on your end.",
+    q: "What AI tools does this work with?",
+    a: "Any tool that reads project files: Claude Code, Cursor, GitHub Copilot, Windsurf, Cline, Aider, Roo Code, Continue, Augment Code, and any agent that supports the Agent Skills standard. No plugins or API keys required.",
   },
   {
-    q: "Is this official from Apple?",
-    a: "No. It's a community project based on Apple's official Human Interface Guidelines. Apple doesn't endorse or maintain it.",
+    q: "What platforms and topics does this cover?",
+    a: "All five Apple platforms — iOS, iPadOS, macOS, watchOS, and visionOS. Covers foundations (color, typography, layout), every component category (navigation, menus, controls, dialogs), input methods, UX patterns, and Apple technology integrations like Apple Pay, Siri, and HealthKit. 14 skills, 100+ reference topics.",
   },
   {
-    q: "How much context does this use?",
-    a: "~4,000 tokens per question instead of 50,000+ for the full HIG. Your agent only loads the specific reference file it needs.",
+    q: "How do I keep it up to date when Apple changes the HIG?",
+    a: "Run git pull. We track Apple's HIG updates and publish new versions with semantic versioning. Your agent will even notify you when updates are available.",
   },
   {
-    q: "Does this cover visionOS, watchOS, and macOS?",
-    a: "All five Apple platforms: iOS, iPadOS, macOS, watchOS, and visionOS. Each skill gives platform-specific answers, not generic advice.",
+    q: "Is this an official Apple product?",
+    a: "No. It's an open-source community project built on Apple's publicly available Human Interface Guidelines. Apple doesn't endorse or maintain it. The structure and tooling are MIT-licensed; the HIG content itself is Apple's intellectual property.",
+  },
+  {
+    q: "I'm a designer, not a developer. Can I still use this?",
+    a: "Yes. Installation is one terminal command — copy it, paste it, done. Once installed, just ask your AI design questions in plain English. No configuration or coding required.",
+  },
+  {
+    q: "Is it free?",
+    a: "Completely free and open source. No accounts, no API keys, no usage limits.",
   },
 ];
 
@@ -45,7 +53,7 @@ export default function FAQ() {
         <div className="text-center mb-12">
           <h2
             id="faq-heading"
-            className="text-4xl sm:text-5xl font-semibold tracking-tight mb-4"
+            className="text-3xl sm:text-5xl font-semibold tracking-tight mb-4"
           >
             Common questions.
           </h2>
@@ -54,10 +62,10 @@ export default function FAQ() {
         <Accordion type="single" collapsible className="w-full">
           {questions.map((item, i) => (
             <AccordionItem key={i} value={`q-${i}`}>
-              <AccordionTrigger className="text-left text-base font-medium">
+              <AccordionTrigger className="text-left text-base font-medium py-5">
                 {item.q}
               </AccordionTrigger>
-              <AccordionContent className="text-muted-foreground leading-relaxed">
+              <AccordionContent className="text-muted-foreground leading-relaxed pb-5">
                 {item.a}
               </AccordionContent>
             </AccordionItem>

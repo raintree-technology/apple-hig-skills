@@ -14,7 +14,7 @@ import { Separator } from "@/components/ui/separator";
 function SectionDivider() {
   return (
     <div className="mx-auto max-w-6xl px-6">
-      <Separator className="opacity-50" />
+      <Separator className="opacity-60" />
     </div>
   );
 }

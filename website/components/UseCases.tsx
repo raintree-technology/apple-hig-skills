@@ -57,7 +57,7 @@ export default function UseCases() {
         <div className="text-center mb-12">
           <h2
             id="use-cases-heading"
-            className="text-4xl sm:text-5xl font-semibold tracking-tight mb-4"
+            className="text-3xl sm:text-5xl font-semibold tracking-tight mb-4"
           >
             What can you ask?
           </h2>
@@ -67,38 +67,34 @@ export default function UseCases() {
           </p>
         </div>
 
-        <div className="grid grid-cols-1 sm:grid-cols-2 gap-6 max-w-4xl mx-auto">
+        <div className="grid grid-cols-1 sm:grid-cols-2 gap-5 max-w-4xl mx-auto">
           {useCases.map((useCase) => (
             <Card key={useCase.question} className="h-full">
-              <CardHeader className="pb-4">
-                <div className="flex items-start gap-3">
-                  <div className="w-10 h-10 rounded-lg bg-muted flex items-center justify-center shrink-0">
-                    <useCase.icon
-                      className="h-5 w-5 text-muted-foreground"
-                      aria-hidden="true"
-                    />
-                  </div>
-                  <div className="flex-1 min-w-0">
-                    <CardTitle className="text-lg mb-2">{useCase.question}</CardTitle>
-                    <CardDescription className="leading-relaxed">
-                      {useCase.answer}
-                    </CardDescription>
+              <div className="flex gap-4 p-6">
+                <div className="w-10 h-10 rounded-lg bg-muted flex items-center justify-center shrink-0">
+                  <useCase.icon
+                    className="h-5 w-5 text-muted-foreground"
+                    aria-hidden="true"
+                  />
+                </div>
+                <div>
+                  <CardTitle className="text-lg mb-2">{useCase.question}</CardTitle>
+                  <CardDescription className="leading-relaxed mb-4">
+                    {useCase.answer}
+                  </CardDescription>
+                  <div className="flex flex-wrap gap-1.5">
+                    {useCase.skills.map((skill) => (
+                      <Badge
+                        key={skill}
+                        variant="secondary"
+                        className="text-xs"
+                      >
+                        {skill}
+                      </Badge>
+                    ))}
                   </div>
                 </div>
-              </CardHeader>
-              <CardContent className="pt-0">
-                <div className="flex flex-wrap gap-1.5">
-                  {useCase.skills.map((skill) => (
-                    <Badge
-                      key={skill}
-                      variant="secondary"
-                      className="text-[11px]"
-                    >
-                      {skill}
-                    </Badge>
-                  ))}
-                </div>
-              </CardContent>
+              </div>
             </Card>
           ))}
         </div>

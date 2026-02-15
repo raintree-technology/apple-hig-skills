@@ -58,18 +58,12 @@ export default function EmailCTA() {
     <section className="py-12 sm:py-16">
       <div className="mx-auto max-w-xl px-6 text-center">
         <div className="flex items-center justify-center gap-2 mb-2">
-          <Mail
-            className="h-4 w-4 text-muted-foreground"
-            aria-hidden="true"
-          />
+          <Mail className="h-4 w-4 text-muted-foreground" aria-hidden="true" />
           <p className="text-sm font-medium">
             We update when Apple updates. Get notified.
           </p>
         </div>
-        <form
-          onSubmit={handleSubmit}
-          className="flex gap-2 max-w-md mx-auto"
-        >
+        <form onSubmit={handleSubmit} className="flex gap-2 max-w-md mx-auto">
           <input
             type="email"
             required

@@ -44,11 +44,7 @@ const questions = [
 
 export default function FAQ() {
   return (
-    <section
-      id="faq"
-      aria-labelledby="faq-heading"
-      className="py-20 sm:py-28"
-    >
+    <section id="faq" aria-labelledby="faq-heading" className="py-20 sm:py-28">
       <div className="mx-auto max-w-3xl px-6">
         <div className="text-center mb-12">
           <h2

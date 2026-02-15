@@ -122,9 +122,7 @@ export default function Install() {
                       aria-label={`Copy: ${question}`}
                       aria-live="polite"
                     >
-                      <span className="flex-1">
-                        {question}
-                      </span>
+                      <span className="flex-1">{question}</span>
                       {copied === question && (
                         <Check className="h-3.5 w-3.5 shrink-0 text-green-500" />
                       )}

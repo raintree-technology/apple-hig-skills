@@ -34,13 +34,21 @@ const features = [
 const compatibleAgents = [
   { name: "Claude Code", domain: "claude.ai", url: "https://claude.ai/code" },
   { name: "Cursor", domain: "cursor.com", url: "https://cursor.com" },
-  { name: "GitHub Copilot", domain: "github.com", url: "https://github.com/features/copilot" },
+  {
+    name: "GitHub Copilot",
+    domain: "github.com",
+    url: "https://github.com/features/copilot",
+  },
   { name: "Windsurf", domain: "windsurf.com", url: "https://windsurf.com" },
   { name: "Cline", domain: "cline.bot", url: "https://cline.bot" },
   { name: "Aider", domain: "aider.chat", url: "https://aider.chat" },
   { name: "Roo Code", domain: "roocode.com", url: "https://roocode.com" },
   { name: "Continue", domain: "continue.dev", url: "https://continue.dev" },
-  { name: "Augment Code", domain: "augmentcode.com", url: "https://augmentcode.com" },
+  {
+    name: "Augment Code",
+    domain: "augmentcode.com",
+    url: "https://augmentcode.com",
+  },
   { name: "Any AGENTS.md Agent", domain: null, url: "https://agentskills.io" },
 ];
 
@@ -64,8 +72,8 @@ export default function AgentSkills() {
           </h2>
           <p className="text-xl text-muted-foreground max-w-2xl mx-auto mb-6">
             Built on Agent Skills — an open standard for giving AI agents
-            reusable expertise. Install once, use with any tool, update with
-            a single command.
+            reusable expertise. Install once, use with any tool, update with a
+            single command.
           </p>
           <Button variant="outline" size="lg" asChild>
             <a
@@ -91,7 +99,9 @@ export default function AgentSkills() {
                   />
                 </div>
                 <div>
-                  <CardTitle className="text-base mb-2">{feature.title}</CardTitle>
+                  <CardTitle className="text-base mb-2">
+                    {feature.title}
+                  </CardTitle>
                   <CardDescription className="leading-relaxed">
                     {feature.description}
                   </CardDescription>

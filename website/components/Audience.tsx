@@ -66,7 +66,9 @@ export default function Audience() {
                   />
                 </div>
                 <div>
-                  <CardTitle className="text-base mb-2">{audience.title}</CardTitle>
+                  <CardTitle className="text-base mb-2">
+                    {audience.title}
+                  </CardTitle>
                   <CardDescription className="leading-relaxed">
                     {audience.description}
                   </CardDescription>

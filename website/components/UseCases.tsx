@@ -78,7 +78,9 @@ export default function UseCases() {
                   />
                 </div>
                 <div>
-                  <CardTitle className="text-lg mb-2">{useCase.question}</CardTitle>
+                  <CardTitle className="text-lg mb-2">
+                    {useCase.question}
+                  </CardTitle>
                   <CardDescription className="leading-relaxed mb-4">
                     {useCase.answer}
                   </CardDescription>

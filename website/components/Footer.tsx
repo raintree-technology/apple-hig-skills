@@ -14,7 +14,8 @@ export default function Footer() {
           <nav aria-label="Footer links" className="flex items-center gap-6">
             <a
               href="https://agentskills.io"
-              target="_blank" hrefLang="en"
+              target="_blank"
+              hrefLang="en"
               rel="noopener noreferrer"
               className="hover:text-foreground hover:underline underline-offset-4 transition-colors"
             >
@@ -22,7 +23,8 @@ export default function Footer() {
             </a>
             <a
               href="https://github.com/raintree-technology/apple-hig-skills"
-              target="_blank" hrefLang="en"
+              target="_blank"
+              hrefLang="en"
               rel="noopener noreferrer"
               className="hover:text-foreground hover:underline underline-offset-4 transition-colors"
             >
@@ -30,7 +32,8 @@ export default function Footer() {
             </a>
             <a
               href="https://github.com/raintree-technology/apple-hig-skills/blob/main/CONTRIBUTING.md"
-              target="_blank" hrefLang="en"
+              target="_blank"
+              hrefLang="en"
               rel="noopener noreferrer"
               className="hover:text-foreground hover:underline underline-offset-4 transition-colors"
             >
@@ -38,7 +41,8 @@ export default function Footer() {
             </a>
             <a
               href="https://x.com/raintree_tech"
-              target="_blank" hrefLang="en"
+              target="_blank"
+              hrefLang="en"
               rel="noopener noreferrer"
               className="hover:text-foreground transition-colors p-1"
               aria-label="X (opens in new tab)"
@@ -49,7 +53,8 @@ export default function Footer() {
           <p>
             <a
               href="https://github.com/raintree-technology/apple-hig-skills/blob/main/LICENSE"
-              target="_blank" hrefLang="en"
+              target="_blank"
+              hrefLang="en"
               rel="noopener noreferrer"
               className="hover:text-foreground hover:underline underline-offset-4 transition-colors"
             >
@@ -58,7 +63,8 @@ export default function Footer() {
             {" · "}
             <a
               href="https://raintree.technology"
-              target="_blank" hrefLang="en"
+              target="_blank"
+              hrefLang="en"
               rel="noopener noreferrer"
               className="hover:text-foreground hover:underline underline-offset-4 transition-colors"
             >
@@ -72,7 +78,8 @@ export default function Footer() {
           <nav aria-label="Footer" className="flex items-center gap-6">
             <a
               href="https://agentskills.io"
-              target="_blank" hrefLang="en"
+              target="_blank"
+              hrefLang="en"
               rel="noopener noreferrer"
               className="hover:text-foreground hover:underline underline-offset-4 transition-colors"
             >
@@ -80,7 +87,8 @@ export default function Footer() {
             </a>
             <a
               href="https://github.com/raintree-technology/apple-hig-skills"
-              target="_blank" hrefLang="en"
+              target="_blank"
+              hrefLang="en"
               rel="noopener noreferrer"
               className="hover:text-foreground hover:underline underline-offset-4 transition-colors"
             >
@@ -88,7 +96,8 @@ export default function Footer() {
             </a>
             <a
               href="https://github.com/raintree-technology/apple-hig-skills/blob/main/LICENSE"
-              target="_blank" hrefLang="en"
+              target="_blank"
+              hrefLang="en"
               rel="noopener noreferrer"
               className="hover:text-foreground hover:underline underline-offset-4 transition-colors"
             >
@@ -96,7 +105,8 @@ export default function Footer() {
             </a>
             <a
               href="https://github.com/raintree-technology/apple-hig-skills/blob/main/CONTRIBUTING.md"
-              target="_blank" hrefLang="en"
+              target="_blank"
+              hrefLang="en"
               rel="noopener noreferrer"
               className="hover:text-foreground hover:underline underline-offset-4 transition-colors"
             >
@@ -107,7 +117,8 @@ export default function Footer() {
           <div className="flex items-center gap-4">
             <a
               href="https://raintree.technology"
-              target="_blank" hrefLang="en"
+              target="_blank"
+              hrefLang="en"
               rel="noopener noreferrer"
               className="hover:text-foreground hover:underline underline-offset-4 transition-colors"
             >
@@ -115,7 +126,8 @@ export default function Footer() {
             </a>
             <a
               href="https://x.com/raintree_tech"
-              target="_blank" hrefLang="en"
+              target="_blank"
+              hrefLang="en"
               rel="noopener noreferrer"
               className="hover:text-foreground transition-colors p-1"
               aria-label="X (opens in new tab)"

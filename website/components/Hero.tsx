@@ -31,8 +31,7 @@ const terminalLines = [
   },
 ] as const;
 
-const INSTALL_COMMAND =
-  "npx skills add raintree-technology/apple-hig-skills";
+const INSTALL_COMMAND = "npx skills add raintree-technology/apple-hig-skills";
 
 export default function Hero() {
   const [visibleLines, setVisibleLines] = useState(0);
@@ -70,7 +69,7 @@ export default function Hero() {
           setStars(data.stargazers_count);
         }
       })
-      .catch(() => { });
+      .catch(() => {});
   }, []);
 
   const handleCopy = useCallback(() => {
@@ -96,8 +95,8 @@ export default function Hero() {
             Apple&apos;s design language
           </h1>
           <p className="text-xl sm:text-2xl text-muted-foreground font-medium tracking-tight max-w-3xl mx-auto mb-4">
-            Give your AI the complete Apple Human Interface Guidelines.
-            No more hallucinated patterns. No more wrong-platform advice.
+            Give your AI the complete Apple Human Interface Guidelines. No more
+            hallucinated patterns. No more wrong-platform advice.
           </p>
           <p className="text-lg sm:text-xl text-muted-foreground/80 tracking-tight max-w-2xl mx-auto mb-8">
             Accurate, platform-specific guidance for iOS, iPadOS, macOS,

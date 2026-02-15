@@ -167,11 +167,11 @@ export default function Skills() {
                         }}
                         {...(hasRefs
                           ? {
-                            role: "button",
-                            tabIndex: 0,
-                            "aria-expanded": isOpen,
-                            "aria-label": `${skill.displayName} — ${skill.refCount} references. ${isOpen ? "Collapse" : "Expand"} to see reference files.`,
-                          }
+                              role: "button",
+                              tabIndex: 0,
+                              "aria-expanded": isOpen,
+                              "aria-label": `${skill.displayName} — ${skill.refCount} references. ${isOpen ? "Collapse" : "Expand"} to see reference files.`,
+                            }
                           : {})}
                       >
                         <TableCell className="pl-5 pr-2 py-3.5 w-8">
@@ -203,7 +203,9 @@ export default function Skills() {
                               {skill.refCount} refs
                             </span>
                           ) : (
-                            <span className="text-muted-foreground/40">&mdash;</span>
+                            <span className="text-muted-foreground/40">
+                              &mdash;
+                            </span>
                           )}
                         </TableCell>
                       </TableRow>

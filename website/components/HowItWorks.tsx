@@ -56,8 +56,8 @@ export default function HowItWorks() {
             Your agent loads only what it needs
           </h2>
           <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
-            ~4,000 tokens per question instead of 50,000+ for the full HIG.
-            Your agent gets the answer without burning your context window.
+            ~4,000 tokens per question instead of 50,000+ for the full HIG. Your
+            agent gets the answer without burning your context window.
           </p>
         </div>
 
@@ -72,7 +72,9 @@ export default function HowItWorks() {
                 Full HIG dump
               </p>
             </div>
-            <div className="text-xl sm:text-2xl text-muted-foreground">&rarr;</div>
+            <div className="text-xl sm:text-2xl text-muted-foreground">
+              &rarr;
+            </div>
             <div className="text-center">
               <p className="text-2xl sm:text-4xl font-semibold tracking-tight">
                 ~4,000
@@ -157,7 +159,9 @@ export default function HowItWorks() {
                         {step.tokens}
                       </Badge>
                     </div>
-                    <CardTitle className="text-base mb-2">{step.title}</CardTitle>
+                    <CardTitle className="text-base mb-2">
+                      {step.title}
+                    </CardTitle>
                     <CardDescription className="leading-relaxed">
                       {step.description}
                     </CardDescription>

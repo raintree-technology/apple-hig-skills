@@ -1,8 +1,7 @@
 import TopicCopyButton from "./TopicCopyButton";
 import UpdateNotify from "./UpdateNotify";
 
-const INSTALL_COMMAND =
-  "npx skills add raintree-technology/apple-hig-skills";
+const INSTALL_COMMAND = "npx skills add raintree-technology/apple-hig-skills";
 
 export default function TopicCTA() {
   return (

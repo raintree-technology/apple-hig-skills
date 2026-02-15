@@ -151,7 +151,8 @@ export default function BeforeAfter() {
         </div>
 
         {/* Example selector */}
-        <div className="flex items-center justify-center gap-1 mb-8 mx-auto w-full rounded-full bg-muted/30 p-1 sm:w-auto"
+        <div
+          className="flex items-center justify-center gap-1 mb-8 mx-auto w-full rounded-full bg-muted/30 p-1 sm:w-auto"
           role="tablist"
           aria-label="Comparison examples"
         >

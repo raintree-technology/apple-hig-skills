@@ -132,6 +132,24 @@ export default function Hero() {
               <span className="sr-only"> (opens in new tab)</span>
             </a>
             <span className="text-muted-foreground/30 hidden sm:inline">|</span>
+            <a
+              href="https://www.producthunt.com/products/apple-hig-skills"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center gap-1.5 text-sm text-muted-foreground hover:text-foreground transition-colors"
+            >
+              <svg
+                className="h-3.5 w-3.5"
+                viewBox="0 0 24 24"
+                fill="currentColor"
+                aria-hidden="true"
+              >
+                <path d="M13.6 13.4h-3.1V9h3.1c1.2 0 2.2 1 2.2 2.2s-1 2.2-2.2 2.2zM12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.6 0 12 0zm1.6 16.4h-3.1V16.4 13.4 16.4H7.5V7h6.1c2.3 0 4.2 1.9 4.2 4.2s-1.9 4.2-4.2 4.2z" />
+              </svg>
+              Product Hunt
+              <span className="sr-only"> (opens in new tab)</span>
+            </a>
+            <span className="text-muted-foreground/30 hidden sm:inline">|</span>
             <span className="text-sm text-muted-foreground">
               14 skills. 100+ HIG reference topics.
             </span>

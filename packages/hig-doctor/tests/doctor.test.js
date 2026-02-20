@@ -9,6 +9,40 @@ import { promisify } from "node:util";
 import { diagnose } from "../src/doctor.js";
 
 const execFileAsync = promisify(execFile);
+const testFilePath = fileURLToPath(import.meta.url);
+const packageRoot = path.resolve(path.dirname(testFilePath), "..");
+const cliPath = path.join(packageRoot, "src", "cli.js");
+
+const runCli = async (args, options = {}) => {
+  try {
+    const { stdout, stderr } = await execFileAsync(process.execPath, [cliPath, ...args], {
+      cwd: packageRoot,
+      ...options
+    });
+
+    return {
+      code: 0,
+      stdout,
+      stderr
+    };
+  } catch (error) {
+    if (
+      error &&
+      typeof error === "object" &&
+      "code" in error &&
+      "stdout" in error &&
+      "stderr" in error
+    ) {
+      return {
+        code: typeof error.code === "number" ? error.code : 1,
+        stdout: typeof error.stdout === "string" ? error.stdout : "",
+        stderr: typeof error.stderr === "string" ? error.stderr : ""
+      };
+    }
+
+    throw error;
+  }
+};
 
 const writeRepoCommonFiles = async (rootDirectory, skillNames) => {
   await mkdir(path.join(rootDirectory, ".claude-plugin"), { recursive: true });
@@ -262,16 +296,60 @@ test("missing nested reference links still report skill/reference-file-exists", 
 });
 
 test("cli --version matches packages/hig-doctor/package.json", async () => {
-  const testFilePath = fileURLToPath(import.meta.url);
-  const packageRoot = path.resolve(path.dirname(testFilePath), "..");
-  const cliPath = path.join(packageRoot, "src", "cli.js");
   const packageJsonPath = path.join(packageRoot, "package.json");
   const packageJson = JSON.parse(await readFile(packageJsonPath, "utf8"));
 
-  const { stdout, stderr } = await execFileAsync(process.execPath, [cliPath, "--version"], {
-    cwd: packageRoot
-  });
+  const { stdout, stderr } = await runCli(["--version"]);
 
   assert.equal(stderr, "");
   assert.equal(stdout.trim(), packageJson.version);
+});
+
+test("cli --score returns a numeric score and exits 0 on a clean fixture", async () => {
+  const repoPath = await createValidRepo();
+  try {
+    const result = await runCli([repoPath, "--score"]);
+    assert.equal(result.code, 0);
+    assert.equal(result.stderr, "");
+    assert.match(result.stdout.trim(), /^[0-9]+$/);
+  } finally {
+    await rm(repoPath, { recursive: true, force: true });
+  }
+});
+
+test("cli unknown option exits non-zero with actionable error message", async () => {
+  const result = await runCli(["--not-a-real-flag"]);
+  assert.notEqual(result.code, 0);
+  assert.match(result.stderr, /^hig-doctor: Unknown option: --not-a-real-flag/m);
+});
+
+test("cli rejects --tui when combined with --score or --json", async () => {
+  for (const args of [["--tui", "--score"], ["--tui", "--json"]]) {
+    const result = await runCli(args);
+    assert.notEqual(result.code, 0);
+    assert.match(result.stderr, /^hig-doctor: --tui cannot be combined with --json or --score/m);
+  }
+});
+
+test("cli strict mode exits non-zero when repository has warnings only", async () => {
+  const repoPath = await createValidRepo();
+  try {
+    const readmePath = path.join(repoPath, "README.md");
+    const readme = await readFile(readmePath, "utf8");
+    await writeFile(readmePath, readme.replace("| `hig-sample` | Description |", ""), "utf8");
+
+    const baseline = await runCli([repoPath, "--json"]);
+    assert.equal(baseline.code, 0);
+    assert.equal(baseline.stderr, "");
+    const baselineReport = JSON.parse(baseline.stdout);
+    assert.equal(baselineReport.summary.errors, 0);
+    assert.ok(baselineReport.summary.warnings > 0);
+
+    const strict = await runCli([repoPath, "--strict", "--score"]);
+    assert.notEqual(strict.code, 0);
+    assert.equal(strict.stderr, "");
+    assert.match(strict.stdout.trim(), /^[0-9]+$/);
+  } finally {
+    await rm(repoPath, { recursive: true, force: true });
+  }
 });

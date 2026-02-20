@@ -7,11 +7,17 @@ on:
       - "skills/**"
       - "VERSIONS.md"
       - ".claude-plugin/**"
+      - "packages/hig-doctor/**"
+      - "action.yml"
+      - ".github/workflows/validate-skills.yml"
   pull_request:
     paths:
       - "skills/**"
       - "VERSIONS.md"
       - ".claude-plugin/**"
+      - "packages/hig-doctor/**"
+      - "action.yml"
+      - ".github/workflows/validate-skills.yml"
 
 jobs:
   validate:
@@ -20,134 +26,12 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Validate all skills
-        shell: bash
-        run: |
-          errors=0
+      - id: doctor
+        uses: ./
+        with:
+          directory: .
+          verbose: "true"
+          strict: "true"
 
-          # Helper to report errors
-          err() {
-            echo "::error::$1"
-            errors=$((errors + 1))
-          }
-
-          # Parse VERSIONS.md into a temp file: skill_name<tab>version
-          versions_file=$(mktemp)
-          while IFS='|' read -r _ skill version _; do
-            skill=$(echo "$skill" | xargs)
-            version=$(echo "$version" | xargs)
-            [[ -z "$skill" || "$skill" == "Skill" || "$skill" == "---"* ]] && continue
-            echo "$skill	$version" >> "$versions_file"
-          done < VERSIONS.md
-
-          # Lookup helper: get version from VERSIONS.md for a skill name
-          get_version() {
-            awk -F'\t' -v name="$1" '$1 == name { print $2; exit }' "$versions_file"
-          }
-
-          for skill_dir in skills/*/; do
-            dir_name=$(basename "$skill_dir")
-            skill_file="$skill_dir/SKILL.md"
-
-            # --- SKILL.md must exist ---
-            if [[ ! -f "$skill_file" ]]; then
-              err "$dir_name: SKILL.md not found"
-              continue
-            fi
-
-            # --- Line count ---
-            line_count=$(wc -l < "$skill_file" | xargs)
-            if (( line_count > 500 )); then
-              err "$dir_name: SKILL.md is $line_count lines (max 500)"
-            fi
-
-            # --- Extract YAML frontmatter ---
-            frontmatter=$(sed -n '/^---$/,/^---$/p' "$skill_file" | sed '1d;$d')
-            if [[ -z "$frontmatter" ]]; then
-              err "$dir_name: missing YAML frontmatter"
-              continue
-            fi
-
-            # Parse fields from frontmatter (handles multi-line values)
-            name=$(echo "$frontmatter" | grep -m1 '^name:' | sed 's/^name:[[:space:]]*//')
-            version=$(echo "$frontmatter" | grep -m1 '^version:' | sed 's/^version:[[:space:]]*//')
-
-            # Description can be multi-line (folded scalar), so extract everything after description:
-            desc_raw=$(echo "$frontmatter" | sed -n '/^description:/,/^[a-z]/p' | sed '$d')
-            if [[ -z "$desc_raw" ]]; then
-              # Single-line description
-              desc_raw=$(echo "$frontmatter" | grep -m1 '^description:' | sed 's/^description:[[:space:]]*//')
-            fi
-            # Collapse multi-line description to single line for length check
-            description=$(echo "$desc_raw" | sed 's/^description:[[:space:]]*//' | sed 's/^[>|][[:space:]]*//' | tr '\n' ' ' | xargs)
-
-            # --- name field ---
-            if [[ -z "$name" ]]; then
-              err "$dir_name: missing 'name' in frontmatter"
-            else
-              if [[ "$name" != "$dir_name" ]]; then
-                err "$dir_name: name '$name' does not match directory name '$dir_name'"
-              fi
-              if ! [[ "$name" =~ ^[a-z0-9]([a-z0-9-]*[a-z0-9])?$ ]]; then
-                err "$dir_name: name '$name' must be lowercase alphanumeric with hyphens, no leading/trailing hyphens"
-              fi
-              if [[ "$name" == *--* ]]; then
-                err "$dir_name: name '$name' contains consecutive hyphens"
-              fi
-            fi
-
-            # --- version field ---
-            if [[ -z "$version" ]]; then
-              err "$dir_name: missing 'version' in frontmatter"
-            elif ! [[ "$version" =~ ^[0-9]+\.[0-9]+\.[0-9]+$ ]]; then
-              err "$dir_name: version '$version' is not valid semver (expected X.Y.Z)"
-            fi
-
-            # --- version matches VERSIONS.md ---
-            versions_md_ver=$(get_version "$dir_name")
-            if [[ -n "$version" && -n "$versions_md_ver" ]]; then
-              if [[ "$version" != "$versions_md_ver" ]]; then
-                err "$dir_name: version '$version' does not match VERSIONS.md '$versions_md_ver'"
-              fi
-            elif [[ -z "$versions_md_ver" ]]; then
-              err "$dir_name: no entry found in VERSIONS.md"
-            fi
-
-            # --- description field ---
-            if [[ -z "$description" ]]; then
-              err "$dir_name: missing 'description' in frontmatter"
-            else
-              desc_len=${#description}
-              if (( desc_len > 1024 )); then
-                err "$dir_name: description is $desc_len chars (max 1024)"
-              fi
-            fi
-
-            # --- Reference index: check that referenced files exist ---
-            if grep -q '## Reference Index' "$skill_file"; then
-              grep -oE '\(references/[^)]+\)' "$skill_file" | tr -d '()' | while read -r ref_path; do
-                if [[ ! -f "$skill_dir/$ref_path" ]]; then
-                  err "$dir_name: referenced file '$ref_path' does not exist"
-                fi
-              done
-            fi
-
-            echo "  $dir_name: OK (v$version, $line_count lines)"
-          done
-
-          # --- Check that every VERSIONS.md entry has a skill directory ---
-          while IFS=$'\t' read -r skill_name _; do
-            if [[ ! -d "skills/$skill_name" ]]; then
-              err "VERSIONS.md lists '$skill_name' but no skills/$skill_name/ directory exists"
-            fi
-          done < "$versions_file"
-
-          rm -f "$versions_file"
-
-          echo ""
-          if (( errors > 0 )); then
-            echo "Validation failed with $errors error(s)"
-            exit 1
-          else
-            echo "All skills validated successfully"
-          fi
+      - name: Report score
+        run: echo "HIG Doctor score: ${{ steps.doctor.outputs.score }}"

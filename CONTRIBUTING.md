@@ -75,6 +75,18 @@ skills/hig-your-topic/
 3. Make your changes
 4. Submit a pull request
 
+Before you open a PR, run:
+
+```bash
+node packages/hig-doctor/src/cli.js . --verbose
+```
+
+Optional interactive review:
+
+```bash
+node packages/hig-doctor/src/cli.js . --tui
+```
+
 ## Skill Quality Checklist
 
 - [ ] `name` matches directory name
@@ -86,4 +98,3 @@ skills/hig-your-topic/
 - [ ] Related Skills section is accurate
 - [ ] No broken file references
 - [ ] `VERSIONS.md` updated if modifying existing skills
-

@@ -1,3 +1,13 @@
 _raw/
 .claude/
 .DS_Store
+node_modules/
+logs/*
+!logs/.gitkeep
+completion_log/*
+!completion_log/.gitkeep
+rlm/trace/*
+!rlm/trace/.gitkeep
+rlm/answers/*
+!rlm/answers/.gitkeep
+rlm/index.tsv

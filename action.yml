@@ -1,0 +1,60 @@
+name: "HIG Doctor"
+description: "Validate Apple HIG skills and emit a health score"
+branding:
+  icon: "activity"
+  color: "gray-dark"
+
+inputs:
+  directory:
+    description: "Repository directory to scan"
+    default: "."
+  verbose:
+    description: "Show all findings in output"
+    default: "true"
+  strict:
+    description: "Fail on warnings as well as errors"
+    default: "false"
+  node-version:
+    description: "Node.js version to use"
+    default: "20"
+
+outputs:
+  score:
+    description: "Health score (0-100)"
+    value: ${{ steps.score.outputs.score }}
+
+runs:
+  using: "composite"
+  steps:
+    - uses: actions/setup-node@v4
+      with:
+        node-version: ${{ inputs.node-version }}
+
+    - id: scan
+      shell: bash
+      env:
+        INPUT_DIRECTORY: ${{ inputs.directory }}
+        INPUT_VERBOSE: ${{ inputs.verbose }}
+        INPUT_STRICT: ${{ inputs.strict }}
+      run: |
+        FLAGS=""
+        if [ "$INPUT_VERBOSE" = "true" ]; then FLAGS="$FLAGS --verbose"; fi
+        if [ "$INPUT_STRICT" = "true" ]; then FLAGS="$FLAGS --strict"; fi
+
+        set +e
+        node "$GITHUB_ACTION_PATH/packages/hig-doctor/src/cli.js" "$INPUT_DIRECTORY" $FLAGS
+        EXIT_CODE="$?"
+        echo "exit_code=$EXIT_CODE" >> "$GITHUB_OUTPUT"
+        exit 0
+
+    - id: score
+      shell: bash
+      env:
+        INPUT_DIRECTORY: ${{ inputs.directory }}
+      run: |
+        SCORE="$(node "$GITHUB_ACTION_PATH/packages/hig-doctor/src/cli.js" "$INPUT_DIRECTORY" --score 2>/dev/null || true)"
+        echo "score=$SCORE" >> "$GITHUB_OUTPUT"
+
+    - shell: bash
+      if: steps.scan.outputs.exit_code != '0'
+      run: exit 1

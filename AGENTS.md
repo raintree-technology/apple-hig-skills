@@ -18,6 +18,8 @@ This repository contains **Agent Skills** following the [Agent Skills specificat
 apple-hig-skills/
 ├── .claude-plugin/
 │   └── marketplace.json   # Claude Code plugin marketplace manifest
+├── packages/
+│   └── hig-doctor/        # npm CLI for repository validation
 ├── skills/                # Agent Skills (14 skills)
 │   └── skill-name/
 │       ├── SKILL.md       # Required skill file (<500 lines)
@@ -32,15 +34,16 @@ apple-hig-skills/
 
 ## Build / Lint / Test Commands
 
-**Not applicable** — This is a content-only repository with no executable code.
-
-Verify manually:
-- YAML frontmatter is valid
-- `name` field matches directory name exactly
-- `name` is 1-64 chars, lowercase alphanumeric and hyphens only
-- `description` is 1-1024 characters
-- `version` field is present and follows semver
-- `SKILL.md` is under 500 lines
+- Install doctor package dependencies (for local TUI mode):
+  - `npm --prefix packages/hig-doctor install`
+- Validate all skills:
+  - `node packages/hig-doctor/src/cli.js . --verbose`
+- Output score only (for CI/action outputs):
+  - `node packages/hig-doctor/src/cli.js . --score`
+- Interactive TUI mode:
+  - `node packages/hig-doctor/src/cli.js . --tui`
+- Run package tests:
+  - `npm --prefix packages/hig-doctor test`
 
 ## Agent Skills Specification
 

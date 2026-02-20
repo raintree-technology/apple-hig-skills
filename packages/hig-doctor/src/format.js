@@ -28,6 +28,68 @@ const buildScopeSummary = (result) => {
   });
 };
 
+const getTodoItems = (result) => {
+  if (Array.isArray(result.todo) && result.todo.length > 0) {
+    return result.todo;
+  }
+
+  return [
+    {
+      id: "todo-1",
+      priority: "low",
+      severity: "info",
+      ruleId: null,
+      scope: "repo",
+      occurrences: 0,
+      files: [],
+      task: "No fixes required",
+      details: "Repository passed all hig-doctor checks.",
+      doneWhen: "Run hig-doctor after your next content update.",
+      verifyCommand: `node packages/hig-doctor/src/cli.js "${result.directory}" --score`
+    }
+  ];
+};
+
+const appendTodoSection = (result, lines) => {
+  const todoItems = getTodoItems(result);
+  lines.push("");
+  lines.push("Agent TODO (goal: 100/100, 0 errors, 0 warnings)");
+
+  for (let index = 0; index < todoItems.length; index += 1) {
+    const item = todoItems[index];
+    const priority = typeof item.priority === "string" ? item.priority.toUpperCase() : "MEDIUM";
+    const task = typeof item.task === "string" && item.task.length > 0 ? item.task : "Review findings";
+    const findingCount = typeof item.occurrences === "number" && item.occurrences > 0
+      ? ` (${item.occurrences} finding${item.occurrences === 1 ? "" : "s"})`
+      : "";
+
+    lines.push(`${index + 1}. [${priority}] ${task}${findingCount}`);
+
+    const metadata = [];
+    if (typeof item.ruleId === "string" && item.ruleId.length > 0) metadata.push(`rule=${item.ruleId}`);
+    if (typeof item.scope === "string" && item.scope.length > 0) metadata.push(`scope=${item.scope}`);
+    if (metadata.length > 0) {
+      lines.push(`   ${metadata.join(" | ")}`);
+    }
+    if (Array.isArray(item.files) && item.files.length > 0) {
+      const visibleFiles = item.files.slice(0, 3);
+      const remainder = item.files.length - visibleFiles.length;
+      const suffix = remainder > 0 ? ` (+${remainder} more)` : "";
+      lines.push(`   Files: ${visibleFiles.join(", ")}${suffix}`);
+    }
+
+    if (typeof item.details === "string" && item.details.length > 0) {
+      lines.push(`   Why: ${truncate(item.details, 220)}`);
+    }
+    if (typeof item.doneWhen === "string" && item.doneWhen.length > 0) {
+      lines.push(`   Done when: ${truncate(item.doneWhen, 220)}`);
+    }
+    if (typeof item.verifyCommand === "string" && item.verifyCommand.length > 0) {
+      lines.push(`   Verify: ${truncate(item.verifyCommand, 220)}`);
+    }
+  }
+};
+
 const getFindingsForText = (result, verbose) => {
   const findings = verbose
     ? result.findings
@@ -63,6 +125,7 @@ export const formatTextResult = (result, options = {}) => {
 
   if (result.findings.length === 0) {
     lines.push("No issues found.");
+    appendTodoSection(result, lines);
     return lines.join("\n");
   }
 
@@ -84,6 +147,8 @@ export const formatTextResult = (result, options = {}) => {
       lines.push(`Use --verbose to view ${hiddenWarnings} warning(s).`);
     }
   }
+
+  appendTodoSection(result, lines);
 
   return lines.join("\n");
 };

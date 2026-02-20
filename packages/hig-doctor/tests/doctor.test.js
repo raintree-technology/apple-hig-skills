@@ -232,6 +232,90 @@ test("strict mode fails when only warnings are present", async () => {
   }
 });
 
+test("diagnose includes agent todo items when findings are present", async () => {
+  const repoPath = await createValidRepo();
+  try {
+    const skillPath = path.join(repoPath, "skills", "hig-sample", "SKILL.md");
+    const original = await readFile(skillPath, "utf8");
+    await writeFile(skillPath, original.replace("## Output Format", "## Output Format Removed"), "utf8");
+
+    const result = await diagnose(repoPath);
+    assert.ok(result.findings.length > 0);
+    assert.ok(Array.isArray(result.todo));
+    assert.ok(result.todo.length > 0);
+    assert.equal(result.todo[0].priority, "high");
+    assert.match(result.todo[0].task, /^Fix /);
+    assert.ok(Array.isArray(result.todo[0].files));
+    assert.ok(result.todo[0].files.length > 0);
+    assert.match(result.todo[0].doneWhen, /100\/100/);
+    assert.match(result.todo[0].verifyCommand, /--json/);
+  } finally {
+    await rm(repoPath, { recursive: true, force: true });
+  }
+});
+
+test("cli text output includes an Agent TODO section", async () => {
+  const repoPath = await createValidRepo();
+  try {
+    const result = await runCli([repoPath]);
+    assert.equal(result.code, 0);
+    assert.equal(result.stderr, "");
+    assert.match(result.stdout, /Agent TODO/m);
+    assert.match(result.stdout, /goal: 100\/100/m);
+    assert.match(result.stdout, /No fixes required/m);
+    assert.match(result.stdout, /Verify: .*--score/m);
+  } finally {
+    await rm(repoPath, { recursive: true, force: true });
+  }
+});
+
+test("cli --json includes machine-readable todo items", async () => {
+  const repoPath = await createValidRepo();
+  try {
+    const result = await runCli([repoPath, "--json"]);
+    assert.equal(result.code, 0);
+    assert.equal(result.stderr, "");
+    const report = JSON.parse(result.stdout);
+    assert.ok(Array.isArray(report.todo));
+    assert.ok(report.todo.length > 0);
+    assert.equal(report.todo[0].task, "No fixes required");
+    assert.equal(Array.isArray(report.todo[0].files), true);
+    assert.match(report.todo[0].verifyCommand, /--score/);
+  } finally {
+    await rm(repoPath, { recursive: true, force: true });
+  }
+});
+
+test("todo list is not truncated for large finding sets", async () => {
+  const repoPath = await createValidRepo();
+  try {
+    const skillPath = path.join(repoPath, "skills", "hig-sample", "SKILL.md");
+    await writeFile(
+      skillPath,
+      `---
+name: bad--skill
+version: one
+description: Tiny description.
+---
+
+# Broken Skill
+
+## Placeholder
+
+[Missing reference](references/nope.md)
+`,
+      "utf8"
+    );
+
+    const result = await diagnose(repoPath);
+    const uniqueRuleScopePairs = new Set(result.findings.map((finding) => `${finding.ruleId}:${finding.skill ?? "repo"}`));
+    assert.ok(uniqueRuleScopePairs.size > 8);
+    assert.equal(result.todo.length, uniqueRuleScopePairs.size);
+  } finally {
+    await rm(repoPath, { recursive: true, force: true });
+  }
+});
+
 test("nested reference markdown files are discovered recursively", async () => {
   const repoPath = await createValidRepo();
   try {

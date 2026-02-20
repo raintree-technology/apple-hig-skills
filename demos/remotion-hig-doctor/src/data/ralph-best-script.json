@@ -1,0 +1,26 @@
+{
+  "selectedVersion": 25,
+  "promotedFromVersion": 21,
+  "score": 110,
+  "script": {
+    "version": 21,
+    "kicker": "APPLE HIG SKILLS, IN PRACTICE",
+    "headline": "From docs to\nactionable skills",
+    "subhead": "Apple HIG content is organized into 14 skills with progressive disclosure, so agents stay accurate without flooding context windows with unnecessary reference files.",
+    "whatItDoesTitle": "What Apple HIG Skills actually does",
+    "whatItDoesBullets": [
+      "Sources Apple Human Interface Guidelines content (February 2025) for agent use.",
+      "Defines 14 skills across foundations, components, patterns, inputs, platforms, and technologies.",
+      "Uses progressive disclosure: discovery -> SKILL.md activation -> targeted references/."
+    ],
+    "doctorTitle": "What hig-doctor validates",
+    "doctorBullets": [
+      "Audits mandatory skill structure and detects invalid metadata before publishing.",
+      "Cross-checks skill directories against VERSIONS.md, README tables, and marketplace config.",
+      "Converts findings into an actionable TODO sequence aimed at a 100/100 score."
+    ],
+    "agentPathTitle": "Remediation Loop to Perfect Score",
+    "outroHeadline": "From structured skills to reliable 100/100 checks.",
+    "outroSubline": "This is documentation transformed into an executable quality workflow."
+  }
+}

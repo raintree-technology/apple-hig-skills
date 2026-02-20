@@ -275,6 +275,78 @@ const parseReadmeSkillNames = (readmeContent) => {
 
 const setDifference = (left, right) => left.filter((value) => !right.includes(value));
 
+const buildAgentTodoList = (findings, rootDirectory) => {
+  if (!Array.isArray(findings) || findings.length === 0) {
+    return [
+      {
+        id: "todo-1",
+        priority: "low",
+        severity: "info",
+        ruleId: null,
+        scope: "repo",
+        occurrences: 0,
+        files: [],
+        task: "No fixes required",
+        details: "Repository passed all hig-doctor checks.",
+        doneWhen: "Run hig-doctor after your next content update.",
+        verifyCommand: `node packages/hig-doctor/src/cli.js "${rootDirectory}" --score`
+      }
+    ];
+  }
+
+  const groups = new Map();
+
+  for (const finding of findings) {
+    const scope = finding.skill ?? "repo";
+    const key = `${finding.severity}:${finding.ruleId}:${scope}`;
+    if (!groups.has(key)) {
+      groups.set(key, {
+        severity: finding.severity,
+        ruleId: finding.ruleId,
+        scope,
+        count: 0,
+        files: new Set(),
+        messages: new Set()
+      });
+    }
+
+    const group = groups.get(key);
+    group.count += 1;
+    group.messages.add(finding.message);
+    if (typeof finding.file === "string" && finding.file.length > 0) {
+      group.files.add(path.relative(rootDirectory, finding.file) || ".");
+    }
+  }
+
+  const sortedGroups = Array.from(groups.values()).sort((left, right) => {
+    if (left.severity !== right.severity) return left.severity === "error" ? -1 : 1;
+    if (right.count !== left.count) return right.count - left.count;
+    if (left.scope !== right.scope) return left.scope.localeCompare(right.scope);
+    return left.ruleId.localeCompare(right.ruleId);
+  });
+
+  return sortedGroups.map((group, index) => {
+    const priority = group.severity === "error" ? "high" : "medium";
+    const actionVerb = group.severity === "error" ? "Fix" : "Address";
+    const sampleMessage = Array.from(group.messages.values())[0] ?? "";
+    const files = Array.from(group.files.values()).sort((left, right) => left.localeCompare(right));
+
+    return {
+      id: `todo-${index + 1}`,
+      priority,
+      severity: group.severity,
+      ruleId: group.ruleId,
+      scope: group.scope,
+      occurrences: group.count,
+      files,
+      task: `${actionVerb} ${group.ruleId} in ${group.scope}`,
+      details: sampleMessage,
+      doneWhen: `No ${group.ruleId} findings remain for scope '${group.scope}' and score reaches 100/100.`,
+      verifyCommand: `node packages/hig-doctor/src/cli.js "${rootDirectory}" --json`
+    };
+  });
+};
+
 const validateSkill = async ({
   rootDirectory,
   skillsRoot,
@@ -797,6 +869,7 @@ export const diagnose = async (directory = ".", options = {}) => {
       label: scoreResult.label,
       passed
     },
+    todo: buildAgentTodoList(findings, rootDirectory),
     stats: {
       rules: ruleCounts,
       scopes: sortedSkillSummaries

@@ -1,0 +1,19 @@
+{
+  "name": "hig-doctor-remotion-demo",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "ralph-loop": "node scripts/ralph-loop-apple-hig.mjs",
+    "generate-data": "npm run ralph-loop && node scripts/generate-data.mjs",
+    "render": "npm run generate-data && remotion render src/index.jsx HigDoctorShowcase out/hig-doctor-showcase.mp4",
+    "preview": "npm run generate-data && remotion studio src/index.jsx"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "remotion": "^4.0.340"
+  },
+  "devDependencies": {
+    "@remotion/cli": "^4.0.340"
+  }
+}

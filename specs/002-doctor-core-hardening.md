@@ -12,10 +12,10 @@ Improve `hig-doctor` reliability for real-world repositories by removing brittle
 - Existing behavior for missing referenced files must continue to return an error.
 
 ## Acceptance Criteria
-- [ ] `node packages/hig-doctor/src/cli.js --version` prints the exact package version from `packages/hig-doctor/package.json`.
-- [ ] A nested reference file like `references/platform/ios.md` is recognized as referenced when linked from `SKILL.md`.
-- [ ] A linked nested reference path that does not exist still produces `skill/reference-file-exists`.
-- [ ] `npm --prefix packages/hig-doctor test` passes.
+- [x] `node packages/hig-doctor/src/cli.js --version` prints the exact package version from `packages/hig-doctor/package.json`.
+- [x] A nested reference file like `references/platform/ios.md` is recognized as referenced when linked from `SKILL.md`.
+- [x] A linked nested reference path that does not exist still produces `skill/reference-file-exists`.
+- [x] `npm --prefix packages/hig-doctor test` passes.
 
 ## Completion Signal
 Output `<promise>DONE</promise>` only when all criteria are implemented and verified.

@@ -12,10 +12,10 @@ Make `hig-doctor` product quality enforceable in CI before publish.
 - Document the new CI workflow behavior in repository docs.
 
 ## Acceptance Criteria
-- [ ] `.github/workflows/hig-doctor-ci.yml` exists and triggers on PR/push changes affecting `packages/hig-doctor`, `action.yml`, and related docs/workflows.
-- [ ] CI workflow runs `npm ci`, `npm test`, and smoke checks for `--verbose`, `--score`, and `--strict`.
-- [ ] README includes a short section describing how `hig-doctor` CI validates package and CLI behavior.
-- [ ] `node packages/hig-doctor/src/cli.js . --verbose` still reports healthy results for this repository.
+- [x] `.github/workflows/hig-doctor-ci.yml` exists and triggers on PR/push changes affecting `packages/hig-doctor`, `action.yml`, and related docs/workflows.
+- [x] CI workflow runs `npm ci`, `npm test`, and smoke checks for `--verbose`, `--score`, and `--strict`.
+- [x] README includes a short section describing how `hig-doctor` CI validates package and CLI behavior.
+- [x] `node packages/hig-doctor/src/cli.js . --verbose` still reports healthy results for this repository.
 
 ## Completion Signal
 Output `<promise>DONE</promise>` only when all criteria are implemented and verified.

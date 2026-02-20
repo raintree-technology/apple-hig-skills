@@ -1,0 +1,48 @@
+name: hig-doctor CI
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "packages/hig-doctor/**"
+      - "action.yml"
+      - "README.md"
+      - "packages/hig-doctor/README.md"
+      - ".github/workflows/hig-doctor-ci.yml"
+      - ".github/workflows/publish-hig-doctor.yml"
+  pull_request:
+    paths:
+      - "packages/hig-doctor/**"
+      - "action.yml"
+      - "README.md"
+      - "packages/hig-doctor/README.md"
+      - ".github/workflows/hig-doctor-ci.yml"
+      - ".github/workflows/publish-hig-doctor.yml"
+
+jobs:
+  hig-doctor:
+    name: Test and smoke-check hig-doctor
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+          cache-dependency-path: packages/hig-doctor/package-lock.json
+
+      - name: Install dependencies
+        run: npm ci --prefix packages/hig-doctor
+
+      - name: Run package tests
+        run: npm --prefix packages/hig-doctor test
+
+      - name: Smoke check verbose mode
+        run: node packages/hig-doctor/src/cli.js . --verbose
+
+      - name: Smoke check score mode
+        run: node packages/hig-doctor/src/cli.js . --score
+
+      - name: Smoke check strict mode
+        run: node packages/hig-doctor/src/cli.js . --strict

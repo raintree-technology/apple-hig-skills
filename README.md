@@ -16,6 +16,68 @@ Or install via Claude Code plugin:
 /plugin marketplace add raintree-technology/apple-hig-skills
 ```
 
+## HIG Doctor
+
+This repository includes `hig-doctor`, a CLI + TUI validator for skill structure and repository consistency with a health score.
+
+Run from this repository:
+
+```bash
+npm --prefix packages/hig-doctor install
+node packages/hig-doctor/src/cli.js . --verbose
+```
+
+After publishing to npm:
+
+```bash
+npx -y hig-doctor@latest . --verbose
+```
+
+Open the interactive TUI:
+
+```bash
+node packages/hig-doctor/src/cli.js . --tui
+```
+
+TUI controls: `j/k` or arrows to move, `f` to filter, `g` to toggle grouping, `q` to quit.
+
+Use as a GitHub Action in other repositories:
+
+```yaml
+- uses: actions/checkout@v4
+- uses: raintree-technology/apple-hig-skills@main
+  with:
+    directory: .
+    verbose: "true"
+    strict: "true"
+```
+
+Publish flow: this repo includes `.github/workflows/publish-hig-doctor.yml`. It publishes on `hig-doctor-v*` tags or manual dispatch (requires `NPM_TOKEN` secret).
+
+CI flow: `.github/workflows/hig-doctor-ci.yml` runs on push and pull requests when `hig-doctor`, `action.yml`, and related docs/workflow files change. It runs `npm ci`, `npm test`, and CLI smoke checks for `--verbose`, `--score`, and `--strict`.
+
+## Ralph Loop
+
+This repo is also bootstrapped for Ralph Wiggum-style autonomous spec loops.
+
+Run with Codex:
+
+```bash
+./scripts/ralph-loop-codex.sh
+```
+
+Planning mode (optional):
+
+```bash
+./scripts/ralph-loop-codex.sh plan
+```
+
+Configuration files:
+- Constitution: `.specify/memory/constitution.md`
+- Build prompt: `PROMPT_build.md`
+- Plan prompt: `PROMPT_plan.md`
+- Seed spec: `specs/001-ralph-bootstrap.md`
+
 ## Skills
 
 | Skill | Description |
